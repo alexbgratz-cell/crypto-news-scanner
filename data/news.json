@@ -1,5 +1,18 @@
 [
   {
+    "title": "Hackers Are Abusing a macOS Screen Sharing Flaw to Secretly Mine Monero",
+    "url": "https://decrypt.co/375749/hackers-macos-screen-sharing-secretly-mine-monero",
+    "source": "Decrypt",
+    "published": "2026-08-17T13:31:04Z",
+    "stream": "crypto",
+    "score": 5,
+    "category": "Hack & Security",
+    "sentiment": "neutral",
+    "summary": "The Dutch cyber agency reports that attackers exploited an authentication flaw in macOS Screen Sharing to gain root access and plant Monero miners, with public proof-of-concept code now circulating. The incident highlights cryptojacking risks but has no direct impact on major crypto assets such as BTC or ETH, as it targets macOS systems and Monero.",
+    "instruments": [],
+    "entities": []
+  },
+  {
     "title": "Strategy Leaves Bitcoin Untouched, Raises $334M Selling MSTR Stock",
     "url": "https://decrypt.co/375762/strategy-leaves-bitcoin-untouched-raises-334m-selling-mstr-stock",
     "source": "Decrypt",
@@ -1366,19 +1379,6 @@
     "instruments": [
       "BTCUSD"
     ],
-    "entities": []
-  },
-  {
-    "title": "From bitcoin bull to 'complete demolition': Keel CEO bets on AI's greater value",
-    "url": "https://www.theblock.co/news/business/2026-08-11-bitcoin-bull-to-complete-demolition-keel-ceo-bets-on-ai-greater-value-411435",
-    "source": "The Block",
-    "published": "2026-08-11T15:48:01Z",
-    "stream": "crypto",
-    "score": 4,
-    "category": "Other",
-    "sentiment": "bearish",
-    "summary": "Keel's CEO, who called the firm's bitcoin business 'strong' and remained bullish on mining economics in May 2025, now bets on AI creating greater value. The opinion signals a prominent miner pivoting away from bitcoin without concrete market-moving substance.",
-    "instruments": [],
     "entities": []
   }
 ]
