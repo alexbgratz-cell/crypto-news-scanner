@@ -1,38 +1,38 @@
 {
-  "timestamp": "2026-08-17T13:35:15Z",
+  "timestamp": "2026-08-17T14:12:40Z",
   "instruments": {
     "BTCUSD": {
-      "value": 63604,
-      "change_24h": 0.94,
+      "value": 63592,
+      "change_24h": 0.93,
       "group": "Direkte Korrelation",
       "label": null
     },
     "ETHUSD": {
-      "value": 1902.42,
-      "change_24h": 1.19,
+      "value": 1900.76,
+      "change_24h": 1.07,
       "group": "Direkte Korrelation",
       "label": null
     },
     "SOLUSD": {
-      "value": 75.51,
-      "change_24h": 0.25,
+      "value": 75.57,
+      "change_24h": 0.47,
       "group": "Direkte Korrelation",
       "label": null
     },
     "ETHBTC": {
-      "value": 0.02991,
-      "change_24h": 0.25,
+      "value": 0.02989,
+      "change_24h": 0.14,
       "group": "Kapitalrotation",
       "label": null
     },
     "BTC.D": {
-      "value": 56.24,
+      "value": 56.27,
       "change_24h": null,
       "group": "Liquidität & Sentiment",
       "label": null
     },
     "USDT.D": {
-      "value": 8.09,
+      "value": 8.07,
       "change_24h": null,
       "group": "Liquidität & Sentiment",
       "label": null
@@ -44,31 +44,31 @@
       "label": "Fear"
     },
     "FUNDING": {
-      "value": 0.0072,
+      "value": 0.008,
       "change_24h": null,
       "group": "Derivate",
       "label": null
     },
     "OI": {
-      "value": 107879.96,
+      "value": 107952.098,
       "change_24h": null,
       "group": "Derivate",
       "label": null
     },
     "ORDERBOOK": {
       "value": 0.0,
-      "change_24h": -76.02,
+      "change_24h": 67.58,
       "group": "Derivate",
       "label": null
     },
     "MEMPOOL": {
-      "value": 76325.0,
+      "value": 78902.0,
       "change_24h": null,
       "group": "On-Chain",
       "label": null
     },
     "MO30": {
-      "value": 2.14,
+      "value": 2.13,
       "change_24h": null,
       "group": "On-Chain",
       "label": null
@@ -80,14 +80,14 @@
       "label": null
     },
     "NDX": {
-      "value": 30129.71,
-      "change_24h": 0.28,
+      "value": 30122.76,
+      "change_24h": 0.26,
       "group": "TradFi/Makro",
       "label": null
     },
     "VIX": {
-      "value": 14.63,
-      "change_24h": 0.55,
+      "value": 14.25,
+      "change_24h": -2.6,
       "group": "TradFi/Makro",
       "label": null
     },

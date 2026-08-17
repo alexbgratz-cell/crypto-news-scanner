@@ -1,14 +1,29 @@
 [
   {
+    "title": "Bitmine adds 9,926 ETH, taking total holdings to roughly $11 billion",
+    "url": "https://www.theblock.co/news/business/2026-08-17-bitmine-adds-9926-eth-taking-total-holdings-to-roughly-11-billion-411968",
+    "source": "The Block",
+    "published": "2026-08-17T13:53:11Z",
+    "stream": "crypto",
+    "score": 8,
+    "category": "Other",
+    "sentiment": "bullish",
+    "summary": "Bitmine added 9,926 ETH to its holdings last week, bringing total holdings to 5.82 million tokens worth approximately $11 billion, while also executing 20.8 million shares in buybacks since July. The large-scale accumulation by a corporate entity signals strong institutional confidence in Ethereum, potentially driving bullish sentiment and buying pressure.",
+    "instruments": [
+      "ETHUSD"
+    ],
+    "entities": []
+  },
+  {
     "title": "Hackers Are Abusing a macOS Screen Sharing Flaw to Secretly Mine Monero",
     "url": "https://decrypt.co/375749/hackers-macos-screen-sharing-secretly-mine-monero",
     "source": "Decrypt",
     "published": "2026-08-17T13:31:04Z",
     "stream": "crypto",
-    "score": 5,
+    "score": 7,
     "category": "Hack & Security",
-    "sentiment": "neutral",
-    "summary": "The Dutch cyber agency reports that attackers exploited an authentication flaw in macOS Screen Sharing to gain root access and plant Monero miners, with public proof-of-concept code now circulating. The incident highlights cryptojacking risks but has no direct impact on major crypto assets such as BTC or ETH, as it targets macOS systems and Monero.",
+    "sentiment": "bearish",
+    "summary": "The Dutch cyber agency warns that attackers exploited an authentication flaw in macOS Screen Sharing to gain root access and plant Monero miners, with public proof-of-concept code now circulating. The incident adds to crypto-related malware risk but has limited direct market impact, since no exchange funds or core networks are affected.",
     "instruments": [],
     "entities": []
   },
@@ -1365,20 +1380,5 @@
     "entities": [
       "ANTHROPIC"
     ]
-  },
-  {
-    "title": "Bitcoin drops to one-week low as retail buys gold at highest prices since June",
-    "url": "https://cointelegraph.com/markets/bitcoin-drops-to-one-week-low-as-retail-buys-gold-at-highest-prices-since-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-11T16:24:48Z",
-    "stream": "crypto",
-    "score": 6,
-    "category": "Macro",
-    "sentiment": "bearish",
-    "summary": "Bitcoin sank to a one-week low ahead of US CPI data while retail investors bought gold ETFs at their highest levels since June. Macro-driven rotation into gold is weighing on crypto sentiment.",
-    "instruments": [
-      "BTCUSD"
-    ],
-    "entities": []
   }
 ]
