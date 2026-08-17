@@ -1,0 +1,6 @@
+.DS_Store
+*.log
+.env
+config.json
+state.json
+snapshot_history.jsonl

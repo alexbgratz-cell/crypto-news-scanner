@@ -1,0 +1,19 @@
+{
+  "crypto": [
+    "FUD",
+    "Tech Update",
+    "Regulation",
+    "Macro",
+    "Hack & Security",
+    "Other"
+  ],
+  "ai": [
+    "Model Release & Capability",
+    "Research & Open Source",
+    "Regulation & Policy",
+    "Business & Funding",
+    "Hardware & Infrastructure",
+    "Safety & Risk",
+    "Society & Work"
+  ]
+}
