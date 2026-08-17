@@ -1,38 +1,38 @@
 {
-  "timestamp": "2026-08-17T14:12:40Z",
+  "timestamp": "2026-08-17T15:15:24Z",
   "instruments": {
     "BTCUSD": {
-      "value": 63592,
-      "change_24h": 0.93,
+      "value": 63859,
+      "change_24h": 1.27,
       "group": "Direkte Korrelation",
       "label": null
     },
     "ETHUSD": {
-      "value": 1900.76,
-      "change_24h": 1.07,
+      "value": 1904.5,
+      "change_24h": 1.21,
       "group": "Direkte Korrelation",
       "label": null
     },
     "SOLUSD": {
-      "value": 75.57,
-      "change_24h": 0.47,
+      "value": 75.87,
+      "change_24h": 0.66,
       "group": "Direkte Korrelation",
       "label": null
     },
     "ETHBTC": {
-      "value": 0.02989,
-      "change_24h": 0.14,
+      "value": 0.029824,
+      "change_24h": -0.06,
       "group": "Kapitalrotation",
       "label": null
     },
     "BTC.D": {
-      "value": 56.27,
+      "value": 56.33,
       "change_24h": null,
       "group": "Liquidität & Sentiment",
       "label": null
     },
     "USDT.D": {
-      "value": 8.07,
+      "value": 8.04,
       "change_24h": null,
       "group": "Liquidität & Sentiment",
       "label": null
@@ -44,31 +44,31 @@
       "label": "Fear"
     },
     "FUNDING": {
-      "value": 0.008,
+      "value": 0.0091,
       "change_24h": null,
       "group": "Derivate",
       "label": null
     },
     "OI": {
-      "value": 107952.098,
+      "value": 107735.511,
       "change_24h": null,
       "group": "Derivate",
       "label": null
     },
     "ORDERBOOK": {
       "value": 0.0,
-      "change_24h": 67.58,
+      "change_24h": 74.11,
       "group": "Derivate",
       "label": null
     },
     "MEMPOOL": {
-      "value": 78902.0,
+      "value": 74606.0,
       "change_24h": null,
       "group": "On-Chain",
       "label": null
     },
     "MO30": {
-      "value": 2.13,
+      "value": 2.56,
       "change_24h": null,
       "group": "On-Chain",
       "label": null
@@ -80,8 +80,8 @@
       "label": null
     },
     "NDX": {
-      "value": 30122.76,
-      "change_24h": 0.26,
+      "value": 30179.24,
+      "change_24h": 0.44,
       "group": "TradFi/Makro",
       "label": null
     },

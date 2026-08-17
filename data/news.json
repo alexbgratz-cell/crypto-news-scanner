@@ -1,5 +1,18 @@
 [
   {
+    "title": "Harmony plans pre-attack rollback after exploiter forged 3 trillion ONE tokens",
+    "url": "https://www.theblock.co/news/ecosystems/2026-08-17-harmony-plans-pre-attack-rollback-after-exploiter-forged-3-trillion-one-tokens-411976",
+    "source": "The Block",
+    "published": "2026-08-17T15:06:21Z",
+    "stream": "crypto",
+    "score": 8,
+    "category": "Hack & Security",
+    "sentiment": "bearish",
+    "summary": "Harmony was exploited after an attacker forged 3 trillion ONE tokens, and the team now plans a pre-attack rollback after weighing alternatives such as a token burn and wallet blacklisting. The breach and planned state rollback undermine trust in the network and could pressure ONE, weighing on broader sentiment toward smaller chains.",
+    "instruments": [],
+    "entities": []
+  },
+  {
     "title": "Bitmine adds 9,926 ETH, taking total holdings to roughly $11 billion",
     "url": "https://www.theblock.co/news/business/2026-08-17-bitmine-adds-9926-eth-taking-total-holdings-to-roughly-11-billion-411968",
     "source": "The Block",
@@ -1365,20 +1378,5 @@
     "summary": "General Catalyst led a $1.1 billion round into two-month-old River AI. The massive early-stage valuation underscores the intense capital competition in foundation-model startups.",
     "instruments": [],
     "entities": []
-  },
-  {
-    "title": "An unreleased Anthropic model made progress on one of math's biggest unsolv",
-    "url": "https://techcrunch.com/2026/08/11/anthropic-model-riemann-hypothesis-progress/",
-    "source": "TechCrunch",
-    "published": "2026-08-11T16:25:00Z",
-    "stream": "ai",
-    "score": 7,
-    "category": "Model Release & Capability",
-    "sentiment": "bullish",
-    "summary": "An unreleased Anthropic model reportedly made progress on the Riemann Hypothesis, one of mathematics' biggest unsolved problems. If confirmed, the capability leap would signal a major advance in AI reasoning.",
-    "instruments": [],
-    "entities": [
-      "ANTHROPIC"
-    ]
   }
 ]
