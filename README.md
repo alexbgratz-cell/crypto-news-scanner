@@ -24,7 +24,7 @@ The private scanner exports data through explicit field allowlists. GitHub Pages
 
 ## Dashboard tabs
 
-- 🏠 Home — latest AI market report (data/`market-report.json`, generated at 09:00 / 15:30 / 22:00) + quick market values
+- 🏠 Home — latest AI market report (data/`market-report.json`, generated at 09:00 / 15:30 / 22:00, refresh button via ntfy relay with 5-min cooldown) + quick market values
 - 🪙 Crypto / 🤖 AI — scored news with German summaries (WAS / WIRKUNG / KONSEQUENZ), filters and original-source links
 - 📊 Märkte — instrument tiles with sparklines from the scanner snapshot
 - 🔗 Links — curated trading pages, opened directly in a new tab
