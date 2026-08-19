@@ -1,7 +1,7 @@
 {
-  "ts": "2026-08-19T15:19:56.349Z",
+  "ts": "2026-08-19T15:34:23.307372Z",
   "instrument": "ALL",
-  "text": "Kernaussage: Der Kryptomarkt zeigt eine freundliche Tendenz: BTC notiert bei rund 64.900 USD, ETH und SOL legen etwas stärker zu, während der Angst-und-Gier-Index unverändert bei 46 bleibt.\n\nWas es bedeutet: Insgesamt ist das Bild selektiv risk-on. Niedrige Funding-Raten und ein stabiler BTC.D deuten auf keine spekulative Überhitzung. Gleichzeitig signalisieren steigende Renditen (US10Y bei 4,72 %) und ein höherer VIX (15,19) Spannungen im traditionellen Umfeld. ETF-Zuflüsse und Stablecoin-Regulierungsvorschläge stützen das institutionelle Narrativ; der MAYAChain-Exploit und die SEC-Vorhaben wirken dagegen als Unsicherheitsfaktor.\n\nZu beachten: Ob die anhaltenden ETF-Zuflüsse den makroökonomischen Gegenwind aus höheren Anleiherenditen und steigender Volatilität kompensieren können.",
+  "text": "Kernaussage: Der Gesamtmarkt zeigt eine freundliche Erholung: BTC notiert bei 64.895 USD (+1,32 %), ETH und SOL legen stärker zu, der Fear-&-Greed-Index bleibt mit 46 im Angstbereich.\n\nWas es bedeutet: Trotz negativer Aktienmärkte (SPX -0,69 %, NDX -1,68 %) und steigender Renditen (US10Y 4,72 %) halten sich Kryptowährungen stabil. Das geringe Funding von 0,005 signalisiert keine überhitzte Hebelpositionierung; ETF-Zuflüsse und institutionelle Meldungen stützen die Stimmung. Der VIX-Anstieg auf 15,19 mahnt allerdings zur Vorsicht – insgesamt ein gemischtes, leicht konstruktives Bild.\n\nZu beachten: Ob die positiven Bitcoin-ETF-Zuflüsse angesichts höherer Renditen und festerem VIX anhalten – insbesondere um die Marke von etwa 64.900 USD.",
   "numbers": [
     {
       "sym": "BTCUSD",
@@ -47,8 +47,8 @@
     },
     {
       "sym": "F&G",
-      "value": 46,
-      "change": 5,
+      "value": 46.0,
+      "change": 5.0,
       "label": "Fear",
       "group": "Liquidität & Sentiment"
     },
@@ -68,14 +68,14 @@
     },
     {
       "sym": "ORDERBOOK",
-      "value": 0,
+      "value": 0.0,
       "change": 29.55,
       "label": "",
       "group": "Derivate"
     },
     {
       "sym": "MEMPOOL",
-      "value": 80925,
+      "value": 80925.0,
       "change": null,
       "label": "",
       "group": "On-Chain"
