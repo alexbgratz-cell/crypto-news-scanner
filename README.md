@@ -22,6 +22,13 @@ The private scanner exports data through explicit field allowlists. GitHub Pages
 - `data/categories.json` — dashboard categories
 - `data/stats.json` — public counts and update timestamp
 
+## Dashboard tabs
+
+- 🪙 Crypto / 🤖 AI — scored news with German summaries (WAS / WIRKUNG / KONSEQUENZ), filters and original-source links
+- 📊 Märkte — instrument tiles with sparklines from the scanner snapshot
+- 🔗 Links — curated trading pages, opened directly in a new tab
+- 📺 Live — external pages embedded live (Coinglass liquidation heatmap, liquidations, funding rates; TradingView BTC chart). The CSP `frame-src` allowlist is limited to `www.coinglass.com` and `s.tradingview.com`.
+
 ## Disclaimer
 
 Summaries and scores are AI-assisted and may contain errors. Original publishers are linked on every article. This project does not provide financial advice.
