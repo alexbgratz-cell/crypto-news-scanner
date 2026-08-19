@@ -1,5 +1,126 @@
 {
-  "ts": "2026-08-19T10:52:32.156Z",
+  "ts": "2026-08-19T11:20:33.908Z",
   "instrument": "ALL",
-  "text": "**Kernaussage**\nDer Gesamtmarkt zeigt sich trotz leichter Gewinne bei den Leitwerten stabil, während das makroökonomische Umfeld mit fallenden Tech-Aktien und steigender Volatilität Anspannung signalisiert.\n\n**Zahlen**\nBTC +0,33 % auf 64.355 USD, ETH +1,13 % auf 1.917,75 USD, SOL +1,96 % auf 77,29 USD. Fear & Greed Index bei 46 (+5, weiterhin „Fear“), Funding 0,004 %, Orderbook −0,85 %. TradFi: NDX −1,68 %, VIX +6,6 % auf 15,19, US10Y +0,85 % auf 4,72. Bitcoin-ETF-Zuflüsse: +189 Mio. USD.\n\n**Was es bedeutet**\nBegrenzte Kursbewegungen bei niedrigem Funding und negativem Orderbook deuten auf wenig spekulativen Leverage und gedämpfte Kaufbereitschaft hin. Der leichte Anstieg im Fear-Index sowie die soliden ETF-Zuflüsse stützen den Markt, während der Druck von fallenden Tech-Indizes und steigenden Renditen als Gegenwind wirkt. Die Haltung bleibt insgesamt risk-off.\n\n**Zu beachten**\nDie Reaktion des Marktes auf die nächsten US-Wirtschaftsdaten und die Entwicklung der Renditen (US10Y bei 4,72), da steigende Zinsen den Risikoappetit für Krypto dämpfen könnten."
+  "text": "**Kernaussage** — Der Gesamtmarkt ist stabil bis leicht positiv: BTC notiert bei 64.455 USD, ETH und SOL legen etwas stärker zu, der Fear-Index bleibt bei 46.\n\n**Was es bedeutet** — Die leichte Outperformance von ETH und SOL gegenüber BTC sowie der Anstieg von ETH/BTC sprechen für vorsichtige Kapitalrotation. Krypto zeigt sich trotz schwacher US-Aktienmärkte (NDX −1,68 %, VIX +6,6 %) widerstandsfähig. Die Funding-Raten sind moderat, die Dominanz unverändert – das deutet auf wenig überschüssige Leverage hin. ETF-Zuflüsse stützen die Nachfrage, während SEC-Vorschläge und der MAYAChain-Hack für regulatorische bzw. Sicherheitsunsicherheit sorgen.\n\n**Zu beachten** — Ob der Kryptomarkt die aktuelle Risk-off-Phase im traditionellen Finanzmarkt weiterhin ignoriert; ein Bruch der Seitwärtsrange bei BTC wäre das nächste klare Signal.",
+  "numbers": [
+    {
+      "sym": "BTCUSD",
+      "value": 64455,
+      "change": 0.25,
+      "label": "",
+      "group": "Direkte Korrelation"
+    },
+    {
+      "sym": "ETHUSD",
+      "value": 1923.24,
+      "change": 1.18,
+      "label": "",
+      "group": "Direkte Korrelation"
+    },
+    {
+      "sym": "SOLUSD",
+      "value": 77.49,
+      "change": 1.9,
+      "label": "",
+      "group": "Direkte Korrelation"
+    },
+    {
+      "sym": "ETHBTC",
+      "value": 0.029838,
+      "change": 0.93,
+      "label": "",
+      "group": "Kapitalrotation"
+    },
+    {
+      "sym": "BTC.D",
+      "value": 56.49,
+      "change": null,
+      "label": "",
+      "group": "Liquidität & Sentiment"
+    },
+    {
+      "sym": "USDT.D",
+      "value": 7.99,
+      "change": null,
+      "label": "",
+      "group": "Liquidität & Sentiment"
+    },
+    {
+      "sym": "F&G",
+      "value": 46,
+      "change": 5,
+      "label": "Fear",
+      "group": "Liquidität & Sentiment"
+    },
+    {
+      "sym": "FUNDING",
+      "value": 0.0041,
+      "change": null,
+      "label": "",
+      "group": "Derivate"
+    },
+    {
+      "sym": "OI",
+      "value": 104920.944,
+      "change": null,
+      "label": "",
+      "group": "Derivate"
+    },
+    {
+      "sym": "ORDERBOOK",
+      "value": 0,
+      "change": -22.95,
+      "label": "",
+      "group": "Derivate"
+    },
+    {
+      "sym": "MEMPOOL",
+      "value": 73964,
+      "change": null,
+      "label": "",
+      "group": "On-Chain"
+    },
+    {
+      "sym": "MO30",
+      "value": -0.42,
+      "change": null,
+      "label": "",
+      "group": "On-Chain"
+    },
+    {
+      "sym": "DXY",
+      "value": 118.9,
+      "change": -0.24,
+      "label": "",
+      "group": "TradFi/Makro"
+    },
+    {
+      "sym": "NDX",
+      "value": 29490.96,
+      "change": -1.68,
+      "label": "",
+      "group": "TradFi/Makro"
+    },
+    {
+      "sym": "VIX",
+      "value": 15.19,
+      "change": 6.6,
+      "label": "",
+      "group": "TradFi/Makro"
+    },
+    {
+      "sym": "US10Y",
+      "value": 4.72,
+      "change": 0.85,
+      "label": "",
+      "group": "TradFi/Makro"
+    },
+    {
+      "sym": "SPX",
+      "value": 7691.76,
+      "change": -0.69,
+      "label": "",
+      "group": "TradFi/Makro"
+    }
+  ]
 }
