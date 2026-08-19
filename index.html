@@ -297,11 +297,11 @@ async function loadLinks() {
 
 /* Live tab: external pages embedded directly (no self-made charts). */
 const EMBEDS = [
-  { id: "cg-liq", emoji: "🔥", label: "Liquidations-Heatmap", url: "https://www.coinglass.com/pro/futures/LiquidationHeatMap", note: "Coinglass · Liquidations-Level je Preiszone" },
-  { id: "cg-liqall", emoji: "💥", label: "Live-Liquidationen", url: "https://www.coinglass.com/liquidations", note: "Coinglass · alle Coins, laufende Liquidationen" },
-  { id: "cg-funding", emoji: "💸", label: "Funding Rates", url: "https://www.coinglass.com/FundingRate", note: "Coinglass · Finanzierungsraten je Börse" },
-  { id: "cg-orderbook", emoji: "📒", label: "Order Book", url: "https://www.coinglass.com/mergev2/BTC-USDT", note: "Coinglass · Order-Depth BTC/USDT (Market Depth)" },
-  { id: "tv-chart", emoji: "📈", label: "BTC-Chart", url: "https://s.tradingview.com/widgetembed/?symbol=BINANCE%3ABTCUSDT&interval=60&theme=dark&style=1&locale=de_DE&hideideas=1&withdateranges=1", note: "TradingView · BTC/USDT 1h (offizielles Widget)" },
+  { id: "cg-liq", label: "Liquidations-Heatmap", url: "https://www.coinglass.com/pro/futures/LiquidationHeatMap", note: "Coinglass · Liquidations-Level je Preiszone" },
+  { id: "cg-liqall", label: "Live-Liquidationen", url: "https://www.coinglass.com/liquidations", note: "Coinglass · alle Coins, laufende Liquidationen" },
+  { id: "cg-funding", label: "Funding Rates", url: "https://www.coinglass.com/FundingRate", note: "Coinglass · Finanzierungsraten je Börse" },
+  { id: "cg-orderbook", label: "Order Book", url: "https://www.coinglass.com/mergev2/BTC-USDT", note: "Coinglass · Order-Depth BTC/USDT (Market Depth)" },
+  { id: "tv-chart", label: "BTC-Chart", url: "https://s.tradingview.com/widgetembed/?symbol=BINANCE%3ABTCUSDT&interval=60&theme=dark&style=1&locale=de_DE&hideideas=1&withdateranges=1", note: "TradingView · BTC/USDT 1h (offizielles Widget)" },
 ];
 let currentEmbed = "cg-liq";
 
@@ -309,7 +309,7 @@ function renderLive() {
   const el = $("#content");
   const emb = EMBEDS.find((e) => e.id === currentEmbed) || EMBEDS[0];
   const chips = EMBEDS.map((e) =>
-    `<span class="live-chip${e.id === emb.id ? " active" : ""}" data-embed="${e.id}">${e.emoji} ${e.label}</span>`
+    `<span class="live-chip${e.id === emb.id ? " active" : ""}" data-embed="${e.id}">${e.label}</span>`
   ).join("");
   el.innerHTML = `
     <div class="live-toolbar">${chips}
