@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="referrer" content="strict-origin-when-cross-origin">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; frame-src https://www.coinglass.com https://s.tradingview.com; object-src 'none'; base-uri 'none'; form-action 'none'">
 <title>Crypto- & KI-News-Scanner · Öffentlicher Showcase</title>
 <style>
   :root {
@@ -47,6 +47,17 @@
   .meta { font-size: 11.5px; color: var(--muted); margin-top: 8px; display: flex; gap: 10px; flex-wrap: wrap; }
   .tag { background: #1f6feb22; color: #79c0ff; border-radius: 6px; padding: 1px 7px; font-size: 11px; }
   .empty { text-align: center; color: var(--muted); padding: 40px 0; font-size: 14px; }
+  /* Market tiles */
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; }
+  .tile { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 12px; }
+  .tile .sym { font-size: 12px; color: var(--muted); font-weight: 600; }
+  .tile .val { font-size: 19px; font-weight: 700; margin: 4px 0; }
+  .tile .chg { font-size: 13px; font-weight: 600; }
+  .up { color: var(--green); } .down { color: var(--red); } .flat { color: var(--muted); }
+  .tile .grp { font-size: 10.5px; color: var(--muted); margin-top: 4px; }
+  .spark { width: 100%; height: 36px; margin-top: 8px; }
+  .spark polyline { fill: none; stroke-width: 1.5; }
+  .spark .area { fill: rgba(88,166,255,.08); stroke: none; }
   /* Link tiles */
   .section-title { font-size: 13px; color: var(--muted); text-transform: uppercase; letter-spacing: .5px; margin: 16px 0 8px; }
   .links-note { font-size: 12.5px; color: var(--muted); margin-bottom: 4px; }
@@ -57,6 +68,15 @@
   .link-card .lgo { align-self: flex-start; font-size: 12.5px; font-weight: 600; color: var(--accent); text-decoration: none; padding: 5px 12px; border: 1px solid #1f6feb55; border-radius: 8px; background: #1f6feb18; }
   .link-card .lgo:hover { background: #1f6feb33; }
   .footer-note { text-align: center; color: var(--muted); font-size: 11px; padding: 20px 16px 0; }
+  /* Live tools (embedded external pages) */
+  .live-toolbar { display: flex; align-items: center; gap: 8px; padding: 10px 16px 0; flex-wrap: wrap; }
+  .live-chip { padding: 6px 12px; border-radius: 8px; background: var(--card); border: 1px solid var(--border); color: var(--text); font-size: 12.5px; font-weight: 600; cursor: pointer; }
+  .live-chip.active { background: var(--accent); color: #04101f; border-color: var(--accent); }
+  .live-open { margin-left: auto; font-size: 12.5px; font-weight: 600; color: var(--accent); text-decoration: none; }
+  .live-open:hover { text-decoration: underline; }
+  .live-frame-wrap { padding: 10px 16px 0; }
+  .live-frame { width: 100%; height: calc(100vh - 200px); min-height: 500px; border: 1px solid var(--border); border-radius: 10px; background: #000; display: block; }
+  .live-note { padding: 8px 16px 0; font-size: 11px; color: var(--muted); }
 </style>
 </head>
 <body>
@@ -74,7 +94,9 @@
 <div class="tabs">
   <div class="tab active" data-tab="crypto">🪙 Crypto</div>
   <div class="tab" data-tab="ai">🤖 AI</div>
+  <div class="tab" data-tab="market">📊 Märkte</div>
   <div class="tab" data-tab="links">🔗 Links</div>
+  <div class="tab" data-tab="live">📺 Live</div>
 </div>
 
 <div class="filters" id="filters">
@@ -162,6 +184,93 @@ function renderNews(arts) {
   }).join("");
 }
 
+function fmtNum(v, dec = 2) {
+  if (v === null || v === undefined) return "–";
+  return Number(v).toLocaleString("en-US", { minimumFractionDigits: dec, maximumFractionDigits: dec });
+}
+function fmtChg(c) {
+  if (c === null || c === undefined) return '<span class="flat">–</span>';
+  const cls = c > 0.001 ? "up" : c < -0.001 ? "down" : "flat";
+  const sign = c > 0 ? "+" : "";
+  return `<span class="${cls}">${sign}${fmtNum(c, 2)}%</span>`;
+}
+/* Interpreted display for instruments where the raw number is not intuitive. */
+function displayVal(sym, d) {
+  if (sym === "FUNDING") {
+    const r = d.value;
+    if (r === null || r === undefined) return "–";
+    if (r > 0.02) return "Longs pay";
+    if (r < -0.02) return "Shorts pay";
+    return "Neutral";
+  }
+  if (sym === "ORDERBOOK") {
+    const imb = d.change_24h;
+    if (imb === null || imb === undefined) return "–";
+    if (imb > 5) return "Buy pressure";
+    if (imb < -5) return "Sell pressure";
+    return "Balanced";
+  }
+  if (sym === "MO30") {
+    const v = d.value;
+    if (v === null || v === undefined) return "–";
+    const cls = v > 0 ? "up" : v < 0 ? "down" : "flat";
+    return `<span class="${cls}">${v > 0 ? "+" : ""}${fmtNum(v, 2)}%</span>`;
+  }
+  return fmtNum(d.value);
+}
+function displayChg(sym, d) {
+  if (sym === "FUNDING") {
+    const r = d.value;
+    return r === null || r === undefined ? "–" : `${fmtNum(r, 4)}% / 8h`;
+  }
+  if (sym === "ORDERBOOK") {
+    const imb = d.change_24h;
+    return imb === null || imb === undefined ? "–" : `Imbalance ${imb > 0 ? "+" : ""}${fmtNum(imb, 1)}%`;
+  }
+  return fmtChg(d.change_24h);
+}
+async function loadMarket() {
+  const [snap, hist] = await Promise.all([
+    fetch("./data/snapshot.json", { cache: "no-store" }).then((r) => r.json()),
+    fetch("./data/history.json", { cache: "no-store" }).then((r) => r.json()),
+  ]);
+  const inst = snap.instruments || {};
+  const el = $("#content");
+  const groups = {};
+  for (const [sym, data] of Object.entries(inst)) {
+    const grp = data.group || "–";
+    (groups[grp] = groups[grp] || []).push([sym, data]);
+  }
+  el.innerHTML = Object.entries(groups).map(([grp, items]) => `
+    <div class="section-title">${esc(grp)}</div>
+    <div class="grid">${items.map(([sym, d]) => `
+      <div class="tile">
+        <div class="sym">${esc(sym)}${d.label ? ` <span class="cat">${esc(d.label)}</span>` : ""}</div>
+        <div class="val">${displayVal(sym, d)}</div>
+        <div class="chg">${displayChg(sym, d)}</div>
+        ${sparkline(sym, hist)}
+        <div class="grp">${esc(grp)}</div>
+      </div>`).join("")}</div>`).join("");
+}
+function sparkline(sym, hist) {
+  const pts = hist.map((h) => (h.instruments[sym] || {}).value)
+    .filter((v) => v !== null && v !== undefined);
+  const W = 150, H = 36;
+  if (pts.length < 3) {
+    return `<svg class="spark" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none">
+      <line x1="4" y1="${H / 2}" x2="${W - 4}" y2="${H / 2}" stroke="#21262d" stroke-width="1.5" stroke-dasharray="4 4"/>
+    </svg>`;
+  }
+  const min = Math.min(...pts), max = Math.max(...pts), range = max - min || 1;
+  const coords = pts.map((v, i) => `${(i / (pts.length - 1)) * (W - 8) + 4},${H - 5 - ((v - min) / range) * (H - 10)}`);
+  const color = pts[pts.length - 1] >= pts[0] ? "#3fb950" : "#f85149";
+  const area = `4,${H - 4} ${coords.join(" ")} ${W - 4},${H - 4}`;
+  return `<svg class="spark" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none">
+    <polygon class="area" points="${area}"/>
+    <polyline points="${coords.join(" ")}" stroke="${color}"/>
+  </svg>`;
+}
+
 async function loadLinks() {
   const el = $("#content");
   let data;
@@ -188,6 +297,35 @@ async function loadLinks() {
       </div>`).join("")}</div>`).join("");
 }
 
+/* Live tab: external pages embedded directly (no self-made charts). */
+const EMBEDS = [
+  { id: "cg-liq", emoji: "🔥", label: "Liquidations-Heatmap", url: "https://www.coinglass.com/pro/futures/LiquidationHeatMap", note: "Coinglass · Liquidations-Level je Preiszone" },
+  { id: "cg-liqall", emoji: "💥", label: "Live-Liquidationen", url: "https://www.coinglass.com/liquidations", note: "Coinglass · alle Coins, laufende Liquidationen" },
+  { id: "cg-funding", emoji: "💸", label: "Funding Rates", url: "https://www.coinglass.com/FundingRate", note: "Coinglass · Finanzierungsraten je Börse" },
+  { id: "tv-chart", emoji: "📈", label: "BTC-Chart", url: "https://s.tradingview.com/widgetembed/?symbol=BINANCE%3ABTCUSDT&interval=60&theme=dark&style=1&locale=de_DE&hideideas=1&withdateranges=1", note: "TradingView · BTC/USDT 1h (offizielles Widget)" },
+];
+let currentEmbed = "cg-liq";
+
+function renderLive() {
+  const el = $("#content");
+  const emb = EMBEDS.find((e) => e.id === currentEmbed) || EMBEDS[0];
+  const chips = EMBEDS.map((e) =>
+    `<span class="live-chip${e.id === emb.id ? " active" : ""}" data-embed="${e.id}">${e.emoji} ${e.label}</span>`
+  ).join("");
+  el.innerHTML = `
+    <div class="live-toolbar">${chips}
+      <a class="live-open" href="${esc(safeUrl(emb.url))}" target="_blank" rel="noopener noreferrer">↗ Im Original öffnen</a>
+    </div>
+    <div class="live-frame-wrap">
+      <iframe class="live-frame" src="${esc(safeUrl(emb.url))}" allow="fullscreen" title="${esc(emb.label)}"></iframe>
+    </div>
+    <div class="live-note">Externe Live-Seite: ${esc(emb.note)} · Es gelten die Datenschutz-/Cookie-Regeln des jeweiligen Anbieters.</div>`;
+  el.querySelectorAll(".live-chip").forEach((c) => c.addEventListener("click", () => {
+    currentEmbed = c.dataset.embed;
+    renderLive();
+  }));
+}
+
 async function loadCategories() {
   if (!categoryCache) categoryCache = await (await fetch("./data/categories.json")).json();
   const sel = $("#catFilter");
@@ -201,7 +339,9 @@ async function loadCategories() {
 
 async function refresh() {
   newsCache = null;
-  if (currentTab === "links") await loadLinks();
+  if (currentTab === "market") await loadMarket();
+  else if (currentTab === "links") await loadLinks();
+  else if (currentTab === "live") { /* iframe bleibt unberührt (kein Reload bei Auto-Refresh) */ }
   else await loadNews();
   const stats = await fetch("./data/stats.json", { cache: "no-store" }).then((r) => r.json());
   $("#lastScan").textContent = stats.last_updated
@@ -214,10 +354,12 @@ document.querySelectorAll(".tab").forEach((t) => {
     document.querySelectorAll(".tab").forEach((x) => x.classList.remove("active"));
     t.classList.add("active");
     currentTab = t.dataset.tab;
-    $("#filters").style.display = currentTab === "links" ? "none" : "flex";
+    const noFilters = ["market", "links", "live"].includes(currentTab);
+    $("#filters").style.display = noFilters ? "none" : "flex";
     $("#catFilter").innerHTML = '<option value="">Alle Kategorien</option>';
-    if (currentTab !== "links") await loadCategories();
-    refresh();
+    if (!noFilters) await loadCategories();
+    if (currentTab === "live") renderLive();
+    else refresh();
   });
 });
 $("#catFilter").addEventListener("change", refresh);
