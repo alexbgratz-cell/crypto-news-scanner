@@ -1,7 +1,7 @@
 {
-  "ts": "2026-08-19T15:34:23.307372Z",
+  "ts": "2026-08-19T15:35:24.815093Z",
   "instrument": "ALL",
-  "text": "Kernaussage: Der Gesamtmarkt zeigt eine freundliche Erholung: BTC notiert bei 64.895 USD (+1,32 %), ETH und SOL legen stärker zu, der Fear-&-Greed-Index bleibt mit 46 im Angstbereich.\n\nWas es bedeutet: Trotz negativer Aktienmärkte (SPX -0,69 %, NDX -1,68 %) und steigender Renditen (US10Y 4,72 %) halten sich Kryptowährungen stabil. Das geringe Funding von 0,005 signalisiert keine überhitzte Hebelpositionierung; ETF-Zuflüsse und institutionelle Meldungen stützen die Stimmung. Der VIX-Anstieg auf 15,19 mahnt allerdings zur Vorsicht – insgesamt ein gemischtes, leicht konstruktives Bild.\n\nZu beachten: Ob die positiven Bitcoin-ETF-Zuflüsse angesichts höherer Renditen und festerem VIX anhalten – insbesondere um die Marke von etwa 64.900 USD.",
+  "text": "1. **Kernaussage** — Der Gesamtmarkt zeigt bei BTC um 64.895 USD eine leichte Aufwärtsbewegung, während US-Aktienindizes wie der NDX um 1,68 % nachgeben; Krypto agiert relativ stabil.\n\n2. **Was es bedeutet** — Die positive Differenzierung trotz moderat steigendem VIX (15,19) und leicht negativem Aktienumfeld signalisiert keine ausgeprägte Risiko-On-Stimmung, sondern eher stabilisierte Nachfrage. Altcoins führen: SOL +3,05 %, ETH +2,16 %. Der Fear-and-Greed-Index bleibt mit 46 neutral, das Funding nahezu ausgeglichen. ETF-Zuflüsse von zuletzt 189 Mio. USD stützen institutionelles Interesse; regulatorische Vorschläge der SEC und der MAYAChain-Vorfall dämpfen jedoch das Sentiment.\n\n3. **Zu beachten** — Entscheidend ist, ob BTC die Marke nahe 64.900 USD halten kann, während die Aktienmärkte schwächeln; die Reaktion auf den gestiegenen VIX dürfte die Richtung im Kryptomarkt mitbestimmen.",
   "numbers": [
     {
       "sym": "BTCUSD",
