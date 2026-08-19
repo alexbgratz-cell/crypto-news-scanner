@@ -165,7 +165,9 @@ def generate_report():
 
 
 def publish(report):
-    f = os.path.join(BASE, "public-site", "data", "market-report.json")
+    # Die öffentliche Seite liegt im Repo-ROOT (index.html + data/ direkt oben),
+    # nicht in public-site/ — der Workflow-Checkout hat nur den Root.
+    f = os.path.join(BASE, "data", "market-report.json")
     with open(f, "w", encoding="utf-8") as fh:
         json.dump({k: report[k] for k in ("ts", "instrument", "text", "numbers")}, fh, ensure_ascii=False, indent=2)
         fh.write("\n")
@@ -175,7 +177,7 @@ def publish(report):
     repo = os.environ.get("GITHUB_REPOSITORY", "")
     if token and repo:
         subprocess.run(["git", "remote", "set-url", "origin", f"https://x-access-token:{token}@github.com/{repo}.git"], check=False)
-    subprocess.run(["git", "add", "public-site/data/market-report.json"], check=False)
+    subprocess.run(["git", "add", "data/market-report.json"], check=False)
     r = subprocess.run(["git", "commit", "-m", "Update market report (cloud)"], capture_output=True, text=True)
     out = (r.stdout or "") + (r.stderr or "")
     if "nothing to commit" in out:
