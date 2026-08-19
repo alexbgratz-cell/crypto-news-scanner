@@ -352,8 +352,74 @@ function cleanReport(t) {
   return String(t || "").replace(/\\n/g, "\n").replace(/\*\*/g, "").replace(/#{1,3} /g, "");
 }
 const NTFY_TOPIC = "crypto-scanner-report-9f3k2";
+
+/* ---- Session-Spalte: Veränderung seit US-Open (15:30) bzw. US-Close (22:00), Berlin ---- */
+let sessionCache = null;
+function berlinParts(ts) {
+  const f = new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Europe/Berlin", year: "numeric", month: "2-digit", day: "2-digit",
+    hour: "2-digit", minute: "2-digit", hour12: false,
+  });
+  return Object.fromEntries(
+    f.formatToParts(ts).filter((x) => x.type !== "literal").map((x) => [x.type, x.value])
+  );
+}
+function berlinToUtc(y, mo, d, hh, mm) {
+  for (const off of [2, 1]) {
+    const t = Date.UTC(y, mo, d, hh - off, mm);
+    const p = berlinParts(new Date(t));
+    if (+p.year === y && +p.month - 1 === mo && +p.day === d && +p.hour === hh && +p.minute === mm) return t;
+  }
+  return Date.UTC(y, mo, d, hh - 2, mm);
+}
+async function ensureSessionCache() {
+  if (sessionCache) return sessionCache;
+  try {
+    const [hist, snap] = await Promise.all([
+      fetch("./data/history.json", { cache: "no-store" }).then((r) => r.json()),
+      fetch("./data/snapshot.json", { cache: "no-store" }).then((r) => r.json()),
+    ]);
+    const p = berlinParts(new Date());
+    const y = +p.year, mo = +p.month - 1, d = +p.day, hh = +p.hour, mm = +p.minute;
+    let ref, label;
+    if (hh * 60 + mm >= 15 * 60 + 30) {
+      ref = berlinToUtc(y, mo, d, 15, 30);
+      label = "seit US-Open 15:30";
+    } else {
+      ref = berlinToUtc(y, mo, d - 1, 22, 0);
+      label = "seit US-Close 22:00";
+    }
+    sessionCache = { hist: hist || [], snap: (snap && snap.instruments) || {}, ref, label };
+  } catch {
+    sessionCache = { hist: [], snap: {}, ref: 0, label: "" };
+  }
+  return sessionCache;
+}
+function sessionChange(sym) {
+  const c = sessionCache;
+  if (!c || !c.hist.length) return null;
+  const cur = c.snap[sym] && c.snap[sym].value;
+  if (cur == null) return null;
+  let refVal = null;
+  for (const h of c.hist) {
+    const ts = new Date((h.ts || "").replace("Z", "+00:00")).getTime();
+    if (Number.isNaN(ts)) continue;
+    if (ts <= c.ref) refVal = (h.instruments[sym] || {}).value;
+    else break;
+  }
+  if (refVal == null || !refVal) return null;
+  return ((cur - refVal) / Math.abs(refVal)) * 100;
+}
+function fmtSession(pct) {
+  if (pct === null || pct === undefined || Number.isNaN(pct)) return "–";
+  const cls = pct >= 0 ? "up" : "down";
+  return `<span class="${cls}">${pct >= 0 ? "+" : ""}${pct.toFixed(2)} %</span>`;
+}
+/* ---- /Session-Spalte ---- */
+
 function reportNumbersTable(numbers) {
   if (!numbers || !numbers.length) return "";
+  const sessLabel = sessionCache && sessionCache.label ? `<span class="grp">${esc(sessionCache.label)}</span>` : "";
   const rows = numbers.map((n) => {
     const d = { value: n.value, change_24h: n.change, label: n.label, group: n.group };
     return `
@@ -361,15 +427,17 @@ function reportNumbersTable(numbers) {
         <td class="sym">${esc(n.sym)}${n.label ? ` <span class="grp">${esc(n.label)}</span>` : ""}</td>
         <td class="val">${displayVal(n.sym, d)}</td>
         <td class="chg">${displayChg(n.sym, d)}</td>
+        <td class="chg">${fmtSession(sessionChange(n.sym))}</td>
       </tr>`;
   }).join("");
   return `<div class="num-wrap"><table class="num-table">
-    <thead><tr><th>Instrument</th><th>Wert</th><th>24h</th></tr></thead>
+    <thead><tr><th>Instrument</th><th>Wert</th><th>24h</th><th>Session ${sessLabel}</th></tr></thead>
     <tbody>${rows}</tbody></table></div>`;
 }
 async function renderHome() {
   const el = $("#content");
   let rep = null;
+  await ensureSessionCache();
   try {
     const r = await fetch("./data/market-report.json", { cache: "no-store" });
     if (r.ok) rep = await r.json();

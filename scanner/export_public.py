@@ -133,11 +133,13 @@ def main():
     parser.add_argument("--article-limit", type=int, default=100)
     parser.add_argument("--history-limit", type=int, default=864)
     args = parser.parse_args()
+    out_dir = os.path.abspath(args.output)
+    os.makedirs(out_dir, exist_ok=True)
     result = export_public(
         _read_json(os.path.join(BASE_DIR, "state.json"), {"articles": []}),
         _read_json(os.path.join(BASE_DIR, "snapshot.json"), {"instruments": {}}),
         _read_history(os.path.join(BASE_DIR, "snapshot_history.jsonl")),
-        os.path.abspath(args.output),
+        out_dir,
         article_limit=max(1, args.article_limit),
         history_limit=max(1, args.history_limit),
         market_reports=_read_market_reports(),

@@ -248,9 +248,9 @@ def main():
         log(f"record.py: {(rb.stdout or '').strip()[:120]}")
         os.remove(batch_file)
 
-    # 5) öffentliche Daten aktualisieren
+    # 5) öffentliche Daten aktualisieren (Cloud: Repo-Root = data/, kein public-site/-Ordner)
     subprocess.run(
-        [sys.executable, os.path.join(BASE, "scanner", "export_public.py")],
+        [sys.executable, os.path.join(BASE, "scanner", "export_public.py"), "--output", "."],
         capture_output=True, text=True, cwd=BASE, timeout=300,
     )
 
