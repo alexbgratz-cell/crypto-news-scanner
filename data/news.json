@@ -1,5 +1,73 @@
 [
   {
+    "title": "Ex-Signature Bank chair warns big banks could use blockchain to take market share from smaller rivals as N3XT goes global",
+    "url": "https://www.theblock.co/news/business/2026-08-19-ex-signature-bank-chair-big-banks-blockchain-n3xt-412202",
+    "source": "The Block",
+    "published": "2026-08-19T13:08:49Z",
+    "stream": "crypto",
+    "score": 6,
+    "category": "Other",
+    "sentiment": "neutral",
+    "summary": "Der ehemalige Signature-Bank-Vorsitzende Scott Shay warnt, dass große Banken Blockchain-Zahlungen nutzen könnten, um kleineren Rivalen Marktanteile abzunehmen, während die Blockchain-Zahlungsplattform N3XT global expandiert. Die Aussage unterstreicht die wachsende institutionelle Akzeptanz von Blockchain-Zahlungssystemen, von der große Banken profitieren könnten. Die globale Expansion von N3XT könnte die Konkurrenz im Zahlungsverkehr weiter anheizen; direkte Auswirkungen auf Kryptopreise sind kurzfristig nicht zu erwarten.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+    "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+    "source": "AI News & Artificial Intelligence | TechCrunch",
+    "published": "2026-08-19T12:00:00Z",
+    "stream": "ai",
+    "score": 5,
+    "category": "Business & Funding",
+    "sentiment": "neutral",
+    "summary": "Ein TechCrunch-Artikel berichtet über ein Startup, das argumentiert, dass KI allein nicht ausreicht, um Krebs zu heilen — der Schlüssel seien bessere Daten. Die These des Startups lenkt den Fokus auf Datenqualität als zentralen Engpass in der medizinischen KI-Forschung. Die Debatte um Datenzugang und -qualität im Gesundheitswesen dürfte dadurch weiter an Bedeutung gewinnen.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "Bitwise CIO sees potential for 10-100x blockchain transaction growth as AI agents meet tokenized markets",
+    "url": "https://www.theblock.co/news/ecosystems/2026-08-19-bitwise-cio-sees-potential-for-10-100x-blockchain-transaction-growth-as-ai-agents-meet-tokenized-markets-412196",
+    "source": "The Block",
+    "published": "2026-08-19T11:32:48Z",
+    "stream": "crypto",
+    "score": 6,
+    "category": "Other",
+    "sentiment": "bullish",
+    "summary": "Bitwise-CIO Matt Hougan erklärte, dass Anleger die Blockchain-Transaktionsaktivität angesichts wachsender tokenisierter Märkte um das 10- bis 100-Fache unterschätzen könnten. Die Einschätzung eines führenden Krypto-Asset-Managers signalisiert steigendes institutionelles Interesse an On-Chain-Aktivität und Tokenisierung, was die Nachfrage nach Krypto-Assets stützen dürfte. Erhöhte Aufmerksamkeit für Transaktionsvolumina und Tokenisierung ist wahrscheinlich; BTC und ETH dürften davon am ehesten profitieren.",
+    "instruments": [
+      "BTCUSD",
+      "ETHUSD"
+    ],
+    "entities": []
+  },
+  {
+    "title": "Alleged $165M Crypto Ponzi Mastermind Deported From Fiji to US",
+    "url": "https://decrypt.co/375933/crypto-ponzi-mastermind-deported-fiji-us",
+    "source": "Decrypt",
+    "published": "2026-08-19T11:31:04Z",
+    "stream": "crypto",
+    "score": 5,
+    "category": "FUD",
+    "sentiment": "neutral",
+    "summary": "Edward Zimbardi, mutmaßlicher Drahtzieher des 165-Millionen-Dollar-Ponzi-Schemas „The Crypto Program“, wurde von Fidschi in die USA abgeschoben; Tausende Anleger waren mit versprochenen monatlichen Renditen von 25 Prozent gelockt worden. Der Fall rückt Betrugsrisiken im Kryptosektor erneut in den Fokus, ohne die Marktpreise direkt zu beeinflussen. Die unmittelbare Folge ist ein Strafverfahren gegen Zimbardi in den USA; die Märkte dürften die Meldung kaum bewegen.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "Ripple raises $275M for US prime brokerage to meet institutional demand",
+    "url": "https://cointelegraph.com/news/ripple-raises-275m-us-prime-brokerage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph.com News",
+    "published": "2026-08-19T11:18:38Z",
+    "stream": "crypto",
+    "score": 7,
+    "category": "Other",
+    "sentiment": "bullish",
+    "summary": "Ripple hat 275 Millionen US-Dollar eingesammelt, um in den USA ein Prime-Brokerage-Geschäft aufzubauen; das Kapital soll die Expansion in traditionelle Finanzdienstleistungen wie Multi-Asset-Clearing finanzieren. Der Schritt unterstreicht die starke institutionelle Nachfrage nach Krypto-Infrastruktur und stärkt Ripples Position im traditionellen Finanzsektor. Mit der Umsetzung des Prime-Brokerage-Angebots dürfte Ripples institutionelle Präsenz in den USA wachsen.",
+    "instruments": [],
+    "entities": []
+  },
+  {
     "title": "Scaramucci points to $100,000 bitcoin as ‘magic number’ for OG sellers, eyes AI-blockchain convergence",
     "url": "https://www.theblock.co/news/markets/2026-08-19-scaramucci-points-to-100000-bitcoin-as-magic-number-for-og-sellers-eyes-ai-blockchain-convergence-412190",
     "source": "The Block",
@@ -1327,74 +1395,5 @@
     "summary": "DeepSeek hat DeepSeek Harness v0.1 als Open-Source-Agent-Harness unter der MIT-Lizenz veröffentlicht, die jedes Feature als Cordis-Plugin ausführt und vier Laufzeitmodi sowie herstellerunabhängiges Modell-Routing unterstützt. Diese Veröffentlichung etabliert ein modulares Framework für Entwickler und festigt DeepSeeks Position im KI-Entwicklertools-Markt durch offene Standards. Die Integration von Cordis-Plugins wird die Standardisierung von KI-Agent-Architekturen vorantreiben und Reaktionen der Wettbewerber auf dieses offene Framework auslösen.",
     "instruments": [],
     "entities": []
-  },
-  {
-    "title": "What happens when a kid's robot best friend dies?",
-    "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-    "source": "Artificial intelligence – MIT Technology Review",
-    "published": "2026-08-17T09:00:00Z",
-    "stream": "ai",
-    "score": 4,
-    "category": "Society & Work",
-    "sentiment": "neutral",
-    "summary": "Der MIT Technology Review beschreibt das Ende des KI-Begleiterroboters Moxie nach einer sechsjährigen Nutzung durch ein Kind. Dabei werden die starken emotionalen Bindungen der Nutzer zu diesen Assistenzsystemen detailliert analysiert. Mit dem Auslauf des Dienstes rücken gesellschaftliche Fragen zur Zukunft von Begleiterrobotern in den Fokus.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "BitMart account demands founder explain funds status, Xia calls claims 'fabricated'",
-    "url": "https://cointelegraph.com/news/bitmart-account-founder-explain-repayment-plan",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-17T08:15:01Z",
-    "stream": "crypto",
-    "score": 4,
-    "category": "FUD",
-    "sentiment": "bearish",
-    "summary": "Der BitMart-Gründer Sheldon Xia wies Forderungen nach einem Rückzahlungsplan bis zum 19. August als erfundene Gerüchte zurück. Diese öffentliche Auseinandersetzung verstärkt die Unsicherheit bezüglich der Solvenz der Börse und der Sicherheit von Kundengeldern. Erhöhte Volatilität ist wahrscheinlich, solange weitere Forderungen oder Beweise ausstehen.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Get closer to the game with Gemini and Pixel",
-    "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-    "source": "AI",
-    "published": "2026-08-17T08:00:00Z",
-    "stream": "ai",
-    "score": 6,
-    "category": "Business & Funding",
-    "sentiment": "neutral",
-    "summary": "Google integriert Gemini und Pixel in Fan-Erlebnisse von Fußballclubs, um die Consumer-Distribution zu erweitern. Diese marketinggetriebene Partnerschaft hat begrenzten direkten Einfluss auf die breitere KI-Branche. Die langfristige Nutzerakquise für Google-KI-Tools im Sportsektor wird sich durch diese Vermarktung konkret auswirken.",
-    "instruments": [],
-    "entities": [
-      "GOOGL"
-    ]
-  },
-  {
-    "title": "Greenlane's $70M BERA treasury ends Q2 valued at $16M",
-    "url": "https://cointelegraph.com/news/greenlane-70m-bera-treasury-valued-16m",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-17T05:52:55Z",
-    "stream": "crypto",
-    "score": 5,
-    "category": "Other",
-    "sentiment": "bearish",
-    "summary": "Greenlanes BERA-Treasury verlor im zweiten Quartal von 70 Millionen auf 16 Millionen US-Dollar, was einen nicht-kassenwirksamen Abschreibungsverlust von 19,1 Millionen US-Dollar nach sich zog. Dieser Einbruch verdeutlicht die extreme Volatilität von Altcoin-Token und warnt Unternehmen vor der Haltung solcher riskanten Krypto-Treasuries. Erhöhte Skepsis gegenüber volatilen Krypto-Assets in Unternehmensbilanzen ist wahrscheinlich.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "The Defender’s Window",
-    "url": "https://openai.com/index/the-defenders-window",
-    "source": "OpenAI News",
-    "published": "2026-08-17T05:30:00Z",
-    "stream": "ai",
-    "score": 5,
-    "category": "Safety & Risk",
-    "sentiment": "neutral",
-    "summary": "OpenAI hat den Artikel „The Defender's Window“ veröffentlicht, der das Handlungsfenster für Verteidiger in der Cybersicherheit thematisiert und die wachsende Rolle von KI in der Cyberabwehr hervorhebt. Der Beitrag unterstreicht strategisch die Bedeutung künstlicher Intelligenz für die digitale Sicherheit, ohne dabei konkrete Produkt- oder Policy-Ankündigungen zu machen. Die nächste Wegmarke ist die inhaltliche Ausrichtung der Debatte um KI-gestützte Abwehrmaßnahmen, da keine unmittelbaren geschäftlichen Neuerungen vorliegen.",
-    "instruments": [],
-    "entities": [
-      "OPENAI"
-    ]
   }
 ]

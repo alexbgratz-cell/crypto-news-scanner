@@ -11899,5 +11899,968 @@
         "label": null
       }
     }
+  },
+  {
+    "ts": "2026-08-19T11:24:13Z",
+    "instruments": {
+      "BTCUSD": {
+        "value": 64450,
+        "change_24h": 0.23,
+        "group": "Direkte Korrelation",
+        "label": null
+      },
+      "ETHUSD": {
+        "value": 1920.19,
+        "change_24h": 0.93,
+        "group": "Direkte Korrelation",
+        "label": null
+      },
+      "SOLUSD": {
+        "value": 77.47,
+        "change_24h": 1.52,
+        "group": "Direkte Korrelation",
+        "label": null
+      },
+      "ETHBTC": {
+        "value": 0.029793,
+        "change_24h": 0.7,
+        "group": "Kapitalrotation",
+        "label": null
+      },
+      "BTC.D": {
+        "value": 56.49,
+        "change_24h": null,
+        "group": "Liquidität & Sentiment",
+        "label": null
+      },
+      "USDT.D": {
+        "value": 7.99,
+        "change_24h": null,
+        "group": "Liquidität & Sentiment",
+        "label": null
+      },
+      "F&G": {
+        "value": 46.0,
+        "change_24h": 5.0,
+        "group": "Liquidität & Sentiment",
+        "label": "Fear"
+      },
+      "FUNDING": {
+        "value": 0.0042,
+        "change_24h": null,
+        "group": "Derivate",
+        "label": null
+      },
+      "OI": {
+        "value": 104896.61,
+        "change_24h": null,
+        "group": "Derivate",
+        "label": null
+      },
+      "ORDERBOOK": {
+        "value": 0.0,
+        "change_24h": 83.28,
+        "group": "Derivate",
+        "label": null
+      },
+      "MEMPOOL": {
+        "value": 76762.0,
+        "change_24h": null,
+        "group": "On-Chain",
+        "label": null
+      },
+      "MO30": {
+        "value": -0.4,
+        "change_24h": null,
+        "group": "On-Chain",
+        "label": null
+      },
+      "DXY": {
+        "value": 118.9,
+        "change_24h": -0.24,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "NDX": {
+        "value": 29490.96,
+        "change_24h": -1.68,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "VIX": {
+        "value": 15.19,
+        "change_24h": 6.6,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "US10Y": {
+        "value": 4.72,
+        "change_24h": 0.85,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "SPX": {
+        "value": 7691.76,
+        "change_24h": -0.69,
+        "group": "TradFi/Makro",
+        "label": null
+      }
+    }
+  },
+  {
+    "ts": "2026-08-19T11:30:17Z",
+    "instruments": {
+      "BTCUSD": {
+        "value": 64475,
+        "change_24h": 0.25,
+        "group": "Direkte Korrelation",
+        "label": null
+      },
+      "ETHUSD": {
+        "value": 1921.33,
+        "change_24h": 0.95,
+        "group": "Direkte Korrelation",
+        "label": null
+      },
+      "SOLUSD": {
+        "value": 77.52,
+        "change_24h": 1.73,
+        "group": "Direkte Korrelation",
+        "label": null
+      },
+      "ETHBTC": {
+        "value": 0.0298,
+        "change_24h": 0.7,
+        "group": "Kapitalrotation",
+        "label": null
+      },
+      "BTC.D": {
+        "value": 56.5,
+        "change_24h": null,
+        "group": "Liquidität & Sentiment",
+        "label": null
+      },
+      "USDT.D": {
+        "value": 7.99,
+        "change_24h": null,
+        "group": "Liquidität & Sentiment",
+        "label": null
+      },
+      "F&G": {
+        "value": 46.0,
+        "change_24h": 5.0,
+        "group": "Liquidität & Sentiment",
+        "label": "Fear"
+      },
+      "FUNDING": {
+        "value": 0.0043,
+        "change_24h": null,
+        "group": "Derivate",
+        "label": null
+      },
+      "OI": {
+        "value": 104890.535,
+        "change_24h": null,
+        "group": "Derivate",
+        "label": null
+      },
+      "ORDERBOOK": {
+        "value": 0.0,
+        "change_24h": 39.31,
+        "group": "Derivate",
+        "label": null
+      },
+      "MEMPOOL": {
+        "value": 75677.0,
+        "change_24h": null,
+        "group": "On-Chain",
+        "label": null
+      },
+      "MO30": {
+        "value": -0.38,
+        "change_24h": null,
+        "group": "On-Chain",
+        "label": null
+      },
+      "DXY": {
+        "value": 118.9,
+        "change_24h": -0.24,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "NDX": {
+        "value": 29490.96,
+        "change_24h": -1.68,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "VIX": {
+        "value": 15.19,
+        "change_24h": 6.6,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "US10Y": {
+        "value": 4.72,
+        "change_24h": 0.85,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "SPX": {
+        "value": 7691.76,
+        "change_24h": -0.69,
+        "group": "TradFi/Makro",
+        "label": null
+      }
+    }
+  },
+  {
+    "ts": "2026-08-19T11:38:23Z",
+    "instruments": {
+      "BTCUSD": {
+        "value": 64459,
+        "change_24h": 0.22,
+        "group": "Direkte Korrelation",
+        "label": null
+      },
+      "ETHUSD": {
+        "value": 1922.17,
+        "change_24h": 1.04,
+        "group": "Direkte Korrelation",
+        "label": null
+      },
+      "SOLUSD": {
+        "value": 77.49,
+        "change_24h": 1.54,
+        "group": "Direkte Korrelation",
+        "label": null
+      },
+      "ETHBTC": {
+        "value": 0.02982,
+        "change_24h": 0.82,
+        "group": "Kapitalrotation",
+        "label": null
+      },
+      "BTC.D": {
+        "value": 56.5,
+        "change_24h": null,
+        "group": "Liquidität & Sentiment",
+        "label": null
+      },
+      "USDT.D": {
+        "value": 7.99,
+        "change_24h": null,
+        "group": "Liquidität & Sentiment",
+        "label": null
+      },
+      "F&G": {
+        "value": 46.0,
+        "change_24h": 5.0,
+        "group": "Liquidität & Sentiment",
+        "label": "Fear"
+      },
+      "FUNDING": {
+        "value": 0.0043,
+        "change_24h": null,
+        "group": "Derivate",
+        "label": null
+      },
+      "OI": {
+        "value": 104857.572,
+        "change_24h": null,
+        "group": "Derivate",
+        "label": null
+      },
+      "ORDERBOOK": {
+        "value": 0.0,
+        "change_24h": 63.99,
+        "group": "Derivate",
+        "label": null
+      },
+      "MEMPOOL": {
+        "value": 75783.0,
+        "change_24h": null,
+        "group": "On-Chain",
+        "label": null
+      },
+      "MO30": {
+        "value": -0.4,
+        "change_24h": null,
+        "group": "On-Chain",
+        "label": null
+      },
+      "DXY": {
+        "value": 118.9,
+        "change_24h": -0.24,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "NDX": {
+        "value": 29490.96,
+        "change_24h": -1.68,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "VIX": {
+        "value": 15.19,
+        "change_24h": 6.6,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "US10Y": {
+        "value": 4.72,
+        "change_24h": 0.85,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "SPX": {
+        "value": 7691.76,
+        "change_24h": -0.69,
+        "group": "TradFi/Makro",
+        "label": null
+      }
+    }
+  },
+  {
+    "ts": "2026-08-19T11:44:27Z",
+    "instruments": {
+      "BTCUSD": {
+        "value": 64444,
+        "change_24h": 0.2,
+        "group": "Direkte Korrelation",
+        "label": null
+      },
+      "ETHUSD": {
+        "value": 1921.33,
+        "change_24h": 0.97,
+        "group": "Direkte Korrelation",
+        "label": null
+      },
+      "SOLUSD": {
+        "value": 77.44,
+        "change_24h": 1.44,
+        "group": "Direkte Korrelation",
+        "label": null
+      },
+      "ETHBTC": {
+        "value": 0.029814,
+        "change_24h": 0.77,
+        "group": "Kapitalrotation",
+        "label": null
+      },
+      "BTC.D": {
+        "value": 56.49,
+        "change_24h": null,
+        "group": "Liquidität & Sentiment",
+        "label": null
+      },
+      "USDT.D": {
+        "value": 7.99,
+        "change_24h": null,
+        "group": "Liquidität & Sentiment",
+        "label": null
+      },
+      "F&G": {
+        "value": 46.0,
+        "change_24h": 5.0,
+        "group": "Liquidität & Sentiment",
+        "label": "Fear"
+      },
+      "FUNDING": {
+        "value": 0.0042,
+        "change_24h": null,
+        "group": "Derivate",
+        "label": null
+      },
+      "OI": {
+        "value": 104904.829,
+        "change_24h": null,
+        "group": "Derivate",
+        "label": null
+      },
+      "ORDERBOOK": {
+        "value": 0.0,
+        "change_24h": -18.01,
+        "group": "Derivate",
+        "label": null
+      },
+      "MEMPOOL": {
+        "value": 76895.0,
+        "change_24h": null,
+        "group": "On-Chain",
+        "label": null
+      },
+      "MO30": {
+        "value": -0.44,
+        "change_24h": null,
+        "group": "On-Chain",
+        "label": null
+      },
+      "DXY": {
+        "value": 118.9,
+        "change_24h": -0.24,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "NDX": {
+        "value": 29490.96,
+        "change_24h": -1.68,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "VIX": {
+        "value": 15.19,
+        "change_24h": 6.6,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "US10Y": {
+        "value": 4.72,
+        "change_24h": 0.85,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "SPX": {
+        "value": 7691.76,
+        "change_24h": -0.69,
+        "group": "TradFi/Makro",
+        "label": null
+      }
+    }
+  },
+  {
+    "ts": "2026-08-19T11:50:08Z",
+    "instruments": {
+      "BTCUSD": {
+        "value": 64436,
+        "change_24h": 0.21,
+        "group": "Direkte Korrelation",
+        "label": null
+      },
+      "ETHUSD": {
+        "value": 1920.99,
+        "change_24h": 0.99,
+        "group": "Direkte Korrelation",
+        "label": null
+      },
+      "SOLUSD": {
+        "value": 77.46,
+        "change_24h": 1.6,
+        "group": "Direkte Korrelation",
+        "label": null
+      },
+      "ETHBTC": {
+        "value": 0.029812,
+        "change_24h": 0.78,
+        "group": "Kapitalrotation",
+        "label": null
+      },
+      "BTC.D": {
+        "value": 56.49,
+        "change_24h": null,
+        "group": "Liquidität & Sentiment",
+        "label": null
+      },
+      "USDT.D": {
+        "value": 7.99,
+        "change_24h": null,
+        "group": "Liquidität & Sentiment",
+        "label": null
+      },
+      "F&G": {
+        "value": 46.0,
+        "change_24h": 5.0,
+        "group": "Liquidität & Sentiment",
+        "label": "Fear"
+      },
+      "FUNDING": {
+        "value": 0.0042,
+        "change_24h": null,
+        "group": "Derivate",
+        "label": null
+      },
+      "OI": {
+        "value": 104895.221,
+        "change_24h": null,
+        "group": "Derivate",
+        "label": null
+      },
+      "ORDERBOOK": {
+        "value": 0.0,
+        "change_24h": 70.49,
+        "group": "Derivate",
+        "label": null
+      },
+      "MEMPOOL": {
+        "value": 74902.0,
+        "change_24h": null,
+        "group": "On-Chain",
+        "label": null
+      },
+      "MO30": {
+        "value": -0.43,
+        "change_24h": null,
+        "group": "On-Chain",
+        "label": null
+      },
+      "DXY": {
+        "value": 118.9,
+        "change_24h": -0.24,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "NDX": {
+        "value": 29490.96,
+        "change_24h": -1.68,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "VIX": {
+        "value": 15.19,
+        "change_24h": 6.6,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "US10Y": {
+        "value": 4.72,
+        "change_24h": 0.85,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "SPX": {
+        "value": 7691.76,
+        "change_24h": -0.69,
+        "group": "TradFi/Makro",
+        "label": null
+      }
+    }
+  },
+  {
+    "ts": "2026-08-19T11:55:24Z",
+    "instruments": {
+      "BTCUSD": {
+        "value": 64468,
+        "change_24h": 0.28,
+        "group": "Direkte Korrelation",
+        "label": null
+      },
+      "ETHUSD": {
+        "value": 1921.49,
+        "change_24h": 1.05,
+        "group": "Direkte Korrelation",
+        "label": null
+      },
+      "SOLUSD": {
+        "value": 77.49,
+        "change_24h": 1.62,
+        "group": "Direkte Korrelation",
+        "label": null
+      },
+      "ETHBTC": {
+        "value": 0.029805,
+        "change_24h": 0.77,
+        "group": "Kapitalrotation",
+        "label": null
+      },
+      "BTC.D": {
+        "value": 56.49,
+        "change_24h": null,
+        "group": "Liquidität & Sentiment",
+        "label": null
+      },
+      "USDT.D": {
+        "value": 7.99,
+        "change_24h": null,
+        "group": "Liquidität & Sentiment",
+        "label": null
+      },
+      "F&G": {
+        "value": 46.0,
+        "change_24h": 5.0,
+        "group": "Liquidität & Sentiment",
+        "label": "Fear"
+      },
+      "FUNDING": {
+        "value": 0.0041,
+        "change_24h": null,
+        "group": "Derivate",
+        "label": null
+      },
+      "OI": {
+        "value": 104778.63,
+        "change_24h": null,
+        "group": "Derivate",
+        "label": null
+      },
+      "ORDERBOOK": {
+        "value": 0.0,
+        "change_24h": 81.37,
+        "group": "Derivate",
+        "label": null
+      },
+      "MEMPOOL": {
+        "value": 75903.0,
+        "change_24h": null,
+        "group": "On-Chain",
+        "label": null
+      },
+      "MO30": {
+        "value": -0.38,
+        "change_24h": null,
+        "group": "On-Chain",
+        "label": null
+      },
+      "DXY": {
+        "value": 118.9,
+        "change_24h": -0.24,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "NDX": {
+        "value": 29490.96,
+        "change_24h": -1.68,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "VIX": {
+        "value": 15.19,
+        "change_24h": 6.6,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "US10Y": {
+        "value": 4.72,
+        "change_24h": 0.85,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "SPX": {
+        "value": 7691.76,
+        "change_24h": -0.69,
+        "group": "TradFi/Makro",
+        "label": null
+      }
+    }
+  },
+  {
+    "ts": "2026-08-19T12:49:32Z",
+    "instruments": {
+      "BTCUSD": {
+        "value": 64880,
+        "change_24h": 1.08,
+        "group": "Direkte Korrelation",
+        "label": null
+      },
+      "ETHUSD": {
+        "value": 1933.59,
+        "change_24h": 1.86,
+        "group": "Direkte Korrelation",
+        "label": null
+      },
+      "SOLUSD": {
+        "value": 78.07,
+        "change_24h": 2.45,
+        "group": "Direkte Korrelation",
+        "label": null
+      },
+      "ETHBTC": {
+        "value": 0.029803,
+        "change_24h": 0.77,
+        "group": "Kapitalrotation",
+        "label": null
+      },
+      "BTC.D": {
+        "value": 56.57,
+        "change_24h": null,
+        "group": "Liquidität & Sentiment",
+        "label": null
+      },
+      "USDT.D": {
+        "value": 7.95,
+        "change_24h": null,
+        "group": "Liquidität & Sentiment",
+        "label": null
+      },
+      "F&G": {
+        "value": 46.0,
+        "change_24h": 5.0,
+        "group": "Liquidität & Sentiment",
+        "label": "Fear"
+      },
+      "FUNDING": {
+        "value": 0.0041,
+        "change_24h": null,
+        "group": "Derivate",
+        "label": null
+      },
+      "OI": {
+        "value": 105095.449,
+        "change_24h": null,
+        "group": "Derivate",
+        "label": null
+      },
+      "ORDERBOOK": {
+        "value": 0.0,
+        "change_24h": -94.25,
+        "group": "Derivate",
+        "label": null
+      },
+      "MEMPOOL": {
+        "value": 76200.0,
+        "change_24h": null,
+        "group": "On-Chain",
+        "label": null
+      },
+      "MO30": {
+        "value": 0.28,
+        "change_24h": null,
+        "group": "On-Chain",
+        "label": null
+      },
+      "DXY": {
+        "value": 118.9,
+        "change_24h": -0.24,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "NDX": {
+        "value": 29490.96,
+        "change_24h": -1.68,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "VIX": {
+        "value": 15.19,
+        "change_24h": 6.6,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "US10Y": {
+        "value": 4.72,
+        "change_24h": 0.85,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "SPX": {
+        "value": 7691.76,
+        "change_24h": -0.69,
+        "group": "TradFi/Makro",
+        "label": null
+      }
+    }
+  },
+  {
+    "ts": "2026-08-19T13:09:32Z",
+    "instruments": {
+      "BTCUSD": {
+        "value": 64760,
+        "change_24h": 0.99,
+        "group": "Direkte Korrelation",
+        "label": null
+      },
+      "ETHUSD": {
+        "value": 1933.16,
+        "change_24h": 1.96,
+        "group": "Direkte Korrelation",
+        "label": null
+      },
+      "SOLUSD": {
+        "value": 78.2,
+        "change_24h": 2.75,
+        "group": "Direkte Korrelation",
+        "label": null
+      },
+      "ETHBTC": {
+        "value": 0.029851,
+        "change_24h": 0.96,
+        "group": "Kapitalrotation",
+        "label": null
+      },
+      "BTC.D": {
+        "value": 56.54,
+        "change_24h": null,
+        "group": "Liquidität & Sentiment",
+        "label": null
+      },
+      "USDT.D": {
+        "value": 7.96,
+        "change_24h": null,
+        "group": "Liquidität & Sentiment",
+        "label": null
+      },
+      "F&G": {
+        "value": 46.0,
+        "change_24h": 5.0,
+        "group": "Liquidität & Sentiment",
+        "label": "Fear"
+      },
+      "FUNDING": {
+        "value": 0.0045,
+        "change_24h": null,
+        "group": "Derivate",
+        "label": null
+      },
+      "OI": {
+        "value": 105489.854,
+        "change_24h": null,
+        "group": "Derivate",
+        "label": null
+      },
+      "ORDERBOOK": {
+        "value": 0.0,
+        "change_24h": 89.85,
+        "group": "Derivate",
+        "label": null
+      },
+      "MEMPOOL": {
+        "value": 77326.0,
+        "change_24h": null,
+        "group": "On-Chain",
+        "label": null
+      },
+      "MO30": {
+        "value": 0.1,
+        "change_24h": null,
+        "group": "On-Chain",
+        "label": null
+      },
+      "DXY": {
+        "value": 118.9,
+        "change_24h": -0.24,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "NDX": {
+        "value": 29490.96,
+        "change_24h": -1.68,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "VIX": {
+        "value": 15.19,
+        "change_24h": 6.6,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "US10Y": {
+        "value": 4.72,
+        "change_24h": 0.85,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "SPX": {
+        "value": 7691.76,
+        "change_24h": -0.69,
+        "group": "TradFi/Makro",
+        "label": null
+      }
+    }
+  },
+  {
+    "ts": "2026-08-19T13:16:30Z",
+    "instruments": {
+      "BTCUSD": {
+        "value": 64908,
+        "change_24h": 1.22,
+        "group": "Direkte Korrelation",
+        "label": null
+      },
+      "ETHUSD": {
+        "value": 1935.56,
+        "change_24h": 2.08,
+        "group": "Direkte Korrelation",
+        "label": null
+      },
+      "SOLUSD": {
+        "value": 78.34,
+        "change_24h": 2.97,
+        "group": "Direkte Korrelation",
+        "label": null
+      },
+      "ETHBTC": {
+        "value": 0.02982,
+        "change_24h": 0.85,
+        "group": "Kapitalrotation",
+        "label": null
+      },
+      "BTC.D": {
+        "value": 56.54,
+        "change_24h": null,
+        "group": "Liquidität & Sentiment",
+        "label": null
+      },
+      "USDT.D": {
+        "value": 7.96,
+        "change_24h": null,
+        "group": "Liquidität & Sentiment",
+        "label": null
+      },
+      "F&G": {
+        "value": 46.0,
+        "change_24h": 5.0,
+        "group": "Liquidität & Sentiment",
+        "label": "Fear"
+      },
+      "FUNDING": {
+        "value": 0.0047,
+        "change_24h": null,
+        "group": "Derivate",
+        "label": null
+      },
+      "OI": {
+        "value": 105424.087,
+        "change_24h": null,
+        "group": "Derivate",
+        "label": null
+      },
+      "ORDERBOOK": {
+        "value": 0.0,
+        "change_24h": 73.62,
+        "group": "Derivate",
+        "label": null
+      },
+      "MEMPOOL": {
+        "value": 78698.0,
+        "change_24h": null,
+        "group": "On-Chain",
+        "label": null
+      },
+      "MO30": {
+        "value": 0.3,
+        "change_24h": null,
+        "group": "On-Chain",
+        "label": null
+      },
+      "DXY": {
+        "value": 118.9,
+        "change_24h": -0.24,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "NDX": {
+        "value": 29490.96,
+        "change_24h": -1.68,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "VIX": {
+        "value": 15.19,
+        "change_24h": 6.6,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "US10Y": {
+        "value": 4.72,
+        "change_24h": 0.85,
+        "group": "TradFi/Makro",
+        "label": null
+      },
+      "SPX": {
+        "value": 7691.76,
+        "change_24h": -0.69,
+        "group": "TradFi/Makro",
+        "label": null
+      }
+    }
   }
 ]
