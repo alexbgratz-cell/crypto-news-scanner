@@ -5677,7 +5677,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Injective hat für seinen institutionellen Dienstleistungsarm die SEC-Registrierung als Transfer Agent erhalten. Die Zulassung stärkt die institutionelle Akzeptanz tokenisierter Wertpapiere auf der Injective-Blockchain. Injective profitiert direkt von der regulatorischen Anerkennung, was die Nachfrage nach dem Netzwerk weiter erhöhen dürfte."
+      "summary": "Injective hat für seinen institutionellen Dienstleistungsarm die SEC-Registrierung als Transfer Agent erhalten. Die Zulassung stärkt die institutionelle Akzeptanz tokenisierter Wertpapiere auf der Injective-Blockchain. Injective profitiert direkt von der regulatorischen Anerkennung, was die Nachfrage nach dem Netzwerk weiter erhöhen dürfte.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-19T15:52:02Z"
     },
     {
       "id": "https://cointelegraph.com/magazine/fake-ai-victims-are-scam-baiting-600000-fraudsters-every-month",
@@ -5726,7 +5728,9 @@
         "ETHUSD"
       ],
       "entities": [],
-      "summary": "Die SEC hat Klarheit zur Regulierung von Kryptowährungen geschaffen. Das reduziert Rechtsunsicherheit für Marktteilnehmer und stärkt das Vertrauen in den Sektor. Eine positivere Marktstimmung ist wahrscheinlich."
+      "summary": "Die SEC hat Klarheit zur Regulierung von Kryptowährungen geschaffen. Das reduziert Rechtsunsicherheit für Marktteilnehmer und stärkt das Vertrauen in den Sektor. Eine positivere Marktstimmung ist wahrscheinlich.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-19T15:52:02Z"
     },
     {
       "id": "https://decrypt.co/?p=375935",
@@ -5759,7 +5763,9 @@
         "OpenAI",
         "Replit"
       ],
-      "summary": "OpenAI und Replit erweitern den Zugang zur Softwareentwicklung mit GPT-5.6 Luna. Entwickler können das neue Modell direkt in Replit nutzen, was KI-gestützte Programmierarbeit zugänglicher macht und die Verbreitung beschleunigt. Die Integration dürfte die Akzeptanz von GPT-5.6 Luna in Entwickler-Workflows deutlich erhöhen."
+      "summary": "OpenAI und Replit erweitern den Zugang zur Softwareentwicklung mit GPT-5.6 Luna. Entwickler können das neue Modell direkt in Replit nutzen, was KI-gestützte Programmierarbeit zugänglicher macht und die Verbreitung beschleunigt. Die Integration dürfte die Akzeptanz von GPT-5.6 Luna in Entwickler-Workflows deutlich erhöhen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-19T15:52:02Z"
     },
     {
       "id": "https://huggingface.co/blog/LiquidAI/qad",
@@ -5775,7 +5781,9 @@
       "entities": [
         "LiquidAI"
       ],
-      "summary": "LiquidAI veröffentlicht LFM2.5 Q4_0-Checkpoints aus Quantization-Aware Distillation über den Hugging Face Blog. Die quantisierten Gewichte ermöglichen effizientere Inferenz und senken Ressourcenanforderungen für lokale oder kostensensitive KI-Bereitstellungen. Dadurch dürfte die praktische Nutzung der LFM2.5-Modelle in schlankeren Umgebungen zunehmen und das Open-Weightes-Ökosystem gestärkt werden."
+      "summary": "LiquidAI veröffentlicht LFM2.5 Q4_0-Checkpoints aus Quantization-Aware Distillation über den Hugging Face Blog. Die quantisierten Gewichte ermöglichen effizientere Inferenz und senken Ressourcenanforderungen für lokale oder kostensensitive KI-Bereitstellungen. Dadurch dürfte die praktische Nutzung der LFM2.5-Modelle in schlankeren Umgebungen zunehmen und das Open-Weightes-Ökosystem gestärkt werden.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-19T15:52:02Z"
     },
     {
       "id": "https://techcrunch.com/?p=3154356",
@@ -5789,7 +5797,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "TerraPower will mit einem Kernreaktor KI-Rechenzentren mit Strom versorgen; als besonderer Hebel wird eine spezielle Technologie des Reaktors genannt. Der immense Energiebedarf von KI-Rechenzentren gilt als Engpass, daher könnte Kernenergie die Stromversorgung der Branche verlässlicher machen. Die konkrete Bedeutung hängt davon ab, ob und wann der Reaktor tatsächlich ans Netz geht und skalierbar Strom liefert."
+      "summary": "TerraPower will mit einem Kernreaktor KI-Rechenzentren mit Strom versorgen; als besonderer Hebel wird eine spezielle Technologie des Reaktors genannt. Der immense Energiebedarf von KI-Rechenzentren gilt als Engpass, daher könnte Kernenergie die Stromversorgung der Branche verlässlicher machen. Die konkrete Bedeutung hängt davon ab, ob und wann der Reaktor tatsächlich ans Netz geht und skalierbar Strom liefert.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-19T15:52:02Z"
     },
     {
       "id": "https://techcrunch.com/?p=3154279",
@@ -5805,7 +5815,9 @@
       "entities": [
         "AMZN"
       ],
-      "summary": "Amazon stellt seinen KI-Assistenten Alexa+ auf Fire TV kostenlos bereit, ein Prime-Abo ist nicht mehr nötig. Damit senkt das Unternehmen die Einstiegshürde für den Assistenten und stärkt seine Marktposition im Smart-TV-Bereich. Der Schritt dürfte die Verbreitung von Alexa+ auf Fire-TV-Geräten deutlich erhöhen."
+      "summary": "Amazon stellt seinen KI-Assistenten Alexa+ auf Fire TV kostenlos bereit, ein Prime-Abo ist nicht mehr nötig. Damit senkt das Unternehmen die Einstiegshürde für den Assistenten und stärkt seine Marktposition im Smart-TV-Bereich. Der Schritt dürfte die Verbreitung von Alexa+ auf Fire-TV-Geräten deutlich erhöhen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-19T15:52:02Z"
     },
     {
       "id": "https://techcrunch.com/?p=3154226",
@@ -5821,7 +5833,9 @@
       "entities": [
         "Calendly"
       ],
-      "summary": "Calendly bringt ein neues KI-gestütztes Meeting-Notiz-Feature auf den Markt und steigt damit in das stark umkämpfte Segment der Meeting-Note-Tools ein. Das erhöht den Wettbewerbsdruck auf etablierte Anbieter von Meeting-Assistenten. Calendly erweitert sein Produktportfolio und versucht sich so stärker als KI-Produktanbieter zu positionieren."
+      "summary": "Calendly bringt ein neues KI-gestütztes Meeting-Notiz-Feature auf den Markt und steigt damit in das stark umkämpfte Segment der Meeting-Note-Tools ein. Das erhöht den Wettbewerbsdruck auf etablierte Anbieter von Meeting-Assistenten. Calendly erweitert sein Produktportfolio und versucht sich so stärker als KI-Produktanbieter zu positionieren.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-19T15:52:02Z"
     },
     {
       "id": "1T57vZE1VvtZKQQXLSMrX6",
@@ -6029,6 +6043,18 @@
         "https://cointelegraph.com/news/ripple-raises-275m-us-prime-brokerage",
         "fafd29fc-f95e-52af-b0ce-404ee235e720",
         "cf126780-478f-512d-bfdc-2a65f6577681"
+      ]
+    },
+    {
+      "at": "2026-08-19T15:52:02Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/injective-sec-transfer-agent-tokenized-securities-recordkeeping",
+        "https://decrypt.co/?p=375949",
+        "https://techcrunch.com/?p=3154279",
+        "https://openai.com/index/replit",
+        "https://huggingface.co/blog/LiquidAI/qad",
+        "https://techcrunch.com/?p=3154356",
+        "https://techcrunch.com/?p=3154226"
       ]
     }
   ],
