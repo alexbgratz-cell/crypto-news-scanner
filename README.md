@@ -28,6 +28,7 @@ The private scanner exports data through explicit field allowlists. GitHub Pages
 - 📊 Märkte — instrument tiles with sparklines from the scanner snapshot
 - 🔗 Links — curated trading pages, opened directly in a new tab
 - 📺 Live — external pages embedded live (Coinglass liquidation heatmap, liquidations, funding rates; TradingView BTC chart). The CSP `frame-src` allowlist is limited to `www.coinglass.com` and `s.tradingview.com`.
+- 🎓 Lernen — explanations for scoring, the market instruments, app usage and live views (data in `data/learn.json`)
 
 ## Disclaimer
 
