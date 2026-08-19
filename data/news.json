@@ -1,5 +1,61 @@
 [
   {
+    "title": "Scaramucci points to $100,000 bitcoin as ‘magic number’ for OG sellers, eyes AI-blockchain convergence",
+    "url": "https://www.theblock.co/news/markets/2026-08-19-scaramucci-points-to-100000-bitcoin-as-magic-number-for-og-sellers-eyes-ai-blockchain-convergence-412190",
+    "source": "The Block",
+    "published": "2026-08-19T10:47:39Z",
+    "stream": "crypto",
+    "score": 5,
+    "category": "Other",
+    "sentiment": "bullish",
+    "summary": "Anthony Scaramucci nennt 100.000 US-Dollar als „magische Zahl“ für Verkäufe langjähriger Bitcoin-Halter; John Darsie von SkyBridge sieht die veränderte Inhaberbasis als Teil eines Reifeprozesses. Die Aussage deutet auf einen geringeren Verkaufsdruck alter Bestände bei aktuellen Kursen hin. Erreicht Bitcoin die Marke von 100.000 US-Dollar, könnte dort verstärkter Angebotsdruck durch Alt-Halter entstehen.",
+    "instruments": [
+      "BTCUSD"
+    ],
+    "entities": []
+  },
+  {
+    "title": "Nexo launches regulated crypto-backed credit in Australia",
+    "url": "https://cointelegraph.com/news/nexo-launches-crypto-backed-credit-australia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph.com News",
+    "published": "2026-08-19T10:20:27Z",
+    "stream": "crypto",
+    "score": 6,
+    "category": "Regulation",
+    "sentiment": "bullish",
+    "summary": "Nexo hat in Australien regulierte, krypto-besicherte Kreditlinien eingeführt, mit denen Nutzer Liquidität in Australischen Dollar oder Stablecoins erhalten können, indem sie gegen ihre digitalen Vermögenswerte leihen. Das Angebot erweitert den Zugang zu regulierten Krypto-Krediten in einem wichtigen Markt und stärkt die institutionelle Akzeptanz des Sektors. Der Schritt dürfte das Vertrauen in regulierte Krypto-Finanzprodukte erhöhen; ähnliche Angebote anderer Anbieter in der Region sind wahrscheinlich.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "Rain CEO says stablecoin payments reach more than 100,000 merchants without them knowing it",
+    "url": "https://www.theblock.co/news/business/2026-08-19-rain-ceo-says-stablecoin-payments-reach-more-than-100000-merchants-without-them-knowing-it-412184",
+    "source": "The Block",
+    "published": "2026-08-19T10:09:40Z",
+    "stream": "crypto",
+    "score": 6,
+    "category": "Other",
+    "sentiment": "bullish",
+    "summary": "Rain-CEO Farooq Malik sagte, mehr als 100.000 Händler akzeptierten Stablecoin-Zahlungen, ohne es zu wissen, abgerechnet über Visa in drei Tagen. Die Aussage zeigt wachsende reale Nutzung von Stablecoins im Zahlungsverkehr und stärkt die Adoption von Krypto-Infrastruktur außerhalb von Börsen. Die weitere Verbreitung dürfte die Nachfrage nach Stablecoin-Liquidität und die Stablecoin-Dominanz am Markt stützen.",
+    "instruments": [
+      "USDT.D"
+    ],
+    "entities": []
+  },
+  {
+    "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+    "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+    "source": "AI News & Artificial Intelligence | TechCrunch",
+    "published": "2026-08-19T10:00:00Z",
+    "stream": "ai",
+    "score": 6,
+    "category": "Business & Funding",
+    "sentiment": "bullish",
+    "summary": "Relativity Networks hat 22 Millionen US-Dollar eingesammelt, um Hollow-Core-Faser für Rechenzentren voranzubringen, die Daten 30 Prozent schneller überträgt als herkömmliche Glasfaser. Die Technologie kann Bandbreite und Latenz in Rechenzentren verbessern, die für KI-Workloads immer wichtiger werden. Mit dem Kapital dürfte das Unternehmen den kommerziellen Einsatz der Faser-Technologie in Rechenzentren ausbauen.",
+    "instruments": [],
+    "entities": []
+  },
+  {
     "title": "Winklevoss-Backed Cypherpunk Launches 'World's Largest' Zcash Mining Fleet",
     "url": "https://decrypt.co/375926/winklevoss-cypherpunk-zcash-mining-fleet",
     "source": "Decrypt",
@@ -51,6 +107,19 @@
     "instruments": [
       "BTCUSD"
     ],
+    "entities": []
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph.com News",
+    "published": "2026-08-19T05:53:49Z",
+    "stream": "crypto",
+    "score": 3,
+    "category": "Other",
+    "sentiment": "neutral",
+    "summary": "Cointelegraph hat seine tägliche Übersichts-Rubrik veröffentlicht, die die wichtigsten Trends und Ereignisse zu Bitcoin, Blockchain, DeFi, Web3 und Krypto-Regulierung zusammenfasst. Der Artikel enthält keine konkreten Fakten, Zahlen oder Ereignisse, daher ist keine direkte Marktbewegung ableitbar. Es ist mit keiner unmittelbaren Kursreaktion zu rechnen; der Beitrag dient lediglich als tagesaktueller Überblick.",
+    "instruments": [],
     "entities": []
   },
   {
@@ -1327,74 +1396,5 @@
     "entities": [
       "OPENAI"
     ]
-  },
-  {
-    "title": "OpenAI joins PORTS-Pike project",
-    "url": "https://openai.com/index/openai-joins-ports-pike-project",
-    "source": "OpenAI News",
-    "published": "2026-08-17T05:00:00Z",
-    "stream": "ai",
-    "score": 6,
-    "category": "Business & Funding",
-    "sentiment": "bullish",
-    "summary": "OpenAI ist dem PORTS-Pike-Projekt beigetreten und erweitert damit seine Beteiligung an Infrastrukturvorhaben. Diese Partnerschaft stärkt OpenAIs Position im Bereich großer Infrastrukturprojekte und signalisiert weiteres Wachstum der KI-Infrastruktur. Die nächste strategische Entwicklung hängt davon ab, wie sich die verstärkte Ausrichtung auf große Projekte auf das Unternehmen auswirkt.",
-    "instruments": [],
-    "entities": [
-      "OPENAI"
-    ]
-  },
-  {
-    "title": "Chainalysis sues US over $95M ICE contract with TRM Labs",
-    "url": "https://cointelegraph.com/news/chainalysis-sues-us-over-ices-sole-source-contract-with-trm-labs",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-17T03:42:48Z",
-    "stream": "crypto",
-    "score": 7,
-    "category": "Regulation",
-    "sentiment": "neutral",
-    "summary": "Chainalysis klagt gegen die US-Regierung wegen des Alleinauftrags im Wert von 95 Millionen Dollar der ICE mit dem Konkurrenten TRM Labs. Dieser Rechtsstreit verschärft den Wettbewerb in der Blockchain-Analyse für Regierungsverträge und hinterfragt die Vergabeprozesse krypto-bezogener Aufträge durch US-Behörden. Die versiegelte Klageschrift wird zukünftige Bundesbehörden bei der Vergabepraxis direkt treffen.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "New policy ideas for the Intelligence Age",
-    "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-    "source": "OpenAI News",
-    "published": "2026-08-17T03:15:00Z",
-    "stream": "ai",
-    "score": 6,
-    "category": "Regulation & Policy",
-    "sentiment": "neutral",
-    "summary": "OpenAI finanziert 14 unabhängige Projekte zur Erforschung neuer KI-Politikideen, um wirtschaftliche Chancen zu erweitern und die gesellschaftliche Resilienz im Zeitalter der Intelligenz zu stärken. Diese Initiative positioniert OpenAI als zentralen Akteur in den Debatten über KI-Politik und beeinflusst direkt die künftige Ausgestaltung von Regulierung sowie Wirtschaftspolitik im KI-Bereich. Die finanzielle Unterstützung wird die politische Agenda und die regulatorische Landschaft für künstliche Intelligenz konkret prägen.",
-    "instruments": [],
-    "entities": [
-      "OPENAI"
-    ]
-  },
-  {
-    "title": "Data of 54,000 wallet users leaked, CLARITY odds just 10%: Hodler's Digest",
-    "url": "https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-16T23:54:50Z",
-    "stream": "crypto",
-    "score": 5,
-    "category": "Hack & Security",
-    "sentiment": "neutral",
-    "summary": "Ein Hodler's Digest warnt vor Datenlecks bei 54.000 Trezor- und SafePal-Wallet-Nutzern, was diese einem hohen Phishing-Risiko aussetzt. Gleichzeitig liegt die Wahrscheinlichkeit für das CLARITY-Gesetz trotz eines Weißen-Haus-Treffens nur bei 10 Prozent. Dies zwingt die Branche in eine Phase fortbestehender Instabilität durch regulatorische Unsicherheit bezüglich Stablecoins.\n\nDie niedrigen CLARITY-Chancen belasten kurzfristig die Regulierungsdynamik, während Wallet-Anbieter konkrete Sicherheitsmaßnahmen gegen die Lecks implementieren müssen. Erhöhte Volatilität ist wahrscheinlich, da sowohl Sicherheitslücken als auch fehlende klare Regeln die Infrastruktur der Krypto-Nutzer direkt bedrohen. Die nächste Wegmarke ist die Reaktion der Anbieter auf die Sicherheitskrise und das Scheitern des CLARITY-Gesetzes.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Prediction market Novig sues Wisconsin AG in latest spat over sports contracts",
-    "url": "https://www.theblock.co/news/business/2026-08-16-prediction-market-novig-sues-wisconsin-ag-in-latest-spat-over-sports-contracts-411938",
-    "source": "The Block",
-    "published": "2026-08-16T21:40:20Z",
-    "stream": "crypto",
-    "score": 7,
-    "category": "Regulation",
-    "sentiment": "neutral",
-    "summary": "Novig verklagt den Generalstaatsanwalt von Wisconsin als Teil seiner seit dem 4. August laufenden Kampagne gegen Beamte in fünf Bundesstaaten. Dieser Schritt fällt zeitgleich mit der kürzlich bekannt gegebenen Partnerschaft zwischen Novig und den New York Mets. Die Klagen stellen eine aggressive Herausforderung staatlicher Regulierungsbehörden im Bereich der Sportwetten dar. Dies könnte die regulatorische Landschaft für alle Anbieter solcher Dienste beeinflussen. Erhöhte Unsicherheit über die rechtliche Grundlage dieses Sektors ist wahrscheinlich.",
-    "instruments": [],
-    "entities": []
   }
 ]
