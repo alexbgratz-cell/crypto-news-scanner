@@ -24,10 +24,10 @@ The private scanner exports data through explicit field allowlists. GitHub Pages
 
 ## Dashboard tabs
 
-- 🏠 Home — latest AI market report (data/`market-report.json`, generated at 09:00 / 15:30 / 22:00, refresh button via ntfy relay with 5-min cooldown) + live market values for all instruments
+- 🏠 Home — latest AI market report (data/`market-report.json`, generated at 09:00 / 15:30 / 22:00, refresh button via ntfy relay with 5-min cooldown) + the report's numbers table (Instrument | Wert | 24h)
 - 🪙 Crypto / 🤖 AI — scored news with German summaries (WAS / WIRKUNG / KONSEQUENZ), filters and original-source links. Default score floor per stream: Crypto ≥ 8, AI ≥ 7 (adjustable per tab)
 - 🎓 Lernen — explanations for scoring, the market instruments, app usage and live views (data in `data/learn.json`)
-- 📺 Live — external pages embedded live (Coinglass liquidation heatmap, liquidations, funding rates; TradingView BTC chart). The CSP `frame-src` allowlist is limited to `www.coinglass.com` and `s.tradingview.com`.
+- 📺 Live — external pages embedded live (Coinglass liquidation heatmap, liquidations, funding rates, order book; TradingView BTC chart). The CSP `frame-src` allowlist is limited to `www.coinglass.com` and `s.tradingview.com`.
 - 🔗 Links — curated trading pages, opened directly in a new tab
 
 ## Disclaimer

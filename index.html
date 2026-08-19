@@ -300,6 +300,7 @@ const EMBEDS = [
   { id: "cg-liq", emoji: "🔥", label: "Liquidations-Heatmap", url: "https://www.coinglass.com/pro/futures/LiquidationHeatMap", note: "Coinglass · Liquidations-Level je Preiszone" },
   { id: "cg-liqall", emoji: "💥", label: "Live-Liquidationen", url: "https://www.coinglass.com/liquidations", note: "Coinglass · alle Coins, laufende Liquidationen" },
   { id: "cg-funding", emoji: "💸", label: "Funding Rates", url: "https://www.coinglass.com/FundingRate", note: "Coinglass · Finanzierungsraten je Börse" },
+  { id: "cg-orderbook", emoji: "📒", label: "Order Book", url: "https://www.coinglass.com/mergev2/BTC-USDT", note: "Coinglass · Order-Depth BTC/USDT (Market Depth)" },
   { id: "tv-chart", emoji: "📈", label: "BTC-Chart", url: "https://s.tradingview.com/widgetembed/?symbol=BINANCE%3ABTCUSDT&interval=60&theme=dark&style=1&locale=de_DE&hideideas=1&withdateranges=1", note: "TradingView · BTC/USDT 1h (offizielles Widget)" },
 ];
 let currentEmbed = "cg-liq";
@@ -357,7 +358,7 @@ function reportNumbersTable(numbers) {
     const d = { value: n.value, change_24h: n.change, label: n.label, group: n.group };
     return `
       <tr>
-        <td class="sym">${esc(n.sym)}${n.label ? ` <span class="grp">${esc(n.label)}</span>` : ""}${n.group ? `<div class="grp">${esc(n.group)}</div>` : ""}</td>
+        <td class="sym">${esc(n.sym)}${n.label ? ` <span class="grp">${esc(n.label)}</span>` : ""}</td>
         <td class="val">${displayVal(n.sym, d)}</td>
         <td class="chg">${displayChg(n.sym, d)}</td>
       </tr>`;
@@ -388,8 +389,6 @@ async function renderHome() {
     ${rep && rep.numbers && rep.numbers.length ? `
       <div class="section-title" style="margin-top:20px">📊 Zahlen</div>
       ${reportNumbersTable(rep.numbers)}` : ""}
-    <div class="section-title" style="margin-top:20px">⚡ Live-Marktwerte</div>
-    <div id="homeTiles"></div>
     <div class="links-note" style="margin-top:12px">Der Bericht wird aus dem aktuellen Snapshot, dem 12h-Verlauf und den Top-Nachrichten erstellt — KI-Einordnung, kein Finanzberater.</div>`;
   const btn = $("#repNowBtn");
   if (btn) {
@@ -425,23 +424,6 @@ async function renderHome() {
       b.textContent = "🔄 Neuen Marktbericht anfordern";
     });
   }
-  try {
-    const snap = await (await fetch("./data/snapshot.json", { cache: "no-store" })).json();
-    const inst = snap.instruments || {};
-    const groups = {};
-    for (const [sym, data] of Object.entries(inst)) {
-      const grp = data.group || "–";
-      (groups[grp] = groups[grp] || []).push([sym, data]);
-    }
-    $("#homeTiles").innerHTML = Object.entries(groups).map(([grp, items]) => `
-      <div class="section-title" style="margin-top:14px">${esc(grp)}</div>
-      <div class="grid">${items.map(([sym, d]) => `
-        <div class="tile">
-          <div class="sym">${esc(sym)}${d.label ? ` <span class="cat">${esc(d.label)}</span>` : ""}</div>
-          <div class="val">${displayVal(sym, d)}</div>
-          <div class="chg">${displayChg(sym, d)}</div>
-        </div>`).join("")}</div>`).join("");
-  } catch {}
 }
 
 async function loadCategories() {

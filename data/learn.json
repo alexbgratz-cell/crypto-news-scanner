@@ -195,6 +195,10 @@
     {
      "title": "Datenschutz-Hinweis",
      "body": "In den eingebetteten Seiten gelten die Cookie- und Tracking-Regeln des jeweiligen Anbieters (Coinglass / TradingView) — nicht die dieser App."
+    },
+    {
+     "title": "Order Book (Coinglass)",
+     "body": "Das Order Book zeigt die laufenden Kauf- und Verkaufsorders für BTC/USDT als „Market Depth“ — gebündelt über die großen Börsen. Tiefe Bietschichten (grün) = viel Kaufinteresse darunter, tiefe Askschichten (rot) = viel Verkaufsdruck darüber. Sprünge in der Tiefe wirken oft als Unterstützung bzw. Widerstand."
     }
    ]
   }
