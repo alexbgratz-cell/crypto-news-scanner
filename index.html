@@ -126,7 +126,6 @@
   <div class="tab active" data-tab="home">🏠 Home</div>
   <div class="tab" data-tab="crypto">🪙 Crypto</div>
   <div class="tab" data-tab="ai">🤖 AI</div>
-  <div class="tab" data-tab="market">📊 Märkte</div>
   <div class="tab" data-tab="learn">🎓 Lernen</div>
   <div class="tab" data-tab="live">📺 Live</div>
   <div class="tab" data-tab="links">🔗 Links</div>
@@ -270,48 +269,6 @@ function displayChg(sym, d) {
   }
   return fmtChg(d.change_24h);
 }
-async function loadMarket() {
-  const [snap, hist] = await Promise.all([
-    fetch("./data/snapshot.json", { cache: "no-store" }).then((r) => r.json()),
-    fetch("./data/history.json", { cache: "no-store" }).then((r) => r.json()),
-  ]);
-  const inst = snap.instruments || {};
-  const el = $("#content");
-  const groups = {};
-  for (const [sym, data] of Object.entries(inst)) {
-    const grp = data.group || "–";
-    (groups[grp] = groups[grp] || []).push([sym, data]);
-  }
-  el.innerHTML = Object.entries(groups).map(([grp, items]) => `
-    <div class="section-title">${esc(grp)}</div>
-    <div class="grid">${items.map(([sym, d]) => `
-      <div class="tile">
-        <div class="sym">${esc(sym)}${d.label ? ` <span class="cat">${esc(d.label)}</span>` : ""}</div>
-        <div class="val">${displayVal(sym, d)}</div>
-        <div class="chg">${displayChg(sym, d)}</div>
-        ${sparkline(sym, hist)}
-        <div class="grp">${esc(grp)}</div>
-      </div>`).join("")}</div>`).join("");
-}
-function sparkline(sym, hist) {
-  const pts = hist.map((h) => (h.instruments[sym] || {}).value)
-    .filter((v) => v !== null && v !== undefined);
-  const W = 150, H = 36;
-  if (pts.length < 3) {
-    return `<svg class="spark" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none">
-      <line x1="4" y1="${H / 2}" x2="${W - 4}" y2="${H / 2}" stroke="#21262d" stroke-width="1.5" stroke-dasharray="4 4"/>
-    </svg>`;
-  }
-  const min = Math.min(...pts), max = Math.max(...pts), range = max - min || 1;
-  const coords = pts.map((v, i) => `${(i / (pts.length - 1)) * (W - 8) + 4},${H - 5 - ((v - min) / range) * (H - 10)}`);
-  const color = pts[pts.length - 1] >= pts[0] ? "#3fb950" : "#f85149";
-  const area = `4,${H - 4} ${coords.join(" ")} ${W - 4},${H - 4}`;
-  return `<svg class="spark" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none">
-    <polygon class="area" points="${area}"/>
-    <polyline points="${coords.join(" ")}" stroke="${color}"/>
-  </svg>`;
-}
-
 async function loadLinks() {
   const el = $("#content");
   let data;
@@ -431,9 +388,8 @@ async function renderHome() {
     ${rep && rep.numbers && rep.numbers.length ? `
       <div class="section-title" style="margin-top:20px">📊 Zahlen</div>
       ${reportNumbersTable(rep.numbers)}` : ""}
-    ${!(rep && rep.numbers && rep.numbers.length) ? `
-      <div class="section-title" style="margin-top:20px">⚡ Aktuelle Marktwerte</div>
-      <div id="homeTiles"></div>` : ""}
+    <div class="section-title" style="margin-top:20px">⚡ Live-Marktwerte</div>
+    <div id="homeTiles"></div>
     <div class="links-note" style="margin-top:12px">Der Bericht wird aus dem aktuellen Snapshot, dem 12h-Verlauf und den Top-Nachrichten erstellt — KI-Einordnung, kein Finanzberater.</div>`;
   const btn = $("#repNowBtn");
   if (btn) {
@@ -471,14 +427,20 @@ async function renderHome() {
   }
   try {
     const snap = await (await fetch("./data/snapshot.json", { cache: "no-store" })).json();
-    const pick = ["BTCUSD", "ETHUSD", "SOLUSD", "F&G", "DXY", "NDX"];
-    const rows = pick.map((sym) => {
-      const d = (snap.instruments || {})[sym] || {};
-      const val = sym === "F&G" ? `${fmtNum(d.value)} · ${esc(d.label || "")}` : fmtNum(d.value);
-      const chg = d.change_24h !== null && d.change_24h !== undefined ? fmtChg(d.change_24h) : "";
-      return `<div class="home-tile"><div class="sym">${esc(sym)}</div><div class="val">${val}</div><div class="chg">${chg}</div></div>`;
-    }).join("");
-    $("#homeTiles").innerHTML = `<div class="grid">${rows}</div>`;
+    const inst = snap.instruments || {};
+    const groups = {};
+    for (const [sym, data] of Object.entries(inst)) {
+      const grp = data.group || "–";
+      (groups[grp] = groups[grp] || []).push([sym, data]);
+    }
+    $("#homeTiles").innerHTML = Object.entries(groups).map(([grp, items]) => `
+      <div class="section-title" style="margin-top:14px">${esc(grp)}</div>
+      <div class="grid">${items.map(([sym, d]) => `
+        <div class="tile">
+          <div class="sym">${esc(sym)}${d.label ? ` <span class="cat">${esc(d.label)}</span>` : ""}</div>
+          <div class="val">${displayVal(sym, d)}</div>
+          <div class="chg">${displayChg(sym, d)}</div>
+        </div>`).join("")}</div>`).join("");
   } catch {}
 }
 
@@ -496,7 +458,6 @@ async function loadCategories() {
 async function refresh() {
   newsCache = null;
   if (currentTab === "home") await renderHome();
-  else if (currentTab === "market") await loadMarket();
   else if (currentTab === "links") await loadLinks();
   else if (currentTab === "live") { /* iframe bleibt unberührt (kein Reload bei Auto-Refresh) */ }
   else if (currentTab === "learn") await renderLearn();
@@ -512,7 +473,7 @@ document.querySelectorAll(".tab").forEach((t) => {
     document.querySelectorAll(".tab").forEach((x) => x.classList.remove("active"));
     t.classList.add("active");
     currentTab = t.dataset.tab;
-    const noFilters = ["home", "market", "links", "live", "learn"].includes(currentTab);
+    const noFilters = ["home", "links", "live", "learn"].includes(currentTab);
     $("#filters").style.display = noFilters ? "none" : "flex";
     $("#catFilter").innerHTML = '<option value="">Alle Kategorien</option>';
     if (!noFilters) await loadCategories();
