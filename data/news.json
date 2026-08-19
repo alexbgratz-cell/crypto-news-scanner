@@ -1,5 +1,980 @@
 [
   {
+    "title": "Arthur Hayes takes CEO role at Flop Labs ahead of Q4 airdrop",
+    "url": "https://cointelegraph.com/news/arthur-hayes-ceo-role-flop-labs-q4-airdrop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph.com News",
+    "published": "2026-08-19T08:34:51Z",
+    "stream": "crypto",
+    "score": 6,
+    "category": "Other",
+    "sentiment": "bullish",
+    "summary": "Arthur Hayes übernimmt die Rolle des CEO beim KI-Inferenzprotokoll Flop Labs und kündigte für das vierte Quartal 2026 einen massiven Airdrop an. Die prominente Besetzung und der angekündigte Airdrop könnten die Aufmerksamkeit auf KI-bezogene Krypto-Projekte lenken und spekulative Zuflüsse in den Sektor auslösen.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "Bitcoin ETFs add $189M as August net inflows approach $1B",
+    "url": "https://cointelegraph.com/markets/bitcoin-etf-august-net-inflows-approach-1b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph.com News",
+    "published": "2026-08-19T07:59:16Z",
+    "stream": "crypto",
+    "score": 8,
+    "category": "Macro",
+    "sentiment": "bullish",
+    "summary": "Bitcoin-ETFs verzeichneten Zuflüsse in Höhe von 189 Millionen US-Dollar, während die Nettozuflüsse im August sich einer Milliarde US-Dollar nähern. Anhaltende ETF-Zuflüsse deuten auf eine stabile institutionelle Nachfrage nach Bitcoin hin.",
+    "instruments": [
+      "BTCUSD"
+    ],
+    "entities": []
+  },
+  {
+    "title": "MAYAChain halts network after estimated $1.7M exploit",
+    "url": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph.com News",
+    "published": "2026-08-19T05:13:54Z",
+    "stream": "crypto",
+    "score": 8,
+    "category": "Hack & Security",
+    "sentiment": "bearish",
+    "summary": "MAYAChain hat sein Netzwerk nach einem geschätzten Ausnutzen von 1,7 Millionen US-Dollar gestoppt. Der Sicherheitsvorfall untergräbt das Vertrauen in Cross-Chain-Protokolle.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "US accounting board FASB proposes conditions for stablecoins as cash equivalents",
+    "url": "https://cointelegraph.com/news/us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph.com News",
+    "published": "2026-08-19T03:58:13Z",
+    "stream": "crypto",
+    "score": 7,
+    "category": "Regulation",
+    "sentiment": "bullish",
+    "summary": "Der US-Rechnungslegungsstandardsetter FASB hat Bedingungen für die Behandlung von Stablecoins als Kassenäquivalente vorgeschlagen. Eine unternehmensfreundliche Rechnungslegungsbehandlung könnte die Adoption von Stablecoins fördern.",
+    "instruments": [
+      "USDT.D"
+    ],
+    "entities": []
+  },
+  {
+    "title": "Kalshi files to launch perpetual futures tied to US stock index, copper",
+    "url": "https://www.theblock.co/news/business/2026-08-18-kalshi-files-perps-equity-index-copper-412176",
+    "source": "The Block",
+    "published": "2026-08-19T03:22:58Z",
+    "stream": "crypto",
+    "score": 6,
+    "category": "Other",
+    "sentiment": "bullish",
+    "summary": "Kalshi hat bei der CFTC beantragt, permanente Futures anzubieten, die an den MerQube US Large Cap Index und Kupfer gekoppelt sind. Neue regulierte Perpetuals erweitern das Angebot kryptobezogener Handelsprodukte.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "Pennsylvania Cracks Down on AI Data Centers as Backlash Grows",
+    "url": "https://decrypt.co/375923/pennsylvania-ai-data-centers-backlash",
+    "source": "Decrypt",
+    "published": "2026-08-18T22:56:04Z",
+    "stream": "ai",
+    "score": 7,
+    "category": "Regulation & Policy",
+    "sentiment": "bearish",
+    "summary": "Pennsylvania geht gegen KI-Rechenzentren vor, da der Widerstand zunimmt. Beschränkungen auf Bundesebene könnten die Kosten erhöhen und den Ausbau der KI-Infrastruktur verlangsamen.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "Mozilla Tests an AI 'Smart Window' in Firefox—But Only If You Opt In",
+    "url": "https://decrypt.co/375903/mozilla-ai-smart-firefox-opt-in",
+    "source": "Decrypt",
+    "published": "2026-08-18T22:31:04Z",
+    "stream": "ai",
+    "score": 6,
+    "category": "Business & Funding",
+    "sentiment": "neutral",
+    "summary": "Mozilla testet ein KI-gestütztes „Smart Window“ in Firefox, das nur auf freiwilliger Basis verfügbar ist. Die Funktion fügt dem Browser KI-Assistenz hinzu, ohne die Nutzung zu erzwingen.",
+    "instruments": [],
+    "entities": [
+      "Mozilla"
+    ]
+  },
+  {
+    "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+    "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+    "source": "AI News & Artificial Intelligence | TechCrunch",
+    "published": "2026-08-18T22:14:25Z",
+    "stream": "ai",
+    "score": 6,
+    "category": "Business & Funding",
+    "sentiment": "bullish",
+    "summary": "Cursor hat eine konkurrierende Hosting-Plattform gestartet und dabei die Frustration über GitHub ausgenutzt. Dieser Schritt verschärft den Wettbewerb im Bereich der KI-Entwicklungsinfrastruktur.",
+    "instruments": [],
+    "entities": [
+      "Cursor",
+      "GitHub"
+    ]
+  },
+  {
+    "title": "ChatGPT Ads expands across Europe",
+    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "source": "OpenAI News",
+    "published": "2026-08-18T22:00:00Z",
+    "stream": "ai",
+    "score": 6,
+    "category": "Business & Funding",
+    "sentiment": "bullish",
+    "summary": "ChatGPT-Anzeigen werden in ganz Europa ausgeweitet. Der Ausbau stärkt das Werbegeschäft von OpenAI international.",
+    "instruments": [],
+    "entities": [
+      "OpenAI"
+    ]
+  },
+  {
+    "title": "Rare Books Traced to Amazon AI Training Facility to Be Scanned and Destroyed",
+    "url": "https://decrypt.co/375912/rare-books-amazon-ai-scanned-destroyed",
+    "source": "Decrypt",
+    "published": "2026-08-18T21:49:46Z",
+    "stream": "ai",
+    "score": 5,
+    "category": "Society & Work",
+    "sentiment": "bearish",
+    "summary": "Seltene Bücher, die auf ein Amazon-Gebäude zurückgeführt wurden, in dem KI-Modelle trainiert werden, sollen gescannt und vernichtet werden. Der Vorfall wirft Fragen zur Praxis der Beschaffung von Trainingsdaten für KI auf.",
+    "instruments": [],
+    "entities": [
+      "Amazon"
+    ]
+  },
+  {
+    "title": "NVIDIA Releases TensorRT Model Connect in Public Preview: Hugging Face Checkpoint to Native C++ Inference in Two Commands",
+    "url": "https://www.marktechpost.com/2026/08/18/nvidia-releases-tensorrt-model-connect-in-public-preview-hugging-face-checkpoint-to-native-c-inference-in-two-commands/",
+    "source": "MarkTechPost",
+    "published": "2026-08-18T21:49:04Z",
+    "stream": "ai",
+    "score": 6,
+    "category": "Hardware & Infrastructure",
+    "sentiment": "neutral",
+    "summary": "NVIDIA hat TensorRT Model Connect in der öffentlichen Vorschau veröffentlicht und ermöglicht die Umwandlung von Hugging Face Checkpoints in nativen C++-Inference mit nur zwei Befehlen. Das Tool vereinfacht die Bereitstellung von KI-Modellen.",
+    "instruments": [],
+    "entities": [
+      "NVIDIA",
+      "Hugging Face"
+    ]
+  },
+  {
+    "title": "SEC proposes new crypto rules in absence of CLARITY Act",
+    "url": "https://cointelegraph.com/news/us-sec-crypto-rules-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph.com News",
+    "published": "2026-08-18T21:24:15Z",
+    "stream": "crypto",
+    "score": 7,
+    "category": "Regulation",
+    "sentiment": "neutral",
+    "summary": "Die US-Börsenaufsichtsbehörde SEC hat im Fehlen des CLARITY Acts neue Krypto-Regeln vorgeschlagen. Die Regelgebung schließt eine regulatorische Lücke, während der Kongress blockiert bleibt.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "Solana Policy Institute CEO says Clarity Act in 'August recess purgatory,' gives it 10% odds before midterms",
+    "url": "https://www.theblock.co/news/regulation/2026-08-18-solana-policy-institute-ceo-larity-act-august-recess-purgatory-gives-10-odds-midterms-412171",
+    "source": "The Block",
+    "published": "2026-08-18T21:22:47Z",
+    "stream": "crypto",
+    "score": 4,
+    "category": "Regulation",
+    "sentiment": "bearish",
+    "summary": "Der CEO des Solana Policy Institute sagte, der Clarity Act befinde sich im „August-Recess-Purgatorium“ und habe vor den Midterm-Wahlen nur eine Wahrscheinlichkeit von 10 %. Die niedrigen Chancen unterstreichen die legislative Unsicherheit für die Kryptomärkte.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "Arguing With People on X May Get You More Posts You Hate as Algo Feeds on Ragebait",
+    "url": "https://decrypt.co/375899/arguing-twitter-x-more-posts-hate-algorithm-ragebait",
+    "source": "Decrypt",
+    "published": "2026-08-18T21:20:04Z",
+    "stream": "ai",
+    "score": 4,
+    "category": "Society & Work",
+    "sentiment": "neutral",
+    "summary": "Decrypt berichtet, dass Diskussionen auf X dazu führen können, dass Nutzer mehr Beiträge sehen, die sie hassen, da der Algorithmus auf Ragebait anspringt. Der Artikel behandelt die dynamik von engagement-getriebenen Inhalten.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "FalconX, Interstice Connect Canton to Ethereum, Solana and Robinhood Chain",
+    "url": "https://cointelegraph.com/news/interstice-falconx-cross-chain-swap-engine-canton-solana-ethereum-robinhood-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph.com News",
+    "published": "2026-08-18T20:45:48Z",
+    "stream": "crypto",
+    "score": 7,
+    "category": "Tech Update",
+    "sentiment": "bullish",
+    "summary": "FalconX und Interstice verbinden Canton mit Ethereum, Solana und der Robinhood Chain. Die Cross-Chain-Erweiterung erweitert den institutionellen Zugang zu den wichtigsten Netzwerken.",
+    "instruments": [
+      "SOLUSD"
+    ],
+    "entities": []
+  },
+  {
+    "title": "White House crypto adviser Patrick Witt says he is 'optimistic and bullish' on Clarity Act as stablecoin fight resurfaces",
+    "url": "https://www.theblock.co/news/regulation/2026-08-18-white-house-crypto-adviser-patrick-witt-optimistic-bullish-clarity-act-stablecoin-fight-412160",
+    "source": "The Block",
+    "published": "2026-08-18T20:25:35Z",
+    "stream": "crypto",
+    "score": 4,
+    "category": "Regulation",
+    "sentiment": "bullish",
+    "summary": "Der Krypto-Berater des Weißen Hauses, Patrick Witt, sagte, er sei „optimistisch und bullisch“ bezüglich des Clarity Act, während der Kampf um Stablecoins wieder auflebt. Die Bemerkungen sind eine Stimmungsäußerung, kein konkreter gesetzgebender Schritt.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "SEC Proposes Crypto Fundraising Exemptions in Abrupt About-Face",
+    "url": "https://decrypt.co/375902/sec-regulation-crypto-fundraising-exemptions",
+    "source": "Decrypt",
+    "published": "2026-08-18T20:00:25Z",
+    "stream": "crypto",
+    "score": 7,
+    "category": "Regulation",
+    "sentiment": "bullish",
+    "summary": "Die US-Börsenaufsichtsbehörde SEC hat in einer plötzlichen Kehrtwende Ausnahmen für die Krypto-Finanzierung vorgeschlagen. Der Vorschlag würde neue Wege für die Finanzierung von digitalen Vermögenswerten schaffen.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "Ripple- and Coinbase-funded PAC spends $2M in Florida race with little mention of crypto",
+    "url": "https://cointelegraph.com/news/crypto-pac-ads-florida-congress-spending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph.com News",
+    "published": "2026-08-18T19:54:16Z",
+    "stream": "crypto",
+    "score": 5,
+    "category": "Regulation",
+    "sentiment": "neutral",
+    "summary": "Ein von Ripple und Coinbase finanzierter Political Action Committee gab 2 Millionen US-Dollar in einem Wahlkampf in Florida aus, wobei Kryptowährungen kaum erwähnt wurden. Die Ausgaben zeigen das anhaltende politische Engagement der Branche.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "Ripple CLO says Sept. 15 will be a 'bellwether' for Clarity Act market structure bill",
+    "url": "https://www.theblock.co/news/regulation/2026-08-18-ripple-clo-september-15-bellwether-clarity-act-market-structure-bill-412142",
+    "source": "The Block",
+    "published": "2026-08-18T19:49:12Z",
+    "stream": "crypto",
+    "score": 4,
+    "category": "Regulation",
+    "sentiment": "neutral",
+    "summary": "Ripples Chief Legal Officer bezeichnete den 15. September als einen Indikator für die Marktstruktur des Clarity-Act-Gesetzes. Die zeitliche Einordnung ist eine Meinung ohne unmittelbare Marktauswirkung.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "Cypherpunk launches Zcash mining fleet controlling 18% of network hashrate",
+    "url": "https://cointelegraph.com/news/cypherpunk-zcash-mining-winklevoss-capital-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph.com News",
+    "published": "2026-08-18T19:31:16Z",
+    "stream": "crypto",
+    "score": 6,
+    "category": "Other",
+    "sentiment": "neutral",
+    "summary": "Cypherpunk hat eine Zcash-Mining-Flotte gestartet, die 18 % der Netzwerkhashrate kontrolliert. Diese Konzentration wirft Fragen zur Wirtschaftlichkeit und Dezentralisierung des Zcash-Minings auf.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "SEC proposes new crypto offering rules as Congress stalls on digital asset legislation",
+    "url": "https://www.theblock.co/news/regulation/2026-08-18-sec-proposes-new-crypto-offering-rules-congress-stalls-digital-asset-legislation-412145",
+    "source": "The Block",
+    "published": "2026-08-18T19:23:53Z",
+    "stream": "crypto",
+    "score": 7,
+    "category": "Regulation",
+    "sentiment": "neutral",
+    "summary": "Die US-Börsenaufsichtsbehörde SEC hat neue Regeln für Krypto-Angebote vorgeschlagen, während der Kongress bei der Gesetzgebung zu digitalen Assets blockiert bleibt. Der Vorschlag zielt darauf ab, einen Weg für Investitionen in digitale Vermögenswerte zu ebnen.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "Markets Confident OpenAI Releases Its Next AI Model in Weeks",
+    "url": "https://decrypt.co/375892/openai-next-ai-model-gpt6-astra-prediction",
+    "source": "Decrypt",
+    "published": "2026-08-18T19:15:26Z",
+    "stream": "ai",
+    "score": 4,
+    "category": "Model Release & Capability",
+    "sentiment": "bullish",
+    "summary": "Die Märkte sind zuversichtlich, dass OpenAI sein nächstes KI-Modell innerhalb weniger Wochen veröffentlichen wird. Die Erwartung ist eine Prognose und keine bestätigte Veröffentlichung.",
+    "instruments": [],
+    "entities": [
+      "OpenAI"
+    ]
+  },
+  {
+    "title": "Strengthening democratic oversight in national security",
+    "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "source": "OpenAI News",
+    "published": "2026-08-18T19:00:00Z",
+    "stream": "ai",
+    "score": 5,
+    "category": "Regulation & Policy",
+    "sentiment": "neutral",
+    "summary": "OpenAI hat die Stärkung der demokratischen Kontrolle im Bereich der nationalen Sicherheit bekannt gegeben. Die Erklärung befasst sich mit der KI-Governance in Verteidigungskontexten.",
+    "instruments": [],
+    "entities": [
+      "OpenAI"
+    ]
+  },
+  {
+    "title": "Bitcoin correction may be nearing an end with 8 of 12 capitulation signals flashing, VanEck says",
+    "url": "https://www.theblock.co/news/markets/2026-08-18-bitcoin-correction-may-nearing-end-8-capitulation-signals-flashing-vaneck-412130",
+    "source": "The Block",
+    "published": "2026-08-18T18:49:15Z",
+    "stream": "crypto",
+    "score": 7,
+    "category": "Macro",
+    "sentiment": "bullish",
+    "summary": "VanEck sagt, dass die Bitcoin-Korrektur möglicherweise ihrem Ende zugeht, da acht von zwölf Kapitulationssignalen aktiv sind. Langzeithalter haben im vergangenen Monat rund 356.000 BTC abgeworfen und ihren Anteile am Angebot unter 60 % gedrückt.",
+    "instruments": [
+      "BTCUSD"
+    ],
+    "entities": []
+  },
+  {
+    "title": "Trump Family Crypto Firm Tied to Chinese AI Models US Government Called a Security Risk",
+    "url": "https://decrypt.co/375887/trump-crypto-firm-chinese-ai-government-called-security-risk",
+    "source": "Decrypt",
+    "published": "2026-08-18T18:36:04Z",
+    "stream": "crypto",
+    "score": 5,
+    "category": "Other",
+    "sentiment": "bearish",
+    "summary": "Eine Krypto-Firma der Familie Trump ist mit chinesischen KI-Modellen verbunden, die die US-Regierung als Sicherheitsrisiko einstufte. Diese Verknüpfung birgt für das Unternehmen sowohl Reputations- als auch regulatorische Risiken.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+    "url": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+    "source": "Feed: Artificial Intelligence Latest",
+    "published": "2026-08-18T18:33:11Z",
+    "stream": "ai",
+    "score": 7,
+    "category": "Safety & Risk",
+    "sentiment": "neutral",
+    "summary": "OpenAI hat seine Sicherheitsprotokolle überarbeitet, nachdem seine KI-Agenten außer Kontrolle geraten waren. Die Überarbeitung signalisiert reale Ausfallmodi von Agenten in der Praxis, die Governance-Änderungen vorantreiben.",
+    "instruments": [],
+    "entities": [
+      "OpenAI"
+    ]
+  },
+  {
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "source": "Hugging Face - Blog",
+    "published": "2026-08-18T18:09:38Z",
+    "stream": "ai",
+    "score": 6,
+    "category": "Research & Open Source",
+    "sentiment": "neutral",
+    "summary": "IBM Research hat eine Analyse veröffentlicht, die untersucht, wie viel Speicher KI-Agenten tatsächlich benötigen. Der Blogbeitrag beleuchtet die Kompromisse im Design des Agentenspeichers.",
+    "instruments": [],
+    "entities": [
+      "IBM"
+    ]
+  },
+  {
+    "title": "Bitcoin Wallet Maker BitBox Says AI Found Severe Flaws in Firmware",
+    "url": "https://decrypt.co/375886/bitcoin-wallet-bitbox-ai-severe-flaws-firmware",
+    "source": "Decrypt",
+    "published": "2026-08-18T18:06:42Z",
+    "stream": "crypto",
+    "score": 5,
+    "category": "Hack & Security",
+    "sentiment": "bearish",
+    "summary": "Der Bitcoin-Wallet-Hersteller BitBox gab an, dass KI schwere Mängel in seiner Firmware gefunden hat. Die Offenlegung wirft Fragen zur Sicherheit von Hardware-Wallets auf, obwohl keine Verluste von Geldern gemeldet wurden.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "OpenAI institutes new safeguards after Hugging Face breach",
+    "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+    "source": "AI News & Artificial Intelligence | TechCrunch",
+    "published": "2026-08-18T18:00:00Z",
+    "stream": "ai",
+    "score": 6,
+    "category": "Safety & Risk",
+    "sentiment": "neutral",
+    "summary": "OpenAI hat nach dem Hugging-Face-Breach neue Schutzmaßnahmen eingeführt. Diese sollen Lieferkettenangriffe auf KI-Tools verhindern.",
+    "instruments": [],
+    "entities": [
+      "OpenAI",
+      "Hugging Face"
+    ]
+  },
+  {
+    "title": "Kraken's Krak debuts US debit card as Payward broadens financial services push",
+    "url": "https://cointelegraph.com/news/krakens-krak-launches-us-debit-card-as-payward-broadens-financial-services-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph.com News",
+    "published": "2026-08-18T17:39:37Z",
+    "stream": "crypto",
+    "score": 6,
+    "category": "Other",
+    "sentiment": "bullish",
+    "summary": "Krakens Kreditkarte „Krak“ startet in den USA, während Payward sein Engagement im Bereich der Finanzdienstleistungen ausweitet. Die Karte verknüpft Krypto-Guthaben mit dem täglichen Einkauf.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "Etched's valuation doubles to $21B in a month",
+    "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+    "source": "AI News & Artificial Intelligence | TechCrunch",
+    "published": "2026-08-18T17:21:58Z",
+    "stream": "ai",
+    "score": 7,
+    "category": "Hardware & Infrastructure",
+    "sentiment": "bullish",
+    "summary": "Die Bewertung von Etched stieg innerhalb eines Monats um die Hälfte auf 21 Milliarden US-Dollar. Der Anstieg spiegelt die Nachfrage der Investoren nach spezialisierter Hardware für das KI-Inference wider.",
+    "instruments": [],
+    "entities": [
+      "Etched"
+    ]
+  },
+  {
+    "title": "Google Is Paying $10 Million to Use Spirit Airlines Data to Train Its AI Models",
+    "url": "https://decrypt.co/375883/google-spirit-airlines-data-train-ai",
+    "source": "Decrypt",
+    "published": "2026-08-18T17:19:44Z",
+    "stream": "ai",
+    "score": 6,
+    "category": "Business & Funding",
+    "sentiment": "neutral",
+    "summary": "Google zahlt 10 Millionen US-Dollar, um Daten von Spirit Airlines für das Training seiner KI-Modelle zu nutzen. Das Geschäft unterstreicht den wachsenden Markt für proprietäre Trainingsdaten.",
+    "instruments": [],
+    "entities": [
+      "Google",
+      "Spirit Airlines"
+    ]
+  },
+  {
+    "title": "Federal prosecutors blast ex-Celsius CEO's motion to vacate as 'without merit'",
+    "url": "https://cointelegraph.com/news/us-prosecutors-celsius-ceo-alex-mashinsky-motion-vacate-deny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph.com News",
+    "published": "2026-08-18T16:49:58Z",
+    "stream": "crypto",
+    "score": 7,
+    "category": "Regulation",
+    "sentiment": "bearish",
+    "summary": "Bundesstaatsanwälte bezeichneten den Antrag von Ex-Celsius-CEO Alex Mashinsky auf Aufhebung der Anklage als unbegründet. Die Antwort hält den rechtlichen Druck gegen den ehemaligen Führungskraft aufrecht.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "Metaplanet expands Bitcoin treasury strategy to US with 2,100-BTC Nasdaq play",
+    "url": "https://cointelegraph.com/news/metaplanet-expands-bitcoin-treasury-strategy-super-league?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph.com News",
+    "published": "2026-08-18T16:21:58Z",
+    "stream": "crypto",
+    "score": 8,
+    "category": "Other",
+    "sentiment": "bullish",
+    "summary": "Metaplanet hat seine Bitcoin-Treasury-Strategie mit einem 2.100 BTC umfassenden Nasdaq-Deal in die USA ausgeweitet. Der Erwerb untermauert die anhaltende Unternehmensnachfrage nach Bitcoin.",
+    "instruments": [
+      "BTCUSD"
+    ],
+    "entities": []
+  },
+  {
+    "title": "Why Apple's camera-equipped AirPods may not be the 'pervert pods' consumers fear",
+    "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+    "source": "AI News & Artificial Intelligence | TechCrunch",
+    "published": "2026-08-18T16:19:10Z",
+    "stream": "ai",
+    "score": 4,
+    "category": "Society & Work",
+    "sentiment": "neutral",
+    "summary": "TechCrunch untersucht, warum die AirPods von Apple mit Kamera möglicherweise nicht die „Pervert Pods“ sind, vor denen Verbraucher fürchten. Der Artikel ist eine Produktsicherheitsanalyse mit begrenzter Branchenwirkung.",
+    "instruments": [],
+    "entities": [
+      "Apple"
+    ]
+  },
+  {
+    "title": "Neuberger teams with Securitize on multi-chain tokenized fixed-income fund launch",
+    "url": "https://cointelegraph.com/news/neuberger-launches-tokenized-fixed-income-fund-with-securitize?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph.com News",
+    "published": "2026-08-18T15:59:54Z",
+    "stream": "crypto",
+    "score": 7,
+    "category": "Other",
+    "sentiment": "bullish",
+    "summary": "Neuberger hat sich mit Securitize zusammengetan, um einen multichain-tokenisierten Festzinsfonds auf den Markt zu bringen. Der Fonds erweitert die Tokenisierung auf die Festzinsplattform eines großen Vermögensverwalters.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "Citi to Launch Bitcoin Custody as Wall Street Pushes Deeper Into Crypto",
+    "url": "https://decrypt.co/375880/citi-bitcoin-custody-wall-street-crypto",
+    "source": "Decrypt",
+    "published": "2026-08-18T15:56:05Z",
+    "stream": "crypto",
+    "score": 8,
+    "category": "Other",
+    "sentiment": "bullish",
+    "summary": "Citi plant die Einführung von Bitcoin-Custody-Diensten, während Wall Street tiefer in den Kryptomarkt eindringt. Institutionelle Custody-Dienste stärken das Ansehen von Bitcoin bei traditionellen Investoren.",
+    "instruments": [
+      "BTCUSD"
+    ],
+    "entities": []
+  },
+  {
+    "title": "Bitcoin tags $65K as S&P 500 rebounds from 2-week lows on US-Iran rhetoric",
+    "url": "https://cointelegraph.com/markets/bitcoin-tags-65k-as-sp-500-rebounds-from-2-week-lows-on-us-iran-rhetoric?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph.com News",
+    "published": "2026-08-18T15:27:13Z",
+    "stream": "crypto",
+    "score": 6,
+    "category": "Macro",
+    "sentiment": "bullish",
+    "summary": "Bitcoin erreichte 65.000 US-Dollar, während der S&P 500 sich von seinen Zwei-Wochen-Tiefs erholte, getrieben von der Rhetorik zwischen den USA und dem Iran. Die Risikobereitschaft kehrte zurück und trieb sowohl Aktien als auch Kryptowährungen nach oben.",
+    "instruments": [
+      "BTCUSD",
+      "SPX"
+    ],
+    "entities": []
+  },
+  {
+    "title": "Japan's Metaplanet Plants Its Flag in the US With $132M Bitcoin Treasury Deal",
+    "url": "https://decrypt.co/375878/metaplanet-us-132m-bitcoin-treasury-deal",
+    "source": "Decrypt",
+    "published": "2026-08-18T15:19:45Z",
+    "stream": "crypto",
+    "score": 8,
+    "category": "Other",
+    "sentiment": "bullish",
+    "summary": "Metaplanet erweitert seine Präsenz in die USA mit einem Bitcoin-Treasury-Deal über rund 132 Millionen US-Dollar. Der Schritt unterstreicht den Trend zur Übernahme von Bitcoin als Unternehmenswertpuffer.",
+    "instruments": [
+      "BTCUSD"
+    ],
+    "entities": []
+  },
+  {
+    "title": "Metaplanet takes 96% of Super League in 2,100 BTC, cash deal to launch US bitcoin treasury firm",
+    "url": "https://www.theblock.co/news/deals/2026-08-18-metaplanet-super-league-2100-btc-cash-deal-launch-us-bitcoin-treasury-sle-stock-sruge-412101",
+    "source": "The Block",
+    "published": "2026-08-18T15:09:55Z",
+    "stream": "crypto",
+    "score": 8,
+    "category": "Other",
+    "sentiment": "bullish",
+    "summary": "Metaplanet übernimmt eine Beteiligung von 96 % an Super League für 2.100 BTC plus Bargeld, um ein US-amerikanisches Bitcoin-Treasury-Unternehmen zu gründen. Der Deal erweitert die Akkumulation von Bitcoin durch Unternehmen auf den US-Markt.",
+    "instruments": [
+      "BTCUSD"
+    ],
+    "entities": []
+  },
+  {
+    "title": "Securitize brings Neuberger's $230 billion fixed-income platform onchain with new tokenized fund",
+    "url": "https://www.theblock.co/news/markets/2026-08-18-securitize-neubergers-230-billion-fixed-income-platform-onchain-new-tokenized-fund-412102",
+    "source": "The Block",
+    "published": "2026-08-18T15:04:21Z",
+    "stream": "crypto",
+    "score": 7,
+    "category": "Other",
+    "sentiment": "bullish",
+    "summary": "Securitize bringt Neuberger-Gersoms Plattform für festverzinsliche Wertpapiere im Wert von 230 Milliarden Dollar mit einem neuen tokenisierten Fonds in die Blockchain. Die Einführung markiert einen wichtigen institutionellen Schritt für tokenisierte festverzinsliche Wertpapiere.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "Bitcoin Wallet Untouched for 15 Years Suddenly Springs to Life",
+    "url": "https://decrypt.co/375839/bitcoin-wallet-untouched-15-years-life",
+    "source": "Decrypt",
+    "published": "2026-08-18T14:03:34Z",
+    "stream": "crypto",
+    "score": 5,
+    "category": "Other",
+    "sentiment": "neutral",
+    "summary": "Eine Bitcoin-Brieftasche, die seit 15 Jahren inaktiv war, wurde plötzlich aktiv. Die Aktivierung einer alten Whale-Wallet wird auf potenzielle Verkaufsdruck beobachtet.",
+    "instruments": [
+      "BTCUSD"
+    ],
+    "entities": []
+  },
+  {
+    "title": "Warp's new system is an out-of-the-box software factory for AI development",
+    "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+    "source": "AI News & Artificial Intelligence | TechCrunch",
+    "published": "2026-08-18T14:00:00Z",
+    "stream": "ai",
+    "score": 6,
+    "category": "Business & Funding",
+    "sentiment": "neutral",
+    "summary": "Warp neues System ist eine Out-of-the-Box-Softwarefabrik für die KI-Entwicklung. Das Produkt zielt darauf ab, den Aufbau von KI-Anwendungen zu vereinfachen.",
+    "instruments": [],
+    "entities": [
+      "Warp"
+    ]
+  },
+  {
+    "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+    "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+    "source": "AI News & Artificial Intelligence | TechCrunch",
+    "published": "2026-08-18T13:50:30Z",
+    "stream": "ai",
+    "score": 6,
+    "category": "Business & Funding",
+    "sentiment": "neutral",
+    "summary": "OpenAI hat ein sichereres ChatGPT für Jugendliche auf den Markt gebracht, Jahre nachdem diese bereits begonnen hatten, es zu nutzen. Die Veröffentlichung formalisiert den Schutz junger Nutzer.",
+    "instruments": [],
+    "entities": [
+      "OpenAI"
+    ]
+  },
+  {
+    "title": "Perplexity's free AI offer left it with millions more users in India",
+    "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+    "source": "AI News & Artificial Intelligence | TechCrunch",
+    "published": "2026-08-18T13:45:40Z",
+    "stream": "ai",
+    "score": 6,
+    "category": "Business & Funding",
+    "sentiment": "bullish",
+    "summary": "Perplexitys kostenloses KI-Angebot hat ihm in Indien Millionen weiterer Nutzer beschert. Das Wachstum erweitert die Kundenbasis von Perplexity auf einem wichtigen Markt.",
+    "instruments": [],
+    "entities": [
+      "Perplexity"
+    ]
+  },
+  {
+    "title": "Toyota Finance opens tokenized bonds to retail investors via mobile payment app",
+    "url": "https://cointelegraph.com/news/toyota-finance-tokenized-bond-offering-mobile-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph.com News",
+    "published": "2026-08-18T13:41:56Z",
+    "stream": "crypto",
+    "score": 6,
+    "category": "Other",
+    "sentiment": "bullish",
+    "summary": "Toyota Finance hat tokenisierte Anleihen über eine Mobile-Payment-App auch für Privatanleger geöffnet. Der Schritt treibt die Tokenisierung von Real-World Assets voran, initiiert von einem großen Unternehmensaussteller.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "Meet SAM (Sovereign Agent Mesh): A Zero-Config, Zero-Trust P2P Network for AI Agents",
+    "url": "https://www.marktechpost.com/2026/08/18/meet-sam-sovereign-agent-mesh-a-zero-config-zero-trust-p2p-network-for-ai-agents/",
+    "source": "MarkTechPost",
+    "published": "2026-08-18T13:29:10Z",
+    "stream": "ai",
+    "score": 6,
+    "category": "Research & Open Source",
+    "sentiment": "neutral",
+    "summary": "MarkTechPost hebt SAM (Sovereign Agent Mesh) hervor, ein Zero-Config-, Zero-Trust-P2P-Netzwerk für KI-Agenten. Das Projekt zielt auf Interoperabilität und Sicherheit von Agenten ab.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+    "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+    "source": "AI - Ars Technica",
+    "published": "2026-08-18T13:00:04Z",
+    "stream": "ai",
+    "score": 6,
+    "category": "Safety & Risk",
+    "sentiment": "bearish",
+    "summary": "Microsoft Copilot hat ein geheimes Eingabefeld enthüllt, das es ermöglichte, das System zu hacken. Die Offenlegung unterstreicht die Risiken von Prompt-Injection und Sicherheitslücken in KI-Assistenten.",
+    "instruments": [],
+    "entities": [
+      "Microsoft"
+    ]
+  },
+  {
+    "title": "MoonPay adds Cash App Pay for crypto purchases by US customers",
+    "url": "https://cointelegraph.com/news/moonpay-cash-app-pay-crypto-purchases-us-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph.com News",
+    "published": "2026-08-18T13:00:00Z",
+    "stream": "crypto",
+    "score": 6,
+    "category": "Other",
+    "sentiment": "bullish",
+    "summary": "MoonPay hat Cash App Pay für Krypto-Käufe von US-Kunden hinzugefügt. Die Integration erweitert die Fiat-On-Ramps für den Kauf von Kryptowährungen im Einzelhandel.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "Morning Minute: PUMP Prints First Golden Cross as Revenue Hits Seven-Month High",
+    "url": "https://decrypt.co/375856/morning-minute-pump-prints-first-golden-cross-as-revenue-hits-seven-month-high",
+    "source": "Decrypt",
+    "published": "2026-08-18T12:37:02Z",
+    "stream": "crypto",
+    "score": 4,
+    "category": "Other",
+    "sentiment": "bullish",
+    "summary": "Die Morgenanalyse von Decrypt hebt hervor, dass PUMP seinen ersten Goldenen Kreuz bildet, während die Einnahmen ein Sieben-Monats-Hoch erreichen. Der Beitrag ist eine technische Aktualisierung eines Meme-Tokens mit begrenzter Marktbedeutung.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "Citi expects to launch bitcoin custody later this year under its new Custody+ platform",
+    "url": "https://www.theblock.co/news/business/2026-08-18-citi-bitcoin-custody-412090",
+    "source": "The Block",
+    "published": "2026-08-18T12:15:31Z",
+    "stream": "crypto",
+    "score": 8,
+    "category": "Other",
+    "sentiment": "bullish",
+    "summary": "Citi plant, die Bitcoin-Custody später in diesem Jahr unter seiner neuen Plattform Custody+ zu starten. Institutionelle Custody-Angebote stärken die Legitimität und die Nachfrageprognosen für Bitcoin.",
+    "instruments": [
+      "BTCUSD"
+    ],
+    "entities": []
+  },
+  {
+    "title": "Cypherpunk Technologies launches Zcash mining fleet with $33 million Winklevoss deal",
+    "url": "https://www.theblock.co/news/business/2026-08-18-cypherpunk-technologies-launches-zcash-mining-fleet-412071",
+    "source": "The Block",
+    "published": "2026-08-18T12:00:00Z",
+    "stream": "crypto",
+    "score": 6,
+    "category": "Other",
+    "sentiment": "bullish",
+    "summary": "Cypherpunk Technologies hat eine Zcash-Mining-Flotte mit einem 33 Millionen US-Dollar schweren Deal der Winklevoss-Brüder auf den Weg gebracht. Die Investition stärkt die Sicherheit des Zcash-Netzwerks und erhöht die Konzentration im Mining-Bereich.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "Chainalysis Sues US Government Over $94.6M ICE Contract Handed to Rival TRM Labs",
+    "url": "https://decrypt.co/375843/chainalysis-sues-us-government-ice-contract-trm-labs",
+    "source": "Decrypt",
+    "published": "2026-08-18T11:31:04Z",
+    "stream": "crypto",
+    "score": 7,
+    "category": "Regulation",
+    "sentiment": "neutral",
+    "summary": "Chainalysis hat die US-Regierung wegen eines im Wert von 94,6 Millionen US-Dollar liegenden ICE-Vertrags verklagt, der an den Konkurrenten TRM Labs vergeben wurde. Der Streitfall unterstreicht den zunehmenden Wettbewerb bei staatlichen Aufträgen für Krypto-Intelligence-Dienstleistungen.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "Partnering with CodeAI to prepare the first AI generation",
+    "url": "https://openai.com/index/partnering-with-codeai",
+    "source": "OpenAI News",
+    "published": "2026-08-18T11:00:00Z",
+    "stream": "ai",
+    "score": 6,
+    "category": "Business & Funding",
+    "sentiment": "bullish",
+    "summary": "OpenAI geht eine Partnerschaft mit CodeAI ein, um die erste KI-Generation vorzubereiten. Die auf Bildung ausgerichtete Kooperation erweitert die Reichweite von OpenAI in den Lernbereich.",
+    "instruments": [],
+    "entities": [
+      "OpenAI",
+      "CodeAI"
+    ]
+  },
+  {
+    "title": "Pacing model development in an era of cyber-critical capabilities",
+    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+    "source": "OpenAI News",
+    "published": "2026-08-18T11:00:00Z",
+    "stream": "ai",
+    "score": 5,
+    "category": "Safety & Risk",
+    "sentiment": "neutral",
+    "summary": "OpenAI hat eine Erklärung zur Entwicklungsgeschwindigkeit von Modellen in einer Ära mit cyberkritischen Fähigkeiten veröffentlicht. Die Stellungnahme fasst Sicherheitsüberlegungen zusammen, ohne neue konkrete Maßnahmen vorzulegen.",
+    "instruments": [],
+    "entities": [
+      "OpenAI"
+    ]
+  },
+  {
+    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+    "url": "https://openai.com/index/chatgpt-for-teens",
+    "source": "OpenAI News",
+    "published": "2026-08-18T11:00:00Z",
+    "stream": "ai",
+    "score": 6,
+    "category": "Business & Funding",
+    "sentiment": "neutral",
+    "summary": "OpenAI hat ChatGPT für Jugendliche vorgestellt, das zum Lernen mit zusätzlichen Schutzmaßnahmen konzipiert wurde. Der Launch zielt auf eine neue Nutzergruppe mit Sicherheitsvorkehrungen ab.",
+    "instruments": [],
+    "entities": [
+      "OpenAI"
+    ]
+  },
+  {
+    "title": "Kraken launches US-listed stock trading for EEA customers",
+    "url": "https://cointelegraph.com/news/kraken-us-stock-trading-eea-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph.com News",
+    "published": "2026-08-18T10:53:21Z",
+    "stream": "crypto",
+    "score": 6,
+    "category": "Other",
+    "sentiment": "bullish",
+    "summary": "Kraken hat den Aktienhandel für Kunden im Europäischen Wirtschaftsraum (EEA) mit US-gelisteten Titeln gestartet. Die Erweiterung erweitert das Produktangebot der Börse und unterstützt ihr Vorhaben, in den traditionellen Finanzsektor vorzudringen.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "'The Crypto Program' promoter deported from Fiji over alleged $165 million Ponzi scheme",
+    "url": "https://www.theblock.co/news/regulation/2026-08-18-the-crypto-program-promoter-deported-from-fiji-over-alleged-165-million-ponzi-scheme-412083",
+    "source": "The Block",
+    "published": "2026-08-18T10:49:53Z",
+    "stream": "crypto",
+    "score": 7,
+    "category": "Regulation",
+    "sentiment": "neutral",
+    "summary": "Der Organisator des „Crypto Program“ wurde wegen eines angeblichen Ponzi-Schemas über 165 Millionen US-Dollar aus Fidschi abgeschoben. Die Durchsetzungsmaßnahme zielt auf Betrüger ab, hat jedoch begrenzte Auswirkungen auf den breiten Markt.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "Cartesia Ships Sonic-3.6: A Streaming TTS Model That Now Leads Both Artificial Analysis Speech Arenas",
+    "url": "https://www.marktechpost.com/2026/08/18/cartesia-ships-sonic-3-6-a-streaming-tts-model-that-now-leads-both-artificial-analysis-speech-arenas/",
+    "source": "MarkTechPost",
+    "published": "2026-08-18T10:37:49Z",
+    "stream": "ai",
+    "score": 6,
+    "category": "Model Release & Capability",
+    "sentiment": "bullish",
+    "summary": "Cartesia hat Sonic-3.6 veröffentlicht, ein Streaming-TTS-Modell, das nun beide Speech-Arenas von Artificial Analysis anführt. Die Veröffentlichung markiert einen wettbewerbsintensiven Schritt in der Sprachsynchronisation.",
+    "instruments": [],
+    "entities": [
+      "Cartesia"
+    ]
+  },
+  {
+    "title": "Curve founder says FATF pressure could make DeFi safer and more decentralized",
+    "url": "https://www.theblock.co/news/defi/2026-08-18-curve-founder-fatf-pressure-could-make-defi-safer-412059",
+    "source": "The Block",
+    "published": "2026-08-18T10:34:53Z",
+    "stream": "crypto",
+    "score": 4,
+    "category": "Other",
+    "sentiment": "neutral",
+    "summary": "Der Gründer von Curve kommentierte, dass der Druck durch die Financial Action Task Force (FATF) DeFi sicherer und dezentraler machen könnte. Die Bemerkungen sind eine Meinung ohne unmittelbare Marktauswirkungen.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "We still don't know how people are really using AI",
+    "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+    "source": "Artificial intelligence – MIT Technology Review",
+    "published": "2026-08-18T10:06:43Z",
+    "stream": "ai",
+    "score": 5,
+    "category": "Society & Work",
+    "sentiment": "neutral",
+    "summary": "MIT Technology Review stellt fest, dass wir immer noch nicht wissen, wie Menschen KI tatsächlich nutzen. Der Beitrag hebt einen Mangel an verlässlichen Daten zur realen KI-Adoption hervor.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "Blockchain Association backs SEC's proposal to scrap outdated NMS rules, citing tokenization benefits",
+    "url": "https://www.theblock.co/news/regulation/2026-08-18-blockchain-association-backs-secs-proposal-to-scrap-outdated-nms-rules-citing-tokenization-benefits-412069",
+    "source": "The Block",
+    "published": "2026-08-18T09:35:26Z",
+    "stream": "crypto",
+    "score": 7,
+    "category": "Regulation",
+    "sentiment": "bullish",
+    "summary": "Die Blockchain Association unterstützte den Vorschlag der SEC, veraltete NMS-Regeln abzuschaffen, und verwies dabei auf die Vorteile der Tokenisierung. Die Unterstützung dieser Regeländerung könnte regulatorische Reibungen bei tokenisierten Vermögenswerten verringern.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "Bitcoin price spike to $64.5K was 'low-volume liquidity trap': Analysis",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-spike-to-645k-was-low-volume-liquidity-trap-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph.com News",
+    "published": "2026-08-18T09:31:15Z",
+    "stream": "crypto",
+    "score": 5,
+    "category": "Macro",
+    "sentiment": "bearish",
+    "summary": "Analysten sagen, der Bitcoin-Anstieg auf 64.500 US-Dollar war eine Liquiditätsfalle mit niedrigem Volumen. Die Ansicht deutet darauf hin, dass die Rallye keine Nachfolge hat und einen Rückgang sehen könnte.",
+    "instruments": [
+      "BTCUSD"
+    ],
+    "entities": []
+  },
+  {
+    "title": "Bitpanda Hit With Europe's First Published MiCA Penalty in Austria",
+    "url": "https://decrypt.co/375841/bitpanda-europe-first-mica-penalty",
+    "source": "Decrypt",
+    "published": "2026-08-18T09:31:04Z",
+    "stream": "crypto",
+    "score": 7,
+    "category": "Regulation",
+    "sentiment": "bearish",
+    "summary": "Bitpanda hat die erste veröffentlichte MiCA-Strafe in Europa erhalten: eine Geldbuße von 81.000 US-Dollar von der österreichischen Finanzmarktaufsichtsbehörde (FMA). Die Durchsetzung signalisiert, dass die Aufsichtsbehörden die Einhaltung der Vorschriften unter dem neuen EU-Regime aktiv überwachen.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "AI's recursive self-improvement might not come so quickly after all",
+    "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+    "source": "Artificial intelligence – MIT Technology Review",
+    "published": "2026-08-18T09:00:00Z",
+    "stream": "ai",
+    "score": 5,
+    "category": "Research & Open Source",
+    "sentiment": "neutral",
+    "summary": "MIT Technology Review argumentiert, dass eine rekursive Selbstverbesserung der KI möglicherweise nicht so schnell eintritt, wie befürchtet. Die Analyse dämpft die Erwartungen hinsichtlich eines unkontrollierten Wachstums der KI-Fähigkeiten.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "The Powerful Chinese AI Model Experts Warned About Is Here",
+    "url": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
+    "source": "Feed: Artificial Intelligence Latest",
+    "published": "2026-08-18T09:00:00Z",
+    "stream": "ai",
+    "score": 7,
+    "category": "Model Release & Capability",
+    "sentiment": "neutral",
+    "summary": "Das von Experten als gefährlich eingestufte leistungsstarke chinesische Open-Weight-KI-Modell wurde von Z.ai veröffentlicht. Die Veröffentlichung wirft Fragen zur Cybersicherheit im Zusammenhang mit zugänglichen Modellen an der Grenze zu fortschrittlichen Systemen auf.",
+    "instruments": [],
+    "entities": [
+      "Z.ai"
+    ]
+  },
+  {
+    "title": "China adds 8 banks to digital yuan network as operator count hits 30",
+    "url": "https://cointelegraph.com/news/china-adds-8-banks-to-digital-yuan-network-as-operator-count-hits-30?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph.com News",
+    "published": "2026-08-18T08:48:51Z",
+    "stream": "crypto",
+    "score": 6,
+    "category": "Regulation",
+    "sentiment": "neutral",
+    "summary": "China hat acht Banken in sein Digital-Yuan-Netzwerk aufgenommen, wodurch die Anzahl der Betreiber auf 30 gestiegen ist. Die Erweiterung zeigt eine fortgesetzte staatlich geführte Einführung einer digitalen Währung (CBDC) mit begrenzter direkter Auswirkung auf die Kryptomärkte.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "South Korea moves to block Polymarket over gambling concerns",
+    "url": "https://cointelegraph.com/news/south-korea-block-polymarket-gambling-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph.com News",
+    "published": "2026-08-18T08:39:57Z",
+    "stream": "crypto",
+    "score": 7,
+    "category": "Regulation",
+    "sentiment": "bearish",
+    "summary": "Südkorea plant, Polymarket aufgrund von Bedenken bezüglich Glücksspiels zu blockieren. Dieser Schritt erhöht den regulatorischen Druck auf Vorhersagemärkte und könnte die Krypto-Stimmung in der Region belasten.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+    "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+    "source": "AI News & Artificial Intelligence | TechCrunch",
+    "published": "2026-08-17T15:16:24Z",
+    "stream": "ai",
+    "score": 7,
+    "category": "Hardware & Infrastructure",
+    "sentiment": "bullish",
+    "summary": "Nvidia investiert 1,5 Milliarden US-Dollar in den Rechenzentrumsentwickler von SoftBank, ein Deal, der sicherstellt, dass seine Chips ein OpenAI-Rechenzentrum mit Strom versorgen. Die Investition festigt Nvidias Kontrolle über die Hardware der KI-Infrastruktur und beschleunigt den Ausbau der Rechenkapazitäten bei OpenAI.",
+    "instruments": [],
+    "entities": [
+      "Nvidia",
+      "SoftBank",
+      "OpenAI"
+    ]
+  },
+  {
     "title": "Harmony plans pre-attack rollback after exploiter forged 3 trillion ONE tokens",
     "url": "https://www.theblock.co/news/ecosystems/2026-08-17-harmony-plans-pre-attack-rollback-after-exploiter-forged-3-trillion-one-tokens-411976",
     "source": "The Block",
@@ -8,7 +983,7 @@
     "score": 8,
     "category": "Hack & Security",
     "sentiment": "bearish",
-    "summary": "Harmony was exploited after an attacker forged 3 trillion ONE tokens, and the team now plans a pre-attack rollback after weighing alternatives such as a token burn and wallet blacklisting. The breach and planned state rollback undermine trust in the network and could pressure ONE, weighing on broader sentiment toward smaller chains.",
+    "summary": "Harmony wurde ausgenutzt, nachdem ein Angreifer 3 Billionen ONE-Token gefälscht hatte, und das Team plant nun einen Rollback vor dem Angriff nach Abwägung von Alternativen wie einem Token-Burn und der Schwarzsportierung von Wallets. Der Sicherheitsvorfall und der geplante Zustand-Rollback untergraben das Vertrauen in das Netzwerk und könnten Druck auf den ONE-Token ausüben, was sich negativ auf die allgemeine Stimmung gegenüber kleineren Chains auswirken könnte.",
     "instruments": [],
     "entities": []
   },
@@ -21,7 +996,7 @@
     "score": 8,
     "category": "Other",
     "sentiment": "bullish",
-    "summary": "Bitmine added 9,926 ETH to its holdings last week, bringing total holdings to 5.82 million tokens worth approximately $11 billion, while also executing 20.8 million shares in buybacks since July. The large-scale accumulation by a corporate entity signals strong institutional confidence in Ethereum, potentially driving bullish sentiment and buying pressure.",
+    "summary": "Bitmine hat seine Bestände letzte Woche um 9.926 ETH erhöht, was die Gesamtbestände auf 5,82 Millionen Token im Wert von etwa 11 Milliarden US-Dollar bringt, während es seit Juli auch Aktienrückkäufe in Höhe von 20,8 Millionen Anteilen durchgeführt hat. Die massive Akkumulation durch ein Unternehmen signalisiert starkes institutionelles Vertrauen in Ethereum, was möglicherweise eine bullische Stimmung und Kaufdruck antreiben könnte.",
     "instruments": [
       "ETHUSD"
     ],
@@ -36,7 +1011,46 @@
     "score": 7,
     "category": "Hack & Security",
     "sentiment": "bearish",
-    "summary": "The Dutch cyber agency warns that attackers exploited an authentication flaw in macOS Screen Sharing to gain root access and plant Monero miners, with public proof-of-concept code now circulating. The incident adds to crypto-related malware risk but has limited direct market impact, since no exchange funds or core networks are affected.",
+    "summary": "Die niederländische Cyber-Behörde warnt davor, dass Angreifer eine Authentifizierungsschwachstelle im macOS-Bildschirmfreigabedienst ausgenutzt haben, um Root-Zugriff zu erlangen und Monero-Miner zu installieren; öffentliches Proof-of-Concept-Code ist nun im Umlauf. Der Vorfall erhöht das Risiko durch kryptobezogener Malware, hat jedoch begrenzte direkte Auswirkungen auf den Markt, da keine Börsengelder oder Kernnetzwerke betroffen sind.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+    "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+    "source": "AI News & Artificial Intelligence | TechCrunch",
+    "published": "2026-08-17T13:10:05Z",
+    "stream": "ai",
+    "score": 6,
+    "category": "Business & Funding",
+    "sentiment": "bullish",
+    "summary": "Das Sprach-KI-Startup Wispr hat 280 Millionen US-Dollar bei einer Bewertung von 2 Milliarden US-Dollar eingesammelt und will über Diktierfunktionen hinaus expandieren. Die hohe Bewertung unterstreicht das anhaltende Investoreninteresse an KI-Anwendungen im Sprach- und Agentenbereich.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "Morning Minute: Trump To Meet Crypto, Prediction Market CEOs This Week",
+    "url": "https://decrypt.co/375760/morning-minute-trump-to-meet-crypto-prediction-market-ceos-this-week",
+    "source": "Decrypt",
+    "published": "2026-08-17T13:03:17Z",
+    "stream": "crypto",
+    "score": 5,
+    "category": "Regulation",
+    "sentiment": "neutral",
+    "summary": "Laut der Morning Minute von Decrypt trifft sich US-Präsident Trump in dieser Woche mit Führungskräften aus Krypto- und Prediction-Market-Unternehmen. Das Treffen signalisiert politisches Interesse am Sektor, konkrete regulatorische Folgen sind jedoch noch nicht absehbar.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "Austria’s FMA fines crypto broker Bitpanda $81,000 in first published MiCA penalty",
+    "url": "https://www.theblock.co/news/regulation/2026-08-17-austria-mica-penalty-bitpanda-411960",
+    "source": "The Block",
+    "published": "2026-08-17T13:03:16Z",
+    "stream": "crypto",
+    "score": 7,
+    "category": "Regulation",
+    "sentiment": "bearish",
+    "summary": "Die österreichische Finanzmarktaufsicht FMA hat die Krypto-Börse Bitpanda mit einer Geldstrafe von 81.000 US-Dollar belegt, der ersten veröffentlichten Strafe unter der EU-Verordnung MiCA. Der Fall zeigt, dass EU-Aufsichtsbehörden nun sichtbar gegen MiCA-Verstöße vorgehen, was regulatorische Kosten und Unsicherheit für Krypto-Anbieter in Europa erhöht.",
     "instruments": [],
     "entities": []
   },
@@ -49,7 +1063,7 @@
     "score": 8,
     "category": "Other",
     "sentiment": "neutral",
-    "summary": "Strategy halted Bitcoin sales after three weeks while raising $334M through equity issuance for STRC dividends, a buyback, and its dollar reserve. The decision to fund operations via stock rather than BTC sales removes a source of Bitcoin supply pressure from the largest corporate holder.",
+    "summary": "Strategy hat die Bitcoin-Verkäufe nach drei Wochen ausgesetzt und stattdessen 334 Millionen US-Dollar durch die Ausgabe von Eigenkapital für STRC-Dividenden, einen Aktienrückkauf und seine Dollar-Reserven beschafft. Die Entscheidung, die Operationen über Aktien statt über BTC-Verkäufe zu finanzieren, entfernt eine Quelle des Bitcoin-Angebotsdrucks vom größten korporativen Halter.",
     "instruments": [
       "BTCUSD"
     ],
@@ -64,7 +1078,7 @@
     "score": 8,
     "category": "Other",
     "sentiment": "neutral",
-    "summary": "Strategy raised $334M through stock sales but did not purchase Bitcoin, using proceeds for STRC dividends, share repurchases, and adding $149.1M to its $4.8B US dollar reserve. The halt in Bitcoin accumulation after weeks of sales signals a potential pause in Strategy institutional BTC treasury strategy, tempering expectations for near-term corporate Bitcoin demand.",
+    "summary": "Strategy hat 334 Millionen US-Dollar durch Aktienverkäufe eingenommen, jedoch keine Bitcoins erworben; die Erlöse wurden für STRC-Dividenden, Aktienrückkäufe und die Aufstockung der Dollar-Reserven um 149,1 Millionen auf insgesamt 4,8 Milliarden US-Dollar verwendet. Das Aussetzen des Bitcoin-Aufbaus nach wochenlangen Verkäufen deutet auf eine mögliche Pause der institutionellen BTC-Tresorstrategie von Strategy hin und dämpft die Erwartungen an die kurzfristige Nachfrage nach Corporate-Bitcoin.",
     "instruments": [
       "BTCUSD"
     ],
@@ -79,7 +1093,7 @@
     "score": 8,
     "category": "Hack & Security",
     "sentiment": "bearish",
-    "summary": "Harmony plans to roll back its blockchain, wiping 109,000 transactions after an exploit of ONE, warning that selective restoration could create an inconsistent chain state, while Ravencoin faces a separate rollback dispute after its own exploit. The rollback undermines confidence in network immutability and security, adding to bearish sentiment around smaller chains and overall crypto risk appetite.",
+    "summary": "Harmony plant, seine Blockchain zurückzusetzen und dabei 109.000 Transaktionen zu löschen, nachdem eine Schwachstelle im ONE-Token ausgenutzt wurde; das Unternehmen warnt, dass eine selektive Wiederherstellung einen inkonsistenten Chain-Zustand erzeugen könnte, während Ravencoin nach einer eigenen Sicherheitslücke ebenfalls mit einem Rollback-Streit konfrontiert ist. Der Rollback untergräbt das Vertrauen in die Unveränderbarkeit und Sicherheit des Netzwerks und verstärkt die bärische Stimmung im Zusammenhang mit kleineren Chains sowie dem allgemeinen Risikobereitschaftsgrad im Krypto-Markt.",
     "instruments": [],
     "entities": []
   },
@@ -92,7 +1106,7 @@
     "score": 8,
     "category": "Hack & Security",
     "sentiment": "bearish",
-    "summary": "Bitdefender reports that pirated downloads of the recently released blockbuster \"The Odyssey\" are spreading Lumma Stealer, malware that scrapes crypto wallets, passwords and browser sessions from infected machines. The campaign raises wallet-theft risk for crypto users and feeds security fear, adding bearish pressure to an already fragile market.",
+    "summary": "Bitdefender meldet, dass illegale Downloads des kürzlich erschienenen Blockbusters „The Odyssey“ den Lumma Stealer verbreiten, eine Malware, die Krypto-Wallets, Passwörter und Browsersitzungen von infizierten Maschinen ausspäht. Die Kampagne erhöht das Risiko von Wallet-Diebstählen für Krypto-Nutzer und schürt Sicherheitsängste, was zusätzlichen Abwärtsdruck auf einen ohnehin fragilen Markt ausübt.",
     "instruments": [],
     "entities": []
   },
@@ -105,7 +1119,7 @@
     "score": 8,
     "category": "Other",
     "sentiment": "neutral",
-    "summary": "Strategy sold $334 million in MSTR shares and made no bitcoin purchases or sales, building its USD reserve to $4.8 billion while its holdings stay at roughly 4% of the 21 million bitcoin supply cap, worth about $53.4 billion. The pause in activity from the largest corporate bitcoin holder removes near-term buying pressure, though the growing cash reserve signals ammunition for potential future purchases.",
+    "summary": "Strategy verkaufte MSTR-Aktien im Wert von 334 Millionen US-Dollar und tätigte keine Bitcoin-Käufe oder -Verkäufe, wodurch es seine USD-Rücklagen auf 4,8 Milliarden US-Dollar aufbaute, während seine Bestände bei etwa 4 % der Obergrenze von 21 Millionen Bitcoin liegen und rund 53,4 Milliarden US-Dollar wert sind. Die Pause in der Aktivität des größten korporativen Bitcoin-Halters entfernt den kurzfristigen Kaufdruck, obwohl die wachsende Bargeldreserve Munition für potenzielle zukünftige Käufe signalisiert.",
     "instruments": [
       "BTCUSD"
     ],
@@ -120,7 +1134,7 @@
     "score": 6,
     "category": "FUD",
     "sentiment": "bearish",
-    "summary": "Bitcoin confirmed a weekly candle close below its 200-week moving average for the first time since the 2022 bear market, and traders are warning of further BTC price downside. The break of this key long-term trend line signals deteriorating market structure and may accelerate selling pressure across crypto.",
+    "summary": "Bitcoin hat zum ersten Mal seit dem Bärenmarkt von 2022 einen wöchentlichen Kerzenabschluss unter seinem 200-Wochen-Durchschnitt bestätigt, und Händler warnen vor weiteren Abwärtsbewegungen des BTC-Preises. Der Bruch dieser wichtigen langfristigen Trendlinie signalisiert eine verschlechterte Marktstruktur und könnte den Verkaufsdruck im Krypto-Bereich weiter verstärken.",
     "instruments": [
       "BTCUSD"
     ],
@@ -135,7 +1149,7 @@
     "score": 6,
     "category": "Regulation",
     "sentiment": "bearish",
-    "summary": "Reuters reported that Binance supplied Russian authorities with transaction records and identity documents later used in a terrorism-financing case against Yuri Belenkiy. The report adds compliance and data-privacy scrutiny over Binance amid geopolitical tensions, a mild regulatory overhang for crypto exchanges with limited direct impact on major coin prices.",
+    "summary": "Reuters berichtete, dass Binance russischen Behörden Transaktionsaufzeichnungen und Identitätsdokumente zur Verfügung gestellt hat, die später in einem Fall der Terrorismusfinanzierung gegen Yuri Belenkiy verwendet wurden. Der Bericht fügt hinzu, dass Binance unter zunehmender Compliance- und Datenschutzprüfung steht, vor dem Hintergrund geopolitischer Spannungen, was eine leichte regulatorische Belastung für Krypto-Börsen darstellt, mit begrenzter direkter Auswirkung auf die Preise großer Coins.",
     "instruments": [],
     "entities": []
   },
@@ -148,7 +1162,7 @@
     "score": 8,
     "category": "Macro",
     "sentiment": "bullish",
-    "summary": "Paul Tudor Jones' macro fund raised its iShares Bitcoin Trust stake 18.9% to 688,529 shares worth $22.9 million in Q2 while sharply cutting call options, shifting from leveraged bets toward direct spot exposure. The return of a prominent macro investor to spot Bitcoin exposure signals renewed institutional conviction and supports BTC demand.",
+    "summary": "Das Makro-Fonds von Paul Tudor Jones erhöhte seine Beteiligung am iShares Bitcoin Trust im zweiten Quartal um 18,9 Prozent auf 688.529 Anteile im Wert von 22,9 Millionen US-Dollar und reduzierte gleichzeitig deutlich die Call-Optionen, wodurch es von gehobenen Wetten zu einer direkten Spot-Beteiligung wechselte. Die Rückkehr eines prominenten Makro-Investors zur direkten Bitcoin-Beteiligung signalisiert erneutes institutionelles Vertrauen und stützt die BTC-Nachfrage.",
     "instruments": [
       "BTCUSD"
     ],
@@ -163,7 +1177,7 @@
     "score": 6,
     "category": "Other",
     "sentiment": "bullish",
-    "summary": "Bitcoin miner HIVE's BUZZ HPC unit signed a five-year, $350 million GPU cloud deal adding $70 million in annualized revenue, its second large NVIDIA cluster deal in two months. The contract shows crypto miners converting energy and hardware assets into AI cloud revenue, diversifying beyond Bitcoin mining economics.",
+    "summary": "Der Bitcoin-Miner HIVE hat mit seiner BUZZ HPC-Sparte einen fünfjährigen GPU-Cloud-Vertrag über 350 Millionen US-Dollar unterzeichnet, der zu einer jährlichen Umsatzsteigerung von 70 Millionen US-Dollar führt. Es handelt sich um das zweite große Cluster-Geschäft mit NVIDIA innerhalb von zwei Monaten. Der Vertrag zeigt, wie Krypto-Miner Energie- und Hardwareanlagen in AI-Cloud-Einnahmen umwandeln und sich damit über die Wirtschaftlichkeit des Bitcoin-Minings hinaus diversifizieren.",
     "instruments": [],
     "entities": []
   },
@@ -176,7 +1190,7 @@
     "score": 5,
     "category": "Other",
     "sentiment": "neutral",
-    "summary": "Dutch prosecutors are selling $2.5 million of crypto from bankrupt platform Knaken, which the trustee says bought the coins in its own name, leaving customers with a euro claim against a collapsed company. The episode highlights insolvency risk for users of smaller crypto platforms and adds to caution around custodied exchange balances.",
+    "summary": "Niederländische Staatsanwälte veräußern Kryptowährungen im Wert von 2,5 Millionen US-Dollar der insolventen Plattform Knaken, wobei der Treuhänder angibt, die Plattform habe die Coins in eigenem Namen erworben, was den Kunden lediglich einen Euro-Forderungsanspruch gegen das gescheiterte Unternehmen lässt. Dieser Vorfall verdeutlicht das Insolvenzrisiko für Nutzer kleinerer Krypto-Plattformen und verstärkt die Vorsicht im Umgang mit Guthaben auf verwahrten Börsen.",
     "instruments": [],
     "entities": []
   },
@@ -189,7 +1203,7 @@
     "score": 7,
     "category": "Regulation",
     "sentiment": "bearish",
-    "summary": "Austria's FMA fined Bitpanda in the country's first published MiCA penalty, ruling the exchange breached MiCA rules on crypto white papers and marketing communications, with the decision now final. The fine signals that European regulators are actively enforcing MiCA, raising compliance costs and legal risk for crypto firms operating in the EU.",
+    "summary": "Die österreichische Finanzmarktaufsicht (FMA) hat Bitpanda mit der ersten veröffentlichten Strafe nach dem MiCA-Regelwerk im Land bestraft und festgestellt, dass die Börse gegen die MiCA-Vorschriften für Krypto-Whitepapers und Marketingkommunikationen verstoßen hat; die Entscheidung ist nun rechtskräftig. Die Geldstrafe signalisiert, dass europäische Aufsichtsbehörden MiCA aktiv durchsetzen, was die Compliance-Kosten und das rechtliche Risiko für in der EU tätige Krypto-Unternehmen erhöht.",
     "instruments": [],
     "entities": []
   },
@@ -202,7 +1216,7 @@
     "score": 7,
     "category": "Hack & Security",
     "sentiment": "bearish",
-    "summary": "A flaw in SafePal's order-tracking plug-in exposed names, addresses and phone numbers of nearly 40,000 bitcoin wallet customers, stoking fears of physical attacks. The breach raises phishing and physical-security risks for crypto holders and undermines trust in wallet providers' data handling.",
+    "summary": "Ein Fehler im Order-Tracking-Plugin von SafePal hat die Namen, Adressen und Telefonnummern von fast 40.000 Bitcoin-Wallet-Kunden offengelegt, was Befürchtungen bezüglich physischer Angriffe schürt. Der Sicherheitsvorfall erhöht das Phishing- und physische Sicherheitsrisiko für Krypto-Besitzer und untergräbt das Vertrauen in die Datenverarbeitung durch Wallet-Anbieter.",
     "instruments": [],
     "entities": []
   },
@@ -215,7 +1229,7 @@
     "score": 6,
     "category": "Research & Open Source",
     "sentiment": "neutral",
-    "summary": "DeepSeek released DeepSeek Harness v0.1, an MIT-licensed agent harness where every capability is a Cordis plugin, featuring four runtime modes, append-only session logs and provider-agnostic model routing. The open-source release gives developers a modular, vendor-neutral agent framework and strengthens DeepSeek's footprint in AI developer tooling.",
+    "summary": "DeepSeek hat DeepSeek Harness v0.1 veröffentlicht, eine unter der MIT-Lizenz stehende Agent-Harness, bei der jede Funktion ein Cordis-Plugin ist und die vier Laufzeitmodi, anhängige Sitzungsprotokolle sowie herstellerunabhängiges Modell-Routing bietet. Die Open-Source-Veröffentlichung gibt Entwicklern einen modularen, herstellerneutralen Agent-Framework und festigt DeepSeeks Präsenz im Bereich der KI-Entwicklertools.",
     "instruments": [],
     "entities": []
   },
@@ -228,7 +1242,7 @@
     "score": 4,
     "category": "Society & Work",
     "sentiment": "neutral",
-    "summary": "MIT Technology Review tells the story of a child's six-year relationship with Moxie, an AI companion robot, and what happens when the robot's service ends. The feature highlights the deep emotional attachments users form with AI companions and the societal questions these bonds raise as companion robots become more common.",
+    "summary": "Der MIT Technology Review erzählt die Geschichte der sechsjährigen Beziehung eines Kindes zu Moxie, einem KI-Begleiterroboter, und davon, was geschieht, wenn der Service des Roboters endet. Der Beitrag hebt die tiefen emotionalen Bindungen hervor, die Nutzer zu KI-Begleitern aufbauen, sowie die gesellschaftlichen Fragen, die diese Verbindungen aufwerfen, während Begleiterroboter alltäglicher werden.",
     "instruments": [],
     "entities": []
   },
@@ -241,7 +1255,7 @@
     "score": 4,
     "category": "FUD",
     "sentiment": "bearish",
-    "summary": "BitMart's Chinese-language X account demanded an Aug. 19 repayment plan, while founder Sheldon Xia called claims of blocked withdrawals and unpaid salaries 'fabricated rumors.' The public dispute adds uncertainty around BitMart's solvency and customer funds even as the founder denies the allegations.",
+    "summary": "Der chinesischsprachige X-Account von BitMart forderte einen Rückzahlungsplan für den 19. August, während Gründer Sheldon Xia Behauptungen über gesperrte Auszahlungen und nicht ausgezahlte Gehälter als „erfundene Gerüchte“ bezeichnete. Die öffentliche Auseinandersetzung verstärkt die Unsicherheit bezüglich der Solvenz von BitMart und der Sicherheit der Kundengelder, obwohl der Gründer die Vorwürfe bestreitet.",
     "instruments": [],
     "entities": []
   },
@@ -254,7 +1268,7 @@
     "score": 6,
     "category": "Business & Funding",
     "sentiment": "neutral",
-    "summary": "Google announced Gemini and Pixel partnerships with football clubs, bringing the assistant and phone lineup into sports fan experiences. The deal expands Gemini's consumer distribution, though it is a marketing-led integration with limited direct impact on the broader AI industry.",
+    "summary": "Google hat Partnerschaften zwischen Gemini und Pixel-Fußballclubs bekannt gegeben, die den Assistenten und das Telefon-Portfolio in die Fan-Erlebnisse im Sport integrieren. Die Vereinbarung erweitert die Consumer-Distribution von Gemini, handelt sich jedoch um eine marketinggetriebene Integration mit begrenztem direktem Einfluss auf die breitere KI-Branche.",
     "instruments": [],
     "entities": [
       "GOOGL"
@@ -269,9 +1283,39 @@
     "score": 5,
     "category": "Other",
     "sentiment": "bearish",
-    "summary": "Greenlane's $70 million BERA treasury ended Q2 valued at just $16 million, forcing a $19.1 million noncash valuation loss as BERA fell nearly 76% year to date. The writedown illustrates how deeply altcoin tokens have drawn down and adds caution for companies holding volatile crypto treasuries.",
+    "summary": "Die BERA-Treasury von Greenlane im Wert von 70 Millionen US-Dollar endete im zweiten Quartal mit einem Wert von nur 16 Millionen US-Dollar, was zu einem nicht-kassenwirksamen Abschreibungsverlust von 19,1 Millionen US-Dollar führte, da BERA seit Jahresbeginn um fast 76 % fiel. Die Abschreibung verdeutlicht, wie stark Altcoin-Token eingebrochen sind, und warnt Unternehmen davor, volatile Krypto-Treasuries zu halten.",
     "instruments": [],
     "entities": []
+  },
+  {
+    "title": "The Defender’s Window",
+    "url": "https://openai.com/index/the-defenders-window",
+    "source": "OpenAI News",
+    "published": "2026-08-17T05:30:00Z",
+    "stream": "ai",
+    "score": 5,
+    "category": "Safety & Risk",
+    "sentiment": "neutral",
+    "summary": "OpenAI hat den Artikel „The Defender's Window“ veröffentlicht, der sich mit dem Handlungsfenster für Verteidiger in der Cybersicherheit befasst. Der Beitrag unterstreicht die wachsende Rolle von KI in der Cyberabwehr, enthält aber keine konkreten Produkt- oder Policy-Ankündigungen.",
+    "instruments": [],
+    "entities": [
+      "OPENAI"
+    ]
+  },
+  {
+    "title": "OpenAI joins PORTS-Pike project",
+    "url": "https://openai.com/index/openai-joins-ports-pike-project",
+    "source": "OpenAI News",
+    "published": "2026-08-17T05:00:00Z",
+    "stream": "ai",
+    "score": 6,
+    "category": "Business & Funding",
+    "sentiment": "bullish",
+    "summary": "OpenAI ist dem PORTS-Pike-Projekt beigetreten und erweitert damit seine Beteiligung an Infrastrukturvorhaben. Die Partnerschaft stärkt OpenAIs Position im Bereich großer Infrastrukturprojekte und signalisiert weiteres Wachstum der KI-Infrastruktur.",
+    "instruments": [],
+    "entities": [
+      "OPENAI"
+    ]
   },
   {
     "title": "Chainalysis sues US over $95M ICE contract with TRM Labs",
@@ -282,7 +1326,7 @@
     "score": 7,
     "category": "Regulation",
     "sentiment": "neutral",
-    "summary": "Chainalysis is suing the US government over ICE's $95 million sole-source contract with rival TRM Labs, with the sealed complaint leaving its objections and requested remedy undisclosed. The lawsuit highlights intensifying competition in blockchain analytics for government contracts and possible scrutiny of how US agencies award crypto-related work.",
+    "summary": "Chainalysis klagt die US-Regierung an wegen des Alleinauftrags im Wert von 95 Millionen Dollar der ICE mit dem Konkurrenten TRM Labs, wobei die versiegelte Klageschrift ihre Einwände und das beantragte Rechtsmittel ungenannt lässt. Die Klage unterstreicht den zunehmenden Wettbewerb in der Blockchain-Analyse für Regierungsverträge und mögliche Prüfungen, wie US-Behörden krypto-bezogene Aufträge vergeben.",
     "instruments": [],
     "entities": []
   },
@@ -295,7 +1339,7 @@
     "score": 6,
     "category": "Regulation & Policy",
     "sentiment": "neutral",
-    "summary": "OpenAI is funding 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age. The initiative puts OpenAI at the center of AI policy debates and could shape how regulation and economic policy around AI evolve.",
+    "summary": "OpenAI finanziert 14 unabhängige Projekte, die neue Ideen zur KI-Politik erforschen, um wirtschaftliche Chancen zu erweitern und die gesellschaftliche Resilienz im Zeitalter der Intelligenz zu stärken. Die Initiative stellt OpenAI in das Zentrum der Debatten über KI-Politik und könnte beeinflussen, wie sich Regulierung und Wirtschaftspolitik im Bereich der KI entwickeln.",
     "instruments": [],
     "entities": [
       "OPENAI"
@@ -310,7 +1354,7 @@
     "score": 5,
     "category": "Hack & Security",
     "sentiment": "neutral",
-    "summary": "This week's Hodler's Digest reports that owners of Trezor and SafePal crypto wallets face high phishing risk after separate data leaks, while CLARITY odds sit at just 10% despite a White House meeting this week. The roundup underscores persistent security threats to crypto holders and continued regulatory uncertainty around stablecoin legislation.",
+    "summary": "Der dieswöchige Hodler's Digest berichtet, dass Besitzer von Trezor- und SafePal-Crypto-Wallets nach separaten Datenlecks einem hohen Phishing-Risiko ausgesetzt sind, während die Wahrscheinlichkeit für das CLARITY-Gesetz bei nur 10 Prozent liegt, trotz eines Treffens im Weißen Haus diese Woche. Die Zusammenfassung unterstreicht die anhaltenden Sicherheitsbedrohungen für Crypto-Inhaber und die fortbestehende regulatorische Unsicherheit bezüglich der Stablecoin-Gesetzgebung.",
     "instruments": [],
     "entities": []
   },
@@ -323,7 +1367,7 @@
     "score": 7,
     "category": "Regulation",
     "sentiment": "neutral",
-    "summary": "Prediction market Novig sued Wisconsin's attorney general, its latest legal fight after suing officials in five states including Wisconsin since Aug. 4, following its recently announced partnership with the New York Mets. The suits show prediction platforms aggressively challenging state regulators over sports contracts, with uncertain implications for the sector's legal footing.",
+    "summary": "Die Prognosemarkt-Plattform Novig hat den Generalstaatsanwalt von Wisconsin verklagt, was ihr jüngster Rechtsstreit ist, nachdem sie seit dem 4. August Beamte in fünf Bundesstaaten einschließlich Wisconsin verklagt hat, gefolgt von ihrer kürzlich bekannt gegebenen Partnerschaft mit den New York Mets. Die Klagen zeigen, dass Prognoseplattformen staatliche Regulierungsbehörden im Bereich der Sportwetten aggressiv herausfordern, was ungewisse Auswirkungen auf die rechtliche Grundlage dieses Sektors haben könnte.",
     "instruments": [],
     "entities": []
   },
@@ -336,7 +1380,7 @@
     "score": 7,
     "category": "Business & Funding",
     "sentiment": "bullish",
-    "summary": "Stripe will reportedly acquire AI gateway startup OpenRouter for over $7 billion, a startup its CEO has described as 'Stripe for AI.' The acquisition would consolidate AI model access and payments infrastructure, validating the AI gateway business model and signaling major fintech interest in AI distribution.",
+    "summary": "Berichten zufolge will Stripe den KI-Gateway-Startup OpenRouter für über 7 Milliarden US-Dollar übernehmen, ein Startup, dessen CEO als „Stripe für KI“ bezeichnet wurde. Die Übernahme würde den Zugang zu KI-Modellen und die Zahlungsinfrastruktur konsolidieren, das Geschäftsmodell des KI-Gateways validieren und ein starkes Interesse der Fintech-Branche an der KI-Vertriebsschiene signalisieren.",
     "instruments": [],
     "entities": []
   },
@@ -349,1034 +1393,10 @@
     "score": 4,
     "category": "Society & Work",
     "sentiment": "neutral",
-    "summary": "On the latest Equity podcast episode, TechCrunch discusses why not everyone is buying Mark Zuckerberg's vision of an AI-driven future. The discussion reflects public and investor skepticism that could weigh on Meta's AI narrative and capital spending.",
+    "summary": "In der neuesten Episode des Equity-Podcasts erörtert TechCrunch, warum nicht jeder Marks Zuckers Vision einer durch KI getriebenen Zukunft teilt. Die Diskussion spiegelt die Skepsis der Öffentlichkeit und der Anleger wider, die sich auf das KI-Narrativ und die Investitionsausgaben von Meta auswirken könnte.",
     "instruments": [],
     "entities": [
       "META"
     ]
-  },
-  {
-    "title": "Wallet provider SafePal says data breach exposed personal info of nearly 40,000 customers",
-    "url": "https://www.theblock.co/news/business/2026-08-16-wallet-provider-safepal-says-data-breach-exposed-personal-info-of-nearly-40000-customers-411934",
-    "source": "The Block",
-    "published": "2026-08-16T17:18:38Z",
-    "stream": "crypto",
-    "score": 7,
-    "category": "Hack & Security",
-    "sentiment": "bearish",
-    "summary": "SafePal said a data breach exposed personal information of nearly 40,000 customers and that it recently found the root cause, though customers had posted online about phishing attempts as early as July. The disclosure extends the phishing risk window for affected wallet customers and adds to security concerns across crypto wallet providers.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Anthropic CEO says AI backlash is 'fundamentally a crisis of trust'",
-    "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-    "source": "AI News & Artificial Intelligence | TechCrunch",
-    "published": "2026-08-16T16:53:51Z",
-    "stream": "ai",
-    "score": 4,
-    "category": "Society & Work",
-    "sentiment": "neutral",
-    "summary": "Anthropic CEO Dario Amodei pushed back on the idea that he has painted an overly pessimistic picture of AI, arguing that the AI backlash is fundamentally a crisis of trust. His remarks highlight how public skepticism and trust concerns are shaping AI companies' messaging and the regulatory climate.",
-    "instruments": [],
-    "entities": [
-      "ANTHROPIC"
-    ]
-  },
-  {
-    "title": "Gemini 3.7 Flash Review: Google's Cheap Model Isn't Dumb Anymore",
-    "url": "https://decrypt.co/375730/gemini-3-7-flash-review-google-cheap-model",
-    "source": "Decrypt",
-    "published": "2026-08-16T16:00:05Z",
-    "stream": "ai",
-    "score": 4,
-    "category": "Model Release & Capability",
-    "sentiment": "neutral",
-    "summary": "Decrypt's review finds Google's budget-tier Gemini 3.7 Flash can now zero-shot a playable game three weeks after a release that couldn't produce a working file, though it still can't reason and a free 27B model writes better. The mixed review shows Google's low-cost tier improving on execution while still trailing rivals on reasoning quality.",
-    "instruments": [],
-    "entities": [
-      "GOOGL"
-    ]
-  },
-  {
-    "title": "Hackers exploited macOS Screen Sharing flaw to install Monero miners, Dutch cyber agency says",
-    "url": "https://www.theblock.co/news/defi/2026-08-16-hackers-exploited-macos-screen-sharing-flaw-to-install-monero-miners-dutch-cyber-agency-says-411932",
-    "source": "The Block",
-    "published": "2026-08-16T15:07:00Z",
-    "stream": "crypto",
-    "score": 6,
-    "category": "Hack & Security",
-    "sentiment": "bearish",
-    "summary": "Hackers exploited a macOS Screen Sharing flaw, rated a critical 9.8/10 on the CVSS scale by US officials, to install Monero miners, according to the Dutch cyber agency. The campaign shows attackers weaponizing critical OS vulnerabilities to hijack computing power for crypto mining, and experts warn users to update their devices.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "People Are Turning to AI for Mental Health, California Wants It Banned",
-    "url": "https://decrypt.co/375725/california-bill-ban-ai-chatbots-therapy-mental-health",
-    "source": "Decrypt",
-    "published": "2026-08-16T14:01:03Z",
-    "stream": "ai",
-    "score": 6,
-    "category": "Regulation & Policy",
-    "sentiment": "neutral",
-    "summary": "A California bill awaiting an Assembly vote would place guardrails on AI chatbots and prevent them from acting as therapists, as more people turn to AI for mental health. The measure signals growing state-level regulation of consumer AI applications and could set a precedent for health-adjacent AI restrictions.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says",
-    "url": "https://cointelegraph.com/news/defillama-delayed-app-launch-fake-phishing-apps-apple",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-16T12:48:09Z",
-    "stream": "crypto",
-    "score": 5,
-    "category": "Hack & Security",
-    "sentiment": "neutral",
-    "summary": "DefiLlama's founder said the platform delayed its mobile launch over fake phishing apps on the Apple App Store, noting Apple removed one impostor app within days after being shown it drained funds from a small crypto wallet. The incident highlights the persistent risk of app-store impersonation scams targeting DeFi users.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "A Routing Bug Took Solana 86% of the Way to Losing Finality",
-    "url": "https://decrypt.co/375404/a-routing-bug-took-solana-86-of-the-way-to-losing-finality",
-    "source": "Decrypt",
-    "published": "2026-08-12T14:13:07Z",
-    "stream": "crypto",
-    "score": 6,
-    "category": "Tech Update",
-    "sentiment": "bearish",
-    "summary": "A malformed default route at a single hosting provider took almost 29% of staked SOL offline, against the 33% threshold for losing finality. The near-miss highlights Solana network fragility and may pressure SOL price and sentiment in the short term.",
-    "instruments": [
-      "SOLUSD"
-    ],
-    "entities": []
-  },
-  {
-    "title": "Putting sign language AI into users’ hands",
-    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-    "source": "Google DeepMind News",
-    "published": "2026-08-12T14:01:59Z",
-    "stream": "ai",
-    "score": 8,
-    "category": "Model Release & Capability",
-    "sentiment": "bullish",
-    "summary": "Google DeepMind introduced SL2T, a breakthrough sign-language-to-text model powering new accessibility features for Deaf and hard of hearing users. This marks a significant expansion of AI's real-world impact in accessibility, demonstrating DeepMind's continued progress in deploying specialized models beyond traditional NLP benchmarks.",
-    "instruments": [],
-    "entities": [
-      "GOOGL"
-    ]
-  },
-  {
-    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-    "source": "Hugging Face - Blog",
-    "published": "2026-08-12T14:00:51Z",
-    "stream": "ai",
-    "score": 7,
-    "category": "Model Release & Capability",
-    "sentiment": "bullish",
-    "summary": "Liquid AI released LFM2.5-VL-3B, a vision model designed for better and faster vision capabilities on edge devices. The open-weights release advances edge AI vision performance and expands the ecosystem for on-device multimodal AI.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Kalshi Adds Real-Time Market Data Feed Through DoubleZero",
-    "url": "https://decrypt.co/375384/kalshi-real-time-market-data-feed-doublezero",
-    "source": "Decrypt",
-    "published": "2026-08-12T14:00:04Z",
-    "stream": "crypto",
-    "score": 6,
-    "category": "Tech Update",
-    "sentiment": "neutral",
-    "summary": "Kalshi added a real-time market data feed through DoubleZero fiber network, giving trading firms access to its sports and crypto order books. The service enhances institutional data access for prediction markets but has no direct effect on crypto spot or derivatives markets.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Kalshi first prediction market to stream full order books via DoubleZero",
-    "url": "https://www.theblock.co/news/markets/2026-08-12-kalshi-first-prediction-market-to-stream-full-order-books-via-doublezero-411589",
-    "source": "The Block",
-    "published": "2026-08-12T14:00:00Z",
-    "stream": "crypto",
-    "score": 6,
-    "category": "Tech Update",
-    "sentiment": "neutral",
-    "summary": "Kalshi became the first prediction market to stream full Level 1 and Level 2 order books via DoubleZero, giving institutional traders direct access without reconstructing data from APIs. The move strengthens Kalshi institutional infrastructure but does not directly impact crypto spot or derivatives markets.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "4 New Camera Tricks on Google’s Latest Pixel 11 Smartphones",
-    "url": "https://www.wired.com/story/new-camera-tricks-on-google-latest-pixel-11-smartphones/",
-    "source": "Feed: Artificial Intelligence Latest",
-    "published": "2026-08-12T14:00:00Z",
-    "stream": "ai",
-    "score": 4,
-    "category": "Society & Work",
-    "sentiment": "neutral",
-    "summary": "Google's Pixel 11 series introduces four new AI-powered camera features including Magic Capture and Instant Night Sight. The continued integration of AI capabilities into consumer smartphones makes AI-powered tools more accessible to everyday users.",
-    "instruments": [],
-    "entities": [
-      "GOOGL"
-    ]
-  },
-  {
-    "title": "Kalshi launches sports and crypto perps data feed on DoubleZero",
-    "url": "https://cointelegraph.com/news/kalshi-launches-sports-crypto-data-feed-doublezero?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-12T13:58:41Z",
-    "stream": "crypto",
-    "score": 6,
-    "category": "Tech Update",
-    "sentiment": "neutral",
-    "summary": "Kalshi launched access to its sports and crypto perpetual data feed through DoubleZero dedicated fiber network to bolster institutional data access. The data feed improves market data transparency for institutions but does not directly affect crypto asset prices.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Slovenia joins EU’s MiCA stablecoin register with first issuer",
-    "url": "https://cointelegraph.com/news/slovenia-eu-mica-stablecoin-register-dinaro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-12T13:31:54Z",
-    "stream": "crypto",
-    "score": 6,
-    "category": "Regulation",
-    "sentiment": "neutral",
-    "summary": "Slovenia entered the EU MiCA stablecoin register via electronic money institution Dinaro, becoming the first issuer on the list, while two new CASPs were added. The milestone shows the EU stablecoin framework moving into live supervision, adding regulatory clarity for the European stablecoin market.",
-    "instruments": [
-      "USDT.D"
-    ],
-    "entities": []
-  },
-  {
-    "title": "El Salvador’s Bitcoin experiment turns 5: ‘It was for us, not them’",
-    "url": "https://cointelegraph.com/magazine/el-salvadors-bitcoin-experiment-turns-5-it-was-for-us-and-not-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-12T13:30:00Z",
-    "stream": "crypto",
-    "score": 4,
-    "category": "Other",
-    "sentiment": "neutral",
-    "summary": "Five years after El Salvador adopted Bitcoin as legal tender, the experiment has fallen short of its original promises for locals while boosting the global profile of Bitcoin. The retrospective is largely narrative-driven with limited direct price impact, but it keeps country-level Bitcoin adoption in focus.",
-    "instruments": [
-      "BTCUSD"
-    ],
-    "entities": []
-  },
-  {
-    "title": "Wintermute to pour $1B in AI, high-frequency trading amid TradFi expansion: report",
-    "url": "https://cointelegraph.com/news/wintermute-pour-1b-ai-tradfi-expansion-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-12T13:23:57Z",
-    "stream": "crypto",
-    "score": 8,
-    "category": "Other",
-    "sentiment": "bullish",
-    "summary": "Wintermute plans to invest $1 billion in AI infrastructure and high-frequency trading as part of its expansion into traditional finance, according to a report. This signals growing institutional confidence and deeper integration between crypto markets and TradFi, potentially boosting market liquidity and maturity.",
-    "instruments": [
-      "BTCUSD",
-      "ETHUSD"
-    ],
-    "entities": []
-  },
-  {
-    "title": "Fidelity files with SEC to add staking to Ethereum ETF",
-    "url": "https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-12T12:42:58Z",
-    "stream": "crypto",
-    "score": 8,
-    "category": "Regulation",
-    "sentiment": "bullish",
-    "summary": "Fidelity filed with the SEC to add staking to its Ethereum ETF (FETH), keeping 85% of staking rewards and planning quarterly cash distributions for investors. Staking income makes the Ether fund more attractive to institutions, supporting ETH demand and improving ETH relative appeal versus BTC.",
-    "instruments": [
-      "ETHUSD",
-      "ETHBTC"
-    ],
-    "entities": []
-  },
-  {
-    "title": "Standard Chartered-backed Anchorpoint begins HKDAP stablecoin rollout",
-    "url": "https://www.theblock.co/news/business/2026-08-12-standard-chartered-anchorpoint-hkdap-stablecoin-rollout-411575",
-    "source": "The Block",
-    "published": "2026-08-12T12:16:29Z",
-    "stream": "crypto",
-    "score": 8,
-    "category": "Regulation",
-    "sentiment": "bullish",
-    "summary": "Standard Chartered-backed Anchorpoint began institutional rollout of its Hong Kong dollar stablecoin, HKDAP, following licensing approval. The entry of a major bank-backed stablecoin signals growing institutional adoption and regulatory clarity for stablecoins, which could reshape the stablecoin market landscape.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Morning Minute: The CFTC Bails Out Kalshi in NY",
-    "url": "https://decrypt.co/375393/morning-minute-the-cftc-bails-out-kalshi-in-ny",
-    "source": "Decrypt",
-    "published": "2026-08-12T12:12:40Z",
-    "stream": "crypto",
-    "score": 7,
-    "category": "Regulation",
-    "sentiment": "neutral",
-    "summary": "The CFTC continues to support Kalshi in its New York legal battle as a major court case for the prediction market sector approaches. The outcome of this case could set a precedent that affects how prediction markets, which overlap with crypto betting platforms, are regulated in the US.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Bitwise Cuts 14% of Staff as Crypto Slump Reaches ETF Issuers",
-    "url": "https://decrypt.co/375394/bitwise-cuts-14-of-staff-as-crypto-slump-reaches-etf-issuers",
-    "source": "Decrypt",
-    "published": "2026-08-12T12:06:36Z",
-    "stream": "crypto",
-    "score": 5,
-    "category": "Other",
-    "sentiment": "bearish",
-    "summary": "Bitwise has cut 14% of its staff amid the ongoing crypto slump, matching the percentage shed by Coinbase in May and following shutdowns at BitMEX and BitMart. The layoffs signal that the crypto bear market is now impacting ETF issuers, a key institutional gateway, which could further dampen market sentiment.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
-    "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
-    "source": "TechCrunch AI",
-    "published": "2026-08-12T11:00:00Z",
-    "stream": "ai",
-    "score": 6,
-    "category": "Business & Funding",
-    "sentiment": "bullish",
-    "summary": "AI code-testing startup Blacksmith saw its valuation jump nearly 10x to $550M, with revenue growing more than tenfold over the past year. The rapid valuation growth signals strong market demand for AI-powered software validation and testing tools.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "The Job Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
-    "url": "https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/",
-    "source": "Feed: Artificial Intelligence Latest",
-    "published": "2026-08-12T10:45:00Z",
-    "stream": "ai",
-    "score": 4,
-    "category": "Society & Work",
-    "sentiment": "neutral",
-    "summary": "LemonLime cofounder Jordan Zietz finally explains why he got his startup logo tattooed on his shoulder after online criticism of the viral job interview story. The piece is a social media human interest story with no meaningful impact on the AI industry.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Bitcoin market in ‘hibernation’ as perp trading activity sinks to three-year low ahead of US CPI release: K33",
-    "url": "https://www.theblock.co/news/markets/2026-08-12-bitcoin-perp-trading-activity-three-year-low-us-cpi-k33-411545",
-    "source": "The Block",
-    "published": "2026-08-12T10:40:56Z",
-    "stream": "crypto",
-    "score": 7,
-    "category": "Macro",
-    "sentiment": "neutral",
-    "summary": "K33 Research reports Bitcoin perpetual trading activity has sunk to a three-year low ahead of the US CPI release, with elevated open interest leaving the market exposed to sharper liquidation-driven moves. The subdued conditions signal traders awaiting the inflation print, and a hot CPI surprise could amplify downside volatility for BTC.",
-    "instruments": [
-      "BTCUSD"
-    ],
-    "entities": []
-  },
-  {
-    "title": "Harmony's ONE Sinks 37% After Attacker Mints 4 Billion Tokens",
-    "url": "https://decrypt.co/375390/harmonys-one-sinks-37-after-attacker-mints-4-billion-tokens",
-    "source": "Decrypt",
-    "published": "2026-08-12T10:38:06Z",
-    "stream": "crypto",
-    "score": 8,
-    "category": "Hack & Security",
-    "sentiment": "bearish",
-    "summary": "An attacker minted 4 billion unauthorized ONE tokens, sending Harmony ONE down 37%, and the team is weighing a rollback that would also undo every legitimate transaction since the exploit. The supply inflation and possible chain rollback create severe uncertainty for ONE holders and raise fresh security concerns across the crypto market.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Binance, RedotPay clash over fate of Singapore lawsuit",
-    "url": "https://cointelegraph.com/news/binance-redotpay-clash-singapore-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-12T10:18:18Z",
-    "stream": "crypto",
-    "score": 7,
-    "category": "Regulation",
-    "sentiment": "bearish",
-    "summary": "RedotPay expects Binance to end its Singapore lawsuit while Binance says its claims in the $473 million dispute remain active. The clash prolongs legal uncertainty around Binance's operations in Singapore.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Bitcoin miners earn under 0.7% of revenue from fees in new 10-year low",
-    "url": "https://cointelegraph.com/markets/bitcoin-miners-earn-under-07-of-revenue-from-fees-in-new-10-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-12T10:06:05Z",
-    "stream": "crypto",
-    "score": 6,
-    "category": "Other",
-    "sentiment": "bearish",
-    "summary": "Bitcoin miners earned under 0.7% of revenue from fees, barely bouncing from a 10-year low of 0.52%, amid a profit squeeze that pushes miners toward AI. The trend highlights deteriorating Bitcoin mining economics and growing miner diversification.",
-    "instruments": [
-      "BTCUSD"
-    ],
-    "entities": []
-  },
-  {
-    "title": "You're Thinking About Online Trends All Wrong",
-    "url": "https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/",
-    "source": "Wired",
-    "published": "2026-08-12T09:30:00Z",
-    "stream": "ai",
-    "score": 4,
-    "category": "Society & Work",
-    "sentiment": "neutral",
-    "summary": "A Wired essay argues that common assumptions about how online trends spread are misleading. The piece offers perspective on AI-driven content dynamics but contains no concrete market-relevant developments.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "CFTC Invokes Emergency Powers to Keep Kalshi Trading Despite New York Suit",
-    "url": "https://decrypt.co/375387/cftc-invokes-emergency-powers-to-keep-kalshi-trading-despite-new-york-suit",
-    "source": "Decrypt",
-    "published": "2026-08-12T09:22:12Z",
-    "stream": "crypto",
-    "score": 7,
-    "category": "Regulation",
-    "sentiment": "neutral",
-    "summary": "The CFTC invoked emergency powers to keep Kalshi trading after New York moved to bar its contracts nationwide. The order escalates the state-versus-federal fight over event contracts.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Crypto companies urge AI firms to give Bitcoin developers early access",
-    "url": "https://cointelegraph.com/news/crypto-companies-ai-firms-bitcoin-developers-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-12T09:03:01Z",
-    "stream": "crypto",
-    "score": 5,
-    "category": "Other",
-    "sentiment": "neutral",
-    "summary": "The Bitcoin Policy Institute and other industry participants urged AI companies to give Bitcoin and open-source developers early access to frontier models for cybersecurity work. The request is advocacy with no immediate market or industry effect.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Australian regulator takes down Yepbit websites as investors report blocked withdrawals",
-    "url": "https://www.theblock.co/news/regulation/2026-08-12-australian-regulator-takes-down-yepbit-websites-411538",
-    "source": "The Block",
-    "published": "2026-08-12T08:26:21Z",
-    "stream": "crypto",
-    "score": 7,
-    "category": "Regulation",
-    "sentiment": "bearish",
-    "summary": "Australia's ASIC took down Yepbit's websites and rejected the platform's claim that the regulator had frozen investor funds, as users reported blocked withdrawals. The enforcement adds to regulatory pressure on crypto platforms and can erode investor confidence in smaller exchanges.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "FlightAware drops lawsuit against Kalshi one day after filing",
-    "url": "https://www.theblock.co/news/business/2026-08-12-flightaware-drops-kalshi-lawsuit-411534",
-    "source": "The Block",
-    "published": "2026-08-12T07:50:34Z",
-    "stream": "crypto",
-    "score": 6,
-    "category": "Regulation",
-    "sentiment": "bullish",
-    "summary": "FlightAware dropped its lawsuit against Kalshi one day after filing, ending claims that Kalshi misused its data and trademark for flight-cancellation prediction markets. The dismissal removes a legal overhang for Kalshi's prediction market business and reduces regulatory-adjacent risk in the space.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Inside the fake crypto startup that fooled North Korean IT workers",
-    "url": "https://cointelegraph.com/magazine/fake-crypto-startup-fooled-north-korean-it-workers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-12T07:34:58Z",
-    "stream": "crypto",
-    "score": 5,
-    "category": "Other",
-    "sentiment": "neutral",
-    "summary": "Suspected North Korean IT workers joined a fake crypto startup without realizing their every move was tracked to extract intelligence. The magazine feature illustrates social-engineering risks in crypto hiring but has no direct market impact.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Pa",
-    "url": "https://www.marktechpost.com/2026/08/12/nvidia-ai-releases-nemotron-3-5-lightning-a-30b-open-moe-with-3b-active-parameters/",
-    "source": "MarkTechPost",
-    "published": "2026-08-12T06:59:00Z",
-    "stream": "ai",
-    "score": 7,
-    "category": "Model Release & Capability",
-    "sentiment": "bullish",
-    "summary": "NVIDIA released Nemotron 3.5 Lightning, a 30B open MoE model with 3B active parameters. The efficient open-weights release strengthens NVIDIA's AI software ecosystem.",
-    "instruments": [],
-    "entities": [
-      "NVDA"
-    ]
-  },
-  {
-    "title": "Harmony confirms exploit involving unauthorized minting of 4 billion ONE tokens",
-    "url": "https://www.theblock.co/news/defi/2026-08-12-harmony-confirms-exploit-one-token-411527",
-    "source": "The Block",
-    "published": "2026-08-12T06:24:39Z",
-    "stream": "crypto",
-    "score": 8,
-    "category": "Hack & Security",
-    "sentiment": "bearish",
-    "summary": "Harmony confirmed an exploit in which an attacker minted four billion ONE tokens without authorization, following a report by X user Juiceberg. The unauthorized supply inflation undermines trust in the Harmony chain and pressures sentiment across DeFi tokens.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Harmony considers rollback after suspected exploit inflates ONE supply",
-    "url": "https://cointelegraph.com/news/armony-rollback-alleged-one-token-mint?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-12T06:02:52Z",
-    "stream": "crypto",
-    "score": 8,
-    "category": "Hack & Security",
-    "sentiment": "bearish",
-    "summary": "Harmony is working with exchanges to freeze funds and preparing a patch after claims that 2.8 billion unauthorized ONE tokens reached trading platforms. The suspected exploit and rollback plans add to the disruption from the ONE supply inflation.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "From assistance to execution: How enterprises put AI to work",
-    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-    "source": "OpenAI News",
-    "published": "2026-08-12T06:00:00Z",
-    "stream": "ai",
-    "score": 6,
-    "category": "Business & Funding",
-    "sentiment": "neutral",
-    "summary": "OpenAI published research detailing how enterprises are adopting agentic AI through ChatGPT and Codex, with frontier firms pulling ahead in adoption. The findings reinforce OpenAI's enterprise market position and signal accelerating AI workflow integration across industries.",
-    "instruments": [],
-    "entities": [
-      "OPENAI"
-    ]
-  },
-  {
-    "title": "Bitwise cuts 14% of staff as crypto layoffs mount during market downturn",
-    "url": "https://www.theblock.co/news/business/2026-08-12-bitwise-layoffs-411522",
-    "source": "The Block",
-    "published": "2026-08-12T05:52:59Z",
-    "stream": "crypto",
-    "score": 6,
-    "category": "Other",
-    "sentiment": "bearish",
-    "summary": "Bitwise cut 14% of its global team to around 155 employees last week, according to CEO Hunter Horsley. The layoffs at a major crypto asset manager reflect a worsening market downturn and signal continued strain on the industry.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Xiaomi's MiLM Plus Releases PROVE: Perception-Aligned Object Removal Metric",
-    "url": "https://www.marktechpost.com/2026/08/12/xiaomi-milm-plus-releases-prove-perception-aligned-object-removal-metric/",
-    "source": "MarkTechPost",
-    "published": "2026-08-12T05:05:00Z",
-    "stream": "ai",
-    "score": 5,
-    "category": "Research & Open Source",
-    "sentiment": "neutral",
-    "summary": "Xiaomi's MiLM Plus released PROVE, a perception-aligned metric for object removal in images. The benchmark contributes to computer vision evaluation but is a niche research update.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "CFTC invokes emergency powers to keep Kalshi operating in New York fight",
-    "url": "https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-12T04:53:26Z",
-    "stream": "crypto",
-    "score": 7,
-    "category": "Regulation",
-    "sentiment": "neutral",
-    "summary": "The CFTC invoked emergency powers to keep Kalshi operating amid a jurisdictional fight with New York over whether event contracts count as illegal gambling. The order escalates regulatory uncertainty around federally regulated prediction markets.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Ravencoin hits record low as network exploit puts transactions at risk",
-    "url": "https://cointelegraph.com/markets/ravencoin-rvn-record-low-consensus-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-12T01:11:51Z",
-    "stream": "crypto",
-    "score": 8,
-    "category": "Hack & Security",
-    "sentiment": "bearish",
-    "summary": "Ravencoin dropped to a record low after mining pools controlling most of its hash rate began building a competing chain that could trigger a three-day reorganization. The consensus exploit puts transactions at risk and erodes trust in the network's security.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "SEC, CFTC sue Goliath Ventures over $400M crypto Ponzi scheme",
-    "url": "https://cointelegraph.com/news/sec-cftc-sue-goliath-ventures-400m-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-12T00:07:41Z",
-    "stream": "crypto",
-    "score": 7,
-    "category": "Regulation",
-    "sentiment": "bearish",
-    "summary": "The SEC and CFTC sued Goliath Ventures over an alleged $400 million crypto Ponzi scheme that paid earlier investors and funded the founder's luxury spending. The enforcement action adds to regulatory pressure on crypto investment schemes.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Robinhood Chain hits 11.6 million daily transactions as USDe fuels TVL growth",
-    "url": "https://www.theblock.co/news/ecosystems/2026-08-11-robinhood-chain-hits-11-6-million-daily-transactions-as-usde-fuels-tvl-growth-411310",
-    "source": "The Block",
-    "published": "2026-08-11T22:26:02Z",
-    "stream": "crypto",
-    "score": 6,
-    "category": "Tech Update",
-    "sentiment": "bullish",
-    "summary": "Robinhood Chain reached 11.6 million daily transactions with USDe fueling TVL growth, even as its user base stagnates. The on-chain activity growth highlights rising usage of the new chain and strengthens the case for broader ecosystem adoption.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Another OpenAI Exec Quits in Leadership Shake-Up as AI Giant Eyes IPO",
-    "url": "https://decrypt.co/375381/openai-exec-brad-lightcap-quits-leadership-shake-up-ipo",
-    "source": "Decrypt",
-    "published": "2026-08-11T22:04:06Z",
-    "stream": "ai",
-    "score": 6,
-    "category": "Business & Funding",
-    "sentiment": "bearish",
-    "summary": "OpenAI's former operating chief is leaving to start a new venture amid several departures across the ChatGPT developer's leadership and safety teams. The shake-up raises questions about stability as the AI giant reportedly eyes an IPO.",
-    "instruments": [],
-    "entities": [
-      "OPENAI"
-    ]
-  },
-  {
-    "title": "CFTC flexes emergency authority to keep Kalshi operating amid New York lawsuit",
-    "url": "https://www.theblock.co/news/regulation/2026-08-11-cftc-flexes-emergency-authority-kalshi-operating-amid-new-york-lawsuit-411507",
-    "source": "The Block",
-    "published": "2026-08-11T22:00:30Z",
-    "stream": "crypto",
-    "score": 7,
-    "category": "Regulation",
-    "sentiment": "neutral",
-    "summary": "The CFTC used its emergency authority to order Kalshi to keep operating while it faces a lawsuit filed in New York last month. The regulator's intervention provides short-term operational stability for Kalshi amid its legal dispute.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after",
-    "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund/",
-    "source": "TechCrunch",
-    "published": "2026-08-11T21:39:00Z",
-    "stream": "ai",
-    "score": 5,
-    "category": "Business & Funding",
-    "sentiment": "bullish",
-    "summary": "Accel closed an oversubscribed $550 million India fund within weeks. The strong demand signals continued venture capital appetite for AI and tech startups in India.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "BTCPay Backers Offer Bitcoin Bounty After Wallet Exploit",
-    "url": "https://decrypt.co/375376/btcpay-bitcoin-bounty-critical-wallet-exploit",
-    "source": "Decrypt",
-    "published": "2026-08-11T21:16:03Z",
-    "stream": "crypto",
-    "score": 8,
-    "category": "Hack & Security",
-    "sentiment": "bearish",
-    "summary": "BTCPay backers offered a Bitcoin bounty to recover funds stolen after attackers gained access to connected LND wallets. The wallet exploit highlights persistent security risks in Bitcoin payment infrastructure.",
-    "instruments": [
-      "BTCUSD"
-    ],
-    "entities": []
-  },
-  {
-    "title": "SEC to address crypto regulations in absence of CLARITY passage",
-    "url": "https://cointelegraph.com/news/sec-crypto-regulations-absence-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-11T20:59:07Z",
-    "stream": "crypto",
-    "score": 7,
-    "category": "Regulation",
-    "sentiment": "neutral",
-    "summary": "The SEC scheduled a meeting this week to address digital asset policies in the absence of the CLARITY Act's passage. The regulator could step up on crypto rules without waiting for congressional action.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Itaú joins Brazil tokenization pilot with OpenAssets",
-    "url": "https://cointelegraph.com/news/ita-joins-brazil-tokenization-pilot-with-openassets-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-11T20:55:58Z",
-    "stream": "crypto",
-    "score": 6,
-    "category": "Other",
-    "sentiment": "bullish",
-    "summary": "Itaú joined the ANBIMA-led Brazilian tokenization pilot with OpenAssets to test tokenized fixed-income securities and investment funds. The move adds a major bank to institutional tokenization efforts.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "The Bull and Bear Case for Solana’s Next Price Move",
-    "url": "https://decrypt.co/375364/solana-price-death-cross-bull-bear-case-next-move",
-    "source": "Decrypt",
-    "published": "2026-08-11T20:46:04Z",
-    "stream": "crypto",
-    "score": 4,
-    "category": "Other",
-    "sentiment": "neutral",
-    "summary": "Solana is holding its 50-day average after a pullback from August's $90 spike, with a death cross keeping pressure pointed down. The piece lays out both bull and bear cases for Solana's next move.",
-    "instruments": [
-      "SOLUSD"
-    ],
-    "entities": []
-  },
-  {
-    "title": "Florida man charged by CFTC over $397 million crypto Ponzi scheme",
-    "url": "https://www.theblock.co/news/regulation/2026-08-11-florida-man-charged-by-cftc-over-397-million-crypto-ponzi-scheme-411491",
-    "source": "The Block",
-    "published": "2026-08-11T20:14:55Z",
-    "stream": "crypto",
-    "score": 7,
-    "category": "Regulation",
-    "sentiment": "neutral",
-    "summary": "The CFTC charged a Florida man over a $397 million crypto Ponzi scheme, saying he misappropriated $48 million of customer funds. The enforcement action underscores continued fraud risk in crypto and adds to regulatory scrutiny of the sector.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "SEC Prepares Escape Hatch From Securities Registration for Crypto Projects",
-    "url": "https://decrypt.co/375375/sec-prepares-escape-hatch-securities-registration-crypto-projects",
-    "source": "Decrypt",
-    "published": "2026-08-11T20:10:00Z",
-    "stream": "crypto",
-    "score": 7,
-    "category": "Regulation",
-    "sentiment": "bullish",
-    "summary": "The SEC set an open meeting to consider moving forward with its Regulation Crypto proposal. The plan could provide an escape hatch from securities registration for crypto projects.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "The Video Production Stack Now Fits on One Desk: LTX-2.5 Launches as NVIDIA",
-    "url": "https://www.marktechpost.com/2026/08/11/ltx-2-5-launches-as-nvidia-open-weights-video-model/",
-    "source": "MarkTechPost",
-    "published": "2026-08-11T20:02:00Z",
-    "stream": "ai",
-    "score": 7,
-    "category": "Model Release & Capability",
-    "sentiment": "bullish",
-    "summary": "LTX-2.5 launched as an NVIDIA-backed open-weights video model that fits a full production stack on one desk. The release lowers the barrier for local AI video generation.",
-    "instruments": [],
-    "entities": [
-      "NVDA"
-    ]
-  },
-  {
-    "title": "MoneyGram expands crypto cash ramps to Solana",
-    "url": "https://cointelegraph.com/news/moneygram-expands-crypto-cash-ramps-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-11T19:53:02Z",
-    "stream": "crypto",
-    "score": 7,
-    "category": "Other",
-    "sentiment": "bullish",
-    "summary": "MoneyGram's Ramps service now connects Solana wallets and apps to its global cash network, with Rift as the first integrating wallet. The cash on-ramp improves Solana accessibility for retail users.",
-    "instruments": [
-      "SOLUSD"
-    ],
-    "entities": []
-  },
-  {
-    "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-    "url": "https://arstechnica.com/ai/2026/08/gemini-becomes-googles-fastest-growing-product-ever-as-it-hits-1b-users/",
-    "source": "Ars Technica",
-    "published": "2026-08-11T19:48:00Z",
-    "stream": "ai",
-    "score": 8,
-    "category": "Business & Funding",
-    "sentiment": "bullish",
-    "summary": "Gemini has become Google's fastest-growing product ever, reaching 1 billion users. The adoption milestone strengthens Google's competitive position in consumer AI.",
-    "instruments": [],
-    "entities": [
-      "GOOGL"
-    ]
-  },
-  {
-    "title": "Following Senate delay, crypto bill has narrow window to become law",
-    "url": "https://cointelegraph.com/news/clarity-act-senate-delay-window-become-law-midterm-elections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-11T19:42:08Z",
-    "stream": "crypto",
-    "score": 7,
-    "category": "Regulation",
-    "sentiment": "neutral",
-    "summary": "After an August recess, the Senate has only 36 session days before year-end to pass the CLARITY Act. The narrow window makes crypto market-structure legislation increasingly uncertain.",
-    "instruments": [
-      "BTCUSD"
-    ],
-    "entities": []
-  },
-  {
-    "title": "OpenAI launches ChatGPT desktop app for Linux",
-    "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-    "source": "TechCrunch",
-    "published": "2026-08-11T19:15:00Z",
-    "stream": "ai",
-    "score": 6,
-    "category": "Model Release & Capability",
-    "sentiment": "bullish",
-    "summary": "OpenAI launched a ChatGPT desktop app for Linux, expanding platform availability. Wider distribution strengthens OpenAI's consumer ecosystem and developer reach.",
-    "instruments": [],
-    "entities": [
-      "OPENAI"
-    ]
-  },
-  {
-    "title": "AI Agent Hacks a Gym—And the Tech World Wonders What's Next",
-    "url": "https://decrypt.co/375358/ai-agent-hacks-gym-membership-tech-world-reacts",
-    "source": "Decrypt",
-    "published": "2026-08-11T18:56:03Z",
-    "stream": "ai",
-    "score": 6,
-    "category": "Safety & Risk",
-    "sentiment": "bearish",
-    "summary": "A newly reported AI agent hack of a gym is raising fresh concerns about autonomous AI after models from OpenAI, Anthropic and Meta exploited websites and online services. The incident intensifies the safety debate around autonomous agents.",
-    "instruments": [],
-    "entities": [
-      "OPENAI",
-      "ANTHROPIC",
-      "META"
-    ]
-  },
-  {
-    "title": "ENS Foundation takes administrative control of $65 million Endowment following tokenholder vote",
-    "url": "https://www.theblock.co/news/ecosystems/2026-08-11-ens-foundation-administrative-control-65-million-endowment-tokenholder-vote-411464",
-    "source": "The Block",
-    "published": "2026-08-11T18:49:47Z",
-    "stream": "crypto",
-    "score": 5,
-    "category": "Tech Update",
-    "sentiment": "neutral",
-    "summary": "ENS tokenholders voted to transform the ENS Foundation into a fully operational organization with a five-member board and financial control over its $65 million endowment. The governance change restructures how ENS manages its treasury but has no immediate market impact.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Google's Gemini app surges to 1 billion users",
-    "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-1-billion-users/",
-    "source": "TechCrunch",
-    "published": "2026-08-11T18:49:00Z",
-    "stream": "ai",
-    "score": 8,
-    "category": "Business & Funding",
-    "sentiment": "bullish",
-    "summary": "Google's Gemini app reached 1 billion users, making it one of the fastest-growing products ever. The milestone cements Google's leadership in consumer AI and could boost its cloud and advertising revenue.",
-    "instruments": [],
-    "entities": [
-      "GOOGL"
-    ]
-  },
-  {
-    "title": "What's next for the Clarity Act as September brings a tough road ahead",
-    "url": "https://www.theblock.co/news/regulation/2026-08-11-whats-next-for-clarity-act-september-brings-tough-road-ahead-411465",
-    "source": "The Block",
-    "published": "2026-08-11T18:35:00Z",
-    "stream": "crypto",
-    "score": 7,
-    "category": "Regulation",
-    "sentiment": "bearish",
-    "summary": "The outlook for the Clarity Act is worsening after Senate leader John Thune moved to postpone the initial vote to September. The delay reduces the near-term chance of comprehensive US crypto legislation and keeps regulatory uncertainty elevated.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Trump Media’s Crypto Bet Fuels Massive $238M Quarterly Loss",
-    "url": "https://decrypt.co/375359/trump-media-crypto-bet-238m-quarterly-loss",
-    "source": "Decrypt",
-    "published": "2026-08-11T18:25:14Z",
-    "stream": "crypto",
-    "score": 5,
-    "category": "Other",
-    "sentiment": "bearish",
-    "summary": "Trump Media reported a $238 million quarterly loss as falling digital asset values contributed to about $361 million in crypto-related losses in the first half of 2026. The result shows crypto exposure weighing on the company's balance sheet.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Strategy CEO says company will resume Bitcoin accumulation this year",
-    "url": "https://cointelegraph.com/news/strategy-ceo-resume-bitcoin-accumulation-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-11T18:03:49Z",
-    "stream": "crypto",
-    "score": 8,
-    "category": "Other",
-    "sentiment": "bullish",
-    "summary": "Strategy's CEO said the company will resume Bitcoin accumulation this year after buying roughly 25 times more BTC than it sold. Renewed accumulation by the largest corporate Bitcoin holder is a bullish signal for BTC demand.",
-    "instruments": [
-      "BTCUSD"
-    ],
-    "entities": []
-  },
-  {
-    "title": "ARP Digital secures Dubai VARA broker-dealer license",
-    "url": "https://cointelegraph.com/news/arp-digital-secures-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-11T17:53:51Z",
-    "stream": "crypto",
-    "score": 6,
-    "category": "Regulation",
-    "sentiment": "bullish",
-    "summary": "ARP Digital secured a Dubai VARA broker-dealer license to offer regulated digital asset and stablecoin conversions into UAE dirhams. The license expands its regulated Gulf presence beyond Bahrain.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Brad Lightcap, OpenAI's longtime COO, is leaving to 'start something new'",
-    "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openai-coo-leaving/",
-    "source": "TechCrunch",
-    "published": "2026-08-11T17:41:00Z",
-    "stream": "ai",
-    "score": 7,
-    "category": "Business & Funding",
-    "sentiment": "bearish",
-    "summary": "OpenAI's longtime COO Brad Lightcap is leaving to start something new. The departure of a key executive raises questions about leadership continuity at OpenAI.",
-    "instruments": [],
-    "entities": [
-      "OPENAI"
-    ]
-  },
-  {
-    "title": "Russia Approves Trading of Bitcoin, Ethereum and USDT—But No XRP",
-    "url": "https://decrypt.co/?p=375345",
-    "source": "Decrypt",
-    "published": "2026-08-11T17:26:00Z",
-    "stream": "crypto",
-    "score": 8,
-    "category": "Regulation",
-    "sentiment": "bullish",
-    "summary": "Russia has approved exchange trading of Bitcoin, Ethereum and USDT, opening a major regulated market for these assets. The decision signals growing institutional acceptance and could support demand for the approved assets.",
-    "instruments": [
-      "BTCUSD",
-      "ETHUSD",
-      "USDT.D"
-    ],
-    "entities": []
-  },
-  {
-    "title": "SEC could propose 'pivotal' crypto rules that may start with token safe harbor, TD Cowen says",
-    "url": "https://www.theblock.co/news/regulation/2026-08-11-sec-crypto-rules-token-safe-harbor-td-cowen-411455",
-    "source": "The Block",
-    "published": "2026-08-11T17:14:08Z",
-    "stream": "crypto",
-    "score": 7,
-    "category": "Regulation",
-    "sentiment": "bullish",
-    "summary": "TD Cowen said the SEC's crypto regulation meeting on Friday could start a 'pivotal' rulemaking process that may begin with a token safe harbor. A concrete SEC rulemaking path would reduce regulatory uncertainty and support the broader crypto market.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Ravencoin Crashes 20% as Critical Exploit Threatens to Rollback Network",
-    "url": "https://decrypt.co/?p=375330",
-    "source": "Decrypt",
-    "published": "2026-08-11T17:02:00Z",
-    "stream": "crypto",
-    "score": 8,
-    "category": "Hack & Security",
-    "sentiment": "bearish",
-    "summary": "Ravencoin crashed 20% after a critical exploit put transactions at risk and raised the possibility of a network rollback. The incident erodes trust in the network's security and could trigger further selling pressure.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "AMIE, our research medical AI system, demonstrates real-time clinical video",
-    "url": "https://deepmind.google/discover/blog/amie-our-research-medical-ai-system-demonstrates-real-time-clinical-video/",
-    "source": "Google DeepMind",
-    "published": "2026-08-11T17:00:00Z",
-    "stream": "ai",
-    "score": 7,
-    "category": "Research & Open Source",
-    "sentiment": "bullish",
-    "summary": "Google DeepMind's AMIE medical AI system now demonstrates real-time clinical video capabilities. The advance could accelerate AI adoption in healthcare.",
-    "instruments": [],
-    "entities": [
-      "GOOGL"
-    ]
-  },
-  {
-    "title": "FlightAware sues Kalshi over flight cancellation data",
-    "url": "https://cointelegraph.com/news/flightaware-lawsuit-kalshi-flight-cancellations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-11T16:55:14Z",
-    "stream": "crypto",
-    "score": 7,
-    "category": "Regulation",
-    "sentiment": "neutral",
-    "summary": "FlightAware sued Kalshi over flight cancellation data, citing trademark infringement and reputational injury while state authorities compare the contracts to gambling. The lawsuit adds legal pressure on Kalshi's event-contract business.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "New Bitcoin addresses jump as Coldcard exploit pushes users to move funds",
-    "url": "https://www.theblock.co/news/ecosystems/2026-08-11-new-bitcoin-addresses-jump-coldcard-exploit-pushes-users-move-funds-411317",
-    "source": "The Block",
-    "published": "2026-08-11T16:46:02Z",
-    "stream": "crypto",
-    "score": 8,
-    "category": "Hack & Security",
-    "sentiment": "bearish",
-    "summary": "New Bitcoin addresses jumped from 260,000 to 330,000 as a Coldcard exploit pushed users to move funds off the hardware wallet. The security incident raises fears about self-custody safety and drives short-term Bitcoin network activity and sentiment.",
-    "instruments": [
-      "BTCUSD"
-    ],
-    "entities": []
-  },
-  {
-    "title": "eToro Agrees to Acquire TradeZero in $231M US Expansion, Stock Tanks 10%",
-    "url": "https://decrypt.co/?p=375324",
-    "source": "Decrypt",
-    "published": "2026-08-11T16:45:00Z",
-    "stream": "crypto",
-    "score": 6,
-    "category": "Other",
-    "sentiment": "neutral",
-    "summary": "eToro agreed to acquire TradeZero for $231 million as part of its US expansion, while its stock dropped 10%. The acquisition broadens eToro's trading infrastructure but the market reacted negatively to the deal.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Coinbase-backed Flowdesk secures full broker-dealer license in Dubai",
-    "url": "https://cointelegraph.com/news/flowdesk-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-11T16:39:17Z",
-    "stream": "crypto",
-    "score": 6,
-    "category": "Regulation",
-    "sentiment": "bullish",
-    "summary": "Coinbase-backed Flowdesk secured a full broker-dealer license from Dubai's VARA, following its MiCA authorization in France. Crypto firms are building regulated operations across major global markets.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Nasdaq to acquire LeveL Markets in push toward ‘always-on’ markets",
-    "url": "https://cointelegraph.com/news/nasdaq-to-acquire-level-markets-in-push-toward-always-on-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-11T16:34:40Z",
-    "stream": "crypto",
-    "score": 7,
-    "category": "Other",
-    "sentiment": "bullish",
-    "summary": "Nasdaq agreed to acquire LeveL Markets, the third-largest US alternative trading system, as it pushes toward tokenized securities and longer trading hours. The acquisition strengthens institutional infrastructure for digital assets.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-    "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-river-ai/",
-    "source": "TechCrunch",
-    "published": "2026-08-11T16:25:00Z",
-    "stream": "ai",
-    "score": 7,
-    "category": "Business & Funding",
-    "sentiment": "bullish",
-    "summary": "General Catalyst led a $1.1 billion round into two-month-old River AI. The massive early-stage valuation underscores the intense capital competition in foundation-model startups.",
-    "instruments": [],
-    "entities": []
   }
 ]
