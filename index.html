@@ -77,6 +77,12 @@
   .live-frame-wrap { padding: 10px 16px 0; }
   .live-frame { width: 100%; height: calc(100vh - 200px); min-height: 500px; border: 1px solid var(--border); border-radius: 10px; background: #000; display: block; }
   .live-note { padding: 8px 16px 0; font-size: 11px; color: var(--muted); }
+  /* Learn */
+  .learn-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 10px; }
+  .learn-card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; display: flex; flex-direction: column; gap: 6px; }
+  .learn-card .lname { font-size: 14px; font-weight: 700; display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+  .learn-card .ltag { font-size: 10.5px; color: #79c0ff; background: #1f6feb22; border-radius: 6px; padding: 1px 7px; }
+  .learn-card .ldesc { font-size: 12.5px; color: var(--muted); line-height: 1.5; }
 </style>
 </head>
 <body>
@@ -97,6 +103,7 @@
   <div class="tab" data-tab="market">📊 Märkte</div>
   <div class="tab" data-tab="links">🔗 Links</div>
   <div class="tab" data-tab="live">📺 Live</div>
+  <div class="tab" data-tab="learn">🎓 Lernen</div>
 </div>
 
 <div class="filters" id="filters">
@@ -326,6 +333,28 @@ function renderLive() {
   }));
 }
 
+/* Learn tab: explanations for scoring, market values, usage and live views. */
+async function renderLearn() {
+  const el = $("#content");
+  let data;
+  try {
+    data = await (await fetch("./data/learn.json", { cache: "no-store" })).json();
+  } catch {
+    el.innerHTML = '<div class="empty">Lern-Inhalte sind gerade nicht verfügbar.</div>';
+    return;
+  }
+  const sections = data.sections || [];
+  el.innerHTML = '<div class="links-note">Lernen, verstehen, besser einordnen — Erklärungen zu allen Funktionen und Werten.</div>' +
+    sections.map((s) => `
+    <div class="section-title">${s.emoji ? esc(s.emoji) + " " : ""}${esc(s.title)}</div>
+    ${s.intro ? `<div class="links-note">${esc(s.intro)}</div>` : ""}
+    <div class="learn-grid">${(s.cards || []).map((c) => `
+      <div class="learn-card">
+        <div class="lname">${esc(c.title)}${c.tag ? ` <span class="ltag">${esc(c.tag)}</span>` : ""}</div>
+        <div class="ldesc">${esc(c.body)}</div>
+      </div>`).join("")}</div>`).join("");
+}
+
 async function loadCategories() {
   if (!categoryCache) categoryCache = await (await fetch("./data/categories.json")).json();
   const sel = $("#catFilter");
@@ -342,6 +371,7 @@ async function refresh() {
   if (currentTab === "market") await loadMarket();
   else if (currentTab === "links") await loadLinks();
   else if (currentTab === "live") { /* iframe bleibt unberührt (kein Reload bei Auto-Refresh) */ }
+  else if (currentTab === "learn") await renderLearn();
   else await loadNews();
   const stats = await fetch("./data/stats.json", { cache: "no-store" }).then((r) => r.json());
   $("#lastScan").textContent = stats.last_updated
@@ -354,7 +384,7 @@ document.querySelectorAll(".tab").forEach((t) => {
     document.querySelectorAll(".tab").forEach((x) => x.classList.remove("active"));
     t.classList.add("active");
     currentTab = t.dataset.tab;
-    const noFilters = ["market", "links", "live"].includes(currentTab);
+    const noFilters = ["market", "links", "live", "learn"].includes(currentTab);
     $("#filters").style.display = noFilters ? "none" : "flex";
     $("#catFilter").innerHTML = '<option value="">Alle Kategorien</option>';
     if (!noFilters) await loadCategories();
