@@ -70,7 +70,7 @@
       "cards": [
         {
           "title": "Tabs",
-          "body": "🪙 Crypto und 🤖 AI zeigen die News mit Score, Kategorie und Zusammenfassung. 📊 Märkte zeigt die Instrumente im Snapshot. 🔗 Links bündelt deine Trading-Seiten (öffnen direkt im neuen Tab). 📺 Live bettet externe Seiten direkt ein, 🎓 Lernen erklärt alles hier."
+          "body": "🪙 Crypto und 🤖 AI zeigen die News mit Score, Kategorie und Zusammenfassung (Standard-Filter: Crypto ≥ 8, AI ≥ 7 — pro Tab änderbar). 📊 Märkte zeigt die Instrumente im Snapshot. 🎓 Lernen erklärt alles hier, 📺 Live bettet externe Seiten direkt ein, 🔗 Links bündelt deine Trading-Seiten (öffnen direkt im neuen Tab)."
         },
         {
           "title": "Filter",

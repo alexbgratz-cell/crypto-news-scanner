@@ -127,15 +127,15 @@
   <div class="tab" data-tab="crypto">🪙 Crypto</div>
   <div class="tab" data-tab="ai">🤖 AI</div>
   <div class="tab" data-tab="market">📊 Märkte</div>
-  <div class="tab" data-tab="links">🔗 Links</div>
-  <div class="tab" data-tab="live">📺 Live</div>
   <div class="tab" data-tab="learn">🎓 Lernen</div>
+  <div class="tab" data-tab="live">📺 Live</div>
+  <div class="tab" data-tab="links">🔗 Links</div>
 </div>
 
 <div class="filters" id="filters">
   <select id="catFilter"><option value="">Alle Kategorien</option></select>
   <select id="scoreFilter">
-    <option value="">Alle Scores</option><option value="6">≥ 6</option>
+    <option value="">Standard (Crypto ≥ 8 · AI ≥ 7)</option><option value="6">≥ 6</option>
     <option value="7">≥ 7</option><option value="8">≥ 8</option><option value="9">≥ 9</option>
   </select>
 </div>
@@ -148,6 +148,13 @@ const $ = (s) => document.querySelector(s);
 let currentTab = "home";
 let newsCache = null;
 let categoryCache = null;
+/* Standard-Mindest-Scores je Stream (einstellbar) + pro Stream gemerkte Auswahl */
+const SCORE_DEFAULT = { crypto: 8, ai: 7 };
+const scoreSel = { crypto: "", ai: "" };
+function updateScoreLabel() {
+  const o = $("#scoreFilter").options[0];
+  if (o) o.textContent = `Standard (${currentTab === "ai" ? `AI ≥ ${SCORE_DEFAULT.ai}` : `Crypto ≥ ${SCORE_DEFAULT.crypto}`})`;
+}
 
 function esc(value) {
   return String(value ?? "").replace(/[&<>"']/g, (char) => ({
@@ -187,7 +194,8 @@ function timeAgo(iso) {
 async function loadNews() {
   if (!newsCache) newsCache = await (await fetch("./data/news.json", { cache: "no-store" })).json();
   const cat = $("#catFilter").value;
-  const min = Number($("#scoreFilter").value || 0);
+  const raw = $("#scoreFilter").value;
+  const min = raw === "" ? (SCORE_DEFAULT[currentTab] || 0) : Number(raw);
   const arts = newsCache
     .filter((article) => article.stream === currentTab)
     .filter((article) => !cat || article.category === cat)
@@ -508,12 +516,19 @@ document.querySelectorAll(".tab").forEach((t) => {
     $("#filters").style.display = noFilters ? "none" : "flex";
     $("#catFilter").innerHTML = '<option value="">Alle Kategorien</option>';
     if (!noFilters) await loadCategories();
+    if (currentTab === "crypto" || currentTab === "ai") {
+      $("#scoreFilter").value = scoreSel[currentTab];
+      updateScoreLabel();
+    }
     if (currentTab === "live") renderLive();
     else refresh();
   });
 });
 $("#catFilter").addEventListener("change", refresh);
-$("#scoreFilter").addEventListener("change", refresh);
+$("#scoreFilter").addEventListener("change", () => {
+  if (currentTab === "crypto" || currentTab === "ai") scoreSel[currentTab] = $("#scoreFilter").value;
+  refresh();
+});
 
 (async function init() {
   try {
