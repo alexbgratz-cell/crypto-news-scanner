@@ -2,5 +2,3 @@
 *.log
 .env
 config.json
-state.json
-snapshot_history.jsonl
