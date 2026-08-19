@@ -1,5 +1,18 @@
 [
   {
+    "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+    "url": "https://www.wired.com/story/flock-safety-os-investigate/",
+    "source": "Feed: Artificial Intelligence Latest",
+    "published": "2026-08-19T09:00:00Z",
+    "stream": "ai",
+    "score": 5,
+    "category": "Society & Work",
+    "sentiment": "neutral",
+    "summary": "WIRED hat den Code des KI-Überwachungssystems von Flock Safety rekonstruiert, das bereits von einigen Polizeibehörden eingesetzt wird und laut dem Bericht weit über die Kennzeichenerfassung hinausgeht. Die Enthüllung verschärft die Debatte über KI-gestützte Polizeiüberwachung und erhöht den öffentlichen Druck auf Transparenz und Regulierung solcher Systeme.",
+    "instruments": [],
+    "entities": []
+  },
+  {
     "title": "Arthur Hayes takes CEO role at Flop Labs ahead of Q4 airdrop",
     "url": "https://cointelegraph.com/news/arthur-hayes-ceo-role-flop-labs-q4-airdrop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "source": "Cointelegraph.com News",
@@ -1383,20 +1396,5 @@
     "summary": "Berichten zufolge will Stripe den KI-Gateway-Startup OpenRouter für über 7 Milliarden US-Dollar übernehmen, ein Startup, dessen CEO als „Stripe für KI“ bezeichnet wurde. Die Übernahme würde den Zugang zu KI-Modellen und die Zahlungsinfrastruktur konsolidieren, das Geschäftsmodell des KI-Gateways validieren und ein starkes Interesse der Fintech-Branche an der KI-Vertriebsschiene signalisieren.",
     "instruments": [],
     "entities": []
-  },
-  {
-    "title": "Why people aren't buying Mark Zuckerberg's AI future",
-    "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-    "source": "AI News & Artificial Intelligence | TechCrunch",
-    "published": "2026-08-16T20:32:01Z",
-    "stream": "ai",
-    "score": 4,
-    "category": "Society & Work",
-    "sentiment": "neutral",
-    "summary": "In der neuesten Episode des Equity-Podcasts erörtert TechCrunch, warum nicht jeder Marks Zuckers Vision einer durch KI getriebenen Zukunft teilt. Die Diskussion spiegelt die Skepsis der Öffentlichkeit und der Anleger wider, die sich auf das KI-Narrativ und die Investitionsausgaben von Meta auswirken könnte.",
-    "instruments": [],
-    "entities": [
-      "META"
-    ]
   }
 ]
