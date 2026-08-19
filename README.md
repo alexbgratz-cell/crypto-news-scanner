@@ -1,6 +1,6 @@
 # Crypto & AI News Scanner — Public Dashboard
 
-A mobile-friendly, read-only showcase for an automated crypto and AI news scanner. The dashboard presents scored news summaries, source links, categories, instruments, and selected market indicators.
+A mobile-friendly, read-only showcase for an automated crypto and AI news scanner. The dashboard presents scored news summaries, source links, categories, and a curated list of trading links.
 
 ## Public architecture
 
@@ -18,8 +18,7 @@ The private scanner exports data through explicit field allowlists. GitHub Pages
 ## Public data files
 
 - `data/news.json` — approved article metadata and summaries
-- `data/snapshot.json` — approved market values
-- `data/history.json` — bounded market history
+- `data/links.json` — curated trading links (manually maintained)
 - `data/categories.json` — dashboard categories
 - `data/stats.json` — public counts and update timestamp
 

@@ -1,0 +1,89 @@
+{
+  "note": "Persönliche Trading-Seiten — ein Klick öffnet die Seite direkt. Liste in dieser Datei pflegen.",
+  "links": [
+    {
+      "name": "TradingView",
+      "url": "https://www.tradingview.com/chart/",
+      "group": "Charts & Kurse",
+      "desc": "Charts mit Indikatoren, Zeichnungen und Screener — der zentrale Arbeitsplatz.",
+      "emoji": "📈"
+    },
+    {
+      "name": "CoinGecko",
+      "url": "https://www.coingecko.com/",
+      "group": "Charts & Kurse",
+      "desc": "Kurse, Marktkapitalisierung, Volumen und 24h-Änderungen aller Coins.",
+      "emoji": "🪙"
+    },
+    {
+      "name": "CoinMarketCap",
+      "url": "https://coinmarketcap.com/",
+      "group": "Charts & Kurse",
+      "desc": "Preis-Ranking und Marktdaten aller Coins — zweite Übersichtsquelle.",
+      "emoji": "📊"
+    },
+    {
+      "name": "CoinGlass",
+      "url": "https://www.coinglass.com/",
+      "group": "Derivate & Liquidationen",
+      "desc": "Open Interest, Funding Rates, Liquidationen und Long/Short-Verhältnisse.",
+      "emoji": "💥"
+    },
+    {
+      "name": "Binance Futures",
+      "url": "https://www.binance.com/en/futures/BTCUSDT",
+      "group": "Derivate & Liquidationen",
+      "desc": "Orderbuch, Terminkurse und Positionen der größten Börse (Login für eigene Positionen).",
+      "emoji": "⚡"
+    },
+    {
+      "name": "mempool.space",
+      "url": "https://mempool.space/",
+      "group": "On-Chain",
+      "desc": "Bitcoin-Mempool, Transaktionsgebühren und Block-Rate in Echtzeit.",
+      "emoji": "⛏️"
+    },
+    {
+      "name": "Glassnode",
+      "url": "https://studio.glassnode.com/",
+      "group": "On-Chain",
+      "desc": "On-Chain-Metriken: aktive Adressen, SOPR, HODL-Kurven (teils kostenpflichtig).",
+      "emoji": "🧠"
+    },
+    {
+      "name": "DefiLlama",
+      "url": "https://defillama.com/",
+      "group": "On-Chain",
+      "desc": "TVL der DeFi-Protokolle und Chain-Übersicht.",
+      "emoji": "🦙"
+    },
+    {
+      "name": "DXY (US-Dollar-Index)",
+      "url": "https://www.tradingview.com/symbols/TVC-DXY/",
+      "group": "Makro & TradFi",
+      "desc": "Dollar-Stärke — die wichtigste Makro-Korrelation für Crypto.",
+      "emoji": "💵"
+    },
+    {
+      "name": "CME FedWatch",
+      "url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "group": "Makro & TradFi",
+      "desc": "Markterwartung für die nächsten Fed-Zinsentscheidungen in Echtzeit.",
+      "emoji": "🏦"
+    },
+    {
+      "name": "FRED",
+      "url": "https://fred.stlouisfed.org/",
+      "group": "Makro & TradFi",
+      "desc": "US-Wirtschaftsdaten: Zinsen, Inflation, Arbeitsmarkt — das Original.",
+      "emoji": "🏛️"
+    },
+    {
+      "name": "Fear & Greed (Alternative.me)",
+      "url": "https://alternative.me/crypto/fear-and-greed-index/",
+      "group": "Sentiment",
+      "desc": "Fear & Greed-Index (0–100) als Stimmungsbarometer des Marktes.",
+      "emoji": "😱"
+    }
+  ]
+}

@@ -47,29 +47,15 @@
   .meta { font-size: 11.5px; color: var(--muted); margin-top: 8px; display: flex; gap: 10px; flex-wrap: wrap; }
   .tag { background: #1f6feb22; color: #79c0ff; border-radius: 6px; padding: 1px 7px; font-size: 11px; }
   .empty { text-align: center; color: var(--muted); padding: 40px 0; font-size: 14px; }
-  /* Market tiles */
-  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; }
-  .tile { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 12px; }
-  .tile .sym { font-size: 12px; color: var(--muted); font-weight: 600; }
-  .tile .val { font-size: 19px; font-weight: 700; margin: 4px 0; }
-  .tile .chg { font-size: 13px; font-weight: 600; }
-  .up { color: var(--green); } .down { color: var(--red); } .flat { color: var(--muted); }
-  .tile .grp { font-size: 10.5px; color: var(--muted); margin-top: 4px; }
-  .spark { width: 100%; height: 36px; margin-top: 8px; }
-  .spark polyline { fill: none; stroke-width: 1.5; }
-  .spark .area { fill: rgba(88,166,255,.08); stroke: none; }
+  /* Link tiles */
   .section-title { font-size: 13px; color: var(--muted); text-transform: uppercase; letter-spacing: .5px; margin: 16px 0 8px; }
-  .ob-card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 14px; margin-bottom: 10px; }
-  .ob-head { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 8px; flex-wrap: wrap; gap: 6px; }
-  .ob-head .sym { font-size: 13px; font-weight: 700; }
-  .ob-head .mid { font-size: 13px; color: var(--muted); }
-  .ob-legend { display: flex; gap: 14px; font-size: 11.5px; color: var(--muted); }
-  .ob-legend .b { color: var(--green); } .ob-legend .a { color: var(--red); }
-  #obChart { width: 100%; height: 220px; display: block; }
-  .ob-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 8px; margin-top: 10px; }
-  .ob-stat { background: var(--bg); border: 1px solid var(--border); border-radius: 8px; padding: 8px 10px; }
-  .ob-stat .lbl { font-size: 10.5px; color: var(--muted); }
-  .ob-stat .val { font-size: 14px; font-weight: 700; }
+  .links-note { font-size: 12.5px; color: var(--muted); margin-bottom: 4px; }
+  .link-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 10px; }
+  .link-card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; display: flex; flex-direction: column; gap: 6px; }
+  .link-card .lname { font-size: 14.5px; font-weight: 700; }
+  .link-card .ldesc { font-size: 12.5px; color: var(--muted); line-height: 1.45; flex: 1; }
+  .link-card .lgo { align-self: flex-start; font-size: 12.5px; font-weight: 600; color: var(--accent); text-decoration: none; padding: 5px 12px; border: 1px solid #1f6feb55; border-radius: 8px; background: #1f6feb18; }
+  .link-card .lgo:hover { background: #1f6feb33; }
   .footer-note { text-align: center; color: var(--muted); font-size: 11px; padding: 20px 16px 0; }
 </style>
 </head>
@@ -88,7 +74,7 @@
 <div class="tabs">
   <div class="tab active" data-tab="crypto">🪙 Crypto</div>
   <div class="tab" data-tab="ai">🤖 AI</div>
-  <div class="tab" data-tab="market">📊 Märkte</div>
+  <div class="tab" data-tab="links">🔗 Links</div>
 </div>
 
 <div class="filters" id="filters">
@@ -120,55 +106,6 @@ function safeUrl(value) {
   } catch { return "#"; }
 }
 
-function fmtNum(v, dec = 2) {
-  if (v === null || v === undefined) return "–";
-  return Number(v).toLocaleString("en-US", { minimumFractionDigits: dec, maximumFractionDigits: dec });
-}
-function fmtChg(c) {
-  if (c === null || c === undefined) return '<span class="flat">–</span>';
-  const cls = c > 0.001 ? "up" : c < -0.001 ? "down" : "flat";
-  const sign = c > 0 ? "+" : "";
-  return `<span class="${cls}">${sign}${fmtNum(c, 2)}%</span>`;
-}
-
-/* Interpreted display for instruments where the raw number is not intuitive.
-   FUNDING: direction is the signal (positive = longs pay shorts).
-   ORDERBOOK: imbalance is the signal (spread is meaningless on BTC). */
-function displayVal(sym, d) {
-  if (sym === "FUNDING") {
-    const r = d.value;
-    if (r === null || r === undefined) return "–";
-    if (r > 0.02) return "Longs pay";
-    if (r < -0.02) return "Shorts pay";
-    return "Neutral";
-  }
-  if (sym === "ORDERBOOK") {
-    const imb = d.change_24h;
-    if (imb === null || imb === undefined) return "–";
-    if (imb > 5) return "Buy pressure";
-    if (imb < -5) return "Sell pressure";
-    return "Balanced";
-  }
-  if (sym === "MO30") {
-    const v = d.value;
-    if (v === null || v === undefined) return "–";
-    const cls = v > 0 ? "up" : v < 0 ? "down" : "flat";
-    return `<span class="${cls}">${v > 0 ? "+" : ""}${fmtNum(v, 2)}%</span>`;
-  }
-  return fmtNum(d.value);
-}
-
-function displayChg(sym, d) {
-  if (sym === "FUNDING") {
-    const r = d.value;
-    return r === null || r === undefined ? "–" : `${fmtNum(r, 4)}% / 8h`;
-  }
-  if (sym === "ORDERBOOK") {
-    const imb = d.change_24h;
-    return imb === null || imb === undefined ? "–" : `Imbalance ${imb > 0 ? "+" : ""}${fmtNum(imb, 1)}%`;
-  }
-  return fmtChg(d.change_24h);
-}
 function badge(score) {
   const b = score >= 9 ? "b9" : score >= 8 ? "b8" : score >= 7 ? "b7" : "b6";
   return `<span class="badge ${b}">${score}/10</span>`;
@@ -225,49 +162,30 @@ function renderNews(arts) {
   }).join("");
 }
 
-async function loadMarket() {
-  const [snap, hist] = await Promise.all([
-    fetch("./data/snapshot.json", { cache: "no-store" }).then((r) => r.json()),
-    fetch("./data/history.json", { cache: "no-store" }).then((r) => r.json()),
-  ]);
-  const inst = snap.instruments || {};
+async function loadLinks() {
   const el = $("#content");
+  let data;
+  try {
+    data = await (await fetch("./data/links.json", { cache: "no-store" })).json();
+  } catch {
+    el.innerHTML = '<div class="empty">Link-Liste ist gerade nicht verfügbar.</div>';
+    return;
+  }
+  const links = data.links || [];
   const groups = {};
-  for (const [sym, data] of Object.entries(inst)) {
-    const grp = data.group || "–";
-    (groups[grp] = groups[grp] || []).push([sym, data]);
+  for (const l of links) {
+    const g = l.group || "–";
+    (groups[g] = groups[g] || []).push(l);
   }
-  el.innerHTML = Object.entries(groups).map(([grp, items]) => `
-    <div class="section-title">${esc(grp)}</div>
-    <div class="grid">${items.map(([sym, d]) => `
-      <div class="tile">
-        <div class="sym">${esc(sym)}${d.label ? ` <span class="cat">${esc(d.label)}</span>` : ""}</div>
-        <div class="val">${displayVal(sym, d)}</div>
-        <div class="chg">${displayChg(sym, d)}</div>
-        ${sparkline(sym, hist)}
-        <div class="grp">${esc(grp)}</div>
+  el.innerHTML = '<div class="links-note">Persönliche Trading-Seiten — ein Klick öffnet die Seite direkt in einem neuen Tab.</div>' +
+    Object.entries(groups).map(([g, items]) => `
+    <div class="section-title">${esc(g)}</div>
+    <div class="link-grid">${items.map((l) => `
+      <div class="link-card">
+        <div class="lname">${l.emoji ? esc(l.emoji) + " " : ""}${esc(l.name)}</div>
+        <div class="ldesc">${esc(l.desc || "")}</div>
+        <a class="lgo" href="${esc(safeUrl(l.url))}" target="_blank" rel="noopener noreferrer">Öffnen ↗</a>
       </div>`).join("")}</div>`).join("");
-}
-
-function sparkline(sym, hist) {
-  // show a line only once we have enough history (>= 3 points); otherwise
-  // render a subtle placeholder so the tile height stays stable
-  const pts = hist.map((h) => (h.instruments[sym] || {}).value)
-    .filter((v) => v !== null && v !== undefined);
-  const W = 150, H = 36;
-  if (pts.length < 3) {
-    return `<svg class="spark" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none">
-      <line x1="4" y1="${H / 2}" x2="${W - 4}" y2="${H / 2}" stroke="#21262d" stroke-width="1.5" stroke-dasharray="4 4"/>
-    </svg>`;
-  }
-  const min = Math.min(...pts), max = Math.max(...pts), range = max - min || 1;
-  const coords = pts.map((v, i) => `${(i / (pts.length - 1)) * (W - 8) + 4},${H - 5 - ((v - min) / range) * (H - 10)}`);
-  const color = pts[pts.length - 1] >= pts[0] ? "#3fb950" : "#f85149";
-  const area = `4,${H - 4} ${coords.join(" ")} ${W - 4},${H - 4}`;
-  return `<svg class="spark" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none">
-    <polygon class="area" points="${area}"/>
-    <polyline points="${coords.join(" ")}" stroke="${color}"/>
-  </svg>`;
 }
 
 async function loadCategories() {
@@ -283,7 +201,7 @@ async function loadCategories() {
 
 async function refresh() {
   newsCache = null;
-  if (currentTab === "market") await loadMarket();
+  if (currentTab === "links") await loadLinks();
   else await loadNews();
   const stats = await fetch("./data/stats.json", { cache: "no-store" }).then((r) => r.json());
   $("#lastScan").textContent = stats.last_updated
@@ -296,9 +214,9 @@ document.querySelectorAll(".tab").forEach((t) => {
     document.querySelectorAll(".tab").forEach((x) => x.classList.remove("active"));
     t.classList.add("active");
     currentTab = t.dataset.tab;
-    $("#filters").style.display = currentTab === "market" ? "none" : "flex";
+    $("#filters").style.display = currentTab === "links" ? "none" : "flex";
     $("#catFilter").innerHTML = '<option value="">Alle Kategorien</option>';
-    if (currentTab !== "market") await loadCategories();
+    if (currentTab !== "links") await loadCategories();
     refresh();
   });
 });
