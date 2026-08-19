@@ -2,7 +2,12 @@ name: Marktbericht
 on:
   schedule:
     - cron: "0,30 * * * *" # alle 30 Min (UTC); Slot-Check 09:00/15:30/22:00 Berlin im Skript
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Bericht sofort erzeugen (auch außerhalb der Slots)"
+        type: boolean
+        default: false
 permissions:
   contents: write
 concurrency:
@@ -23,4 +28,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_MAINT_TOKEN: ${{ secrets.GH_MAINT_TOKEN }}
-        run: python3 scanner/cloud_report.py --slot
+        run: python3 scanner/cloud_report.py ${{ github.event.inputs.force == 'true' && 'now' || '--slot' }}
