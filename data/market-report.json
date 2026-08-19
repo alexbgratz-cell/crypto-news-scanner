@@ -1,7 +1,7 @@
 {
-  "ts": "2026-08-19T11:20:33.908Z",
+  "ts": "2026-08-19T11:21:26.801Z",
   "instrument": "ALL",
-  "text": "**Kernaussage** — Der Gesamtmarkt ist stabil bis leicht positiv: BTC notiert bei 64.455 USD, ETH und SOL legen etwas stärker zu, der Fear-Index bleibt bei 46.\n\n**Was es bedeutet** — Die leichte Outperformance von ETH und SOL gegenüber BTC sowie der Anstieg von ETH/BTC sprechen für vorsichtige Kapitalrotation. Krypto zeigt sich trotz schwacher US-Aktienmärkte (NDX −1,68 %, VIX +6,6 %) widerstandsfähig. Die Funding-Raten sind moderat, die Dominanz unverändert – das deutet auf wenig überschüssige Leverage hin. ETF-Zuflüsse stützen die Nachfrage, während SEC-Vorschläge und der MAYAChain-Hack für regulatorische bzw. Sicherheitsunsicherheit sorgen.\n\n**Zu beachten** — Ob der Kryptomarkt die aktuelle Risk-off-Phase im traditionellen Finanzmarkt weiterhin ignoriert; ein Bruch der Seitwärtsrange bei BTC wäre das nächste klare Signal.",
+  "text": "Kernaussage: Der Kryptomarkt handelt seitwärts bis leicht fester (BTC bei 64.455 USD, ETH +1,18 %, SOL +1,9 %), während Aktienindizes nachgeben und der VIX steigt.\n\nWas es bedeutet: Das Sentiment ist gemischt. TradFi zeigt mit höherem VIX und steigender US10Y leichte Risikoaversion; Krypto bleibt vorerst vergleichsweise stabil. Der Fear-Index bei 46, das niedrige Funding und die stabile BTC-Dominanz von 56,49 % deuten auf begrenzte Spekulation. Leicht steigende ETHBTC- und ETF-Zuflüsse signalisieren institutionelles Interesse. Der MAYAChain-Exploit dämpft dagegen das Vertrauen in Cross-Chain-Protokolle.\n\nZu beachten: Die konkreten Details der SEC-Vorschläge und die anhaltenden ETF-Zuflüsse – sie dürften die Marktrichtung stärker prägen als die aktuelle Seitwärtsbewegung.",
   "numbers": [
     {
       "sym": "BTCUSD",
