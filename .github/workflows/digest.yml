@@ -1,0 +1,27 @@
+name: Digest (Cloud)
+on:
+  schedule:
+    - cron: "0 * * * *" # stündlich
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: digest
+  cancel-in-progress: false
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Europe/Berlin
+      NOUS_REFRESH_TOKEN: ${{ secrets.NOUS_REFRESH_TOKEN }}
+      NOUS_CLIENT_ID: ${{ secrets.NOUS_CLIENT_ID }}
+      NOUS_PORTAL_BASE_URL: ${{ secrets.NOUS_PORTAL_BASE_URL }}
+      NOUS_INFERENCE_BASE_URL: ${{ secrets.NOUS_INFERENCE_BASE_URL }}
+      TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+      TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Digest senden (Score 6-7)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scanner/cloud_digest.py
