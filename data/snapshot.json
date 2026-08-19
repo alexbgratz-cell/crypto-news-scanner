@@ -1,32 +1,32 @@
 {
-  "timestamp": "2026-08-19T09:53:22Z",
+  "timestamp": "2026-08-19T10:17:00Z",
   "instruments": {
     "BTCUSD": {
-      "value": 64329,
-      "change_24h": 0.39,
+      "value": 64338,
+      "change_24h": 0.38,
       "group": "Direkte Korrelation",
       "label": null
     },
     "ETHUSD": {
-      "value": 1917.09,
-      "change_24h": 1.22,
+      "value": 1917.17,
+      "change_24h": 1.21,
       "group": "Direkte Korrelation",
       "label": null
     },
     "SOLUSD": {
-      "value": 77.19,
-      "change_24h": 1.77,
+      "value": 77.22,
+      "change_24h": 1.81,
       "group": "Direkte Korrelation",
       "label": null
     },
     "ETHBTC": {
-      "value": 0.029801,
+      "value": 0.029798,
       "change_24h": 0.83,
       "group": "Kapitalrotation",
       "label": null
     },
     "BTC.D": {
-      "value": 56.46,
+      "value": 56.48,
       "change_24h": null,
       "group": "Liquidität & Sentiment",
       "label": null
@@ -44,31 +44,31 @@
       "label": "Fear"
     },
     "FUNDING": {
-      "value": 0.0051,
+      "value": 0.0047,
       "change_24h": null,
       "group": "Derivate",
       "label": null
     },
     "OI": {
-      "value": 105011.127,
+      "value": 104976.146,
       "change_24h": null,
       "group": "Derivate",
       "label": null
     },
     "ORDERBOOK": {
       "value": 0.0,
-      "change_24h": 85.9,
+      "change_24h": -67.09,
       "group": "Derivate",
       "label": null
     },
     "MEMPOOL": {
-      "value": 79694.0,
+      "value": 80031.0,
       "change_24h": null,
       "group": "On-Chain",
       "label": null
     },
     "MO30": {
-      "value": -0.6,
+      "value": -0.59,
       "change_24h": null,
       "group": "On-Chain",
       "label": null
