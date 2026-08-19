@@ -1,126 +1,202 @@
 {
-  "note": "Lern-Rubrik: Erklärungen zu Bewertung, Markt-Werten, Nutzung und Live-Ansichten. Inhalte in dieser Datei pflegen.",
-  "sections": [
+ "note": "Lern-Rubrik: Erklärungen zu Bewertung, Markt-Werten, Nutzung und Live-Ansichten. Inhalte in dieser Datei pflegen.",
+ "sections": [
+  {
+   "id": "bewertung",
+   "emoji": "🏷️",
+   "title": "So funktioniert die Bewertung",
+   "intro": "Jeder Artikel wird automatisch nach einem festen Regelwerk analysiert, bewertet und zusammengefasst. So liest du die Scores richtig:",
+   "cards": [
     {
-      "id": "bewertung",
-      "emoji": "🏷️",
-      "title": "So funktioniert die Bewertung",
-      "intro": "Jeder Artikel wird automatisch nach einem festen Regelwerk analysiert, bewertet und zusammengefasst. So liest du die Scores richtig:",
-      "cards": [
-        {
-          "title": "Der Score (1–10)",
-          "body": "Jeder Artikel startet bei 5 Punkten. Ereignisse erhöhen oder senken den Wert nach einem festen Katalog: Hacks mit Schaden +3, Regulierungs- oder ETF-Entscheidungen +2, Mainnet-Upgrades oder Partnerschaften +1, reine Preisprognosen −1, Clickbait ohne Substanz −2. Trifft die Meldung BTC, ETH, SOL, DXY oder NDX direkt, gibt es +1."
-        },
-        {
-          "title": "Was die Werte bedeuten",
-          "body": "9–10: sehr wichtige, marktbewegende Nachricht (sofortiger Push). 8: wichtig, wird direkt gemeldet. 6–7: relevant, landet im stündlichen Digest. Unter 6: wird verworfen. Der Score ist eine Relevanz-Einschätzung, keine Kauf- oder Verkaufsempfehlung."
-        },
-        {
-          "title": "Sentiment",
-          "body": "bullish = wirkt positiv auf den Markt bzw. die Branche, bearish = negativ, neutral = keine klare Richtung. Es beschreibt die erwartete Wirkung, nicht deine Meinung."
-        },
-        {
-          "title": "Kategorien",
-          "body": "Crypto: FUD, Tech Update, Regulation, Macro, Hack & Security, Other. AI: Model Release & Capability, Research & Open Source, Regulation & Policy, Business & Funding, Hardware & Infrastructure, Safety & Risk, Society & Work."
-        },
-        {
-          "title": "Instrumente & Entitäten",
-          "body": "Die Tags am Artikel zeigen, was betroffen ist: bei Crypto z. B. BTCUSD, ETHUSD oder F&G (Fear & Greed), bei AI z. B. GOOGL oder OPENAI. So siehst du auf einen Blick, wo die Nachricht wirkt."
-        },
-        {
-          "title": "Zusammenfassung (3 Sätze)",
-          "body": "Jede Zusammenfassung folgt fest dem Muster WAS → WIRKUNG → KONSEQUENZ: erst die Fakten mit Zahlen, dann warum es den Markt bewegt, dann was das konkret bedeutet (z. B. zu erwartende Volatilität oder nächster wichtiger Termin). Nur Inhalte aus dem Artikel, nichts erfunden."
-        },
-        {
-          "title": "Stimmung als Kontext",
-          "body": "Bei extremer Markt-Angst (Fear & Greed ≤ 25) werden negative Meldungen stärker gewichtet, bei extremer Gier (≥ 75) verlieren positive News an Überraschungswert. Der Scanner berücksichtigt das bei der Score-Kalibrierung."
-        }
-      ]
+     "title": "So wird Crypto bewertet",
+     "body": "Jeder Artikel startet bei 5 Punkten. Der Crypto-Katalog: Hacks mit Schaden +3, Regulierungs- oder ETF-Entscheidungen +2, Mainnet-Upgrades oder Partnerschaften +1, reine Preisprognosen −1, Clickbait ohne Substanz −2. Trifft die Meldung BTC, ETH, SOL, DXY oder NDX direkt, gibt es +1. KI-Artikel haben einen eigenen Katalog (siehe nächste Karte)."
     },
     {
-      "id": "maerkte",
-      "emoji": "📊",
-      "title": "Die Werte unter „Märkte“",
-      "intro": "Alle Kacheln im Märkte-Tab stammen aus einem automatischen Snapshot. So liest du jeden Wert:",
-      "cards": [
-        { "title": "BTCUSD", "tag": "Direkte Korrelation", "body": "Bitcoin in US-Dollar. Der Referenzkurs des gesamten Krypto-Marktes — fast alles korreliert mit ihm." },
-        { "title": "ETHUSD", "tag": "Direkte Korrelation", "body": "Ethereum in US-Dollar. Wird stark von DeFi-Aktivität, Staking und ETF-Zuflüssen getrieben." },
-        { "title": "SOLUSD", "tag": "Direkte Korrelation", "body": "Solana in US-Dollar. Meist volatiler als BTC; reagiert empfindlich auf Risk-on-/Risk-off-Stimmung." },
-        { "title": "ETHBTC", "tag": "Kapitalrotation", "body": "Ethereum im Vergleich zu Bitcoin. Steigt der Wert, fließt Kapital von BTC in ETH (Risk-on). Fällt er, dominiert Bitcoin — typisches „Flight to Quality“." },
-        { "title": "BTC.D", "tag": "Liquidität & Sentiment", "body": "Bitcoin-Dominanz: Anteil von Bitcoin an der gesamten Krypto-Marktkapitalisierung. Steigend = Kapital geht in BTC (defensiv), fallend = Altcoins holen auf (Risk-on)." },
-        { "title": "USDT.D", "tag": "Liquidität & Sentiment", "body": "USDT-Dominanz: Anteil der Stablecoins am Markt. Steigt sie stark, verlassen Anleger den Markt Richtung Cash. Fällt sie, fließt Geld zurück in Coins." },
-        { "title": "F&G", "tag": "Liquidität & Sentiment", "body": "Fear & Greed Index (0–100): Stimmungsbarometer aus Volatilität, Momentum, Umfragen u. a. ≤ 25 = extreme Angst (oft Wendepunkte), ≥ 75 = extreme Gier (oft Warnsignal)." },
-        { "title": "FUNDING", "tag": "Derivate", "body": "Finanzierungsrate der Perpetual-Futures (alle 8 h). Positiv = Longs zahlen Shorts (viel Leverage auf Long-Seite, klassischer Kontraindikator). Negativ = Short-Druck." },
-        { "title": "OI", "tag": "Derivate", "body": "Open Interest: Summe aller offenen Futures-Positionen. Steigt OI mit dem Kurs, bestätigt das den Trend. Sehr stark steigendes OI kann Überhitzung und Liquidationen ankündigen." },
-        { "title": "ORDERBOOK", "tag": "Derivate", "body": "Orderbuch-Imbalance: Verhältnis von Kauf- zu Verkaufslimits rund um den BTC-Preis. „Buy pressure“ = mehr Kaufseite, „Sell pressure“ = mehr Verkaufsseite." },
-        { "title": "MEMPOOL", "tag": "On-Chain", "body": "Anzahl unbestätigter Bitcoin-Transaktionen. Hoher Wert = Netzwerk voll, Gebühren steigen; niedriger Wert = ruhiges Netz." },
-        { "title": "MO30", "tag": "On-Chain", "body": "30-Tage-Momentum des Bitcoin-Kurses. Positiv = Aufwärtsmomentum, negativ = Abwärtsmomentum über den Monat." },
-        { "title": "DXY", "tag": "TradFi/Makro", "body": "US-Dollar-Index: Stärke des Dollars gegenüber sechs Hauptwährungen. Steigender Dollar setzt Krypto und andere Risikoanlagen meist unter Druck." },
-        { "title": "NDX", "tag": "TradFi/Makro", "body": "Nasdaq-100: die 100 größten US-Tech-Werte. Krypto korreliert zunehmend mit Tech-Aktien — NDX ist der Risiko-Kompass fürs große Bild." },
-        { "title": "VIX", "tag": "TradFi/Makro", "body": "Der „Angst-Index“ der US-Märkte. Hoch = Unsicherheit und Volatilität (oft Risiko-off), niedrig = Gelassenheit." },
-        { "title": "US10Y", "tag": "TradFi/Makro", "body": "Rendite der 10-jährigen US-Staatsanleihe. Steigende Renditen = höhere Zinsen, was spekulative Assets wie Krypto tendenziell belastet." },
-        { "title": "SPX", "tag": "TradFi/Makro", "body": "S&P 500: der breite US-Aktienmarkt. Als Kontext für die allgemeine Risikobereitschaft — wenn die Aktien rutschen, zieht das Krypto meist mit." }
-      ]
+     "title": "So wird KI bewertet",
+     "body": "KI-Artikel werden nach Branchen-Bedeutung bewertet, nicht nach Börsenlogik: Kapazitäts-Sprung eines Modells (deutlich über dem Stand der Technik) +3, große Regulierungs-/Safety-Entscheidung oder Milliarden-Deal +2, großes Model-Release oder Open-Weight-Veröffentlichung +2, Paper mit belegten Benchmark-Sprüngen +1, Funding, Partnerschaft oder Produkt-Integration +1, reiner Hype ohne Substanz −1. Trifft die Meldung AI-Tokens (TAO, FET, RENDER, NEAR, ICP) oder Tech-Giganten (NVDA, GOOGL, MSFT, META, AMZN) direkt, gibt es +1."
     },
     {
-      "id": "nutzung",
-      "emoji": "📱",
-      "title": "Die App nutzen",
-      "intro": "Die wichtigsten Bedienelemente im Überblick:",
-      "cards": [
-        {
-          "title": "Tabs",
-          "body": "🪙 Crypto und 🤖 AI zeigen die News mit Score, Kategorie und Zusammenfassung (Standard-Filter: Crypto ≥ 8, AI ≥ 7 — pro Tab änderbar). 📊 Märkte zeigt die Instrumente im Snapshot. 🎓 Lernen erklärt alles hier, 📺 Live bettet externe Seiten direkt ein, 🔗 Links bündelt deine Trading-Seiten (öffnen direkt im neuen Tab)."
-        },
-        {
-          "title": "Filter",
-          "body": "Nach Kategorie (z. B. nur Regulation) und nach Mindest-Score (z. B. ≥ 8 für die wichtigsten Meldungen) filtern. Die Auswahl gilt pro Stream."
-        },
-        {
-          "title": "Zeitangaben",
-          "body": "„gerade eben“, „vor 5 Min.“, „vor 3 Std.“ usw. — die Seite aktualisiert sich automatisch, die Daten stammen aus dem laufenden Scanner."
-        },
-        {
-          "title": "Zum Originalartikel",
-          "body": "Jede Karte verlinkt die Originalquelle. Die Zusammenfassung ersetzt den Artikel nicht, sondern hilft dir, schnell zu entscheiden, ob du ihn lesen willst."
-        },
-        {
-          "title": "Hinweis",
-          "body": "Alle Bewertungen und Zusammenfassungen sind KI-gestützt und können Fehler enthalten. Das Projekt ist kein Finanzberater — nutze die Werte als Informationsquelle, nicht als Handelsanweisung."
-        }
-      ]
+     "title": "Was die Werte bedeuten",
+     "body": "9–10: sehr wichtige, marktbewegende Nachricht (sofortiger Push). 8: wichtig, wird direkt gemeldet. 6–7: relevant, landet im stündlichen Digest. Unter 6: wird verworfen. Der Score ist eine Relevanz-Einschätzung, keine Kauf- oder Verkaufsempfehlung."
     },
     {
-      "id": "live",
-      "emoji": "📺",
-      "title": "Die Live-Ansichten",
-      "intro": "Im Live-Tab werden echte externe Seiten eingebettet (Coinglass und TradingView) — keine selbst erstellten Grafiken. So liest du sie:",
-      "cards": [
-        {
-          "title": "Liquidations-Heatmap",
-          "body": "Zeigt Preiszonen, in denen viele gehebelte Positionen liquidiert werden (Cluster). Solche Zonen wirken oft wie Magnete: Der Kurs wird dorthin gezogen, und beim Erreichen kann es zu heftigen, kurzen Bewegungen kommen („Liquidation Cascade“)."
-        },
-        {
-          "title": "Live-Liquidationen",
-          "body": "Laufende Liquidierungen aller Coins in Echtzeit. Hohe Summen in kurzer Zeit signalisieren Überhebelung und oft einen bevorstehenden Richtungswechsel oder eine Fortsetzung der Bewegung."
-        },
-        {
-          "title": "Funding Rates",
-          "body": "Zeigt, wer wem zahlt: positiv = Longs zahlen Shorts (Markt ist überhebelt long), negativ = umgekehrt. Extreme Werte sind ein Warnsignal — der Markt ist einseitig positioniert."
-        },
-        {
-          "title": "BTC-Chart (TradingView)",
-          "body": "Das offizielle TradingView-Widget mit BTC/USDT auf Binance. Du kannst Zeiträume wechseln, Indikatoren öffnen und im Vollbild arbeiten — genau wie auf der TradingView-Seite selbst."
-        },
-        {
-          "title": "„Im Original öffnen“",
-          "body": "Der Button oben rechts öffnet die aktuelle Ansicht als normale Seite in einem neuen Tab — praktisch, wenn du etwas teilen oder ohne Einbettung arbeiten willst."
-        },
-        {
-          "title": "Datenschutz-Hinweis",
-          "body": "In den eingebetteten Seiten gelten die Cookie- und Tracking-Regeln des jeweiligen Anbieters (Coinglass / TradingView) — nicht die dieser App."
-        }
-      ]
+     "title": "Sentiment",
+     "body": "bullish = wirkt positiv auf den Markt bzw. die Branche, bearish = negativ, neutral = keine klare Richtung. Es beschreibt die erwartete Wirkung, nicht deine Meinung."
+    },
+    {
+     "title": "Kategorien",
+     "body": "Crypto: FUD, Tech Update, Regulation, Macro, Hack & Security, Other. AI: Model Release & Capability, Research & Open Source, Regulation & Policy, Business & Funding, Hardware & Infrastructure, Safety & Risk, Society & Work."
+    },
+    {
+     "title": "Instrumente & Entitäten",
+     "body": "Die Tags am Artikel zeigen, was betroffen ist: bei Crypto z. B. BTCUSD, ETHUSD oder F&G (Fear & Greed), bei AI z. B. GOOGL oder OPENAI. So siehst du auf einen Blick, wo die Nachricht wirkt."
+    },
+    {
+     "title": "Zusammenfassung (3 Sätze)",
+     "body": "Jede Zusammenfassung folgt fest dem Muster WAS → WIRKUNG → KONSEQUENZ: erst die Fakten mit Zahlen, dann warum es den Markt bewegt, dann was das konkret bedeutet (z. B. zu erwartende Volatilität oder nächster wichtiger Termin). Nur Inhalte aus dem Artikel, nichts erfunden."
+    },
+    {
+     "title": "Stimmung als Kontext",
+     "body": "Bei extremer Markt-Angst (Fear & Greed ≤ 25) werden negative Meldungen stärker gewichtet, bei extremer Gier (≥ 75) verlieren positive News an Überraschungswert. Der Scanner berücksichtigt das bei der Score-Kalibrierung."
+    },
+    {
+     "title": "Was landet im AI-Tab?",
+     "body": "Der Scanner erfasst alle KI-Meldungen aus über zehn Quellen — von Modell-Releases über Forschung und API-Preise bis zu Milliarden-Deals. Der Score bewertet nur die Bedeutung, er filtert nicht, was erfasst wird. Standardmäßig zeigt der AI-Tab nur Artikel ab Score 7; mit „Alle (ohne Mindest-Score)“ im Filter siehst du auch kleinere, aber interessante Meldungen wie neue Modelle oder Preisänderungen."
     }
-  ]
+   ]
+  },
+  {
+   "id": "maerkte",
+   "emoji": "📊",
+   "title": "Die Werte unter „Märkte“",
+   "intro": "Alle Kacheln im Märkte-Tab stammen aus einem automatischen Snapshot. So liest du jeden Wert:",
+   "cards": [
+    {
+     "title": "BTCUSD",
+     "tag": "Direkte Korrelation",
+     "body": "Bitcoin in US-Dollar. Der Referenzkurs des gesamten Krypto-Marktes — fast alles korreliert mit ihm."
+    },
+    {
+     "title": "ETHUSD",
+     "tag": "Direkte Korrelation",
+     "body": "Ethereum in US-Dollar. Wird stark von DeFi-Aktivität, Staking und ETF-Zuflüssen getrieben."
+    },
+    {
+     "title": "SOLUSD",
+     "tag": "Direkte Korrelation",
+     "body": "Solana in US-Dollar. Meist volatiler als BTC; reagiert empfindlich auf Risk-on-/Risk-off-Stimmung."
+    },
+    {
+     "title": "ETHBTC",
+     "tag": "Kapitalrotation",
+     "body": "Ethereum im Vergleich zu Bitcoin. Steigt der Wert, fließt Kapital von BTC in ETH (Risk-on). Fällt er, dominiert Bitcoin — typisches „Flight to Quality“."
+    },
+    {
+     "title": "BTC.D",
+     "tag": "Liquidität & Sentiment",
+     "body": "Bitcoin-Dominanz: Anteil von Bitcoin an der gesamten Krypto-Marktkapitalisierung. Steigend = Kapital geht in BTC (defensiv), fallend = Altcoins holen auf (Risk-on)."
+    },
+    {
+     "title": "USDT.D",
+     "tag": "Liquidität & Sentiment",
+     "body": "USDT-Dominanz: Anteil der Stablecoins am Markt. Steigt sie stark, verlassen Anleger den Markt Richtung Cash. Fällt sie, fließt Geld zurück in Coins."
+    },
+    {
+     "title": "F&G",
+     "tag": "Liquidität & Sentiment",
+     "body": "Fear & Greed Index (0–100): Stimmungsbarometer aus Volatilität, Momentum, Umfragen u. a. ≤ 25 = extreme Angst (oft Wendepunkte), ≥ 75 = extreme Gier (oft Warnsignal)."
+    },
+    {
+     "title": "FUNDING",
+     "tag": "Derivate",
+     "body": "Finanzierungsrate der Perpetual-Futures (alle 8 h). Positiv = Longs zahlen Shorts (viel Leverage auf Long-Seite, klassischer Kontraindikator). Negativ = Short-Druck."
+    },
+    {
+     "title": "OI",
+     "tag": "Derivate",
+     "body": "Open Interest: Summe aller offenen Futures-Positionen. Steigt OI mit dem Kurs, bestätigt das den Trend. Sehr stark steigendes OI kann Überhitzung und Liquidationen ankündigen."
+    },
+    {
+     "title": "ORDERBOOK",
+     "tag": "Derivate",
+     "body": "Orderbuch-Imbalance: Verhältnis von Kauf- zu Verkaufslimits rund um den BTC-Preis. „Buy pressure“ = mehr Kaufseite, „Sell pressure“ = mehr Verkaufsseite."
+    },
+    {
+     "title": "MEMPOOL",
+     "tag": "On-Chain",
+     "body": "Anzahl unbestätigter Bitcoin-Transaktionen. Hoher Wert = Netzwerk voll, Gebühren steigen; niedriger Wert = ruhiges Netz."
+    },
+    {
+     "title": "MO30",
+     "tag": "On-Chain",
+     "body": "30-Tage-Momentum des Bitcoin-Kurses. Positiv = Aufwärtsmomentum, negativ = Abwärtsmomentum über den Monat."
+    },
+    {
+     "title": "DXY",
+     "tag": "TradFi/Makro",
+     "body": "US-Dollar-Index: Stärke des Dollars gegenüber sechs Hauptwährungen. Steigender Dollar setzt Krypto und andere Risikoanlagen meist unter Druck."
+    },
+    {
+     "title": "NDX",
+     "tag": "TradFi/Makro",
+     "body": "Nasdaq-100: die 100 größten US-Tech-Werte. Krypto korreliert zunehmend mit Tech-Aktien — NDX ist der Risiko-Kompass fürs große Bild."
+    },
+    {
+     "title": "VIX",
+     "tag": "TradFi/Makro",
+     "body": "Der „Angst-Index“ der US-Märkte. Hoch = Unsicherheit und Volatilität (oft Risiko-off), niedrig = Gelassenheit."
+    },
+    {
+     "title": "US10Y",
+     "tag": "TradFi/Makro",
+     "body": "Rendite der 10-jährigen US-Staatsanleihe. Steigende Renditen = höhere Zinsen, was spekulative Assets wie Krypto tendenziell belastet."
+    },
+    {
+     "title": "SPX",
+     "tag": "TradFi/Makro",
+     "body": "S&P 500: der breite US-Aktienmarkt. Als Kontext für die allgemeine Risikobereitschaft — wenn die Aktien rutschen, zieht das Krypto meist mit."
+    }
+   ]
+  },
+  {
+   "id": "nutzung",
+   "emoji": "📱",
+   "title": "Die App nutzen",
+   "intro": "Die wichtigsten Bedienelemente im Überblick:",
+   "cards": [
+    {
+     "title": "Tabs",
+     "body": "🪙 Crypto und 🤖 AI zeigen die News mit Score, Kategorie und Zusammenfassung (Standard-Filter: Crypto ≥ 8, AI ≥ 7 — pro Tab änderbar). 📊 Märkte zeigt die Instrumente im Snapshot. 🎓 Lernen erklärt alles hier, 📺 Live bettet externe Seiten direkt ein, 🔗 Links bündelt deine Trading-Seiten (öffnen direkt im neuen Tab)."
+    },
+    {
+     "title": "Filter",
+     "body": "Nach Kategorie (z. B. nur Regulation) und nach Mindest-Score (z. B. ≥ 8 für die wichtigsten Meldungen) filtern. Die Auswahl gilt pro Stream."
+    },
+    {
+     "title": "Zeitangaben",
+     "body": "„gerade eben“, „vor 5 Min.“, „vor 3 Std.“ usw. — die Seite aktualisiert sich automatisch, die Daten stammen aus dem laufenden Scanner."
+    },
+    {
+     "title": "Zum Originalartikel",
+     "body": "Jede Karte verlinkt die Originalquelle. Die Zusammenfassung ersetzt den Artikel nicht, sondern hilft dir, schnell zu entscheiden, ob du ihn lesen willst."
+    },
+    {
+     "title": "Hinweis",
+     "body": "Alle Bewertungen und Zusammenfassungen sind KI-gestützt und können Fehler enthalten. Das Projekt ist kein Finanzberater — nutze die Werte als Informationsquelle, nicht als Handelsanweisung."
+    }
+   ]
+  },
+  {
+   "id": "live",
+   "emoji": "📺",
+   "title": "Die Live-Ansichten",
+   "intro": "Im Live-Tab werden echte externe Seiten eingebettet (Coinglass und TradingView) — keine selbst erstellten Grafiken. So liest du sie:",
+   "cards": [
+    {
+     "title": "Liquidations-Heatmap",
+     "body": "Zeigt Preiszonen, in denen viele gehebelte Positionen liquidiert werden (Cluster). Solche Zonen wirken oft wie Magnete: Der Kurs wird dorthin gezogen, und beim Erreichen kann es zu heftigen, kurzen Bewegungen kommen („Liquidation Cascade“)."
+    },
+    {
+     "title": "Live-Liquidationen",
+     "body": "Laufende Liquidierungen aller Coins in Echtzeit. Hohe Summen in kurzer Zeit signalisieren Überhebelung und oft einen bevorstehenden Richtungswechsel oder eine Fortsetzung der Bewegung."
+    },
+    {
+     "title": "Funding Rates",
+     "body": "Zeigt, wer wem zahlt: positiv = Longs zahlen Shorts (Markt ist überhebelt long), negativ = umgekehrt. Extreme Werte sind ein Warnsignal — der Markt ist einseitig positioniert."
+    },
+    {
+     "title": "BTC-Chart (TradingView)",
+     "body": "Das offizielle TradingView-Widget mit BTC/USDT auf Binance. Du kannst Zeiträume wechseln, Indikatoren öffnen und im Vollbild arbeiten — genau wie auf der TradingView-Seite selbst."
+    },
+    {
+     "title": "„Im Original öffnen“",
+     "body": "Der Button oben rechts öffnet die aktuelle Ansicht als normale Seite in einem neuen Tab — praktisch, wenn du etwas teilen oder ohne Einbettung arbeiten willst."
+    },
+    {
+     "title": "Datenschutz-Hinweis",
+     "body": "In den eingebetteten Seiten gelten die Cookie- und Tracking-Regeln des jeweiligen Anbieters (Coinglass / TradingView) — nicht die dieser App."
+    }
+   ]
+  }
+ ]
 }
