@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'">
-<title>Crypto & AI News Scanner · Public Showcase</title>
+<title>Crypto- & KI-News-Scanner · Öffentlicher Showcase</title>
 <style>
   :root {
     --bg: #0d1117; --card: #161b22; --border: #21262d;
@@ -76,11 +76,11 @@
 <body>
 <header>
   <div class="brand">
-    <h1>📡 News Scanner <span class="live-dot" title="Updated automatically"></span></h1>
-    <div class="subtitle">Crypto &amp; AI news · public read-only showcase</div>
+    <h1>📡 News Scanner <span class="live-dot" title="Automatisch aktualisiert"></span></h1>
+    <div class="subtitle">Crypto- &amp; KI-News · öffentlicher, rein lesender Showcase</div>
   </div>
   <div class="header-right">
-    <span class="interval-badge">🔒 read only</span>
+    <span class="interval-badge">🔒 Nur lesen</span>
     <span class="last" id="lastScan">…</span>
   </div>
 </header>
@@ -88,19 +88,19 @@
 <div class="tabs">
   <div class="tab active" data-tab="crypto">🪙 Crypto</div>
   <div class="tab" data-tab="ai">🤖 AI</div>
-  <div class="tab" data-tab="market">📊 Market</div>
+  <div class="tab" data-tab="market">📊 Märkte</div>
 </div>
 
 <div class="filters" id="filters">
-  <select id="catFilter"><option value="">All categories</option></select>
+  <select id="catFilter"><option value="">Alle Kategorien</option></select>
   <select id="scoreFilter">
-    <option value="">All scores</option><option value="6">≥ 6</option>
+    <option value="">Alle Scores</option><option value="6">≥ 6</option>
     <option value="7">≥ 7</option><option value="8">≥ 8</option><option value="9">≥ 9</option>
   </select>
 </div>
 
 <main id="content"></main>
-<div class="footer-note">AI-assisted scoring and summaries · Original sources linked · Not financial advice</div>
+<div class="footer-note">KI-gestützte Bewertung und Zusammenfassungen · Originalquellen verlinkt · Keine Finanzberatung</div>
 
 <script>
 const $ = (s) => document.querySelector(s);
@@ -185,11 +185,11 @@ function timeAgo(iso) {
   if (!iso) return "";
   const t = new Date(iso.replace("Z", "+00:00")).getTime();
   const m = Math.round((Date.now() - t) / 60000);
-  if (m < 1) return "just now";
-  if (m < 60) return `${m} min ago`;
+  if (m < 1) return "gerade eben";
+  if (m < 60) return `vor ${m} Min.`;
   const h = Math.round(m / 60);
-  if (h < 24) return `${h} h ago`;
-  return `${Math.round(h / 24)} d ago`;
+  if (h < 24) return `vor ${h} Std.`;
+  return `vor ${Math.round(h / 24)} Tagen`;
 }
 
 async function loadNews() {
@@ -206,7 +206,7 @@ async function loadNews() {
 
 function renderNews(arts) {
   const el = $("#content");
-  if (!arts.length) { el.innerHTML = '<div class="empty">No articles match this filter.</div>'; return; }
+  if (!arts.length) { el.innerHTML = '<div class="empty">Keine Artikel entsprechen diesem Filter.</div>'; return; }
   el.innerHTML = arts.map((a) => {
     const url = safeUrl(a.url);
     return `
@@ -215,7 +215,7 @@ function renderNews(arts) {
         <span class="cat" style="margin-left:auto">${esc(a.source || "")}</span></div>
       <div class="title"><a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${esc(a.title)}</a></div>
       ${a.summary ? `<div class="summary">${esc(a.summary)}</div>` : ""}
-      <div class="read-more"><a href="${esc(url)}" target="_blank" rel="noopener noreferrer">→ Read original article</a></div>
+      <div class="read-more"><a href="${esc(url)}" target="_blank" rel="noopener noreferrer">→ Zum Originalartikel</a></div>
       <div class="meta">
         <span>🕐 ${esc(timeAgo(a.published))}</span>
         ${(a.instruments || []).map((i) => `<span class="tag">${esc(i)}</span>`).join("")}
@@ -287,7 +287,7 @@ async function refresh() {
   else await loadNews();
   const stats = await fetch("./data/stats.json", { cache: "no-store" }).then((r) => r.json());
   $("#lastScan").textContent = stats.last_updated
-    ? `Updated: ${new Date(stats.last_updated.replace("Z", "+00:00")).toLocaleString("en-GB")}`
+    ? `Aktualisiert: ${new Date(stats.last_updated.replace("Z", "+00:00")).toLocaleString("de-DE")}`
     : "";
 }
 
@@ -297,7 +297,7 @@ document.querySelectorAll(".tab").forEach((t) => {
     t.classList.add("active");
     currentTab = t.dataset.tab;
     $("#filters").style.display = currentTab === "market" ? "none" : "flex";
-    $("#catFilter").innerHTML = '<option value="">All categories</option>';
+    $("#catFilter").innerHTML = '<option value="">Alle Kategorien</option>';
     if (currentTab !== "market") await loadCategories();
     refresh();
   });
@@ -311,7 +311,7 @@ $("#scoreFilter").addEventListener("change", refresh);
     await refresh();
     setInterval(refresh, 300000);
   } catch (error) {
-    $("#content").innerHTML = '<div class="empty">Public data is temporarily unavailable. Please try again later.</div>';
+    $("#content").innerHTML = '<div class="empty">Öffentliche Daten sind vorübergehend nicht verfügbar. Bitte versuche es später erneut.</div>';
     console.error(error);
   }
 })();
