@@ -26,6 +26,11 @@
   .tabs { display: flex; gap: 8px; padding: 10px 16px; border-bottom: 1px solid var(--border); }
   .tab { padding: 8px 16px; border-radius: 8px; background: var(--card); border: 1px solid var(--border); color: var(--text); font-size: 14px; font-weight: 600; cursor: pointer; }
   .tab.active { background: var(--accent); color: #04101f; border-color: var(--accent); }
+  /* auf schmalen Screens (iPhone): 3er-Raster statt einer Reihe */
+  @media (max-width: 640px) {
+    .tabs { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; }
+    .tab { text-align: center; padding: 8px 6px; font-size: 13px; }
+  }
   .filters { display: flex; gap: 8px; padding: 10px 16px; flex-wrap: wrap; }
   .filters select, .filters input { background: var(--card); color: var(--text); border: 1px solid var(--border); border-radius: 8px; padding: 6px 10px; font-size: 13px; }
   .filters select#catFilter { width: 230px; max-width: 100%; text-overflow: ellipsis; }
@@ -83,6 +88,14 @@
   .learn-card .lname { font-size: 14px; font-weight: 700; display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
   .learn-card .ltag { font-size: 10.5px; color: #79c0ff; background: #1f6feb22; border-radius: 6px; padding: 1px 7px; }
   .learn-card .ldesc { font-size: 12.5px; color: var(--muted); line-height: 1.5; }
+  /* Home (Marktbericht) */
+  .home-report { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 14px; }
+  .home-meta { font-size: 11.5px; color: var(--muted); margin-bottom: 8px; }
+  .home-text { font-size: 14px; line-height: 1.6; white-space: pre-wrap; }
+  .home-tile { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 10px 12px; }
+  .home-tile .sym { font-size: 11.5px; color: var(--muted); font-weight: 600; }
+  .home-tile .val { font-size: 16px; font-weight: 700; margin: 2px 0; }
+  .home-tile .chg { font-size: 12.5px; font-weight: 600; }
 </style>
 </head>
 <body>
@@ -98,7 +111,8 @@
 </header>
 
 <div class="tabs">
-  <div class="tab active" data-tab="crypto">🪙 Crypto</div>
+  <div class="tab active" data-tab="home">🏠 Home</div>
+  <div class="tab" data-tab="crypto">🪙 Crypto</div>
   <div class="tab" data-tab="ai">🤖 AI</div>
   <div class="tab" data-tab="market">📊 Märkte</div>
   <div class="tab" data-tab="links">🔗 Links</div>
@@ -119,7 +133,7 @@
 
 <script>
 const $ = (s) => document.querySelector(s);
-let currentTab = "crypto";
+let currentTab = "home";
 let newsCache = null;
 let categoryCache = null;
 
@@ -355,6 +369,42 @@ async function renderLearn() {
       </div>`).join("")}</div>`).join("");
 }
 
+/* Home tab: latest AI market report + quick market values. */
+function cleanReport(t) {
+  return String(t || "").replace(/\\n/g, "\n").replace(/\*\*/g, "").replace(/#{1,3} /g, "");
+}
+async function renderHome() {
+  const el = $("#content");
+  let rep = null;
+  try {
+    const r = await fetch("./data/market-report.json", { cache: "no-store" });
+    if (r.ok) rep = await r.json();
+  } catch {}
+  const slots = "09:00 · 15:30 · 22:00 Uhr";
+  el.innerHTML = `
+    <div class="section-title">📈 Marktbericht · KI-Einschätzung</div>
+    ${rep && rep.text ? `
+      <div class="home-report">
+        <div class="home-meta">${rep.ts ? esc(new Date(rep.ts.replace("Z", "+00:00")).toLocaleString("de-DE")) : "–"} · ${rep.instrument === "ALL" ? "Gesamtmarkt" : esc(rep.instrument)}</div>
+        <div class="home-text">${esc(cleanReport(rep.text))}</div>
+      </div>` : `
+      <div class="empty">Noch kein Marktbericht verfügbar.<br>Die erste Einschätzung erscheint automatisch um ${slots}.</div>`}
+    <div class="links-note" style="margin-top:12px">Automatisch um ${slots} erstellt (Snapshot, 12h-Verlauf, Top-Nachrichten) — kein Finanzberater, nur Einordnung. Manuell anfordern: privates Dashboard im Heimnetz (http://&lt;Mac-IP&gt;:4100, Tab „Marktbericht“).</div>
+    <div class="section-title" style="margin-top:20px">⚡ Aktuelle Marktwerte</div>
+    <div id="homeTiles"></div>`;
+  try {
+    const snap = await (await fetch("./data/snapshot.json", { cache: "no-store" })).json();
+    const pick = ["BTCUSD", "ETHUSD", "SOLUSD", "F&G", "DXY", "NDX"];
+    const rows = pick.map((sym) => {
+      const d = (snap.instruments || {})[sym] || {};
+      const val = sym === "F&G" ? `${fmtNum(d.value)} · ${esc(d.label || "")}` : fmtNum(d.value);
+      const chg = d.change_24h !== null && d.change_24h !== undefined ? fmtChg(d.change_24h) : "";
+      return `<div class="home-tile"><div class="sym">${esc(sym)}</div><div class="val">${val}</div><div class="chg">${chg}</div></div>`;
+    }).join("");
+    $("#homeTiles").innerHTML = `<div class="grid">${rows}</div>`;
+  } catch {}
+}
+
 async function loadCategories() {
   if (!categoryCache) categoryCache = await (await fetch("./data/categories.json")).json();
   const sel = $("#catFilter");
@@ -368,7 +418,8 @@ async function loadCategories() {
 
 async function refresh() {
   newsCache = null;
-  if (currentTab === "market") await loadMarket();
+  if (currentTab === "home") await renderHome();
+  else if (currentTab === "market") await loadMarket();
   else if (currentTab === "links") await loadLinks();
   else if (currentTab === "live") { /* iframe bleibt unberührt (kein Reload bei Auto-Refresh) */ }
   else if (currentTab === "learn") await renderLearn();
@@ -384,7 +435,7 @@ document.querySelectorAll(".tab").forEach((t) => {
     document.querySelectorAll(".tab").forEach((x) => x.classList.remove("active"));
     t.classList.add("active");
     currentTab = t.dataset.tab;
-    const noFilters = ["market", "links", "live", "learn"].includes(currentTab);
+    const noFilters = ["home", "market", "links", "live", "learn"].includes(currentTab);
     $("#filters").style.display = noFilters ? "none" : "flex";
     $("#catFilter").innerHTML = '<option value="">Alle Kategorien</option>';
     if (!noFilters) await loadCategories();
