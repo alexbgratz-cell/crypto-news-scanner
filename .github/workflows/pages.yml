@@ -7,7 +7,7 @@ on:
   # Workflow-Commits (GITHUB_TOKEN) triggern keinen push-Deploy:
   # nach erfolgreichem Marktbericht/ntfy-Lauf direkt neu deployen.
   workflow_run:
-    workflows: ["Marktbericht", "Bericht-Trigger (ntfy)"]
+    workflows: ["Marktbericht", "Bericht-Trigger (ntfy)", "News-Scanner (Cloud)"]
     types: [completed]
 
 permissions:
