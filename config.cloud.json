@@ -1,0 +1,138 @@
+{
+  "streams": {
+    "crypto": {
+      "feeds": [
+        "https://www.theblock.co/rss.xml",
+        "https://cointelegraph.com/rss",
+        "https://decrypt.co/feed"
+      ],
+      "instruments": {
+        "BTCUSD": {
+          "group": "Direkte Korrelation",
+          "kind": "price",
+          "coingecko_id": "bitcoin"
+        },
+        "ETHUSD": {
+          "group": "Direkte Korrelation",
+          "kind": "price",
+          "coingecko_id": "ethereum"
+        },
+        "SOLUSD": {
+          "group": "Direkte Korrelation",
+          "kind": "price",
+          "coingecko_id": "solana"
+        },
+        "ETHBTC": {
+          "group": "Kapitalrotation",
+          "kind": "ratio",
+          "from": [
+            "ETHUSD",
+            "BTCUSD"
+          ]
+        },
+        "BTC.D": {
+          "group": "Liquidität/Sentiment",
+          "kind": "dominance",
+          "coingecko_key": "btc"
+        },
+        "USDT.D": {
+          "group": "Liquidität/Sentiment",
+          "kind": "dominance",
+          "coingecko_key": "usdt"
+        },
+        "DXY": {
+          "group": "TradFi/Makro",
+          "kind": "index",
+          "yahoo_symbol": "DX-Y.NYB"
+        },
+        "NDX": {
+          "group": "TradFi/Makro",
+          "kind": "index",
+          "yahoo_symbol": "^NDX"
+        },
+        "F&G": {
+          "group": "Liquidität & Sentiment",
+          "kind": "sentiment",
+          "source": "alternative.me"
+        },
+        "FUNDING": {
+          "group": "Derivate",
+          "kind": "funding",
+          "source": "binance"
+        },
+        "MEMPOOL": {
+          "group": "On-Chain",
+          "kind": "mempool",
+          "source": "mempool.space"
+        },
+        "VIX": {
+          "group": "TradFi/Makro",
+          "kind": "index",
+          "fred_id": "VIXCLS"
+        },
+        "US10Y": {
+          "group": "TradFi/Makro",
+          "kind": "yield",
+          "fred_id": "DGS10"
+        },
+        "SPX": {
+          "group": "TradFi/Makro",
+          "kind": "index",
+          "fred_id": "SP500"
+        },
+        "OI": {
+          "group": "Derivate",
+          "kind": "open_interest",
+          "source": "binance"
+        },
+        "ORDERBOOK": {
+          "group": "Derivate",
+          "kind": "orderbook",
+          "source": "binance"
+        },
+        "MO30": {
+          "group": "On-Chain",
+          "kind": "monthly_return",
+          "source": "coingecko"
+        }
+      }
+    },
+    "ai": {
+      "feeds": [
+        "https://openai.com/news/rss.xml",
+        "https://blog.google/technology/ai/rss/",
+        "https://deepmind.google/blog/rss.xml",
+        "https://huggingface.co/blog/feed.xml",
+        "https://techcrunch.com/category/artificial-intelligence/feed/",
+        "https://venturebeat.com/category/ai/feed/",
+        "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+        "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+        "https://www.wired.com/feed/tag/ai/latest/rss",
+        "https://arstechnica.com/ai/feed/",
+        "https://www.marktechpost.com/feed/",
+        "https://simonwillison.net/atom/everything/"
+      ],
+      "entities": [
+        "NVDA",
+        "MSFT",
+        "GOOGL",
+        "META",
+        "AMZN",
+        "OPENAI",
+        "ANTHROPIC",
+        "MISTRAL",
+        "TAO",
+        "FET",
+        "RENDER",
+        "NEAR",
+        "ICP"
+      ]
+    }
+  },
+  "thresholds": {
+    "instant": 8,
+    "digest_min": 6
+  },
+  "digest_interval_min": 60,
+  "state_window_days": 7
+}
