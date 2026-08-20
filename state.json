@@ -2523,7 +2523,9 @@
     "https://cointelegraph.com/news/cftc-chair-crypto-regulation-without-clarity-act-congress": "2026-08-20T22:01:52Z",
     "https://decrypt.co/?p=376158": "2026-08-20T23:03:58Z",
     "https://techcrunch.com/?p=3155215": "2026-08-20T23:03:59Z",
-    "https://techcrunch.com/?p=3155224": "2026-08-20T23:03:59Z"
+    "https://techcrunch.com/?p=3155224": "2026-08-20T23:03:59Z",
+    "6ce180c1-c69f-582c-8bbf-897f15dccd9a": "2026-08-20T23:58:24Z",
+    "https://www.marktechpost.com/?p=81790": "2026-08-20T23:58:26Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -3373,6 +3375,22 @@
       "stream": "ai",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-20T22:09:51Z"
+    },
+    "6ce180c1-c69f-582c-8bbf-897f15dccd9a": {
+      "id": "6ce180c1-c69f-582c-8bbf-897f15dccd9a",
+      "title": "CME CEO Terrence Duffy trades barbs with CFTC’s Selig and Kalshi’s COO over prediction market oversight",
+      "url": "https://www.theblock.co/news/regulation/2026-08-20-cme-ceo-terrence-duffy-trades-barbs-with-cftcs-selig-and-kalshis-coo-over-prediction-market-oversight-412397",
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-08-20T23:39:38Z"
+    },
+    "https://www.marktechpost.com/?p=81790": {
+      "id": "https://www.marktechpost.com/?p=81790",
+      "title": "Meet S1-mini: Superwhisper’s 462 MB Open-Weights Text Normalizer That Turns Raw ASR Transcripts Into Clean Written Text",
+      "url": "https://www.marktechpost.com/2026/08/20/meet-s1-mini-superwhispers-462-mb-open-weights-text-normalizer-that-turns-raw-asr-transcripts-into-clean-written-text/",
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-08-20T22:23:17Z"
     }
   },
   "articles": [
