@@ -19,7 +19,7 @@ import urllib.parse
 import urllib.request
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-MODEL = "deepseek/deepseek-v4-flash"
+MODEL = "~deepseek/deepseek-v4-flash-latest"
 TREND_KEYS = ["BTCUSD", "ETHUSD", "SOLUSD", "ETHBTC", "BTC.D", "F&G", "DXY", "NDX", "VIX", "US10Y"]
 NTFY_TOPIC = "crypto-scanner-report-9f3k2"
 # Cloudflare blockt Python-urllib als User-Agent (HTTP 1010) -> Browser-UA verwenden

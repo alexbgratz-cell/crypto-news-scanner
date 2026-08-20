@@ -70,6 +70,7 @@ def update_secret_if_possible(new_refresh):
     maint = os.environ.get("GH_MAINT_TOKEN", "")
     repo = os.environ.get("GITHUB_REPOSITORY", "")
     if not maint or not repo or not new_refresh:
+        log("Secret-Update übersprungen (kein GH_MAINT_TOKEN/Repo/neuer Token)")
         return False
     p = subprocess.run(
         ["gh", "secret", "set", "NOUS_REFRESH_TOKEN", "--repo", repo],
@@ -77,7 +78,11 @@ def update_secret_if_possible(new_refresh):
         capture_output=True,
         env={**os.environ, "GH_TOKEN": maint},
     )
-    return p.returncode == 0
+    if p.returncode == 0:
+        log("Secret NOUS_REFRESH_TOKEN selbst erneuert")
+        return True
+    log(f"Secret-Update FEHLGESCHLAGEN: {(p.stderr or '').strip()[:200]}")
+    return False
 
 
 def analyze_article(prompt_txt, token, ttype, art):
@@ -99,7 +104,7 @@ def analyze_article(prompt_txt, token, ttype, art):
         "published": art.get("published"),
     }, ensure_ascii=False)
     body = json.dumps({
-        "model": "deepseek/deepseek-v4-flash",
+        "model": "~deepseek/deepseek-v4-flash-latest",
         "messages": [
             {"role": "system", "content": system},
             {"role": "user", "content": user},
@@ -199,7 +204,13 @@ def main():
         ))
         return
 
-    token, ttype, new_refresh = get_nous_token()
+    try:
+        token, ttype, new_refresh = get_nous_token()
+    except Exception as e:
+        log(f"Token-Refresh FEHLGESCHLAGEN: {str(e)[:160]} — pending bleibt, nächster Lauf übernimmt")
+        print(commit_and_push(["state.json", "snapshot.json", "snapshot_history.jsonl"],
+                              "Scan ohne Analyse (Token-Fehler)"))
+        sys.exit(1)
     if new_refresh:
         update_secret_if_possible(new_refresh)
     with open(os.path.join(BASE, "analysis_prompt.md"), encoding="utf-8") as f:
