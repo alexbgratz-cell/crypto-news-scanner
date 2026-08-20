@@ -23,6 +23,7 @@ import subprocess
 import sys
 import urllib.parse
 import urllib.request
+import urllib.error
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 USER_AGENT = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
@@ -120,8 +121,12 @@ def analyze_article(prompt_txt, token, ttype, art):
             "User-Agent": USER_AGENT,
         },
     )
-    with urllib.request.urlopen(req, timeout=120) as r:
-        data = json.load(r)
+    try:
+        with urllib.request.urlopen(req, timeout=120) as r:
+            data = json.load(r)
+    except urllib.error.HTTPError as e:
+        detail = e.read().decode(errors="replace")[:300]
+        raise RuntimeError(f"LLM HTTP {e.code}: {detail}")
     content = (data["choices"][0]["message"]["content"] or "").strip()
     # robustes JSON-Extrahieren (erste {...}-Klammer bis letzte)
     start, end = content.find("{"), content.rfind("}")
