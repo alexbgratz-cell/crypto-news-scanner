@@ -2484,7 +2484,13 @@
     "https://decrypt.co/?p=376069": "2026-08-20T14:20:41Z",
     "https://decrypt.co/?p=376029": "2026-08-20T14:20:41Z",
     "https://techcrunch.com/?p=3154766": "2026-08-20T14:20:42Z",
-    "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/": "2026-08-20T14:20:43Z"
+    "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/": "2026-08-20T14:20:43Z",
+    "https://cointelegraph.com/news/americans-donald-trump-crypto-investments-inappropriate-poll": "2026-08-20T16:01:30Z",
+    "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund": "2026-08-20T16:01:30Z",
+    "https://cointelegraph.com/markets/bitcoin-price-reaches-725k-as-us-issues-economic-d-day-threat-to-iran": "2026-08-20T16:01:30Z",
+    "https://openai.com/index/stampli": "2026-08-20T16:01:30Z",
+    "https://techcrunch.com/?p=3154855": "2026-08-20T16:01:31Z",
+    "https://www.technologyreview.com/?p=1142571": "2026-08-20T16:01:31Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -3022,6 +3028,54 @@
       "stream": "ai",
       "source": "AI - Ars Technica",
       "published": "2026-08-20T13:00:35Z"
+    },
+    "https://cointelegraph.com/news/americans-donald-trump-crypto-investments-inappropriate-poll": {
+      "id": "https://cointelegraph.com/news/americans-donald-trump-crypto-investments-inappropriate-poll",
+      "title": "Most Americans say the Trump family’s crypto investments are not ‘appropriate’: Poll",
+      "url": "https://cointelegraph.com/news/americans-donald-trump-crypto-investments-inappropriate-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-20T15:53:51Z"
+    },
+    "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund": {
+      "id": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund",
+      "title": "Optimism moves 546.9M OP from future airdrops to ecosystem growth fund",
+      "url": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-20T15:43:00Z"
+    },
+    "https://cointelegraph.com/markets/bitcoin-price-reaches-725k-as-us-issues-economic-d-day-threat-to-iran": {
+      "id": "https://cointelegraph.com/markets/bitcoin-price-reaches-725k-as-us-issues-economic-d-day-threat-to-iran",
+      "title": "Bitcoin price reaches $72.5K as US issues ‘Economic D-Day’ threat to Iran",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-reaches-725k-as-us-issues-economic-d-day-threat-to-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-20T15:40:54Z"
+    },
+    "https://openai.com/index/stampli": {
+      "id": "https://openai.com/index/stampli",
+      "title": "How ChatGPT Work helps Stampli move ideas to market",
+      "url": "https://openai.com/index/stampli",
+      "stream": "ai",
+      "source": "OpenAI News",
+      "published": "2026-08-20T00:00:00Z"
+    },
+    "https://techcrunch.com/?p=3154855": {
+      "id": "https://techcrunch.com/?p=3154855",
+      "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
+      "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-20T16:00:00Z"
+    },
+    "https://www.technologyreview.com/?p=1142571": {
+      "id": "https://www.technologyreview.com/?p=1142571",
+      "title": "Debates over AI consciousness are a trap",
+      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "stream": "ai",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "published": "2026-08-20T15:42:39Z"
     }
   },
   "articles": [
