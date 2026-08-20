@@ -2,7 +2,12 @@ name: News-Scanner (Cloud)
 on:
   schedule:
     - cron: "*/15 * * * *" # alle 15 Min: Feeds, Analyse, Push, Commit
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      backfill:
+        description: "Pending-Artikel nacharbeiten"
+        type: boolean
+        default: false
 permissions:
   contents: write
 concurrency:
@@ -25,4 +30,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_MAINT_TOKEN: ${{ secrets.GH_MAINT_TOKEN }}
-        run: python3 scanner/cloud_scan.py
+        run: python3 scanner/cloud_scan.py ${{ github.event.inputs.backfill == 'true' && '--backfill' || '' }}
