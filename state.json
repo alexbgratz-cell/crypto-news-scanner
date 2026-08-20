@@ -2466,7 +2466,12 @@
     "https://cointelegraph.com/news/gnosisdao-approves-gnosis-chain-ethereum-economic-zone": "2026-08-20T09:59:13Z",
     "https://decrypt.co/?p=376048": "2026-08-20T09:59:13Z",
     "https://huggingface.co/blog/ibm-research/altk-evolve-sldd": "2026-08-20T09:59:15Z",
-    "https://techcrunch.com/?p=3154391": "2026-08-20T09:59:15Z"
+    "https://techcrunch.com/?p=3154391": "2026-08-20T09:59:15Z",
+    "b6c5b8d8-5d5b-5247-ba2d-2f7286ee4d78": "2026-08-20T11:03:30Z",
+    "a2c82a86-0921-5b90-93eb-771d1476b55b": "2026-08-20T11:03:30Z",
+    "https://cointelegraph.com/markets/crypto-short-liquidations-pass-3b-mark-as-bitcoin-price-nears-72k": "2026-08-20T11:03:30Z",
+    "https://www.technologyreview.com/?p=1142070": "2026-08-20T11:03:31Z",
+    "https://www.marktechpost.com/?p=81771": "2026-08-20T11:03:32Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -2860,6 +2865,46 @@
       "stream": "ai",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-20T09:30:00Z"
+    },
+    "b6c5b8d8-5d5b-5247-ba2d-2f7286ee4d78": {
+      "id": "b6c5b8d8-5d5b-5247-ba2d-2f7286ee4d78",
+      "title": "GSR’s Baehr says tokenized fixed income could play key role in institutional collateral",
+      "url": "https://www.theblock.co/news/business/2026-08-20-gsr-baehr-tokenized-institutional-collateral-412302",
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-08-20T10:08:12Z"
+    },
+    "a2c82a86-0921-5b90-93eb-771d1476b55b": {
+      "id": "a2c82a86-0921-5b90-93eb-771d1476b55b",
+      "title": "Securitize’s Redfearn says SEC held back crypto innovation exemption over Clarity Act politics",
+      "url": "https://www.theblock.co/news/regulation/2026-08-20-securitizes-redfearn-sec-innovation-exemption-clarity-act-politics-412298",
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-08-20T10:06:46Z"
+    },
+    "https://cointelegraph.com/markets/crypto-short-liquidations-pass-3b-mark-as-bitcoin-price-nears-72k": {
+      "id": "https://cointelegraph.com/markets/crypto-short-liquidations-pass-3b-mark-as-bitcoin-price-nears-72k",
+      "title": "Crypto short liquidations pass $3B mark as Bitcoin price nears $72K",
+      "url": "https://cointelegraph.com/markets/crypto-short-liquidations-pass-3b-mark-as-bitcoin-price-nears-72k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-20T10:03:04Z"
+    },
+    "https://www.technologyreview.com/?p=1142070": {
+      "id": "https://www.technologyreview.com/?p=1142070",
+      "title": "Unlocking hidden revenue streams with market models",
+      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+      "stream": "ai",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "published": "2026-08-20T09:47:22Z"
+    },
+    "https://www.marktechpost.com/?p=81771": {
+      "id": "https://www.marktechpost.com/?p=81771",
+      "title": "Auditing Preference Biases and Fine-Tuning Language Models with Direct Preference Optimization on Anthropic HH-RLHF Using TRL and LoRA",
+      "url": "https://www.marktechpost.com/2026/08/20/auditing-preference-biases-and-fine-tuning-language-models-with-direct-preference-optimization-on-anthropic-hh-rlhf-using-trl-and-lora/",
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-08-20T08:51:38Z"
     }
   },
   "articles": [
