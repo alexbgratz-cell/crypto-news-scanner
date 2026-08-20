@@ -2520,7 +2520,10 @@
     "https://decrypt.co/?p=376155": "2026-08-20T21:01:47Z",
     "https://techcrunch.com/?p=3154392": "2026-08-20T21:01:48Z",
     "https://cointelegraph.com/markets/bitcoin-breaks-200-day-moving-average": "2026-08-20T22:01:52Z",
-    "https://cointelegraph.com/news/cftc-chair-crypto-regulation-without-clarity-act-congress": "2026-08-20T22:01:52Z"
+    "https://cointelegraph.com/news/cftc-chair-crypto-regulation-without-clarity-act-congress": "2026-08-20T22:01:52Z",
+    "https://decrypt.co/?p=376158": "2026-08-20T23:03:58Z",
+    "https://techcrunch.com/?p=3155215": "2026-08-20T23:03:59Z",
+    "https://techcrunch.com/?p=3155224": "2026-08-20T23:03:59Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -3346,6 +3349,30 @@
       "stream": "crypto",
       "source": "Cointelegraph.com News",
       "published": "2026-08-20T20:56:23Z"
+    },
+    "https://decrypt.co/?p=376158": {
+      "id": "https://decrypt.co/?p=376158",
+      "title": "Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC",
+      "url": "https://decrypt.co/376158/tensions-flare-cme-kalshi-clash-prediction-markets-dc",
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-08-20T22:32:11Z"
+    },
+    "https://techcrunch.com/?p=3155215": {
+      "id": "https://techcrunch.com/?p=3155215",
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-20T22:36:37Z"
+    },
+    "https://techcrunch.com/?p=3155224": {
+      "id": "https://techcrunch.com/?p=3155224",
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-20T22:09:51Z"
     }
   },
   "articles": [
