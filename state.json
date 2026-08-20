@@ -2503,7 +2503,17 @@
     "https://techcrunch.com/?p=3154977": "2026-08-20T17:50:21Z",
     "https://techcrunch.com/?p=3154941": "2026-08-20T17:50:21Z",
     "https://techcrunch.com/?p=3154851": "2026-08-20T17:50:21Z",
-    "https://techcrunch.com/?p=3154881": "2026-08-20T17:50:21Z"
+    "https://techcrunch.com/?p=3154881": "2026-08-20T17:50:21Z",
+    "https://decrypt.co/?p=376103": "2026-08-20T19:45:26Z",
+    "https://decrypt.co/?p=376151": "2026-08-20T19:45:26Z",
+    "https://decrypt.co/?p=376143": "2026-08-20T19:45:26Z",
+    "https://openai.com/index/introducing-ai-futures": "2026-08-20T19:45:26Z",
+    "https://techcrunch.com/?p=3155082": "2026-08-20T19:45:37Z",
+    "https://techcrunch.com/?p=3154952": "2026-08-20T19:45:37Z",
+    "https://techcrunch.com/?p=3155017": "2026-08-20T19:45:37Z",
+    "6a85dd109e48c15857d19bad": "2026-08-20T19:45:37Z",
+    "https://www.marktechpost.com/?p=81780": "2026-08-20T19:45:38Z",
+    "https://www.marktechpost.com/?p=81774": "2026-08-20T19:45:38Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -3193,6 +3203,86 @@
       "stream": "ai",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-20T16:07:26Z"
+    },
+    "https://decrypt.co/?p=376103": {
+      "id": "https://decrypt.co/?p=376103",
+      "title": "Bitcoin Is Pumping But Prediction Market Traders Aren't Convinced",
+      "url": "https://decrypt.co/376103/bitcoin-price-pumping-prediction-next-move",
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-08-20T19:16:05Z"
+    },
+    "https://decrypt.co/?p=376151": {
+      "id": "https://decrypt.co/?p=376151",
+      "title": "CFTC Chair Readies Crypto Rules If Congress Fails to Pass Clarity Act",
+      "url": "https://decrypt.co/376151/cftc-chair-crypto-rules-if-congress-fails-clarity-act",
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-08-20T18:44:08Z"
+    },
+    "https://decrypt.co/?p=376143": {
+      "id": "https://decrypt.co/?p=376143",
+      "title": "Alibaba's Revenue Jumps 9% as AI Cloud Growth Hits 45%—But a Profit Plunge Sends Shares Lower",
+      "url": "https://decrypt.co/376143/alibaba-revenue-jumps-ai-cloud-growth",
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-08-20T18:32:25Z"
+    },
+    "https://openai.com/index/introducing-ai-futures": {
+      "id": "https://openai.com/index/introducing-ai-futures",
+      "title": "Introducing AI Futures",
+      "url": "https://openai.com/index/introducing-ai-futures",
+      "stream": "ai",
+      "source": "OpenAI News",
+      "published": "2026-08-20T07:00:00Z"
+    },
+    "https://techcrunch.com/?p=3155082": {
+      "id": "https://techcrunch.com/?p=3155082",
+      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-20T19:18:21Z"
+    },
+    "https://techcrunch.com/?p=3154952": {
+      "id": "https://techcrunch.com/?p=3154952",
+      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
+      "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-20T19:15:05Z"
+    },
+    "https://techcrunch.com/?p=3155017": {
+      "id": "https://techcrunch.com/?p=3155017",
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-20T18:20:35Z"
+    },
+    "6a85dd109e48c15857d19bad": {
+      "id": "6a85dd109e48c15857d19bad",
+      "title": "Silicon Valley Doesn't Get Why You Hate AI",
+      "url": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
+      "stream": "ai",
+      "source": "Feed: Artificial Intelligence Latest",
+      "published": "2026-08-20T18:49:07Z"
+    },
+    "https://www.marktechpost.com/?p=81780": {
+      "id": "https://www.marktechpost.com/?p=81780",
+      "title": "Meet UPDF: A Lightweight Adobe Alternative Built for the Agentic Era",
+      "url": "https://www.marktechpost.com/2026/08/20/meet-updf-a-lightweight-adobe-alternative-built-for-the-agentic-era/",
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-08-20T19:34:10Z"
+    },
+    "https://www.marktechpost.com/?p=81774": {
+      "id": "https://www.marktechpost.com/?p=81774",
+      "title": "Liquid AI Releases LFM2.5-DSpark Draft Models That Deliver Up to 3.18x Faster Decoding Without Changing Model Outputs",
+      "url": "https://www.marktechpost.com/2026/08/20/liquid-ai-releases-lfm2-5-dspark-draft-models-that-deliver-up-to-3-18x-faster-decoding/",
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-08-20T18:53:09Z"
     }
   },
   "articles": [
