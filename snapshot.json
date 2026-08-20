@@ -1,27 +1,27 @@
 {
   "instruments": {
     "BTCUSD": {
-      "value": 68585,
-      "change_24h": 5.81,
+      "value": 69837,
+      "change_24h": 8.67,
       "group": "Direkte Korrelation"
     },
     "ETHUSD": {
-      "value": 2082.49,
-      "change_24h": 8.64,
+      "value": 2261.21,
+      "change_24h": 18.19,
       "group": "Direkte Korrelation"
     },
     "SOLUSD": {
-      "value": 82.23,
-      "change_24h": 6.7,
+      "value": 85.73,
+      "change_24h": 11.32,
       "group": "Direkte Korrelation"
     },
     "ETHBTC": {
-      "value": 0.030364,
-      "change_24h": 2.67,
+      "value": 0.032378,
+      "change_24h": 8.76,
       "group": "Kapitalrotation"
     },
     "BTC.D": {
-      "value": 57.06,
+      "value": 58.32,
       "change_24h": null,
       "group": "Liquidität & Sentiment"
     },
@@ -31,9 +31,9 @@
       "group": "Liquidität & Sentiment"
     },
     "F&G": {
-      "value": 46.0,
-      "change_24h": 5.0,
-      "label": "Fear",
+      "value": 62.0,
+      "change_24h": 16.0,
+      "label": "Greed",
       "group": "Liquidität & Sentiment"
     },
     "FUNDING": {
@@ -52,12 +52,12 @@
       "group": "Derivate"
     },
     "MEMPOOL": {
-      "value": 73443.0,
+      "value": 88205.0,
       "change_24h": null,
       "group": "On-Chain"
     },
     "MO30": {
-      "value": 5.98,
+      "value": 9.47,
       "change_24h": null,
       "group": "On-Chain"
     },
@@ -67,8 +67,8 @@
       "group": "TradFi/Makro"
     },
     "NDX": {
-      "value": 29508.33,
-      "change_24h": 0.06,
+      "value": 29426.02,
+      "change_24h": -0.22,
       "group": "TradFi/Makro"
     },
     "VIX": {
@@ -77,15 +77,15 @@
       "group": "TradFi/Makro"
     },
     "US10Y": {
-      "value": 4.72,
-      "change_24h": 0.85,
+      "value": 4.71,
+      "change_24h": -0.21,
       "group": "TradFi/Makro"
     },
     "SPX": {
-      "value": 7691.76,
-      "change_24h": -0.69,
+      "value": 7707.98,
+      "change_24h": 0.21,
       "group": "TradFi/Makro"
     }
   },
-  "timestamp": "2026-08-19T15:47:24Z"
+  "timestamp": "2026-08-20T06:51:46Z"
 }
