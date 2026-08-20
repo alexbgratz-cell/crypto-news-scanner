@@ -2460,7 +2460,8 @@
     "6a832c00aa9b25dea71b4c22": "2026-08-20T06:51:41Z",
     "6a85891388ea458d1c261341": "2026-08-20T06:51:41Z",
     "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/": "2026-08-20T06:51:41Z",
-    "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/": "2026-08-20T06:51:41Z"
+    "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/": "2026-08-20T06:51:41Z",
+    "5097d285-47ce-58c6-bd12-fe877a5280a6": "2026-08-20T07:08:07Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -2814,6 +2815,14 @@
       "stream": "ai",
       "source": "AI - Ars Technica",
       "published": "2026-08-19T15:45:29Z"
+    },
+    "5097d285-47ce-58c6-bd12-fe877a5280a6": {
+      "id": "5097d285-47ce-58c6-bd12-fe877a5280a6",
+      "title": "Spot bitcoin ETFs report $517 million in net inflows, largest in 3.5 months",
+      "url": "https://www.theblock.co/news/markets/2026-08-20-us-bitcoin-etf-517-million-inflows-412291",
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-08-20T06:57:13Z"
     }
   },
   "articles": [
