@@ -183,6 +183,7 @@ def commit_and_push(files, message):
 
 
 def main():
+    backfill = "--backfill" in sys.argv
     cfg = prepare_config()
     log("config vorbereitet")
     # 1) Fetch + Snapshot (fetch_new.py erledigt state/snapshot/history)
@@ -195,6 +196,13 @@ def main():
     out = r.stdout.strip()
     new_items = json.loads(out) if out else []
     log(f"neue Artikel: {len(new_items)}")
+
+    if backfill:
+        # pending-Artikel (gesehen, aber nie analysiert) nacharbeiten
+        st = json.load(open(os.path.join(BASE, "state.json"), encoding="utf-8"))
+        pend = st.get("pending", {})
+        new_items = [dict(v, id=k) for k, v in pend.items()]
+        log(f"Backfill: {len(new_items)} pending-Artikel")
 
     if not new_items:
         # Snapshot kann sich trotzdem geändert haben -> committen
