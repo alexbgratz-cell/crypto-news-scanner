@@ -2527,7 +2527,10 @@
     "6ce180c1-c69f-582c-8bbf-897f15dccd9a": "2026-08-20T23:58:24Z",
     "https://www.marktechpost.com/?p=81790": "2026-08-20T23:58:26Z",
     "4cd6ebd4-045b-5f72-b434-6a68a999beec": "2026-08-21T03:31:56Z",
-    "https://techcrunch.com/?p=3155270": "2026-08-21T03:31:57Z"
+    "https://techcrunch.com/?p=3155270": "2026-08-21T03:31:57Z",
+    "909bed57-76bc-5c56-8dc9-2e647d0f5037": "2026-08-21T05:18:44Z",
+    "https://cointelegraph.com/markets/mantra-token-record-low-blockchain-halt": "2026-08-21T05:18:44Z",
+    "https://cointelegraph.com/news/capital-com-uae-spot-crypto-license": "2026-08-21T05:18:44Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -3409,6 +3412,30 @@
       "stream": "ai",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-21T00:13:44Z"
+    },
+    "909bed57-76bc-5c56-8dc9-2e647d0f5037": {
+      "id": "909bed57-76bc-5c56-8dc9-2e647d0f5037",
+      "title": "MANTRA freezes all transactions and network following unspecified incident",
+      "url": "https://www.theblock.co/news/defi/2026-08-21-mantra-freezes-network-412416",
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-08-21T04:47:29Z"
+    },
+    "https://cointelegraph.com/markets/mantra-token-record-low-blockchain-halt": {
+      "id": "https://cointelegraph.com/markets/mantra-token-record-low-blockchain-halt",
+      "title": "MANTRA token sinks 18% to record low amid blockchain halt",
+      "url": "https://cointelegraph.com/markets/mantra-token-record-low-blockchain-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-21T05:04:52Z"
+    },
+    "https://cointelegraph.com/news/capital-com-uae-spot-crypto-license": {
+      "id": "https://cointelegraph.com/news/capital-com-uae-spot-crypto-license",
+      "title": "Capital.com plans UAE spot crypto services after affiliate wins licence",
+      "url": "https://cointelegraph.com/news/capital-com-uae-spot-crypto-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-21T03:33:11Z"
     }
   },
   "articles": [
