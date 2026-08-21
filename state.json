@@ -2566,7 +2566,10 @@
     "7e912f42-f92a-5426-9de6-534763bd3646": "2026-08-21T19:08:25Z",
     "https://decrypt.co/?p=376245": "2026-08-21T19:08:25Z",
     "https://decrypt.co/?p=376204": "2026-08-21T19:08:25Z",
-    "https://decrypt.co/?p=376230": "2026-08-21T19:08:25Z"
+    "https://decrypt.co/?p=376230": "2026-08-21T19:08:25Z",
+    "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news5": "2026-08-21T19:52:50Z",
+    "https://cointelegraph.com/markets/bitcoin-seeks-support-near-77k-btc-gold-100-day-highs": "2026-08-21T19:52:50Z",
+    "https://techcrunch.com/?p=3155284": "2026-08-21T19:52:51Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -3763,55 +3766,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit",
-      "title": "CFTC invokes emergency powers to keep Kalshi operating in New York fight",
-      "url": "https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-12T04:53:26Z",
-      "score": 7,
-      "category": "Regulation",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Die CFTC nutzt Notbefugnisse, um Kalshi im Rechtsstreit mit New York zu schützen, der klärt, ob Event-Verträge als illegales Glücksspiel gelten. Diese Maßnahme verschärft die regulatorische Unsicherheit für bundesweit regulierte Prognosemärkte und betrifft direkt deren operative Zukunft. Die gerichtliche Entscheidung bestimmt künftig die Klassifizierung von Prognosekontrakten.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-12T11:10:26Z",
-      "summary_lang": "de"
-    },
-    {
-      "id": "https://cointelegraph.com/markets/ravencoin-rvn-record-low-consensus-exploit",
-      "title": "Ravencoin hits record low as network exploit puts transactions at risk",
-      "url": "https://cointelegraph.com/markets/ravencoin-rvn-record-low-consensus-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-12T01:11:51Z",
-      "score": 8,
-      "category": "Hack & Security",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Ravencoin erreichte einen Rekordtiefstand, nachdem Mining-Pools mit dem Großteil der Hashrate eine konkurrierende Blockchain aufbauten und so eine dreitägige Reorganisation auslösten. Dieser Konsens-Exploit gefährdet Transaktionen und untergräbt das Vertrauen in die Netzwerksicherheit, was den Kurs drückt. Die weitere Entwicklung der Mining-Pools bestimmt maßgeblich die Stabilität des Ravencoin-Netzwerks.",
-      "summary_lang": "de"
-    },
-    {
-      "id": "https://cointelegraph.com/news/sec-cftc-sue-goliath-ventures-400m-crypto-ponzi",
-      "title": "SEC, CFTC sue Goliath Ventures over $400M crypto Ponzi scheme",
-      "url": "https://cointelegraph.com/news/sec-cftc-sue-goliath-ventures-400m-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-12T00:07:41Z",
-      "score": 7,
-      "category": "Regulation",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "SEC und CFTC verklagen Goliath Ventures wegen eines angeblichen 400 Millionen Dollar umfassenden Krypto-Ponzi-Schemas, das frühere Anleger auszahlte und die luxuriösen Ausgaben des Gründers finanzierte. Diese Durchsetzungsmaßnahme verstärkt den regulatorischen Druck auf Krypto-Anlageschemata und zeigt die zunehmende Bereitschaft der Behörden zur Verfolgung solcher Betrugsmuster. Die rechtlichen Schritte werden wahrscheinlich weitere Untersuchungen ähnlicher Plattformen nach sich ziehen, während Anleger ihre Verluste geltend machen können.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-12T11:10:26Z",
-      "summary_lang": "de"
-    },
     {
       "id": "https://cointelegraph.com/news/sec-crypto-regulations-absence-clarity-act",
       "title": "SEC to address crypto regulations in absence of CLARITY passage",
@@ -7174,6 +7128,52 @@
       "instruments": [],
       "entities": [],
       "summary": "VentureBeat ernennt Rob Strechay zum ersten Lead Analysten und baut damit seinen Research-Bereich für Enterprise-KI aus. Der Schritt betrifft vor allem die Berichterstattung und Analyse, hat aber keine unmittelbare Wirkung auf die KI-Branche. Für den Markt ist kurzfristig keine direkte Reaktion zu erwarten."
+    },
+    {
+      "id": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news5",
+      "title": "Onchain, in court: What happened in crypto legal news this week",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-21T19:19:27Z",
+      "score": 5,
+      "category": "Regulation",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Ein wöchentlicher Überblick fasst Gerichts- und Rechtsnachrichten aus dem Kryptobereich zusammen. Rechtliche Entwicklungen können die Marktstimmung beeinflussen, da Gerichtsurteile und Klagen Regulierungsunsicherheit erzeugen. Konkrete Marktbewegungen hängen von den jeweiligen Einzelfällen ab und bleiben bis zur Bekanntgabe der Details unklar."
+    },
+    {
+      "id": "https://cointelegraph.com/markets/bitcoin-seeks-support-near-77k-btc-gold-100-day-highs",
+      "title": "Bitcoin seeks support near $77K as BTC, gold near 100-day highs",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-21T19:10:47Z",
+      "score": 6,
+      "category": "Macro",
+      "sentiment": "neutral",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Bitcoin sucht Unterstützung nahe 77.000 $, während BTC und Gold nahe ihren 100-Tage-Hochs notieren. Die Konsolidierung an dieser Marke spiegelt eine vorsichtige Marktstimmung wider und lässt die kurzfristige Richtung offen. Die Unterstützung bei 77.000 $ ist die entscheidende Marke für die nächste Bewegung."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3155284",
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-21T19:43:39Z",
+      "score": 6,
+      "category": "Hardware & Infrastructure",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "Nvidia"
+      ],
+      "summary": "Nvidia hat aufgezeigt, dass der „Harness“ – die infrastrukturseitige Steuerung und Umgebung – für den Erfolg von KI-Modellen entscheidender ist als das Modell selbst. Damit rückt die Hardware- und Infrastrukturebene ins Zentrum der KI-Wertschöpfung; Anbieter wie Nvidia gewinnen strategisch an Bedeutung. Die weitere Nachfrage nach Nvidias Infrastruktur-Lösungen dürfte dadurch gestützt bleiben."
     }
   ],
   "digest_log": [
