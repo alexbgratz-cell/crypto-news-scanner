@@ -2557,7 +2557,11 @@
     "https://decrypt.co/?p=376186": "2026-08-21T15:54:01Z",
     "https://decrypt.co/?p=376183": "2026-08-21T15:54:01Z",
     "https://decrypt.co/?p=376174": "2026-08-21T15:54:01Z",
-    "https://techcrunch.com/?post_type=tc_podcast&p=3155475": "2026-08-21T15:54:02Z"
+    "https://techcrunch.com/?post_type=tc_podcast&p=3155475": "2026-08-21T15:54:02Z",
+    "https://cointelegraph.com/news/paul-ryan-foundation-digital-asset-plan-blockchain-based-benefits-pilot-on-canton": "2026-08-21T17:14:33Z",
+    "https://cointelegraph.com/markets/bitcoin-rally-crypto-stocks-canaan-strive-metaplanet": "2026-08-21T17:14:33Z",
+    "https://cointelegraph.com/news/crypto-biz-treasurys-not-qe-playbook-sends-bitcoin-higher": "2026-08-21T17:14:33Z",
+    "https://decrypt.co/?p=376211": "2026-08-21T17:14:33Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -3679,6 +3683,38 @@
       "stream": "ai",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-21T14:00:00Z"
+    },
+    "https://cointelegraph.com/news/paul-ryan-foundation-digital-asset-plan-blockchain-based-benefits-pilot-on-canton": {
+      "id": "https://cointelegraph.com/news/paul-ryan-foundation-digital-asset-plan-blockchain-based-benefits-pilot-on-canton",
+      "title": "Digital Asset, Paul Ryan foundation target US state benefits with Canton pilot",
+      "url": "https://cointelegraph.com/news/paul-ryan-foundation-digital-asset-plan-blockchain-based-benefits-pilot-on-canton?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-21T16:25:29Z"
+    },
+    "https://cointelegraph.com/markets/bitcoin-rally-crypto-stocks-canaan-strive-metaplanet": {
+      "id": "https://cointelegraph.com/markets/bitcoin-rally-crypto-stocks-canaan-strive-metaplanet",
+      "title": "Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump",
+      "url": "https://cointelegraph.com/markets/bitcoin-rally-crypto-stocks-canaan-strive-metaplanet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-21T16:11:07Z"
+    },
+    "https://cointelegraph.com/news/crypto-biz-treasurys-not-qe-playbook-sends-bitcoin-higher": {
+      "id": "https://cointelegraph.com/news/crypto-biz-treasurys-not-qe-playbook-sends-bitcoin-higher",
+      "title": "Crypto Biz: Treasury’s ‘Not-QE’ playbook sends Bitcoin higher",
+      "url": "https://cointelegraph.com/news/crypto-biz-treasurys-not-qe-playbook-sends-bitcoin-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-21T15:50:08Z"
+    },
+    "https://decrypt.co/?p=376211": {
+      "id": "https://decrypt.co/?p=376211",
+      "title": "Bitcoin ETFs Just Had Their Biggest Day Since May—BlackRock Took 83% of It",
+      "url": "https://decrypt.co/376211/bitcoin-etfs-biggest-day-since-may",
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-08-21T16:29:01Z"
     }
   },
   "articles": [
