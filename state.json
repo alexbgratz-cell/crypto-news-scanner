@@ -2530,7 +2530,11 @@
     "https://techcrunch.com/?p=3155270": "2026-08-21T03:31:57Z",
     "909bed57-76bc-5c56-8dc9-2e647d0f5037": "2026-08-21T05:18:44Z",
     "https://cointelegraph.com/markets/mantra-token-record-low-blockchain-halt": "2026-08-21T05:18:44Z",
-    "https://cointelegraph.com/news/capital-com-uae-spot-crypto-license": "2026-08-21T05:18:44Z"
+    "https://cointelegraph.com/news/capital-com-uae-spot-crypto-license": "2026-08-21T05:18:44Z",
+    "8c11791d-a5de-5aef-b471-2ae849200b31": "2026-08-21T07:58:44Z",
+    "9c702777-1ee7-51d0-89d7-ef0ffa99fcd9": "2026-08-21T07:58:44Z",
+    "https://cointelegraph.com/news/south-korea-fiu-unregistered-crypto-firms-bill": "2026-08-21T07:58:44Z",
+    "6a7c4b927c15d30fa36e58fd": "2026-08-21T07:58:46Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -3436,6 +3440,38 @@
       "stream": "crypto",
       "source": "Cointelegraph.com News",
       "published": "2026-08-21T03:33:11Z"
+    },
+    "8c11791d-a5de-5aef-b471-2ae849200b31": {
+      "id": "8c11791d-a5de-5aef-b471-2ae849200b31",
+      "title": "Anchorage CEO says AI agents need bank accounts for ‘The Jetsons’-like future",
+      "url": "https://www.theblock.co/news/business/2026-08-21-anchorage-ceo-ai-the-jetsons-412427",
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-08-21T07:11:13Z"
+    },
+    "9c702777-1ee7-51d0-89d7-ef0ffa99fcd9": {
+      "id": "9c702777-1ee7-51d0-89d7-ef0ffa99fcd9",
+      "title": "South Korea’s Shinhan partners with Solana Foundation, Etherfuse, Orca for tokenized fund issuance",
+      "url": "https://www.theblock.co/news/regulation/2026-08-21-south-korea-shinhan-partners-solana-412420",
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-08-21T06:32:48Z"
+    },
+    "https://cointelegraph.com/news/south-korea-fiu-unregistered-crypto-firms-bill": {
+      "id": "https://cointelegraph.com/news/south-korea-fiu-unregistered-crypto-firms-bill",
+      "title": "South Korean lawmakers seek expanded FIU powers over unregistered crypto firms",
+      "url": "https://cointelegraph.com/news/south-korea-fiu-unregistered-crypto-firms-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-21T05:47:16Z"
+    },
+    "6a7c4b927c15d30fa36e58fd": {
+      "id": "6a7c4b927c15d30fa36e58fd",
+      "title": "The Single English County Saying No to Palantir",
+      "url": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
+      "stream": "ai",
+      "source": "Feed: Artificial Intelligence Latest",
+      "published": "2026-08-21T06:00:00Z"
     }
   },
   "articles": [
