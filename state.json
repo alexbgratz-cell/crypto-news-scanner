@@ -2569,7 +2569,10 @@
     "https://decrypt.co/?p=376230": "2026-08-21T19:08:25Z",
     "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news5": "2026-08-21T19:52:50Z",
     "https://cointelegraph.com/markets/bitcoin-seeks-support-near-77k-btc-gold-100-day-highs": "2026-08-21T19:52:50Z",
-    "https://techcrunch.com/?p=3155284": "2026-08-21T19:52:51Z"
+    "https://techcrunch.com/?p=3155284": "2026-08-21T19:52:51Z",
+    "https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc": "2026-08-21T20:54:20Z",
+    "https://cointelegraph.com/news/ray-dalio-buy-bitcoin-debt-crisis": "2026-08-21T20:54:20Z",
+    "https://decrypt.co/?p=376244": "2026-08-21T20:54:20Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -3763,6 +3766,30 @@
       "stream": "crypto",
       "source": "Decrypt",
       "published": "2026-08-21T17:28:55Z"
+    },
+    "https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc": {
+      "id": "https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc",
+      "title": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
+      "url": "https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-21T20:26:16Z"
+    },
+    "https://cointelegraph.com/news/ray-dalio-buy-bitcoin-debt-crisis": {
+      "id": "https://cointelegraph.com/news/ray-dalio-buy-bitcoin-debt-crisis",
+      "title": "Ray Dalio says to buy ‘a bit’ of Bitcoin amid potential debt crisis",
+      "url": "https://cointelegraph.com/news/ray-dalio-buy-bitcoin-debt-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-21T20:00:47Z"
+    },
+    "https://decrypt.co/?p=376244": {
+      "id": "https://decrypt.co/?p=376244",
+      "title": "Wall Street and Washington Fuel Bitcoin Rally: Here's What's Going On",
+      "url": "https://decrypt.co/376244/wall-street-washington-bitcoin-rally",
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-08-21T20:07:05Z"
     }
   },
   "articles": [
