@@ -7184,7 +7184,9 @@
         "BTCUSD"
       ],
       "entities": [],
-      "summary": "Bitcoin sucht Unterstützung nahe 77.000 $, während BTC und Gold nahe ihren 100-Tage-Hochs notieren. Die Konsolidierung an dieser Marke spiegelt eine vorsichtige Marktstimmung wider und lässt die kurzfristige Richtung offen. Die Unterstützung bei 77.000 $ ist die entscheidende Marke für die nächste Bewegung."
+      "summary": "Bitcoin sucht Unterstützung nahe 77.000 $, während BTC und Gold nahe ihren 100-Tage-Hochs notieren. Die Konsolidierung an dieser Marke spiegelt eine vorsichtige Marktstimmung wider und lässt die kurzfristige Richtung offen. Die Unterstützung bei 77.000 $ ist die entscheidende Marke für die nächste Bewegung.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-21T20:55:38Z"
     },
     {
       "id": "https://techcrunch.com/?p=3155284",
@@ -7200,7 +7202,9 @@
       "entities": [
         "Nvidia"
       ],
-      "summary": "Nvidia hat aufgezeigt, dass der „Harness“ – die infrastrukturseitige Steuerung und Umgebung – für den Erfolg von KI-Modellen entscheidender ist als das Modell selbst. Damit rückt die Hardware- und Infrastrukturebene ins Zentrum der KI-Wertschöpfung; Anbieter wie Nvidia gewinnen strategisch an Bedeutung. Die weitere Nachfrage nach Nvidias Infrastruktur-Lösungen dürfte dadurch gestützt bleiben."
+      "summary": "Nvidia hat aufgezeigt, dass der „Harness“ – die infrastrukturseitige Steuerung und Umgebung – für den Erfolg von KI-Modellen entscheidender ist als das Modell selbst. Damit rückt die Hardware- und Infrastrukturebene ins Zentrum der KI-Wertschöpfung; Anbieter wie Nvidia gewinnen strategisch an Bedeutung. Die weitere Nachfrage nach Nvidias Infrastruktur-Lösungen dürfte dadurch gestützt bleiben.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-21T20:55:38Z"
     }
   ],
   "digest_log": [
@@ -7406,6 +7410,13 @@
         "https://huggingface.co/blog/LiquidAI/qad",
         "https://techcrunch.com/?p=3154356",
         "https://techcrunch.com/?p=3154226"
+      ]
+    },
+    {
+      "at": "2026-08-21T20:55:38Z",
+      "article_ids": [
+        "https://cointelegraph.com/markets/bitcoin-seeks-support-near-77k-btc-gold-100-day-highs",
+        "https://techcrunch.com/?p=3155284"
       ]
     }
   ],
