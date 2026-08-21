@@ -2577,7 +2577,9 @@
     "https://decrypt.co/?p=376270": "2026-08-21T21:54:27Z",
     "https://www.marktechpost.com/?p=81798": "2026-08-21T21:54:29Z",
     "https://techcrunch.com/?p=3155585": "2026-08-21T22:55:30Z",
-    "https://www.marktechpost.com/?p=81802": "2026-08-21T22:55:31Z"
+    "https://www.marktechpost.com/?p=81802": "2026-08-21T22:55:31Z",
+    "https://techcrunch.com/?p=3155131": "2026-08-21T23:52:10Z",
+    "6a85df6ad0110f6d404e4794": "2026-08-21T23:52:10Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -3835,6 +3837,22 @@
       "stream": "ai",
       "source": "MarkTechPost",
       "published": "2026-08-21T22:00:25Z"
+    },
+    "https://techcrunch.com/?p=3155131": {
+      "id": "https://techcrunch.com/?p=3155131",
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-21T23:07:25Z"
+    },
+    "6a85df6ad0110f6d404e4794": {
+      "id": "6a85df6ad0110f6d404e4794",
+      "title": "The Unlikely Place at the Center of China’s AI Boom",
+      "url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+      "stream": "ai",
+      "source": "Feed: Artificial Intelligence Latest",
+      "published": "2026-08-21T23:25:32Z"
     }
   },
   "articles": [
