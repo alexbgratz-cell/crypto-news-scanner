@@ -2545,7 +2545,14 @@
     "34b6f922-ff0e-5bef-92fb-b85591e65db2": "2026-08-21T12:02:52Z",
     "https://decrypt.co/?p=376167": "2026-08-21T12:02:52Z",
     "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/": "2026-08-21T12:02:53Z",
-    "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/": "2026-08-21T12:02:54Z"
+    "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/": "2026-08-21T12:02:54Z",
+    "b48b9316-420a-5731-acbb-8f0100cd8171": "2026-08-21T14:09:21Z",
+    "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds": "2026-08-21T14:09:21Z",
+    "https://cointelegraph.com/news/nomuras-laser-digital-japans-first-crypto-exchange-4-years": "2026-08-21T14:09:21Z",
+    "https://cointelegraph.com/news/binance-employees-questioned-uae-released": "2026-08-21T14:09:21Z",
+    "https://cointelegraph.com/news/standard-chartered-100k-bitcoin-2026-prediction-low": "2026-08-21T14:09:21Z",
+    "https://huggingface.co/blog/asr-benchmark-optimization": "2026-08-21T14:09:22Z",
+    "https://techcrunch.com/?p=3155064": "2026-08-21T14:09:22Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -3571,6 +3578,62 @@
       "stream": "ai",
       "source": "AI - Ars Technica",
       "published": "2026-08-21T11:00:53Z"
+    },
+    "b48b9316-420a-5731-acbb-8f0100cd8171": {
+      "id": "b48b9316-420a-5731-acbb-8f0100cd8171",
+      "title": "AI adoption in crypto crime rose 40% over the past year, TRM Labs says",
+      "url": "https://www.theblock.co/news/web3/2026-08-21-ai-adoption-in-crypto-crime-trm-412297",
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-08-21T12:00:00Z"
+    },
+    "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds": {
+      "id": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds",
+      "title": "Solana cuts blockchain slot time to 350 milliseconds",
+      "url": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-21T13:45:13Z"
+    },
+    "https://cointelegraph.com/news/nomuras-laser-digital-japans-first-crypto-exchange-4-years": {
+      "id": "https://cointelegraph.com/news/nomuras-laser-digital-japans-first-crypto-exchange-4-years",
+      "title": "Laser Digital gets Japan’s first crypto exchange approval in 4 years",
+      "url": "https://cointelegraph.com/news/nomuras-laser-digital-japans-first-crypto-exchange-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-21T13:08:12Z"
+    },
+    "https://cointelegraph.com/news/binance-employees-questioned-uae-released": {
+      "id": "https://cointelegraph.com/news/binance-employees-questioned-uae-released",
+      "title": "Binance says employees questioned in UAE cleared and released",
+      "url": "https://cointelegraph.com/news/binance-employees-questioned-uae-released?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-21T12:48:04Z"
+    },
+    "https://cointelegraph.com/news/standard-chartered-100k-bitcoin-2026-prediction-low": {
+      "id": "https://cointelegraph.com/news/standard-chartered-100k-bitcoin-2026-prediction-low",
+      "title": "Standard Chartered wavers on $100K Bitcoin year-end call, says it may be ‘too low’",
+      "url": "https://cointelegraph.com/news/standard-chartered-100k-bitcoin-2026-prediction-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-21T11:58:10Z"
+    },
+    "https://huggingface.co/blog/asr-benchmark-optimization": {
+      "id": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "title": "Measuring benchmark optimization in speech recognition",
+      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "stream": "ai",
+      "source": "Hugging Face - Blog",
+      "published": "2026-08-21T00:00:00Z"
+    },
+    "https://techcrunch.com/?p=3155064": {
+      "id": "https://techcrunch.com/?p=3155064",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-21T14:00:00Z"
     }
   },
   "articles": [
