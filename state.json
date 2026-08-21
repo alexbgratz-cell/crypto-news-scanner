@@ -2575,7 +2575,9 @@
     "https://decrypt.co/?p=376244": "2026-08-21T20:54:20Z",
     "06084bea-a23c-5ba3-a112-bff6095e632f": "2026-08-21T21:54:26Z",
     "https://decrypt.co/?p=376270": "2026-08-21T21:54:27Z",
-    "https://www.marktechpost.com/?p=81798": "2026-08-21T21:54:29Z"
+    "https://www.marktechpost.com/?p=81798": "2026-08-21T21:54:29Z",
+    "https://techcrunch.com/?p=3155585": "2026-08-21T22:55:30Z",
+    "https://www.marktechpost.com/?p=81802": "2026-08-21T22:55:31Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -3817,6 +3819,22 @@
       "stream": "ai",
       "source": "MarkTechPost",
       "published": "2026-08-21T21:15:53Z"
+    },
+    "https://techcrunch.com/?p=3155585": {
+      "id": "https://techcrunch.com/?p=3155585",
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-21T22:37:38Z"
+    },
+    "https://www.marktechpost.com/?p=81802": {
+      "id": "https://www.marktechpost.com/?p=81802",
+      "title": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure",
+      "url": "https://www.marktechpost.com/2026/08/21/building-agentic-document-intelligence-pipelines-creating-scientific-figures-with-autofigure/",
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-08-21T22:00:25Z"
     }
   },
   "articles": [
