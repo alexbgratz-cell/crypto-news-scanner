@@ -2525,7 +2525,9 @@
     "https://techcrunch.com/?p=3155215": "2026-08-20T23:03:59Z",
     "https://techcrunch.com/?p=3155224": "2026-08-20T23:03:59Z",
     "6ce180c1-c69f-582c-8bbf-897f15dccd9a": "2026-08-20T23:58:24Z",
-    "https://www.marktechpost.com/?p=81790": "2026-08-20T23:58:26Z"
+    "https://www.marktechpost.com/?p=81790": "2026-08-20T23:58:26Z",
+    "4cd6ebd4-045b-5f72-b434-6a68a999beec": "2026-08-21T03:31:56Z",
+    "https://techcrunch.com/?p=3155270": "2026-08-21T03:31:57Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -3391,6 +3393,22 @@
       "stream": "ai",
       "source": "MarkTechPost",
       "published": "2026-08-20T22:23:17Z"
+    },
+    "4cd6ebd4-045b-5f72-b434-6a68a999beec": {
+      "id": "4cd6ebd4-045b-5f72-b434-6a68a999beec",
+      "title": "Bitcoin breaks through $75,500 while analyst calls current rally ‘premature’",
+      "url": "https://www.theblock.co/news/markets/2026-08-20-bitcoin-breaks-through-75500-412404",
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-08-21T02:22:44Z"
+    },
+    "https://techcrunch.com/?p=3155270": {
+      "id": "https://techcrunch.com/?p=3155270",
+      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-21T00:13:44Z"
     }
   },
   "articles": [
