@@ -2591,7 +2591,8 @@
     "https://decrypt.co/?p=376287": "2026-08-22T17:44:53Z",
     "3b81cda1-7a72-5818-ae46-ce5f90b5a946": "2026-08-22T19:01:35Z",
     "https://techcrunch.com/?p=3155023": "2026-08-22T19:01:36Z",
-    "2180291a-ed71-5e13-927d-3d0231f9aa06": "2026-08-22T19:52:25Z"
+    "2180291a-ed71-5e13-927d-3d0231f9aa06": "2026-08-22T19:52:25Z",
+    "https://techcrunch.com/?p=3155861": "2026-08-22T22:51:20Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -3961,6 +3962,14 @@
       "stream": "crypto",
       "source": "The Block",
       "published": "2026-08-22T19:31:35Z"
+    },
+    "https://techcrunch.com/?p=3155861": {
+      "id": "https://techcrunch.com/?p=3155861",
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-22T21:46:56Z"
     }
   },
   "articles": [
