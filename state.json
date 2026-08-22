@@ -2579,7 +2579,8 @@
     "https://techcrunch.com/?p=3155585": "2026-08-21T22:55:30Z",
     "https://www.marktechpost.com/?p=81802": "2026-08-21T22:55:31Z",
     "https://techcrunch.com/?p=3155131": "2026-08-21T23:52:10Z",
-    "6a85df6ad0110f6d404e4794": "2026-08-21T23:52:10Z"
+    "6a85df6ad0110f6d404e4794": "2026-08-21T23:52:10Z",
+    "https://www.marktechpost.com/?p=81805": "2026-08-22T03:08:30Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -3853,6 +3854,14 @@
       "stream": "ai",
       "source": "Feed: Artificial Intelligence Latest",
       "published": "2026-08-21T23:25:32Z"
+    },
+    "https://www.marktechpost.com/?p=81805": {
+      "id": "https://www.marktechpost.com/?p=81805",
+      "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
+      "url": "https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/",
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-08-21T23:20:12Z"
     }
   },
   "articles": [
