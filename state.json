@@ -2590,7 +2590,8 @@
     "https://techcrunch.com/?p=3155518": "2026-08-22T16:55:01Z",
     "https://decrypt.co/?p=376287": "2026-08-22T17:44:53Z",
     "3b81cda1-7a72-5818-ae46-ce5f90b5a946": "2026-08-22T19:01:35Z",
-    "https://techcrunch.com/?p=3155023": "2026-08-22T19:01:36Z"
+    "https://techcrunch.com/?p=3155023": "2026-08-22T19:01:36Z",
+    "2180291a-ed71-5e13-927d-3d0231f9aa06": "2026-08-22T19:52:25Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -3952,6 +3953,14 @@
       "stream": "ai",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-22T19:00:00Z"
+    },
+    "2180291a-ed71-5e13-927d-3d0231f9aa06": {
+      "id": "2180291a-ed71-5e13-927d-3d0231f9aa06",
+      "title": "Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume",
+      "url": "https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531",
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-08-22T19:31:35Z"
     }
   },
   "articles": [
