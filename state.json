@@ -2583,7 +2583,8 @@
     "https://www.marktechpost.com/?p=81805": "2026-08-22T03:08:30Z",
     "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult": "2026-08-22T14:00:54Z",
     "https://decrypt.co/?p=376271": "2026-08-22T14:00:54Z",
-    "https://www.marktechpost.com/?p=81811": "2026-08-22T14:00:56Z"
+    "https://www.marktechpost.com/?p=81811": "2026-08-22T14:00:56Z",
+    "https://decrypt.co/?p=376296": "2026-08-22T15:48:33Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -3889,6 +3890,14 @@
       "stream": "ai",
       "source": "MarkTechPost",
       "published": "2026-08-22T13:43:13Z"
+    },
+    "https://decrypt.co/?p=376296": {
+      "id": "https://decrypt.co/?p=376296",
+      "title": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
+      "url": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-08-22T15:31:04Z"
     }
   },
   "articles": [
