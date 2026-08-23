@@ -2595,7 +2595,8 @@
     "https://techcrunch.com/?p=3155861": "2026-08-22T22:51:20Z",
     "https://www.marktechpost.com/?p=81814": "2026-08-23T00:01:46Z",
     "https://www.marktechpost.com/?p=81823": "2026-08-23T07:51:27Z",
-    "https://www.marktechpost.com/?p=81820": "2026-08-23T07:51:27Z"
+    "https://www.marktechpost.com/?p=81820": "2026-08-23T07:51:27Z",
+    "https://www.marktechpost.com/?p=81826": "2026-08-23T10:55:23Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -3997,6 +3998,14 @@
       "stream": "ai",
       "source": "MarkTechPost",
       "published": "2026-08-23T07:37:14Z"
+    },
+    "https://www.marktechpost.com/?p=81826": {
+      "id": "https://www.marktechpost.com/?p=81826",
+      "title": "Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU",
+      "url": "https://www.marktechpost.com/2026/08/23/meet-freetoken-an-edge-native-moe-serving-engine-that-runs-753b-glm-5-2-on-a-single-workstation-gpu/",
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-08-23T10:44:59Z"
     }
   },
   "articles": [
