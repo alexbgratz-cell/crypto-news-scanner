@@ -2603,7 +2603,8 @@
     "https://decrypt.co/?p=376295": "2026-08-23T16:56:22Z",
     "https://techcrunch.com/?p=3155870": "2026-08-23T16:56:23Z",
     "1110a552-44e9-5497-bdea-01636ae932ca": "2026-08-23T18:01:43Z",
-    "https://www.marktechpost.com/?p=81832": "2026-08-23T18:01:46Z"
+    "https://www.marktechpost.com/?p=81832": "2026-08-23T18:01:46Z",
+    "https://techcrunch.com/?p=3155879": "2026-08-23T20:52:07Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -4069,6 +4070,14 @@
       "stream": "ai",
       "source": "MarkTechPost",
       "published": "2026-08-23T17:51:56Z"
+    },
+    "https://techcrunch.com/?p=3155879": {
+      "id": "https://techcrunch.com/?p=3155879",
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-23T20:01:36Z"
     }
   },
   "articles": [
