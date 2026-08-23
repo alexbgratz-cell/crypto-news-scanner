@@ -2601,7 +2601,9 @@
     "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns": "2026-08-23T15:51:38Z",
     "https://techcrunch.com/?p=3155556": "2026-08-23T15:51:38Z",
     "https://decrypt.co/?p=376295": "2026-08-23T16:56:22Z",
-    "https://techcrunch.com/?p=3155870": "2026-08-23T16:56:23Z"
+    "https://techcrunch.com/?p=3155870": "2026-08-23T16:56:23Z",
+    "1110a552-44e9-5497-bdea-01636ae932ca": "2026-08-23T18:01:43Z",
+    "https://www.marktechpost.com/?p=81832": "2026-08-23T18:01:46Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -4051,6 +4053,22 @@
       "stream": "ai",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-23T15:30:00Z"
+    },
+    "1110a552-44e9-5497-bdea-01636ae932ca": {
+      "id": "1110a552-44e9-5497-bdea-01636ae932ca",
+      "title": "Tether’s $120 million Uruguay bitcoin mining project collapsed over a power contract dispute: Reuters",
+      "url": "https://www.theblock.co/news/business/2026-08-23-tethers-120-million-uruguay-bitcoin-mining-project-collapsed-over-a-power-contract-dispute-reuters-412536",
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-08-23T17:02:20Z"
+    },
+    "https://www.marktechpost.com/?p=81832": {
+      "id": "https://www.marktechpost.com/?p=81832",
+      "title": "Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work",
+      "url": "https://www.marktechpost.com/2026/08/23/harvey-tenet-post-trained-kimi-k3-legal-agent-model/",
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-08-23T17:51:56Z"
     }
   },
   "articles": [
