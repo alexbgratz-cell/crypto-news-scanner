@@ -2599,7 +2599,9 @@
     "https://www.marktechpost.com/?p=81826": "2026-08-23T10:55:23Z",
     "https://decrypt.co/?p=376265": "2026-08-23T14:59:39Z",
     "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns": "2026-08-23T15:51:38Z",
-    "https://techcrunch.com/?p=3155556": "2026-08-23T15:51:38Z"
+    "https://techcrunch.com/?p=3155556": "2026-08-23T15:51:38Z",
+    "https://decrypt.co/?p=376295": "2026-08-23T16:56:22Z",
+    "https://techcrunch.com/?p=3155870": "2026-08-23T16:56:23Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -4033,6 +4035,22 @@
       "stream": "ai",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-08-23T15:00:00Z"
+    },
+    "https://decrypt.co/?p=376295": {
+      "id": "https://decrypt.co/?p=376295",
+      "title": "63% of Religious Books on Amazon Are Likely AI-Written, Study Finds",
+      "url": "https://decrypt.co/376295/religious-books-amazon-ai-written-study",
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-08-23T16:31:04Z"
+    },
+    "https://techcrunch.com/?p=3155870": {
+      "id": "https://techcrunch.com/?p=3155870",
+      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-23T15:30:00Z"
     }
   },
   "articles": [
