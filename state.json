@@ -2593,7 +2593,9 @@
     "https://techcrunch.com/?p=3155023": "2026-08-22T19:01:36Z",
     "2180291a-ed71-5e13-927d-3d0231f9aa06": "2026-08-22T19:52:25Z",
     "https://techcrunch.com/?p=3155861": "2026-08-22T22:51:20Z",
-    "https://www.marktechpost.com/?p=81814": "2026-08-23T00:01:46Z"
+    "https://www.marktechpost.com/?p=81814": "2026-08-23T00:01:46Z",
+    "https://www.marktechpost.com/?p=81823": "2026-08-23T07:51:27Z",
+    "https://www.marktechpost.com/?p=81820": "2026-08-23T07:51:27Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -3979,6 +3981,22 @@
       "stream": "ai",
       "source": "MarkTechPost",
       "published": "2026-08-22T23:49:38Z"
+    },
+    "https://www.marktechpost.com/?p=81823": {
+      "id": "https://www.marktechpost.com/?p=81823",
+      "title": "Building an End-to-End Document Intelligence Pipeline with deepDoctection",
+      "url": "https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/",
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-08-23T07:51:22Z"
+    },
+    "https://www.marktechpost.com/?p=81820": {
+      "id": "https://www.marktechpost.com/?p=81820",
+      "title": "Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks",
+      "url": "https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/",
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-08-23T07:37:14Z"
     }
   },
   "articles": [
