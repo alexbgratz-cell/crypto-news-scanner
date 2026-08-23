@@ -2596,7 +2596,8 @@
     "https://www.marktechpost.com/?p=81814": "2026-08-23T00:01:46Z",
     "https://www.marktechpost.com/?p=81823": "2026-08-23T07:51:27Z",
     "https://www.marktechpost.com/?p=81820": "2026-08-23T07:51:27Z",
-    "https://www.marktechpost.com/?p=81826": "2026-08-23T10:55:23Z"
+    "https://www.marktechpost.com/?p=81826": "2026-08-23T10:55:23Z",
+    "https://decrypt.co/?p=376265": "2026-08-23T14:59:39Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -4006,6 +4007,14 @@
       "stream": "ai",
       "source": "MarkTechPost",
       "published": "2026-08-23T10:44:59Z"
+    },
+    "https://decrypt.co/?p=376265": {
+      "id": "https://decrypt.co/?p=376265",
+      "title": "Robot Brains Could Have Their ‘ChatGPT Moment’ by 2027, ACE Robotics Chairman Says",
+      "url": "https://decrypt.co/376265/robot-brains-chatgpt-moment-ace-robotics",
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-08-23T14:31:04Z"
     }
   },
   "articles": [
