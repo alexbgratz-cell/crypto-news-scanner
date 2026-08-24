@@ -2529,7 +2529,8 @@
     "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations": "2026-08-24T22:01:31Z",
     "https://decrypt.co/?p=376416": "2026-08-24T22:01:31Z",
     "https://techcrunch.com/?p=3156185": "2026-08-24T22:01:32Z",
-    "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/": "2026-08-24T22:01:33Z"
+    "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/": "2026-08-24T22:01:33Z",
+    "https://decrypt.co/?p=376415": "2026-08-24T23:02:04Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -4483,6 +4484,14 @@
       "stream": "ai",
       "source": "AI - Ars Technica",
       "published": "2026-08-24T21:45:53Z"
+    },
+    "https://decrypt.co/?p=376415": {
+      "id": "https://decrypt.co/?p=376415",
+      "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
+      "url": "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack",
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-08-24T22:16:04Z"
     }
   },
   "articles": [
