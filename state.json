@@ -2605,7 +2605,8 @@
     "1110a552-44e9-5497-bdea-01636ae932ca": "2026-08-23T18:01:43Z",
     "https://www.marktechpost.com/?p=81832": "2026-08-23T18:01:46Z",
     "https://techcrunch.com/?p=3155879": "2026-08-23T20:52:07Z",
-    "95593f84-a5b5-5ab4-99a5-53fdca96ebcf": "2026-08-23T22:43:44Z"
+    "95593f84-a5b5-5ab4-99a5-53fdca96ebcf": "2026-08-23T22:43:44Z",
+    "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest": "2026-08-24T00:01:43Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -4087,6 +4088,14 @@
       "stream": "crypto",
       "source": "The Block",
       "published": "2026-08-23T20:50:45Z"
+    },
+    "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest": {
+      "id": "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest",
+      "title": "We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest",
+      "url": "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-23T23:56:00Z"
     }
   },
   "articles": [
