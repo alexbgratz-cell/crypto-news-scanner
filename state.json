@@ -2611,7 +2611,11 @@
     "7bf37c0d-c789-5613-a47f-3a8f0fac173e": "2026-08-24T05:55:47Z",
     "https://cointelegraph.com/news/pakistan-crypto-licensing-portal-september-5-deadline": "2026-08-24T05:55:48Z",
     "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit": "2026-08-24T05:55:48Z",
-    "https://cointelegraph.com/news/banks-regulators-quantum-resistant-crypto-pilot": "2026-08-24T08:26:58Z"
+    "https://cointelegraph.com/news/banks-regulators-quantum-resistant-crypto-pilot": "2026-08-24T08:26:58Z",
+    "00de6a34-292a-5c44-b556-bc775dabac36": "2026-08-24T10:23:44Z",
+    "https://cointelegraph.com/markets/bitcoin-etf-inflows-billion-strongest-week-october": "2026-08-24T10:23:44Z",
+    "https://www.technologyreview.com/?p=1141740": "2026-08-24T10:23:46Z",
+    "6a6a638dbda4e52fe44bd61a": "2026-08-24T10:23:48Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -4141,6 +4145,38 @@
       "stream": "crypto",
       "source": "Cointelegraph.com News",
       "published": "2026-08-24T05:51:29Z"
+    },
+    "00de6a34-292a-5c44-b556-bc775dabac36": {
+      "id": "00de6a34-292a-5c44-b556-bc775dabac36",
+      "title": "Fasset reaches unicorn status after $68 million raise led by SBI Group",
+      "url": "https://www.theblock.co/news/business/2026-08-24-fasset-68-million-raise-sbi-group-412563",
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-08-24T07:56:44Z"
+    },
+    "https://cointelegraph.com/markets/bitcoin-etf-inflows-billion-strongest-week-october": {
+      "id": "https://cointelegraph.com/markets/bitcoin-etf-inflows-billion-strongest-week-october",
+      "title": "Bitcoin ETF inflows hit $1.9B in strongest week since October 2025",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-billion-strongest-week-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-24T08:56:52Z"
+    },
+    "https://www.technologyreview.com/?p=1141740": {
+      "id": "https://www.technologyreview.com/?p=1141740",
+      "title": "Kids outlearn AI—and we still don’t know why",
+      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "stream": "ai",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "published": "2026-08-24T09:00:00Z"
+    },
+    "6a6a638dbda4e52fe44bd61a": {
+      "id": "6a6a638dbda4e52fe44bd61a",
+      "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
+      "url": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
+      "stream": "ai",
+      "source": "Feed: Artificial Intelligence Latest",
+      "published": "2026-08-24T09:30:00Z"
     }
   },
   "articles": [
