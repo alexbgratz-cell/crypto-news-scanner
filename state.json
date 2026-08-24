@@ -2510,7 +2510,13 @@
     "https://decrypt.co/?p=376349": "2026-08-24T17:52:08Z",
     "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/": "2026-08-24T17:52:10Z",
     "https://www.marktechpost.com/?p=81850": "2026-08-24T17:52:11Z",
-    "https://www.marktechpost.com/?p=81846": "2026-08-24T17:52:11Z"
+    "https://www.marktechpost.com/?p=81846": "2026-08-24T17:52:11Z",
+    "3194e8a8-39f2-565f-87ed-e9991bce142d": "2026-08-24T19:19:43Z",
+    "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base": "2026-08-24T19:19:43Z",
+    "https://cointelegraph.com/markets/bitcoin-price-hits-80k-as-24-hour-crypto-short-liquidations-pass-m": "2026-08-24T19:19:43Z",
+    "https://decrypt.co/?p=376375": "2026-08-24T19:19:43Z",
+    "https://techcrunch.com/?p=3155931": "2026-08-24T19:19:44Z",
+    "https://techcrunch.com/?p=3155800": "2026-08-24T19:19:44Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -4320,6 +4326,46 @@
       "stream": "ai",
       "source": "MarkTechPost",
       "published": "2026-08-24T13:56:59Z"
+    },
+    "3194e8a8-39f2-565f-87ed-e9991bce142d": {
+      "id": "3194e8a8-39f2-565f-87ed-e9991bce142d",
+      "title": "Crypto exchange volumes double in five days as market activity rebounds",
+      "url": "https://www.theblock.co/news/markets/2026-08-24-crypto-exchange-volumes-double-in-five-days-as-market-activity-rebounds-412641",
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-08-24T18:07:20Z"
+    },
+    "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base": {
+      "id": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base",
+      "title": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
+      "url": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-24T19:11:48Z"
+    },
+    "https://cointelegraph.com/markets/bitcoin-price-hits-80k-as-24-hour-crypto-short-liquidations-pass-m": {
+      "id": "https://cointelegraph.com/markets/bitcoin-price-hits-80k-as-24-hour-crypto-short-liquidations-pass-m",
+      "title": "Bitcoin price hits $80K as 24-hour crypto short liquidations pass $220M",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-hits-80k-as-24-hour-crypto-short-liquidations-pass-m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-24T17:48:44Z"
+    },
+    "https://decrypt.co/?p=376375": {
+      "id": "https://decrypt.co/?p=376375",
+      "title": "Hyperliquid Hits Record High as $1.2 Billion Token Unlock Looms",
+      "url": "https://decrypt.co/376375/hypeliquid-price-record-high-token-unlock",
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-08-24T18:30:27Z"
+    },
+    "https://techcrunch.com/?p=3155931": {
+      "id": "https://techcrunch.com/?p=3155931",
+      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-24T18:03:55Z"
     }
   },
   "articles": [
