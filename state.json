@@ -2606,7 +2606,8 @@
     "https://www.marktechpost.com/?p=81832": "2026-08-23T18:01:46Z",
     "https://techcrunch.com/?p=3155879": "2026-08-23T20:52:07Z",
     "95593f84-a5b5-5ab4-99a5-53fdca96ebcf": "2026-08-23T22:43:44Z",
-    "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest": "2026-08-24T00:01:43Z"
+    "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest": "2026-08-24T00:01:43Z",
+    "https://www.marktechpost.com/?p=81837": "2026-08-24T03:36:32Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -4096,6 +4097,14 @@
       "stream": "crypto",
       "source": "Cointelegraph.com News",
       "published": "2026-08-23T23:56:00Z"
+    },
+    "https://www.marktechpost.com/?p=81837": {
+      "id": "https://www.marktechpost.com/?p=81837",
+      "title": "Scientific Data Analysis with LabPlot in Python: Signal Processing, Spectral Peak Fitting, Visualization, and Batch Automation",
+      "url": "https://www.marktechpost.com/2026/08/23/scientific-data-analysis-with-labplot-in-python-signal-processing-spectral-peak-fitting-visualization-and-batch-automation/",
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-08-24T03:32:30Z"
     }
   },
   "articles": [
