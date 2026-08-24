@@ -2610,7 +2610,8 @@
     "https://www.marktechpost.com/?p=81837": "2026-08-24T03:36:32Z",
     "7bf37c0d-c789-5613-a47f-3a8f0fac173e": "2026-08-24T05:55:47Z",
     "https://cointelegraph.com/news/pakistan-crypto-licensing-portal-september-5-deadline": "2026-08-24T05:55:48Z",
-    "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit": "2026-08-24T05:55:48Z"
+    "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit": "2026-08-24T05:55:48Z",
+    "https://cointelegraph.com/news/banks-regulators-quantum-resistant-crypto-pilot": "2026-08-24T08:26:58Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -4132,6 +4133,14 @@
       "stream": "crypto",
       "source": "Cointelegraph.com News",
       "published": "2026-08-24T03:59:29Z"
+    },
+    "https://cointelegraph.com/news/banks-regulators-quantum-resistant-crypto-pilot": {
+      "id": "https://cointelegraph.com/news/banks-regulators-quantum-resistant-crypto-pilot",
+      "title": "Banks, regulators join quantum-resistant crypto transfer pilot",
+      "url": "https://cointelegraph.com/news/banks-regulators-quantum-resistant-crypto-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-24T05:51:29Z"
     }
   },
   "articles": [
