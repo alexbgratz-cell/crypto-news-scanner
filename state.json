@@ -2607,7 +2607,10 @@
     "https://techcrunch.com/?p=3155879": "2026-08-23T20:52:07Z",
     "95593f84-a5b5-5ab4-99a5-53fdca96ebcf": "2026-08-23T22:43:44Z",
     "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest": "2026-08-24T00:01:43Z",
-    "https://www.marktechpost.com/?p=81837": "2026-08-24T03:36:32Z"
+    "https://www.marktechpost.com/?p=81837": "2026-08-24T03:36:32Z",
+    "7bf37c0d-c789-5613-a47f-3a8f0fac173e": "2026-08-24T05:55:47Z",
+    "https://cointelegraph.com/news/pakistan-crypto-licensing-portal-september-5-deadline": "2026-08-24T05:55:48Z",
+    "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit": "2026-08-24T05:55:48Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -4105,6 +4108,30 @@
       "stream": "ai",
       "source": "MarkTechPost",
       "published": "2026-08-24T03:32:30Z"
+    },
+    "7bf37c0d-c789-5613-a47f-3a8f0fac173e": {
+      "id": "7bf37c0d-c789-5613-a47f-3a8f0fac173e",
+      "title": "Bitcoin records largest weekly dollar gain in history; Strive CEO predicts ‘strongest’ cycle ever",
+      "url": "https://www.theblock.co/news/markets/2026-08-23-bitcoin-record-weekly-dollar-gain-412547",
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-08-24T03:52:31Z"
+    },
+    "https://cointelegraph.com/news/pakistan-crypto-licensing-portal-september-5-deadline": {
+      "id": "https://cointelegraph.com/news/pakistan-crypto-licensing-portal-september-5-deadline",
+      "title": "Pakistan opens crypto licensing portal, sets Sept. 5 deadline for existing firms",
+      "url": "https://cointelegraph.com/news/pakistan-crypto-licensing-portal-september-5-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-24T05:17:57Z"
+    },
+    "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit": {
+      "id": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit",
+      "title": "Term Finance loses estimated $8.5M in vault governance exploit",
+      "url": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-24T03:59:29Z"
     }
   },
   "articles": [
