@@ -2536,7 +2536,12 @@
     "https://huggingface.co/blog/gradio-workflow-guide": "2026-08-25T03:15:45Z",
     "https://techcrunch.com/?p=3156230": "2026-08-25T03:15:46Z",
     "https://www.marktechpost.com/?p=81854": "2026-08-25T03:15:53Z",
-    "https://cointelegraph.com/news/bnb-chain-pasteur-hard-fork-bridge-security": "2026-08-25T05:17:35Z"
+    "https://cointelegraph.com/news/bnb-chain-pasteur-hard-fork-bridge-security": "2026-08-25T05:17:35Z",
+    "dad4af39-3413-5914-b2d8-a9cf478c28fd": "2026-08-25T08:00:31Z",
+    "ee9d507b-3bd4-50fe-9a6c-52218e40857d": "2026-08-25T08:00:31Z",
+    "e0ee65a9-c724-583e-a3b1-88c5bbfdb104": "2026-08-25T08:00:31Z",
+    "https://cointelegraph.com/markets/bitcoin-etf-six-day-inflow-streak-2-26-billion": "2026-08-25T08:00:32Z",
+    "https://cointelegraph.com/news/us-targets-iran-crypto-sector-100m-oil-payments": "2026-08-25T08:00:32Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -4546,6 +4551,46 @@
       "stream": "crypto",
       "source": "Cointelegraph.com News",
       "published": "2026-08-25T03:56:29Z"
+    },
+    "dad4af39-3413-5914-b2d8-a9cf478c28fd": {
+      "id": "dad4af39-3413-5914-b2d8-a9cf478c28fd",
+      "title": "Bitcoin holds above $80,000 backed by ETF flows; bull market case ‘early but optimistic,’ analyst says",
+      "url": "https://www.theblock.co/news/markets/2026-08-25-bitcoin-holds-above-80000-412674",
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-08-25T06:46:31Z"
+    },
+    "ee9d507b-3bd4-50fe-9a6c-52218e40857d": {
+      "id": "ee9d507b-3bd4-50fe-9a6c-52218e40857d",
+      "title": "Franklin Templeton partners with HashKey to offer tokenized money market fund in Asia",
+      "url": "https://www.theblock.co/news/business/2026-08-25-franklin-templeton-hashkey-tokenized-fund-412675",
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-08-25T06:39:12Z"
+    },
+    "e0ee65a9-c724-583e-a3b1-88c5bbfdb104": {
+      "id": "e0ee65a9-c724-583e-a3b1-88c5bbfdb104",
+      "title": "Blockchain Association backs Treasury’s proposed GENIUS Act rules for stablecoin issuers",
+      "url": "https://www.theblock.co/news/regulation/2026-08-25-blockchain-association-backs-genius-act-412668",
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-08-25T05:24:15Z"
+    },
+    "https://cointelegraph.com/markets/bitcoin-etf-six-day-inflow-streak-2-26-billion": {
+      "id": "https://cointelegraph.com/markets/bitcoin-etf-six-day-inflow-streak-2-26-billion",
+      "title": "Bitcoin ETFs add $338M as six-day inflow streak hits $2.26B",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-six-day-inflow-streak-2-26-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-25T07:38:29Z"
+    },
+    "https://cointelegraph.com/news/us-targets-iran-crypto-sector-100m-oil-payments": {
+      "id": "https://cointelegraph.com/news/us-targets-iran-crypto-sector-100m-oil-payments",
+      "title": "US targets Iran’s crypto sector, cites over $100M in oil-linked payments",
+      "url": "https://cointelegraph.com/news/us-targets-iran-crypto-sector-100m-oil-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-25T05:29:29Z"
     }
   },
   "articles": [
