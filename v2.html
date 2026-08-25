@@ -251,11 +251,29 @@ async function renderLinks(){
   animateCards(); lucide.createIcons();
 }
 
-/* ---- Live (iframes: Coinglass/TradingView, unverändert) ---- */
+/* ---- Live (iframes: Coinglass/TradingView, 1:1 aus v1 portiert) ---- */
+const EMBEDS = [
+  { id: "cg-liq", label: "Liquidations-Heatmap", url: "https://www.coinglass.com/pro/futures/LiquidationHeatMap", note: "Coinglass · Liquidations-Level je Preiszone" },
+  { id: "cg-liqall", label: "Live-Liquidationen", url: "https://www.coinglass.com/liquidations", note: "Coinglass · alle Coins, laufende Liquidationen" },
+  { id: "cg-funding", label: "Funding Rates", url: "https://www.coinglass.com/FundingRate", note: "Coinglass · Finanzierungsraten je Börse" },
+  { id: "cg-orderbook", label: "Order Book", url: "https://www.coinglass.com/mergev2/BTC-USDT", note: "Coinglass · Order-Depth BTC/USDT (Market Depth)" },
+  { id: "tv-chart", label: "BTC-Chart", url: "https://s.tradingview.com/widgetembed/?symbol=BINANCE%3ABTCUSDT&interval=60&theme=dark&style=1&locale=de_DE&hideideas=1&withdateranges=1", note: "TradingView · BTC/USDT 1h (offizielles Widget)" },
+];
+let currentEmbed = "cg-liq";
+function safeUrl(u){ try{ const x=new URL(u); return (x.protocol==='https:'||x.protocol==='http:')?u:'#'; }catch{ return '#'; } }
 async function renderLive(){
   const el=$('#content');
-  el.innerHTML=`<p class="text-[12.5px] text-muted">Live-Werkzeuge (extern, unverändert aus v1): Coinglass & TradingView — wie gehabt im selben Frame.</p>
-    <p class="text-[12px] text-muted mt-1">Für den vollen Umfang weiterhin die <a class="text-accent" href="./index.html">klassische Ansicht</a> nutzen; der Live-Tab wird bei Übernahme 1:1 portiert.</p>`;
+  const emb=EMBEDS.find(e=>e.id===currentEmbed)||EMBEDS[0];
+  const chips=EMBEDS.map(e=>`
+    <button class="px-3 py-1.5 rounded border text-[12.5px] font-semibold transition-colors ${e.id===emb.id?'bg-accent text-[#04101f] border-accent':'bg-card text-text border-border hover:border-accent/50'}" data-embed="${e.id}">${esc(e.label)}</button>`).join('');
+  el.innerHTML=`
+    <div class="flex items-center gap-2 flex-wrap pt-1">${chips}
+      <a class="ml-auto inline-flex items-center gap-1 text-[12.5px] font-medium text-accent hover:underline" href="${esc(safeUrl(emb.url))}" target="_blank" rel="noopener noreferrer">Im Original öffnen <i data-lucide="arrow-up-right"></i></a>
+    </div>
+    <div class="pt-3"><iframe class="w-full rounded border border-border bg-black block" style="height:calc(100vh - 210px);min-height:500px" src="${esc(safeUrl(emb.url))}" allow="fullscreen" title="${esc(emb.label)}"></iframe></div>
+    <p class="pt-2 text-[11px] text-muted">Externe Live-Seite: ${esc(emb.note)} · Es gelten die Datenschutz-/Cookie-Regeln des jeweiligen Anbieters.</p>`;
+  el.querySelectorAll('[data-embed]').forEach(c=>c.addEventListener('click',()=>{ currentEmbed=c.dataset.embed; renderLive(); }));
+  lucide.createIcons();
 }
 
 /* ---- Refresh-Router (gleich wie v1) ---- */
