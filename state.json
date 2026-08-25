@@ -2600,7 +2600,10 @@
     "https://decrypt.co/?p=376503": "2026-08-25T20:59:59Z",
     "https://decrypt.co/?p=376514": "2026-08-25T20:59:59Z",
     "https://techcrunch.com/?p=3156618": "2026-08-25T21:00:00Z",
-    "https://www.marktechpost.com/?p=81860": "2026-08-25T21:00:02Z"
+    "https://www.marktechpost.com/?p=81860": "2026-08-25T21:00:02Z",
+    "https://decrypt.co/?p=376559": "2026-08-25T21:57:23Z",
+    "https://decrypt.co/?p=376530": "2026-08-25T21:57:23Z",
+    "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/": "2026-08-25T21:57:27Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -4725,51 +4728,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=375390",
-      "title": "Harmony's ONE Sinks 37% After Attacker Mints 4 Billion Tokens",
-      "url": "https://decrypt.co/375390/harmonys-one-sinks-37-after-attacker-mints-4-billion-tokens",
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-12T10:38:06Z",
-      "score": 8,
-      "category": "Hack & Security",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Ein Angreifer hat vier Milliarden unberechtigte ONE-Token gemintet, wodurch der Preis von Harmony ONE um 37 % sank. Diese massive Inflation des Angebots und die drohende Rückabwicklung erschüttern das Vertrauen von Haltern und lösen neue Sicherheitsbedenken im gesamten Kryptomarkt aus. Das Team erwägt einen Rollback, der jede legitime Transaktion seit dem Sicherheitsvorfall rückgängig machen würde.",
-      "summary_lang": "de"
-    },
-    {
-      "id": "6a6b8204429e149eff9adc15",
-      "title": "The Job Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
-      "url": "https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/",
-      "stream": "ai",
-      "source": "Feed: Artificial Intelligence Latest",
-      "published": "2026-08-12T10:45:00Z",
-      "score": 4,
-      "category": "Society & Work",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Jordan Zietz begründet sein Startup-Logo-Tattoo nach der viralen Online-Kritik an seiner Vorstellungsgespräch-Geschichte. Der Beitrag bleibt eine menschliche Interessengeschichte in den sozialen Medien ohne bedeutenden Einfluss auf die KI-Branche. Es gibt keine Marktreaktion oder branchenspezifischen Konsequenzen aus dieser persönlichen Social-Media-Story.",
-      "summary_lang": "de"
-    },
-    {
-      "id": "https://decrypt.co/?p=375394",
-      "title": "Bitwise Cuts 14% of Staff as Crypto Slump Reaches ETF Issuers",
-      "url": "https://decrypt.co/375394/bitwise-cuts-14-of-staff-as-crypto-slump-reaches-etf-issuers",
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-12T12:06:36Z",
-      "score": 5,
-      "category": "Other",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Bitwise entlässt 14 Prozent der Belegschaft, parallel zu den Kürzungen bei Coinbase im Mai und den Schließungen von BitMEX sowie BitMart. Dieser Schritt zeigt, dass der anhaltende Crypto-Einbruch nun auch ETF-Aussteller als wichtiges institutionelles Tor trifft und das Marktgefühl weiter dämpfen könnte. Erhöhte Volatilität ist wahrscheinlich.",
-      "summary_lang": "de"
-    },
     {
       "id": "https://www.theblock.co/post/411575",
       "title": "Standard Chartered-backed Anchorpoint begins HKDAP stablecoin rollout",
@@ -8086,6 +8044,50 @@
         "Perplexity"
       ],
       "summary": "Perplexity bringt einen tragbaren Computer auf Basis des NVIDIA DGX Spark auf den Markt, der lokale Schritte mit OS-Erzwingungs-Sandbox und ohne Kosten pro Token ausführt. Das stärkt lokale KI-Ausführung und reduziert die Cloud-Abhängigkeit, wovon Perplexity-Nutzer und NVIDIA profitieren. Eine steigende Nachfrage nach lokalen KI-Systemen und NVIDIA-Hardware ist wahrscheinlich."
+    },
+    {
+      "id": "https://decrypt.co/?p=376559",
+      "title": "XRP Hot Streak Cools as Traders Hit a Wall: Where Does It Go Next?",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-08-25T21:46:04Z",
+      "score": 4,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Der Artikel berichtet, dass die jüngste XRP-Rallye ins Stocken geraten ist, nachdem Händler auf einen Widerstand gestoßen sind, und fragt nach dem weiteren Kursverlauf. Die Stimmung am Markt wird unsicherer, da kurzfristige Trader Gewinne sichern und der Aufwärtsimpuls nachlässt. Eine klare Richtung ist nicht abzuleiten; entscheidend sind die nächsten Kursbewegungen an den Widerstandsmarken."
+    },
+    {
+      "id": "https://decrypt.co/?p=376530",
+      "title": "Alibaba to Release Qwen 3.8-Flash-Next as a Preview of What Qwen 4 Will Offer",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-08-25T21:16:04Z",
+      "score": 7,
+      "category": "Model Release & Capability",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "Alibaba"
+      ],
+      "summary": "Alibaba veröffentlicht Qwen 3.8-Flash-Next als Vorschau auf das kommende Qwen 4. Das Open-Weight-Modell zeigt einen deutlichen Fähigkeitssprung und verstärkt den Wettbewerb bei frei verfügbaren KI-Modellen. Damit dürfte sich der Druck auf andere Anbieter erhöhen, schnell nachzuziehen."
+    },
+    {
+      "id": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
+      "title": "World humanoid robot games show runners breaking records, bursting into flames",
+      "url": null,
+      "stream": "ai",
+      "source": "AI - Ars Technica",
+      "published": "2026-08-25T20:59:03Z",
+      "score": 5,
+      "category": "Hardware & Infrastructure",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Bei den weltweiten Humanoid-Roboter-Spielen liefen Roboter neue Bestzeiten, während einige in Flammen ausbrachen. Die Vorfälle zeigen sowohl Fortschritte als auch Sicherheitsrisiken humanoider Roboter und rücken Zuverlässigkeit in den Fokus der Branche. Erhöhte Aufmerksamkeit für Sicherheitsstandards und Belastungstests ist wahrscheinlich."
     }
   ],
   "digest_log": [
