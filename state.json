@@ -7969,7 +7969,9 @@
         "BTCUSD"
       ],
       "entities": [],
-      "summary": "Ein Bericht besagt, dass die 66-Milliarden-Dollar-Bitcoin-Strategie von Strategy stärker von den Kapitalmärkten abhängt als vom Bitcoin-Preis. Ohne weitere Finanzierungsmöglichkeiten über Anleihen oder Aktien könnte das Unternehmen seine Bitcoin-Käufe nicht fortsetzen, was die Nachfrage schwächen würde. Sollte die Kapitalmarktfinanzierung versiegen, dürfte der Bitcoin-Preis entsprechend unter Druck geraten."
+      "summary": "Ein Bericht besagt, dass die 66-Milliarden-Dollar-Bitcoin-Strategie von Strategy stärker von den Kapitalmärkten abhängt als vom Bitcoin-Preis. Ohne weitere Finanzierungsmöglichkeiten über Anleihen oder Aktien könnte das Unternehmen seine Bitcoin-Käufe nicht fortsetzen, was die Nachfrage schwächen würde. Sollte die Kapitalmarktfinanzierung versiegen, dürfte der Bitcoin-Preis entsprechend unter Druck geraten.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-25T19:46:24Z"
     },
     {
       "id": "https://cointelegraph.com/news/bitwise-launches-self-custodied-tokenized-stock-portfolios-with-coinbase",
@@ -7983,7 +7985,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Bitwise bringt zusammen mit Coinbase selbstverwahrte tokenisierte Aktienportfolios auf den Markt. Das Angebot verbindet traditionelle Aktienmärkte mit der Krypto-Infrastruktur und stärkt damit die institutionelle Akzeptanz tokenisierter Vermögenswerte. In der Folge dürfte das Interesse an tokenisierten Wertpapieren und entsprechenden Partnerschaften weiter zunehmen."
+      "summary": "Bitwise bringt zusammen mit Coinbase selbstverwahrte tokenisierte Aktienportfolios auf den Markt. Das Angebot verbindet traditionelle Aktienmärkte mit der Krypto-Infrastruktur und stärkt damit die institutionelle Akzeptanz tokenisierter Vermögenswerte. In der Folge dürfte das Interesse an tokenisierten Wertpapieren und entsprechenden Partnerschaften weiter zunehmen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-25T19:46:24Z"
     },
     {
       "id": "https://decrypt.co/?p=376489",
@@ -7999,7 +8003,9 @@
         "BTCUSD"
       ],
       "entities": [],
-      "summary": "Gold erreicht ein Drei-Monats-Hoch, während Bitcoin die Marke von 80.000 Dollar testet. Die parallele Stärke von Gold und Bitcoin deutet auf anhaltende Nachfrage nach alternativen Wertspeichern hin. Entscheidend ist, ob Bitcoin die 80.000-Dollar-Marke nachhaltig überwindet."
+      "summary": "Gold erreicht ein Drei-Monats-Hoch, während Bitcoin die Marke von 80.000 Dollar testet. Die parallele Stärke von Gold und Bitcoin deutet auf anhaltende Nachfrage nach alternativen Wertspeichern hin. Entscheidend ist, ob Bitcoin die 80.000-Dollar-Marke nachhaltig überwindet.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-25T19:46:24Z"
     },
     {
       "id": "https://decrypt.co/?p=376446",
@@ -8047,7 +8053,9 @@
       "entities": [
         "OpenAI"
       ],
-      "summary": "OpenAI stellt ein Admin-Plugin für ChatGPT Work und Codex vor. Die Erweiterung erleichtert Unternehmen Verwaltung und Integration der KI-Tools. Eine stärkere Nutzung im Enterprise-Bereich ist wahrscheinlich."
+      "summary": "OpenAI stellt ein Admin-Plugin für ChatGPT Work und Codex vor. Die Erweiterung erleichtert Unternehmen Verwaltung und Integration der KI-Tools. Eine stärkere Nutzung im Enterprise-Bereich ist wahrscheinlich.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-25T19:46:24Z"
     },
     {
       "id": "https://techcrunch.com/?p=3156630",
@@ -8063,7 +8071,9 @@
       "entities": [
         "Anthropic"
       ],
-      "summary": "Anthropic hat Claude Cowork um eine Speicherfunktion erweitert, sodass die App Informationen aus dem Chat dauerhaft berücksichtigt. Damit verbessert der Anbieter die Nutzerfreundlichkeit seines KI-Assistenten und erhöht den Wettbewerbsdruck auf vergleichbare Produkte. Zu erwarten ist eine stärkere Nutzerbindung und höhere Adoption von Claude Cowork."
+      "summary": "Anthropic hat Claude Cowork um eine Speicherfunktion erweitert, sodass die App Informationen aus dem Chat dauerhaft berücksichtigt. Damit verbessert der Anbieter die Nutzerfreundlichkeit seines KI-Assistenten und erhöht den Wettbewerbsdruck auf vergleichbare Produkte. Zu erwarten ist eine stärkere Nutzerbindung und höhere Adoption von Claude Cowork.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-25T19:46:24Z"
     },
     {
       "id": "https://www.marktechpost.com/?p=81857",
@@ -8330,6 +8340,16 @@
         "https://cointelegraph.com/markets/bitcoin-slips-from-80k-as-gold-cools-with-falling-us-bond-yields",
         "https://huggingface.co/blog/ibm-granite/granite-4-2",
         "https://techcrunch.com/?p=3154850"
+      ]
+    },
+    {
+      "at": "2026-08-25T19:46:24Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/strategy-financing-risk-not-bitcoin-sales",
+        "https://cointelegraph.com/news/bitwise-launches-self-custodied-tokenized-stock-portfolios-with-coinbase",
+        "https://decrypt.co/?p=376489",
+        "https://openai.com/index/introducing-admin-plugin",
+        "https://techcrunch.com/?p=3156630"
       ]
     }
   ],
