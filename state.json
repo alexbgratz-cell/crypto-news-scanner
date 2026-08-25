@@ -2535,7 +2535,8 @@
     "https://cointelegraph.com/magazine/korean-bank-to-use-ripple-payments-japans-first-exchange-in-4-years-asia-express": "2026-08-25T03:15:44Z",
     "https://huggingface.co/blog/gradio-workflow-guide": "2026-08-25T03:15:45Z",
     "https://techcrunch.com/?p=3156230": "2026-08-25T03:15:46Z",
-    "https://www.marktechpost.com/?p=81854": "2026-08-25T03:15:53Z"
+    "https://www.marktechpost.com/?p=81854": "2026-08-25T03:15:53Z",
+    "https://cointelegraph.com/news/bnb-chain-pasteur-hard-fork-bridge-security": "2026-08-25T05:17:35Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -4537,6 +4538,14 @@
       "stream": "ai",
       "source": "MarkTechPost",
       "published": "2026-08-24T22:21:22Z"
+    },
+    "https://cointelegraph.com/news/bnb-chain-pasteur-hard-fork-bridge-security": {
+      "id": "https://cointelegraph.com/news/bnb-chain-pasteur-hard-fork-bridge-security",
+      "title": "BNB Chain activates Pasteur hard fork to strengthen bridge security",
+      "url": "https://cointelegraph.com/news/bnb-chain-pasteur-hard-fork-bridge-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-25T03:56:29Z"
     }
   },
   "articles": [
