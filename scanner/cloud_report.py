@@ -15,11 +15,22 @@ import json
 import os
 import subprocess
 import sys
+import urllib.error
 import urllib.parse
 import urllib.request
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MODEL = "~deepseek/deepseek-v4-flash-latest"
+# Fallback-Kaskade: wird ein Modell mit 404 „credits/balance too low" abgelehnt,
+# probieren wir kostenlose Varianten (Suffix ':free'), dann generische free-Router.
+MODEL_FALLBACKS = [
+    "~deepseek/deepseek-v4-flash-latest:free",
+    "deepseek/deepseek-v4-flash-latest:free",
+    "~deepseek/deepseek-v4-flash:free",
+    "deepseek/deepseek-chat-v3-0324:free",
+    "qwen/qwen3-235b-a22b:free",
+    "meta-llama/llama-3.3-70b-instruct:free",
+]
 TREND_KEYS = ["BTCUSD", "ETHUSD", "SOLUSD", "ETHBTC", "BTC.D", "F&G", "DXY", "NDX", "VIX", "US10Y"]
 NTFY_TOPIC = "crypto-scanner-report-9f3k2"
 # Cloudflare blockt Python-urllib als User-Agent (HTTP 1010) -> Browser-UA verwenden
@@ -99,6 +110,53 @@ def read_history(hours=12):
     return out
 
 
+def _llm_chat(token, ttype, system, user, temperature=0.3):
+    """Chat-Completion mit Modell-Fallback bei 404 (credits/balance).
+
+    Gibt (text, genutztes_modell) zurueck. Wirft RuntimeError mit klarer
+    Diagnose, wenn alle Modelle fehlschlagen.
+    """
+    url = os.environ["NOUS_INFERENCE_BASE_URL"].rstrip("/") + "/chat/completions"
+    last_err = None
+    for model in [MODEL] + MODEL_FALLBACKS:
+        body = json.dumps({
+            "model": model,
+            "messages": [
+                {"role": "system", "content": system},
+                {"role": "user", "content": user},
+            ],
+            "temperature": temperature,
+        }).encode()
+        req = urllib.request.Request(url, data=body, headers={
+            "Content-Type": "application/json",
+            "Authorization": f"{ttype} {token}",
+            "User-Agent": USER_AGENT,
+        })
+        try:
+            with urllib.request.urlopen(req, timeout=120) as r:
+                data = json.load(r)
+            text = (data["choices"][0]["message"]["content"] or "").strip()
+            if text:
+                if model != MODEL:
+                    print(f"[cloud_report] Fallback-Modell genutzt: {model}")
+                return text, model
+            last_err = f"{model}: leere Antwort"
+        except urllib.error.HTTPError as e:
+            detail = ""
+            try:
+                detail = e.read().decode(errors="replace")[:200]
+            except Exception:
+                pass
+            last_err = f"{model}: HTTP {e.code} {detail}"
+            print(f"[cloud_report] Modell {model} fehlgeschlagen: HTTP {e.code} {detail[:120]}")
+            if "credits" in detail.lower() or "balance" in detail.lower() or e.code == 404:
+                continue  # naechstes Modell probieren
+            raise RuntimeError(f"LLM-Fehler ({model}): HTTP {e.code} {detail}")
+        except Exception as e:
+            last_err = f"{model}: {e}"
+    raise RuntimeError(f"Alle LLM-Modelle fehlgeschlagen. Letzter Fehler: {last_err}")
+
+
 def generate_report():
     token, ttype, new_refresh = get_nous_token()
     if new_refresh:
@@ -127,26 +185,7 @@ def generate_report():
         f"Verlauf 12h (first→last):\n{json.dumps(trend, indent=1, ensure_ascii=False)}\n\n"
         "Top-Nachrichten:\n" + "\n---\n".join(headlines)
     )
-    body = json.dumps({
-        "model": MODEL,
-        "messages": [
-            {"role": "system", "content": prompt},
-            {"role": "user", "content": user},
-        ],
-        "temperature": 0.3,
-    }).encode()
-    req = urllib.request.Request(
-        os.environ["NOUS_INFERENCE_BASE_URL"].rstrip("/") + "/chat/completions",
-        data=body,
-        headers={
-            "Content-Type": "application/json",
-            "Authorization": f"{ttype} {token}",
-            "User-Agent": USER_AGENT,
-        },
-    )
-    with urllib.request.urlopen(req, timeout=120) as r:
-        data = json.load(r)
-    text = (data["choices"][0]["message"]["content"] or "").strip()
+    text, used_model = _llm_chat(token, ttype, prompt, user, temperature=0.3)
     if not text:
         raise RuntimeError("LLM lieferte leere Antwort")
     numbers = [

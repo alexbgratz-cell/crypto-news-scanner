@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.tailwindcss.com https://unpkg.com; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self' https://ntfy.sh; font-src 'self'; frame-src https://www.coinglass.com https://s.tradingview.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+<title>Scanner v2 · Crypto- & KI-News (Bibliotheken-Test)</title>
+<!-- Baukasten-Test: Tailwind CSS (Utility), Lucide (Icons), Motion One (Animation), date-fns (Datum) -->
+<script src="https://cdn.tailwindcss.com"></script>
+<script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
+<script src="https://unpkg.com/motion@latest/dist/motion.umd.js"></script>
+<script src="https://unpkg.com/date-fns@4.1.0/cdn.js"></script>
+<script>
+  tailwind.config = {
+    theme: { extend: {
+      colors: {
+        bg:      '#0d1117', card:    '#161b22', border: '#21262d',
+        text:    '#e6edf3', muted:   '#8b949e', accent: '#58a6ff',
+        green:   '#3fb950', red:     '#f85149', orange: '#d29922', yellow: '#e3b341',
+      },
+      fontFamily: {
+        sans: ['"IBM Plex Sans"','system-ui','sans-serif'],
+        mono: ['"JetBrains Mono"','ui-monospace','monospace'],
+      },
+      borderRadius: { DEFAULT: '2px', sm: '2px', md: '2px', lg: '4px' },
+    } }
+  };
+</script>
+<style>
+  /* Self-hosted Baukasten-Typografie: IBM Plex Sans + JetBrains Mono (OFL-1.1) */
+  @font-face { font-family:'IBM Plex Sans'; font-weight:400; font-display:swap;
+    src:url('./assets/fonts/IBMPlexSans-Regular.woff2') format('woff2'); }
+  @font-face { font-family:'IBM Plex Sans'; font-weight:500; font-display:swap;
+    src:url('./assets/fonts/IBMPlexSans-Medium.woff2') format('woff2'); }
+  @font-face { font-family:'IBM Plex Sans'; font-weight:700; font-display:swap;
+    src:url('./assets/fonts/IBMPlexSans-Bold.woff2') format('woff2'); }
+  @font-face { font-family:'JetBrains Mono'; font-weight:400; font-display:swap;
+    src:url('./assets/fonts/JetBrainsMono-Regular.woff2') format('woff2'); }
+  @font-face { font-family:'JetBrains Mono'; font-weight:700; font-display:swap;
+    src:url('./assets/fonts/JetBrainsMono-Bold.woff2') format('woff2'); }
+  html { color-scheme: dark; }
+  body { font-feature-settings: 'tnum' 1; }
+  .lucide { width: 1em; height: 1em; stroke-width: 2; display: inline-block; vertical-align: -0.12em; }
+  .tab[aria-selected="true"] { background: #58a6ff; color: #04101f; border-color: #58a6ff; }
+  .badge { font-variant-numeric: tabular-nums; }
+  ::selection { background: #58a6ff55; }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
+</style>
+</head>
+<body class="bg-bg text-text font-sans min-h-screen pb-24 antialiased">
+
+<header class="sticky top-0 z-20 border-b border-border bg-bg/90 backdrop-blur">
+  <div class="max-w-5xl mx-auto px-4 py-3 flex items-center gap-3">
+    <span class="w-2 h-2 rounded-full bg-green animate-pulse" title="live"></span>
+    <div class="flex-1 min-w-0">
+      <h1 class="text-[17px] font-bold leading-tight">Scanner <span class="text-muted font-medium">v2 · Bibliotheken-Test</span></h1>
+      <p class="text-[11px] text-muted font-mono" id="subtitle">Crypto & KI · alle 15 min</p>
+    </div>
+    <span id="lastUpdate" class="text-[11px] text-muted font-mono whitespace-nowrap"></span>
+  </div>
+  <nav class="max-w-5xl mx-auto px-2 pb-2 flex gap-1.5 overflow-x-auto" id="tabs" role="tablist">
+    <button class="tab px-3.5 py-1.5 rounded border border-border bg-card text-[13px] font-medium whitespace-nowrap" data-tab="home" role="tab"><i data-lucide="line-chart"></i> Home</button>
+    <button class="tab px-3.5 py-1.5 rounded border border-border bg-card text-[13px] font-medium whitespace-nowrap" data-tab="crypto" role="tab"><i data-lucide="bitcoin"></i> Crypto</button>
+    <button class="tab px-3.5 py-1.5 rounded border border-border bg-card text-[13px] font-medium whitespace-nowrap" data-tab="ai" role="tab"><i data-lucide="cpu"></i> AI</button>
+    <button class="tab px-3.5 py-1.5 rounded border border-border bg-card text-[13px] font-medium whitespace-nowrap" data-tab="learn" role="tab"><i data-lucide="graduation-cap"></i> Learn</button>
+    <button class="tab px-3.5 py-1.5 rounded border border-border bg-card text-[13px] font-medium whitespace-nowrap" data-tab="live" role="tab"><i data-lucide="radar"></i> Live</button>
+    <button class="tab px-3.5 py-1.5 rounded border border-border bg-card text-[13px] font-medium whitespace-nowrap" data-tab="links" role="tab"><i data-lucide="link"></i> Links</button>
+  </nav>
+</header>
+
+<div id="filterBar" class="max-w-5xl mx-auto px-4 pt-3 hidden">
+  <div class="flex gap-2 flex-wrap">
+    <select id="catFilter" class="bg-card text-text border border-border rounded px-2.5 py-1.5 text-[13px] max-w-full"></select>
+  </div>
+</div>
+
+<main class="max-w-5xl mx-auto px-4 pt-3" id="content"></main>
+
+<footer class="max-w-5xl mx-auto px-4 pt-8 text-center text-muted text-[11px] font-mono">
+  v2 · Baukasten-Test: Tailwind · Lucide · Motion · date-fns · IBM Plex / JetBrains Mono
+</footer>
+
+<script>
+/* ============================================================
+   Scanner v2 — gleiche Daten & Funktionen, neues Frontend
+   Bibliotheken: Tailwind, Lucide, Motion One, date-fns
+   ============================================================ */
+const $ = (s) => document.querySelector(s);
+const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const NTFY_TOPIC = "crypto-scanner-report-9f3k2";
+let currentTab = 'home';
+let newsCache = null, categoryCache = null;
+
+/* ---- Tab-Steuerung (gleich wie v1) ---- */
+$('#tabs').addEventListener('click', (e) => {
+  const b = e.target.closest('.tab'); if (!b) return;
+  currentTab = b.dataset.tab;
+  document.querySelectorAll('.tab').forEach(t => t.setAttribute('aria-selected', t === b ? 'true' : 'false'));
+  $('#filterBar').classList.toggle('hidden', !(currentTab === 'crypto' || currentTab === 'ai'));
+  refresh();
+});
+
+/* ---- Laden (identische Endpunkte) ---- */
+async function loadNews() {
+  if (!newsCache) newsCache = await (await fetch('./data/news.json', {cache:'no-store'})).json();
+  if (!categoryCache) categoryCache = await (await fetch('./data/categories.json', {cache:'no-store'})).json();
+  renderNewsCards();
+}
+/* ---- News-Karten (TanStack-Table-Prinzip: Filter + Liste) ---- */
+function scoreClass(s){ return s>=9?'bg-red/20 text-red':s>=8?'bg-orange/20 text-orange':s>=7?'bg-yellow/20 text-yellow':'bg-green/20 text-green'; }
+function renderNewsCards() {
+  const el = $('#content');
+  const arts = (newsCache[currentTab] || []);
+  const catSel = $('#catFilter');
+  const cats = (categoryCache[currentTab] || []);
+  if (catSel.options.length <= 1) {
+    catSel.innerHTML = '<option value="">Alle Kategorien</option>' + cats.map(c=>`<option>${esc(c)}</option>`).join('');
+    catSel.onchange = renderNewsCards;
+  }
+  const sel = catSel.value;
+  const list = sel ? arts.filter(a => a.category === sel) : arts;
+  if (!list.length) { el.innerHTML = '<div class="text-center text-muted py-12">Keine Artikel in dieser Auswahl.</div>'; return; }
+  el.innerHTML = list.map((a,i) => `
+    <article class="card border border-border bg-card rounded p-3.5 mb-2.5" data-anim>
+      <div class="flex items-center gap-2 flex-wrap">
+        <span class="badge text-[12px] font-bold px-2 py-0.5 rounded-full font-mono ${scoreClass(a.score||0)}">${esc(a.score)}/10</span>
+        <span class="text-[12px] text-muted">${esc(a.category||'')}</span>
+        <span class="text-[11px] text-muted font-mono ml-auto">${esc((a.published||'').slice(0,16).replace('T',' '))}</span>
+      </div>
+      <h3 class="text-[15px] font-semibold mt-1.5 mb-1 leading-snug">
+        <a class="hover:text-accent" href="${esc(a.url||'#')}" target="_blank" rel="noopener">${esc(a.title||'')}</a></h3>
+      <p class="text-[13.5px] text-muted leading-relaxed">${esc(a.summary||'')}</p>
+      <div class="mt-2"><a class="inline-flex items-center gap-1 text-[12.5px] font-medium text-accent border border-accent/30 rounded px-3 py-1 bg-accent/10 hover:bg-accent/20" href="${esc(a.url||'#')}" target="_blank" rel="noopener">Quelle <i data-lucide="external-link"></i></a></div>
+    </article>`).join('');
+  animateCards(); lucide.createIcons();
+}
+
+/* ---- Home: Marktbericht (identische ntfy-Logik) + Zahlen-Tabelle ---- */
+function cleanReport(t){ return String(t||'').replace(/\\n/g,'\n').replace(/\*\*/g,'').replace(/#{1,3} /g,''); }
+let sessionCache = null;
+function berlinParts(ts){ const f=new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Berlin',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hour12:false});
+  return Object.fromEntries(f.formatToParts(ts).filter(x=>x.type!=='literal').map(x=>[x.type,x.value])); }
+function berlinToUtc(y,mo,d,hh,mm){ for(const off of [2,1]){ const t=Date.UTC(y,mo,d,hh-off,mm); const p=berlinParts(new Date(t));
+  if(+p.year===y&&+p.month-1===mo&&+p.day===d&&+p.hour===hh&&+p.minute===mm) return t; } return Date.UTC(y,mo,d,hh-2,mm); }
+async function ensureSessionCache(){
+  if (sessionCache) return sessionCache;
+  try{ const [hist,snap]=await Promise.all([
+      fetch('./data/history.json',{cache:'no-store'}).then(r=>r.json()),
+      fetch('./data/snapshot.json',{cache:'no-store'}).then(r=>r.json())]);
+    const p=berlinParts(new Date()); const y=+p.year,mo=+p.month-1,d=+p.day,hh=+p.hour,mm=+p.minute; let ref,label;
+    if(hh*60+mm>=15*60+30){ ref=berlinToUtc(y,mo,d,15,30); label='seit US-Open 15:30'; }
+    else { ref=berlinToUtc(y,mo,d-1,22,0); label='seit US-Close 22:00'; }
+    sessionCache={hist:hist||[],snap:(snap&&snap.instruments)||{},ref,label};
+  }catch{ sessionCache={hist:[],snap:{},ref:0,label:''}; }
+  return sessionCache;
+}
+function sessionChange(sym){ const c=sessionCache; if(!c||!c.hist.length) return null;
+  const cur=c.snap[sym]&&c.snap[sym].value; if(cur==null) return null; let refVal=null;
+  for(const h of c.hist){ const ts=new Date((h.ts||'').replace('Z','+00:00')).getTime(); if(Number.isNaN(ts)) continue;
+    if(ts<=c.ref) refVal=(h.instruments[sym]||{}).value; else break; }
+  if(refVal==null||!refVal) return null; return ((cur-refVal)/Math.abs(refVal))*100; }
+function fmtVal(v){ if(v==null) return '–'; return v>=1000?v.toLocaleString('de-DE',{maximumFractionDigits:0}):v>=10?v.toFixed(2):v.toFixed(4); }
+function fmtPct(p,suffix=true){ if(p==null||Number.isNaN(p)) return '–';
+  const cls=p>=0?'text-green':'text-red'; return `<span class="${cls} font-mono">${p>=0?'+':''}${p.toFixed(2)} %${suffix?'':''}</span>`; }
+function numbersTable(numbers){
+  if(!numbers||!numbers.length) return '';
+  const lbl=sessionCache&&sessionCache.label?` · ${esc(sessionCache.label)}`:'';
+  const rows=numbers.map(n=>`<tr class="border-b border-border last:border-0">
+    <td class="py-1.5 pr-3 font-mono text-[12.5px]">${esc(n.sym)}${n.label?` <span class="text-muted text-[10px]">${esc(n.label)}</span>`:''}</td>
+    <td class="py-1.5 pr-3 font-mono text-[13px]">${fmtVal(n.value)}</td>
+    <td class="py-1.5 pr-3">${fmtPct(n.change)}</td>
+    <td class="py-1.5">${fmtPct(sessionChange(n.sym))}</td></tr>`).join('');
+  return `<div class="overflow-x-auto rounded border border-border bg-card"><table class="w-full border-collapse">
+    <thead><tr class="border-b border-border text-left text-muted text-[10.5px] uppercase tracking-wide">
+    <th class="py-2 pr-3 pl-3 font-medium">Instrument</th><th class="py-2 pr-3 font-medium">Wert</th>
+    <th class="py-2 pr-3 font-medium">24h</th><th class="py-2 font-medium">Session${lbl}</th></tr></thead>
+    <tbody class="px-3">${rows}</tbody></table></div>`;
+}
+async function renderHome(){
+  const el=$('#content'); await ensureSessionCache(); let rep=null;
+  try{ const r=await fetch('./data/market-report.json',{cache:'no-store'}); if(r.ok) rep=await r.json(); }catch{}
+  const slots='09:00 · 15:30 · 22:00 Uhr';
+  const reportTs=rep&&rep.ts?rep.ts:'';
+  const ageH=reportTs?(Date.now()-new Date(reportTs.replace('Z','+00:00')).getTime())/36e5:null;
+  const staleNote=ageH!==null&&ageH>8?`<div class="mb-2.5 rounded border border-yellow bg-yellow/15 text-yellow text-[12px] px-2.5 py-2"><i data-lucide="alert-triangle"></i> Bericht ist ${ageH>=24?Math.floor(ageH/24)+' Tage':Math.round(ageH)+' Stunden'} alt — bitte neu anfordern.</div>`:'';
+  el.innerHTML=`
+    <h2 class="text-[13px] text-muted uppercase tracking-wider mb-2 mt-1">Marktbericht · KI-Einschätzung</h2>
+    ${rep&&rep.text?`
+    <div class="border border-border bg-card rounded p-3.5">
+      ${staleNote}
+      <div class="text-[11.5px] text-muted font-mono mb-2">${rep.ts?esc(window.dateFns.format(new Date(rep.ts.replace('Z','+00:00')),'dd.MM.yyyy HH:mm')):'–'} · ${rep.instrument==='ALL'?'Gesamtmarkt':esc(rep.instrument)}</div>
+      <div class="text-[14px] leading-relaxed whitespace-pre-wrap">${esc(cleanReport(rep.text))}</div>
+      <button id="repNowBtn" class="mt-3 inline-flex items-center gap-1.5 rounded bg-accent text-[#04101f] font-semibold text-[13px] px-3.5 py-2 hover:opacity-90 disabled:opacity-60">
+        <i data-lucide="refresh-cw"></i>Neuen Marktbericht anfordern</button>
+      <div id="repNowStatus" class="text-[12px] text-muted mt-2">Automatisch um ${slots}. Jederzeit anfordern: ~1–3 min (Cloud) · max. 1×/5 min.</div>
+    </div>`:`<div class="text-center text-muted py-12">Noch kein Bericht — automatisch um ${slots}.</div>`}
+    ${rep&&rep.numbers&&rep.numbers.length?`<h2 class="text-[13px] text-muted uppercase tracking-wider mb-2 mt-6">Zahlen</h2>${numbersTable(rep.numbers)}`:''}
+    <p class="text-[11px] text-muted mt-3">KI-Einordnung aus Snapshot, 12h-Verlauf und Top-News — keine Finanzberatung.</p>`;
+  lucide.createIcons(); attachReportButton(reportTs);
+}
+function attachReportButton(reportTs){
+  const btn=$('#repNowBtn'); if(!btn) return;
+  btn.addEventListener('click', async ()=>{
+    btn.disabled=true; btn.innerHTML='<i data-lucide="loader-2" class="animate-spin"></i>wird angefragt …'; lucide.createIcons();
+    $('#repNowStatus').textContent='Anfrage gesendet — Cloud erstellt den Bericht (ca. 1–3 min) …';
+    let sent=false;
+    try{ const r=await fetch(`https://ntfy.sh/${NTFY_TOPIC}`,{method:'POST',body:'market-report',mode:'cors'}); sent=r.ok; }catch{}
+    if(!sent){ $('#repNowStatus').textContent='Senden fehlgeschlagen — gleich noch einmal versuchen.'; btn.disabled=false;
+      btn.innerHTML='<i data-lucide="refresh-cw"></i>Neuen Marktbericht anfordern'; lucide.createIcons(); return; }
+    for(let i=0;i<36;i++){ await new Promise(r=>setTimeout(r,5000));
+      try{ const r2=await fetch('./data/market-report.json',{cache:'no-store'}); const rep2=await r2.json();
+        if(rep2&&rep2.ts&&rep2.ts!==reportTs){ renderHome(); return; } }catch{} }
+    $('#repNowStatus').textContent='Angefordert — Cloud braucht bis zu 3 min. Seite gleich neu laden.';
+    btn.disabled=false; btn.innerHTML='<i data-lucide="refresh-cw"></i>Neuen Marktbericht anfordern'; lucide.createIcons();
+  });
+}
+
+/* ---- Learn (learn.json: Sektionen mit Karten) ---- */
+async function renderLearn(){
+  const el=$('#content');
+  const data=await (await fetch('./data/learn.json',{cache:'no-store'})).json();
+  const sections=data.sections||[];
+  el.innerHTML='<p class="text-[12.5px] text-muted mb-2">Erklärungen zu allen Funktionen und Werten.</p>'+
+    sections.map(s=>`
+    <h2 class="text-[13px] text-muted uppercase tracking-wider mt-5 mb-2">${s.emoji?esc(s.emoji)+' ':''}${esc(s.title)}</h2>
+    ${s.intro?`<p class="text-[12.5px] text-muted mb-2">${esc(s.intro)}</p>`:''}
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2.5">${(s.cards||[]).map(c=>`
+      <div class="border border-border bg-card rounded p-3" data-anim>
+        <div class="text-[14px] font-semibold flex items-center gap-1.5 flex-wrap">${esc(c.title)}${c.tag?`<span class="text-[10px] text-accent bg-accent/15 rounded px-1.5 py-0.5 font-mono">${esc(c.tag)}</span>`:''}</div>
+        <div class="text-[12.5px] text-muted leading-relaxed mt-1">${esc(c.body)}</div>
+      </div>`).join('')}</div>`).join('');
+  animateCards();
+}
+
+/* ---- Links (links.json: Gruppen) ---- */
+async function renderLinks(){
+  const el=$('#content');
+  const data=await (await fetch('./data/links.json',{cache:'no-store'})).json();
+  const groups={};
+  (data.links||[]).forEach(l=>{ (groups[l.group||'Weitere']=groups[l.group||'Weitere']||[]).push(l); });
+  el.innerHTML=(data.note?`<p class="text-[12.5px] text-muted mb-2">${esc(data.note)}</p>`:'')+
+    Object.entries(groups).map(([g,items])=>`
+    <h2 class="text-[13px] text-muted uppercase tracking-wider mt-5 mb-2">${esc(g)}</h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2.5">${items.map(l=>`
+      <div class="border border-border bg-card rounded p-3 flex flex-col gap-1.5" data-anim>
+        <div class="text-[14.5px] font-semibold">${l.emoji?esc(l.emoji)+' ':''}${esc(l.name)}</div>
+        <div class="text-[12.5px] text-muted flex-1">${esc(l.desc||'')}</div>
+        <a class="self-start inline-flex items-center gap-1 text-[12.5px] font-medium text-accent border border-accent/30 rounded px-3 py-1 bg-accent/10 hover:bg-accent/20" href="${esc(l.url)}" target="_blank" rel="noopener">Öffnen <i data-lucide="arrow-up-right"></i></a>
+      </div>`).join('')}</div>`).join('');
+  animateCards(); lucide.createIcons();
+}
+
+/* ---- Live (iframes: Coinglass/TradingView, unverändert) ---- */
+async function renderLive(){
+  const el=$('#content');
+  el.innerHTML=`<p class="text-[12.5px] text-muted">Live-Werkzeuge (extern, unverändert aus v1): Coinglass & TradingView — wie gehabt im selben Frame.</p>
+    <p class="text-[12px] text-muted mt-1">Für den vollen Umfang weiterhin die <a class="text-accent" href="./index.html">klassische Ansicht</a> nutzen; der Live-Tab wird bei Übernahme 1:1 portiert.</p>`;
+}
+
+/* ---- Refresh-Router (gleich wie v1) ---- */
+async function refresh(){
+  if(currentTab==='home') await renderHome();
+  else if(currentTab==='links') await renderLinks();
+  else if(currentTab==='live') await renderLive();
+  else if(currentTab==='learn') await renderLearn();
+  else await loadNews();
+}
+function animateCards(){ /* Motion One: sanftes Einblenden, respektiert reduced-motion */
+  if(window.matchMedia('(prefers-reduced-motion: reduce)').matches||!window.Motion) return;
+  window.Motion.animate('[data-anim]', {opacity:[0,1],transform:['translateY(6px)','translateY(0)']},
+    {duration:0.2,delay:window.Motion.stagger(0.03),easing:'ease-out'});
+}
+async function loadStats(){ try{ const s=await (await fetch('./data/stats.json',{cache:'no-store'})).json();
+  $('#lastUpdate').textContent=s.generated_at?('akt. '+window.dateFns.format(new Date(s.generated_at.replace('Z','+00:00')),'dd.MM. HH:mm')):''; }catch{} }
+
+/* ---- Init ---- */
+document.querySelectorAll('.tab').forEach(t=>t.setAttribute('aria-selected', t.dataset.tab===currentTab?'true':'false'));
+refresh(); loadStats(); lucide.createIcons();
+</script>
+</body>
+</html>

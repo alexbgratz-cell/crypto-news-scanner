@@ -25,6 +25,16 @@ import urllib.parse
 import urllib.request
 import urllib.error
 
+MODEL = "~deepseek/deepseek-v4-flash-latest"
+MODEL_FALLBACKS = [
+    "~deepseek/deepseek-v4-flash-latest:free",
+    "deepseek/deepseek-v4-flash-latest:free",
+    "~deepseek/deepseek-v4-flash:free",
+    "deepseek/deepseek-chat-v3-0324:free",
+    "qwen/qwen3-235b-a22b:free",
+    "meta-llama/llama-3.3-70b-instruct:free",
+]
+
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 USER_AGENT = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
               "(KHTML, like Gecko) Chrome/126.0 Safari/537.36")
@@ -104,29 +114,41 @@ def analyze_article(prompt_txt, token, ttype, art):
         "source": art.get("source"),
         "published": art.get("published"),
     }, ensure_ascii=False)
-    body = json.dumps({
-        "model": "~deepseek/deepseek-v4-flash-latest",
-        "messages": [
-            {"role": "system", "content": system},
-            {"role": "user", "content": user},
-        ],
-        "temperature": 0.2,
-    }).encode()
-    req = urllib.request.Request(
-        os.environ["NOUS_INFERENCE_BASE_URL"].rstrip("/") + "/chat/completions",
-        data=body,
-        headers={
-            "Content-Type": "application/json",
-            "Authorization": f"{ttype} {token}",
-            "User-Agent": USER_AGENT,
-        },
-    )
-    try:
-        with urllib.request.urlopen(req, timeout=120) as r:
-            data = json.load(r)
-    except urllib.error.HTTPError as e:
-        detail = e.read().decode(errors="replace")[:300]
-        raise RuntimeError(f"LLM HTTP {e.code}: {detail}")
+    url = os.environ["NOUS_INFERENCE_BASE_URL"].rstrip("/") + "/chat/completions"
+    data = None
+    last_err = None
+    for model in [MODEL] + MODEL_FALLBACKS:
+        body = json.dumps({
+            "model": model,
+            "messages": [
+                {"role": "system", "content": system},
+                {"role": "user", "content": user},
+            ],
+            "temperature": 0.2,
+        }).encode()
+        req = urllib.request.Request(
+            url,
+            data=body,
+            headers={
+                "Content-Type": "application/json",
+                "Authorization": f"{ttype} {token}",
+                "User-Agent": USER_AGENT,
+            },
+        )
+        try:
+            with urllib.request.urlopen(req, timeout=120) as r:
+                data = json.load(r)
+            if model != MODEL:
+                log(f"Fallback-Modell genutzt: {model}")
+            break
+        except urllib.error.HTTPError as e:
+            detail = e.read().decode(errors="replace")[:300]
+            last_err = f"LLM HTTP {e.code}: {detail}"
+            if "credits" in detail.lower() or "balance" in detail.lower() or e.code in (404, 402):
+                continue
+            raise RuntimeError(f"LLM HTTP {e.code}: {detail}")
+    if data is None:
+        raise RuntimeError(last_err or "LLM: keine Antwort")
     content = (data["choices"][0]["message"]["content"] or "").strip()
     # robustes JSON-Extrahieren (erste {...}-Klammer bis letzte)
     start, end = content.find("{"), content.rfind("}")
