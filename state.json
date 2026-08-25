@@ -8032,7 +8032,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Standard Chartered ist die erste Bank, die einen HKD-Stablecoin vertreibt. Das stärkt die institutionelle Akzeptanz und Legitimität von Stablecoins im asiatischen Markt. Der Stablecoin-Sektor dürfte davon insgesamt profitieren und weitere Banken könnten nachziehen."
+      "summary": "Standard Chartered ist die erste Bank, die einen HKD-Stablecoin vertreibt. Das stärkt die institutionelle Akzeptanz und Legitimität von Stablecoins im asiatischen Markt. Der Stablecoin-Sektor dürfte davon insgesamt profitieren und weitere Banken könnten nachziehen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-25T12:01:21Z"
     },
     {
       "id": "https://decrypt.co/?p=376427",
@@ -8046,7 +8048,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Eine Jury in Las Vegas hat einen Mann wegen eines Ponzi-Schemas mit angeblich KI-gestütztem Krypto-Mining im Umfang von 24 Millionen US-Dollar schuldig gesprochen. Der Fall belastet das Vertrauen in KI-Crypto-Mining-Angebote und wirft ein schlechtes Licht auf die Branche. Die Verurteilung stärkt die regulatorische Durchsetzung gegen Krypto-Anlagebetrug."
+      "summary": "Eine Jury in Las Vegas hat einen Mann wegen eines Ponzi-Schemas mit angeblich KI-gestütztem Krypto-Mining im Umfang von 24 Millionen US-Dollar schuldig gesprochen. Der Fall belastet das Vertrauen in KI-Crypto-Mining-Angebote und wirft ein schlechtes Licht auf die Branche. Die Verurteilung stärkt die regulatorische Durchsetzung gegen Krypto-Anlagebetrug.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-25T12:01:21Z"
     },
     {
       "id": "https://decrypt.co/?p=376424",
@@ -8060,7 +8064,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Die USA haben neue Sanktionsbefugnisse geschaffen, die es erlauben, Personen und Unternehmen zu sanktionieren, die im iranischen Kryptosektor tätig sind. Das erhöht den regulatorischen Druck und das Compliance-Risiko für Börsen und Dienstleister mit Iran-Bezug und könnte Marktteilnehmer abschrecken. In der Konsequenz ist mit verschärften Durchsetzungsmaßnahmen und einem Rückzug internationaler Krypto-Firmen aus Iran-Geschäften zu rechnen."
+      "summary": "Die USA haben neue Sanktionsbefugnisse geschaffen, die es erlauben, Personen und Unternehmen zu sanktionieren, die im iranischen Kryptosektor tätig sind. Das erhöht den regulatorischen Druck und das Compliance-Risiko für Börsen und Dienstleister mit Iran-Bezug und könnte Marktteilnehmer abschrecken. In der Konsequenz ist mit verschärften Durchsetzungsmaßnahmen und einem Rückzug internationaler Krypto-Firmen aus Iran-Geschäften zu rechnen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-25T12:01:21Z"
     },
     {
       "id": "https://cointelegraph.com/markets/bitcoin-rsi-bullish-divergence-draws-2022-comparisons-as-analysis-weighs-new-price-trend",
@@ -8289,6 +8295,14 @@
       "article_ids": [
         "https://cointelegraph.com/markets/bitcoin-seeks-support-near-77k-btc-gold-100-day-highs",
         "https://techcrunch.com/?p=3155284"
+      ]
+    },
+    {
+      "at": "2026-08-25T12:01:21Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution",
+        "https://decrypt.co/?p=376427",
+        "https://decrypt.co/?p=376424"
       ]
     }
   ],
