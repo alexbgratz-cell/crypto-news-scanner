@@ -72,6 +72,10 @@
 <div id="filterBar" class="max-w-5xl mx-auto px-4 pt-3 hidden">
   <div class="flex gap-2 flex-wrap">
     <select id="catFilter" class="bg-card text-text border border-border rounded px-2.5 py-1.5 text-[13px] max-w-full"></select>
+    <select id="scoreFilter" class="bg-card text-text border border-border rounded px-2.5 py-1.5 text-[13px]">
+      <option value="">Standard-Score</option><option value="0">Alle (ohne Mindest-Score)</option>
+      <option value="6">≥ 6</option><option value="7">≥ 7</option><option value="8">≥ 8</option><option value="9">≥ 9</option>
+    </select>
   </div>
 </div>
 
@@ -97,7 +101,9 @@ $('#tabs').addEventListener('click', (e) => {
   const b = e.target.closest('.tab'); if (!b) return;
   currentTab = b.dataset.tab;
   document.querySelectorAll('.tab').forEach(t => t.setAttribute('aria-selected', t === b ? 'true' : 'false'));
-  $('#filterBar').classList.toggle('hidden', !(currentTab === 'crypto' || currentTab === 'ai'));
+  const newsTab = currentTab === 'crypto' || currentTab === 'ai';
+  $('#filterBar').classList.toggle('hidden', !newsTab);
+  if (newsTab) { $('#catFilter').innerHTML = '<option value="">Alle Kategorien</option>'; $('#scoreFilter').value = ''; }
   refresh();
 });
 
@@ -107,31 +113,51 @@ async function loadNews() {
   if (!categoryCache) categoryCache = await (await fetch('./data/categories.json', {cache:'no-store'})).json();
   renderNewsCards();
 }
-/* ---- News-Karten (TanStack-Table-Prinzip: Filter + Liste) ---- */
+/* ---- News-Karten (Filter nach stream + Kategorie) ---- */
+function relTime(iso){ /* date-fns: relative deutsche Zeit („vor 3 Stunden“), Fallback einfach */
+  if(!iso) return '';
+  try{
+    const d = new Date(iso.replace('Z','+00:00'));
+    if(window.dateFns && dateFns.formatDistanceToNow){
+      return 'vor ' + dateFns.formatDistanceToNow(d, {locale: dateFns.locale.de, addSuffix:false});
+    }
+  }catch{}
+  const m = Math.round((Date.now()-new Date(iso.replace('Z','+00:00')).getTime())/60000);
+  if(m<1) return 'gerade eben'; if(m<60) return `vor ${m} Min.`;
+  const h=Math.round(m/60); if(h<24) return `vor ${h} Std.`; return `vor ${Math.round(h/24)} Tagen`;
+}
 function scoreClass(s){ return s>=9?'bg-red/20 text-red':s>=8?'bg-orange/20 text-orange':s>=7?'bg-yellow/20 text-yellow':'bg-green/20 text-green'; }
 function renderNewsCards() {
   const el = $('#content');
-  const arts = (newsCache[currentTab] || []);
   const catSel = $('#catFilter');
   const cats = (categoryCache[currentTab] || []);
   if (catSel.options.length <= 1) {
     catSel.innerHTML = '<option value="">Alle Kategorien</option>' + cats.map(c=>`<option>${esc(c)}</option>`).join('');
     catSel.onchange = renderNewsCards;
+    $('#scoreFilter').onchange = renderNewsCards;
   }
-  const sel = catSel.value;
-  const list = sel ? arts.filter(a => a.category === sel) : arts;
+  const SCORE_DEFAULT = { crypto: 8, ai: 7 };
+  const rawScore = $('#scoreFilter').value;
+  const minScore = rawScore === '' ? (SCORE_DEFAULT[currentTab] || 0) : Number(rawScore);
+  const selCat = catSel.value;
+  const arts = newsCache
+    .filter(a => a.stream === currentTab)
+    .filter(a => !selCat || a.category === selCat)
+    .filter(a => Number(a.score || 0) >= minScore)
+    .slice(0, 60);
+  const list = arts;
   if (!list.length) { el.innerHTML = '<div class="text-center text-muted py-12">Keine Artikel in dieser Auswahl.</div>'; return; }
   el.innerHTML = list.map((a,i) => `
     <article class="card border border-border bg-card rounded p-3.5 mb-2.5" data-anim>
       <div class="flex items-center gap-2 flex-wrap">
         <span class="badge text-[12px] font-bold px-2 py-0.5 rounded-full font-mono ${scoreClass(a.score||0)}">${esc(a.score)}/10</span>
         <span class="text-[12px] text-muted">${esc(a.category||'')}</span>
-        <span class="text-[11px] text-muted font-mono ml-auto">${esc((a.published||'').slice(0,16).replace('T',' '))}</span>
+        <span class="text-[11px] text-muted font-mono ml-auto">🕐 ${esc(relTime(a.published))}</span>
       </div>
       <h3 class="text-[15px] font-semibold mt-1.5 mb-1 leading-snug">
-        <a class="hover:text-accent" href="${esc(a.url||'#')}" target="_blank" rel="noopener">${esc(a.title||'')}</a></h3>
+        <a class="hover:text-accent" href="${esc(safeUrl(a.url||'#'))}" target="_blank" rel="noopener">${esc(a.title||'')}</a></h3>
       <p class="text-[13.5px] text-muted leading-relaxed">${esc(a.summary||'')}</p>
-      <div class="mt-2"><a class="inline-flex items-center gap-1 text-[12.5px] font-medium text-accent border border-accent/30 rounded px-3 py-1 bg-accent/10 hover:bg-accent/20" href="${esc(a.url||'#')}" target="_blank" rel="noopener">Quelle <i data-lucide="external-link"></i></a></div>
+      <div class="mt-2"><a class="inline-flex items-center gap-1 text-[12.5px] font-medium text-accent border border-accent/30 rounded px-3 py-1 bg-accent/10 hover:bg-accent/20" href="${esc(safeUrl(a.url||'#'))}" target="_blank" rel="noopener">Quelle <i data-lucide="external-link"></i></a></div>
     </article>`).join('');
   animateCards(); lucide.createIcons();
 }
