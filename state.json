@@ -2553,7 +2553,8 @@
     "https://cointelegraph.com/news/thailand-bitcoin-ether-etfs-draft-rules": "2026-08-25T10:53:47Z",
     "https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution": "2026-08-25T10:53:47Z",
     "https://decrypt.co/?p=376427": "2026-08-25T10:53:47Z",
-    "https://decrypt.co/?p=376424": "2026-08-25T10:53:47Z"
+    "https://decrypt.co/?p=376424": "2026-08-25T10:53:47Z",
+    "https://cointelegraph.com/markets/bitcoin-rsi-bullish-divergence-draws-2022-comparisons-as-analysis-weighs-new-price-trend": "2026-08-25T11:04:55Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -4678,25 +4679,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/clarity-act-senate-delay-window-become-law-midterm-elections",
-      "title": "Following Senate delay, crypto bill has narrow window to become law",
-      "url": "https://cointelegraph.com/news/clarity-act-senate-delay-window-become-law-midterm-elections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-11T19:42:08Z",
-      "score": 7,
-      "category": "Regulation",
-      "sentiment": "neutral",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "Der US-Senat hat nach der Augustpause bis Jahresende nur noch 36 Sitzungstage, um das CLARITY-Gesetz zu verabschieden. Dieses enge Zeitfenster erhöht die Unsicherheit regarding der Gesetzgebung zur Marktstruktur im Kryptobereich erheblich. Erhöhte Volatilität ist wahrscheinlich.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-12T12:06:20Z",
-      "summary_lang": "de"
-    },
     {
       "id": "https://cointelegraph.com/news/strategy-ceo-resume-bitcoin-accumulation-this-year",
       "title": "Strategy CEO says company will resume Bitcoin accumulation this year",
@@ -8079,6 +8061,22 @@
       "instruments": [],
       "entities": [],
       "summary": "Die USA haben neue Sanktionsbefugnisse geschaffen, die es erlauben, Personen und Unternehmen zu sanktionieren, die im iranischen Kryptosektor tätig sind. Das erhöht den regulatorischen Druck und das Compliance-Risiko für Börsen und Dienstleister mit Iran-Bezug und könnte Marktteilnehmer abschrecken. In der Konsequenz ist mit verschärften Durchsetzungsmaßnahmen und einem Rückzug internationaler Krypto-Firmen aus Iran-Geschäften zu rechnen."
+    },
+    {
+      "id": "https://cointelegraph.com/markets/bitcoin-rsi-bullish-divergence-draws-2022-comparisons-as-analysis-weighs-new-price-trend",
+      "title": "Bitcoin RSI bullish divergence draws 2022 comparisons as analysis weighs new price trend",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-25T10:49:43Z",
+      "score": 4,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Analysten sehen eine bullische Divergenz im Bitcoin-RSI und ziehen Vergleiche mit dem Jahr 2022, um eine mögliche neue Preistendenz zu bewerten. Das technische Signal deutet auf eine mögliche Trendwende hin und richtet sich direkt an Bitcoin-Händler. Erhöhte Kursvolatilität ist wahrscheinlich, ein bestätigter Ausbruch steht jedoch noch aus."
     }
   ],
   "digest_log": [
