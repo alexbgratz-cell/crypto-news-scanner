@@ -1,0 +1,562 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self' https://ntfy.sh; frame-src https://www.coinglass.com https://s.tradingview.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+<title>Crypto- & KI-News-Scanner · Öffentlicher Showcase</title>
+<style>
+  :root {
+    --bg: #0d1117; --card: #161b22; --border: #21262d;
+    --text: #e6edf3; --muted: #8b949e; --accent: #58a6ff;
+    --green: #3fb950; --red: #f85149; --orange: #d29922; --yellow: #e3b341;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; padding-bottom: 80px; }
+  header { position: sticky; top: 0; background: rgba(13,17,23,.92); backdrop-filter: blur(10px); border-bottom: 1px solid var(--border); padding: 12px 16px; display: flex; align-items: center; gap: 12px; z-index: 10; }
+  header .brand { flex: 1; min-width: 0; }
+  header h1 { font-size: 18px; font-weight: 700; display: flex; align-items: center; gap: 8px; }
+  header .subtitle { font-size: 11.5px; color: var(--muted); margin-top: 2px; }
+  header .last { font-size: 11px; color: var(--muted); white-space: nowrap; }
+  .interval-badge { font-size: 10.5px; font-weight: 600; color: #79c0ff; background: #1f6feb22; border: 1px solid #1f6feb44; border-radius: 20px; padding: 3px 10px; white-space: nowrap; }
+  .header-right { display: flex; align-items: center; gap: 8px; }
+  .live-dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--green); margin-left: 2px; animation: pulse 2s infinite; }
+  @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: .35; } }
+  .tabs { display: flex; gap: 8px; padding: 10px 16px; border-bottom: 1px solid var(--border); }
+  .tab { padding: 8px 16px; border-radius: 8px; background: var(--card); border: 1px solid var(--border); color: var(--text); font-size: 14px; font-weight: 600; cursor: pointer; }
+  .tab.active { background: var(--accent); color: #04101f; border-color: var(--accent); }
+  /* auf schmalen Screens (iPhone): 3er-Raster statt einer Reihe */
+  @media (max-width: 640px) {
+    .tabs { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; }
+    .tab { text-align: center; padding: 8px 6px; font-size: 13px; }
+  }
+  .filters { display: flex; gap: 8px; padding: 10px 16px; flex-wrap: wrap; }
+  .filters select, .filters input { background: var(--card); color: var(--text); border: 1px solid var(--border); border-radius: 8px; padding: 6px 10px; font-size: 13px; }
+  .filters select#catFilter { width: 230px; max-width: 100%; text-overflow: ellipsis; }
+  main { padding: 12px 16px; }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; margin-bottom: 10px; }
+  .card .top { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+  .badge { font-size: 12px; font-weight: 700; padding: 2px 8px; border-radius: 20px; }
+  .b9 { background: #f8514933; color: var(--red); }
+  .b8 { background: #d2992233; color: var(--orange); }
+  .b7 { background: #e3b34133; color: var(--yellow); }
+  .b6 { background: #3fb95033; color: var(--green); }
+  .cat { font-size: 12px; color: var(--muted); }
+  .title { font-size: 15px; font-weight: 600; margin: 6px 0 4px; line-height: 1.35; }
+  .title a { color: var(--text); text-decoration: none; }
+  .summary { font-size: 13.5px; color: var(--muted); line-height: 1.5; }
+  .read-more { margin-top: 8px; }
+  .read-more a { display: inline-block; font-size: 12.5px; font-weight: 600; color: var(--accent); text-decoration: none; padding: 5px 12px; border: 1px solid #1f6feb55; border-radius: 8px; background: #1f6feb18; }
+  .read-more a:hover { background: #1f6feb33; }
+  .meta { font-size: 11.5px; color: var(--muted); margin-top: 8px; display: flex; gap: 10px; flex-wrap: wrap; }
+  .tag { background: #1f6feb22; color: #79c0ff; border-radius: 6px; padding: 1px 7px; font-size: 11px; }
+  .empty { text-align: center; color: var(--muted); padding: 40px 0; font-size: 14px; }
+  /* Market tiles */
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; }
+  .tile { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 12px; }
+  .tile .sym { font-size: 12px; color: var(--muted); font-weight: 600; }
+  .tile .val { font-size: 19px; font-weight: 700; margin: 4px 0; }
+  .tile .chg { font-size: 13px; font-weight: 600; }
+  .up { color: var(--green); } .down { color: var(--red); } .flat { color: var(--muted); }
+  .tile .grp { font-size: 10.5px; color: var(--muted); margin-top: 4px; }
+  .spark { width: 100%; height: 36px; margin-top: 8px; }
+  .spark polyline { fill: none; stroke-width: 1.5; }
+  .spark .area { fill: rgba(88,166,255,.08); stroke: none; }
+  /* Link tiles */
+  .section-title { font-size: 13px; color: var(--muted); text-transform: uppercase; letter-spacing: .5px; margin: 16px 0 8px; }
+  .links-note { font-size: 12.5px; color: var(--muted); margin-bottom: 4px; }
+  .link-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 10px; }
+  .link-card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; display: flex; flex-direction: column; gap: 6px; }
+  .link-card .lname { font-size: 14.5px; font-weight: 700; }
+  .link-card .ldesc { font-size: 12.5px; color: var(--muted); line-height: 1.45; flex: 1; }
+  .link-card .lgo { align-self: flex-start; font-size: 12.5px; font-weight: 600; color: var(--accent); text-decoration: none; padding: 5px 12px; border: 1px solid #1f6feb55; border-radius: 8px; background: #1f6feb18; }
+  .link-card .lgo:hover { background: #1f6feb33; }
+  .footer-note { text-align: center; color: var(--muted); font-size: 11px; padding: 20px 16px 0; }
+  /* Live tools (embedded external pages) */
+  .live-toolbar { display: flex; align-items: center; gap: 8px; padding: 10px 16px 0; flex-wrap: wrap; }
+  .live-chip { padding: 6px 12px; border-radius: 8px; background: var(--card); border: 1px solid var(--border); color: var(--text); font-size: 12.5px; font-weight: 600; cursor: pointer; }
+  .live-chip.active { background: var(--accent); color: #04101f; border-color: var(--accent); }
+  .live-open { margin-left: auto; font-size: 12.5px; font-weight: 600; color: var(--accent); text-decoration: none; }
+  .live-open:hover { text-decoration: underline; }
+  .live-frame-wrap { padding: 10px 16px 0; }
+  .live-frame { width: 100%; height: calc(100vh - 200px); min-height: 500px; border: 1px solid var(--border); border-radius: 10px; background: #000; display: block; }
+  .live-note { padding: 8px 16px 0; font-size: 11px; color: var(--muted); }
+  /* Learn */
+  .learn-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 10px; }
+  .learn-card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; display: flex; flex-direction: column; gap: 6px; }
+  .learn-card .lname { font-size: 14px; font-weight: 700; display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+  .learn-card .ltag { font-size: 10.5px; color: #79c0ff; background: #1f6feb22; border-radius: 6px; padding: 1px 7px; }
+  .learn-card .ldesc { font-size: 12.5px; color: var(--muted); line-height: 1.5; }
+  /* Home (Marktbericht) */
+  .home-report { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 14px; }
+  .home-meta { font-size: 11.5px; color: var(--muted); margin-bottom: 8px; }
+  .home-text { font-size: 14px; line-height: 1.6; white-space: pre-wrap; }
+  .home-tile { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 10px 12px; }
+  .home-tile .sym { font-size: 11.5px; color: var(--muted); font-weight: 600; }
+  .home-tile .val { font-size: 16px; font-weight: 700; margin: 2px 0; }
+  .home-tile .chg { font-size: 12.5px; font-weight: 600; }
+  .report-btn { background: var(--accent); color: #04101f; border: none; border-radius: 8px; padding: 9px 14px; font-size: 13px; font-weight: 700; cursor: pointer; margin-top: 10px; }
+  .report-btn:disabled { opacity: .6; cursor: wait; }
+  .report-status { font-size: 12px; color: var(--muted); margin-top: 8px; }
+  .report-stale { background: #9e6a0333; border: 1px solid #9e6a03; color: #e3b341; border-radius: 8px; padding: 8px 10px; font-size: 12px; margin-bottom: 10px; }
+  .num-wrap { overflow: hidden; border-radius: 10px; }
+  .num-table { width: 100%; border-collapse: collapse; font-size: 12.5px; background: var(--card); border: 1px solid var(--border); }
+  .num-table th { text-align: left; color: var(--muted); font-weight: 600; font-size: 11px; text-transform: uppercase; letter-spacing: .4px; padding: 8px 12px; border-bottom: 1px solid var(--border); }
+  .num-table td { padding: 7px 12px; border-bottom: 1px solid var(--border); vertical-align: top; }
+  .num-table tr:last-child td { border-bottom: none; }
+  .num-table .sym { font-weight: 700; white-space: nowrap; }
+  .num-table .grp { font-size: 10.5px; color: var(--muted); font-weight: 400; margin-top: 1px; }
+  .num-table .val { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .num-table .chg { text-align: right; font-weight: 600; white-space: nowrap; }
+</style>
+</head>
+<body>
+<header>
+  <div class="brand">
+    <h1>📡 News Scanner <span class="live-dot" title="Automatisch aktualisiert"></span></h1>
+    <div class="subtitle">Crypto- &amp; KI-News · öffentlicher, rein lesender Showcase</div>
+  </div>
+  <div class="header-right">
+    <span class="interval-badge">🔒 Nur lesen</span>
+    <span class="last" id="lastScan">…</span>
+  </div>
+</header>
+
+<div class="tabs">
+  <div class="tab active" data-tab="home">Home</div>
+  <div class="tab" data-tab="crypto">Crypto</div>
+  <div class="tab" data-tab="ai">AI</div>
+  <div class="tab" data-tab="learn">Lernen</div>
+  <div class="tab" data-tab="live">Live</div>
+  <div class="tab" data-tab="links">Links</div>
+</div>
+
+<div class="filters" id="filters">
+  <select id="catFilter"><option value="">Alle Kategorien</option></select>
+  <select id="scoreFilter">
+    <option value="">Standard (Crypto ≥ 8 · AI ≥ 7)</option><option value="0">Alle (ohne Mindest-Score)</option>
+    <option value="6">≥ 6</option><option value="7">≥ 7</option><option value="8">≥ 8</option><option value="9">≥ 9</option>
+  </select>
+</div>
+
+<main id="content"></main>
+<div class="footer-note">KI-gestützte Bewertung und Zusammenfassungen · Originalquellen verlinkt · Keine Finanzberatung</div>
+
+<script>
+const $ = (s) => document.querySelector(s);
+let currentTab = "home";
+let newsCache = null;
+let categoryCache = null;
+/* Standard-Mindest-Scores je Stream (einstellbar) + pro Stream gemerkte Auswahl */
+const SCORE_DEFAULT = { crypto: 8, ai: 7 };
+const scoreSel = { crypto: "", ai: "" };
+function updateScoreLabel() {
+  const o = $("#scoreFilter").options[0];
+  if (o) o.textContent = `Standard (${currentTab === "ai" ? `AI ≥ ${SCORE_DEFAULT.ai}` : `Crypto ≥ ${SCORE_DEFAULT.crypto}`})`;
+}
+
+function esc(value) {
+  return String(value ?? "").replace(/[&<>"']/g, (char) => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+  })[char]);
+}
+function safeUrl(value) {
+  try {
+    const url = new URL(value);
+    return url.protocol === "https:" || url.protocol === "http:" ? url.href : "#";
+  } catch { return "#"; }
+}
+
+function badge(score) {
+  const b = score >= 9 ? "b9" : score >= 8 ? "b8" : score >= 7 ? "b7" : "b6";
+  return `<span class="badge ${b}">${score}/10</span>`;
+}
+function catEmoji(stream, cat) {
+  const m = {
+    crypto: { "FUD":"🚨","Tech Update":"⚙️","Regulation":"⚖️","Macro":"🌍","Hack & Security":"🛡️","Other":"📰" },
+    ai: { "Model Release & Capability":"🧠","Research & Open Source":"📄","Regulation & Policy":"⚖️","Business & Funding":"💼","Hardware & Infrastructure":"🔌","Safety & Risk":"🛡️","Society & Work":"👥" }
+  };
+  return (m[stream] && m[stream][cat]) || "📰";
+}
+function domain(url) { try { return new URL(url).hostname.replace("www.", ""); } catch { return url; } }
+function timeAgo(iso) {
+  if (!iso) return "";
+  const t = new Date(iso.replace("Z", "+00:00")).getTime();
+  const m = Math.round((Date.now() - t) / 60000);
+  if (m < 1) return "gerade eben";
+  if (m < 60) return `vor ${m} Min.`;
+  const h = Math.round(m / 60);
+  if (h < 24) return `vor ${h} Std.`;
+  return `vor ${Math.round(h / 24)} Tagen`;
+}
+
+async function loadNews() {
+  if (!newsCache) newsCache = await (await fetch("./data/news.json", { cache: "no-store" })).json();
+  const cat = $("#catFilter").value;
+  const raw = $("#scoreFilter").value;
+  const min = raw === "" ? (SCORE_DEFAULT[currentTab] || 0) : Number(raw);
+  const arts = newsCache
+    .filter((article) => article.stream === currentTab)
+    .filter((article) => !cat || article.category === cat)
+    .filter((article) => Number(article.score || 0) >= min)
+    .slice(0, 60);
+  renderNews(arts);
+}
+
+function renderNews(arts) {
+  const el = $("#content");
+  if (!arts.length) { el.innerHTML = '<div class="empty">Keine Artikel entsprechen diesem Filter.</div>'; return; }
+  el.innerHTML = arts.map((a) => {
+    const url = safeUrl(a.url);
+    return `
+    <div class="card">
+      <div class="top">${badge(a.score)} <span class="cat">${catEmoji(a.stream, a.category)} ${esc(a.category || "–")}</span>
+        <span class="cat" style="margin-left:auto">${esc(a.source || "")}</span></div>
+      <div class="title"><a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${esc(a.title)}</a></div>
+      ${a.summary ? `<div class="summary">${esc(a.summary)}</div>` : ""}
+      <div class="read-more"><a href="${esc(url)}" target="_blank" rel="noopener noreferrer">→ Zum Originalartikel</a></div>
+      <div class="meta">
+        <span>🕐 ${esc(timeAgo(a.published))}</span>
+        ${(a.instruments || []).map((i) => `<span class="tag">${esc(i)}</span>`).join("")}
+        ${(a.entities || []).map((e) => `<span class="tag">${esc(e)}</span>`).join("")}
+      </div>
+    </div>`;
+  }).join("");
+}
+
+function fmtNum(v, dec = 2) {
+  if (v === null || v === undefined) return "–";
+  return Number(v).toLocaleString("en-US", { minimumFractionDigits: dec, maximumFractionDigits: dec });
+}
+function fmtChg(c) {
+  if (c === null || c === undefined) return '<span class="flat">–</span>';
+  const cls = c > 0.001 ? "up" : c < -0.001 ? "down" : "flat";
+  const sign = c > 0 ? "+" : "";
+  return `<span class="${cls}">${sign}${fmtNum(c, 2)}%</span>`;
+}
+/* Interpreted display for instruments where the raw number is not intuitive. */
+function displayVal(sym, d) {
+  if (sym === "FUNDING") {
+    const r = d.value;
+    if (r === null || r === undefined) return "–";
+    if (r > 0.02) return "Longs pay";
+    if (r < -0.02) return "Shorts pay";
+    return "Neutral";
+  }
+  if (sym === "ORDERBOOK") {
+    const imb = d.change_24h;
+    if (imb === null || imb === undefined) return "–";
+    if (imb > 5) return "Buy pressure";
+    if (imb < -5) return "Sell pressure";
+    return "Balanced";
+  }
+  if (sym === "MO30") {
+    const v = d.value;
+    if (v === null || v === undefined) return "–";
+    const cls = v > 0 ? "up" : v < 0 ? "down" : "flat";
+    return `<span class="${cls}">${v > 0 ? "+" : ""}${fmtNum(v, 2)}%</span>`;
+  }
+  return fmtNum(d.value);
+}
+function displayChg(sym, d) {
+  if (sym === "FUNDING") {
+    const r = d.value;
+    return r === null || r === undefined ? "–" : `${fmtNum(r, 4)}% / 8h`;
+  }
+  if (sym === "ORDERBOOK") {
+    const imb = d.change_24h;
+    return imb === null || imb === undefined ? "–" : `Imbalance ${imb > 0 ? "+" : ""}${fmtNum(imb, 1)}%`;
+  }
+  return fmtChg(d.change_24h);
+}
+async function loadLinks() {
+  const el = $("#content");
+  let data;
+  try {
+    data = await (await fetch("./data/links.json", { cache: "no-store" })).json();
+  } catch {
+    el.innerHTML = '<div class="empty">Link-Liste ist gerade nicht verfügbar.</div>';
+    return;
+  }
+  const links = data.links || [];
+  const groups = {};
+  for (const l of links) {
+    const g = l.group || "–";
+    (groups[g] = groups[g] || []).push(l);
+  }
+  el.innerHTML = '<div class="links-note">Persönliche Trading-Seiten — ein Klick öffnet die Seite direkt in einem neuen Tab.</div>' +
+    Object.entries(groups).map(([g, items]) => `
+    <div class="section-title">${esc(g)}</div>
+    <div class="link-grid">${items.map((l) => `
+      <div class="link-card">
+        <div class="lname">${l.emoji ? esc(l.emoji) + " " : ""}${esc(l.name)}</div>
+        <div class="ldesc">${esc(l.desc || "")}</div>
+        <a class="lgo" href="${esc(safeUrl(l.url))}" target="_blank" rel="noopener noreferrer">Öffnen ↗</a>
+      </div>`).join("")}</div>`).join("");
+}
+
+/* Live tab: external pages embedded directly (no self-made charts). */
+const EMBEDS = [
+  { id: "cg-liq", label: "Liquidations-Heatmap", url: "https://www.coinglass.com/pro/futures/LiquidationHeatMap", note: "Coinglass · Liquidations-Level je Preiszone" },
+  { id: "cg-liqall", label: "Live-Liquidationen", url: "https://www.coinglass.com/liquidations", note: "Coinglass · alle Coins, laufende Liquidationen" },
+  { id: "cg-funding", label: "Funding Rates", url: "https://www.coinglass.com/FundingRate", note: "Coinglass · Finanzierungsraten je Börse" },
+  { id: "cg-orderbook", label: "Order Book", url: "https://www.coinglass.com/mergev2/BTC-USDT", note: "Coinglass · Order-Depth BTC/USDT (Market Depth)" },
+  { id: "tv-chart", label: "BTC-Chart", url: "https://s.tradingview.com/widgetembed/?symbol=BINANCE%3ABTCUSDT&interval=60&theme=dark&style=1&locale=de_DE&hideideas=1&withdateranges=1", note: "TradingView · BTC/USDT 1h (offizielles Widget)" },
+];
+let currentEmbed = "cg-liq";
+
+function renderLive() {
+  const el = $("#content");
+  const emb = EMBEDS.find((e) => e.id === currentEmbed) || EMBEDS[0];
+  const chips = EMBEDS.map((e) =>
+    `<span class="live-chip${e.id === emb.id ? " active" : ""}" data-embed="${e.id}">${e.label}</span>`
+  ).join("");
+  el.innerHTML = `
+    <div class="live-toolbar">${chips}
+      <a class="live-open" href="${esc(safeUrl(emb.url))}" target="_blank" rel="noopener noreferrer">↗ Im Original öffnen</a>
+    </div>
+    <div class="live-frame-wrap">
+      <iframe class="live-frame" src="${esc(safeUrl(emb.url))}" allow="fullscreen" title="${esc(emb.label)}"></iframe>
+    </div>
+    <div class="live-note">Externe Live-Seite: ${esc(emb.note)} · Es gelten die Datenschutz-/Cookie-Regeln des jeweiligen Anbieters.</div>`;
+  el.querySelectorAll(".live-chip").forEach((c) => c.addEventListener("click", () => {
+    currentEmbed = c.dataset.embed;
+    renderLive();
+  }));
+}
+
+/* Learn tab: explanations for scoring, market values, usage and live views. */
+async function renderLearn() {
+  const el = $("#content");
+  let data;
+  try {
+    data = await (await fetch("./data/learn.json", { cache: "no-store" })).json();
+  } catch {
+    el.innerHTML = '<div class="empty">Lern-Inhalte sind gerade nicht verfügbar.</div>';
+    return;
+  }
+  const sections = data.sections || [];
+  el.innerHTML = '<div class="links-note">Lernen, verstehen, besser einordnen — Erklärungen zu allen Funktionen und Werten.</div>' +
+    sections.map((s) => `
+    <div class="section-title">${s.emoji ? esc(s.emoji) + " " : ""}${esc(s.title)}</div>
+    ${s.intro ? `<div class="links-note">${esc(s.intro)}</div>` : ""}
+    <div class="learn-grid">${(s.cards || []).map((c) => `
+      <div class="learn-card">
+        <div class="lname">${esc(c.title)}${c.tag ? ` <span class="ltag">${esc(c.tag)}</span>` : ""}</div>
+        <div class="ldesc">${esc(c.body)}</div>
+      </div>`).join("")}</div>`).join("");
+}
+
+/* Home tab: latest AI market report + quick market values. */
+function cleanReport(t) {
+  return String(t || "").replace(/\\n/g, "\n").replace(/\*\*/g, "").replace(/#{1,3} /g, "");
+}
+const NTFY_TOPIC = "crypto-scanner-report-9f3k2";
+
+/* ---- Session-Spalte: Veränderung seit US-Open (15:30) bzw. US-Close (22:00), Berlin ---- */
+let sessionCache = null;
+function berlinParts(ts) {
+  const f = new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Europe/Berlin", year: "numeric", month: "2-digit", day: "2-digit",
+    hour: "2-digit", minute: "2-digit", hour12: false,
+  });
+  return Object.fromEntries(
+    f.formatToParts(ts).filter((x) => x.type !== "literal").map((x) => [x.type, x.value])
+  );
+}
+function berlinToUtc(y, mo, d, hh, mm) {
+  for (const off of [2, 1]) {
+    const t = Date.UTC(y, mo, d, hh - off, mm);
+    const p = berlinParts(new Date(t));
+    if (+p.year === y && +p.month - 1 === mo && +p.day === d && +p.hour === hh && +p.minute === mm) return t;
+  }
+  return Date.UTC(y, mo, d, hh - 2, mm);
+}
+async function ensureSessionCache() {
+  if (sessionCache) return sessionCache;
+  try {
+    const [hist, snap] = await Promise.all([
+      fetch("./data/history.json", { cache: "no-store" }).then((r) => r.json()),
+      fetch("./data/snapshot.json", { cache: "no-store" }).then((r) => r.json()),
+    ]);
+    const p = berlinParts(new Date());
+    const y = +p.year, mo = +p.month - 1, d = +p.day, hh = +p.hour, mm = +p.minute;
+    let ref, label;
+    if (hh * 60 + mm >= 15 * 60 + 30) {
+      ref = berlinToUtc(y, mo, d, 15, 30);
+      label = "seit US-Open 15:30";
+    } else {
+      ref = berlinToUtc(y, mo, d - 1, 22, 0);
+      label = "seit US-Close 22:00";
+    }
+    sessionCache = { hist: hist || [], snap: (snap && snap.instruments) || {}, ref, label };
+  } catch {
+    sessionCache = { hist: [], snap: {}, ref: 0, label: "" };
+  }
+  return sessionCache;
+}
+function sessionChange(sym) {
+  const c = sessionCache;
+  if (!c || !c.hist.length) return null;
+  const cur = c.snap[sym] && c.snap[sym].value;
+  if (cur == null) return null;
+  let refVal = null;
+  for (const h of c.hist) {
+    const ts = new Date((h.ts || "").replace("Z", "+00:00")).getTime();
+    if (Number.isNaN(ts)) continue;
+    if (ts <= c.ref) refVal = (h.instruments[sym] || {}).value;
+    else break;
+  }
+  if (refVal == null || !refVal) return null;
+  return ((cur - refVal) / Math.abs(refVal)) * 100;
+}
+function fmtSession(pct) {
+  if (pct === null || pct === undefined || Number.isNaN(pct)) return "–";
+  const cls = pct >= 0 ? "up" : "down";
+  return `<span class="${cls}">${pct >= 0 ? "+" : ""}${pct.toFixed(2)} %</span>`;
+}
+/* ---- /Session-Spalte ---- */
+
+function reportNumbersTable(numbers) {
+  if (!numbers || !numbers.length) return "";
+  const sessLabel = sessionCache && sessionCache.label ? `<span class="grp">${esc(sessionCache.label)}</span>` : "";
+  const rows = numbers.map((n) => {
+    const d = { value: n.value, change_24h: n.change, label: n.label, group: n.group };
+    return `
+      <tr>
+        <td class="sym">${esc(n.sym)}${n.label ? ` <span class="grp">${esc(n.label)}</span>` : ""}</td>
+        <td class="val">${displayVal(n.sym, d)}</td>
+        <td class="chg">${displayChg(n.sym, d)}</td>
+        <td class="chg">${fmtSession(sessionChange(n.sym))}</td>
+      </tr>`;
+  }).join("");
+  return `<div class="num-wrap"><table class="num-table">
+    <thead><tr><th>Instrument</th><th>Wert</th><th>24h</th><th>Session ${sessLabel}</th></tr></thead>
+    <tbody>${rows}</tbody></table></div>`;
+}
+async function renderHome() {
+  const el = $("#content");
+  let rep = null;
+  await ensureSessionCache();
+  try {
+    const r = await fetch("./data/market-report.json", { cache: "no-store" });
+    if (r.ok) rep = await r.json();
+  } catch {}
+  const slots = "09:00 · 15:30 · 22:00 Uhr";
+  const reportTs = rep && rep.ts ? rep.ts : "";
+  const ageH = reportTs ? (Date.now() - new Date(reportTs.replace("Z", "+00:00")).getTime()) / 36e5 : null;
+  const staleNote = ageH !== null && ageH > 8
+    ? `<div class="report-stale">⚠️ Dieser Bericht ist ${ageH >= 24 ? Math.floor(ageH / 24) + " Tage" : Math.round(ageH) + " Stunden"} alt — der automatische Bericht scheint zuletzt nicht gelaufen zu sein. Tippe unten auf „Neuen Marktbericht anfordern".</div>`
+    : "";
+  el.innerHTML = `
+    <div class="section-title">📈 Marktbericht · KI-Einschätzung</div>
+    ${rep && rep.text ? `
+      <div class="home-report">
+        ${staleNote}
+        <div class="home-meta">${rep.ts ? esc(new Date(rep.ts.replace("Z", "+00:00")).toLocaleString("de-DE")) : "–"} · ${rep.instrument === "ALL" ? "Gesamtmarkt" : esc(rep.instrument)}</div>
+        <div class="home-text">${esc(cleanReport(rep.text))}</div>
+        <button id="repNowBtn" class="report-btn">🔄 Neuen Marktbericht anfordern</button>
+        <div id="repNowStatus" class="report-status">Automatisch um ${slots}. Jederzeit anfordern: dauert ~1–3 min (läuft in der Cloud) · max. 1 Anfrage alle 5 Minuten.</div>
+      </div>` : `
+      <div class="empty">Noch kein Marktbericht verfügbar.<br>Die erste Einschätzung erscheint automatisch um ${slots}.</div>`}
+    ${rep && rep.numbers && rep.numbers.length ? `
+      <div class="section-title" style="margin-top:20px">📊 Zahlen</div>
+      ${reportNumbersTable(rep.numbers)}` : ""}
+    <div class="links-note" style="margin-top:12px">Der Bericht wird aus dem aktuellen Snapshot, dem 12h-Verlauf und den Top-Nachrichten erstellt — KI-Einordnung, kein Finanzberater.</div>`;
+  const btn = $("#repNowBtn");
+  if (btn) {
+    btn.addEventListener("click", async () => {
+      const b = $("#repNowBtn");
+      b.disabled = true;
+      b.textContent = "⏳ wird angefragt …";
+      $("#repNowStatus").textContent = "Anfrage gesendet — der Cloud-Workflow erstellt den Bericht jetzt (ca. 1–3 min) …";
+      let sent = false;
+      try {
+        const r = await fetch(`https://ntfy.sh/${NTFY_TOPIC}`, { method: "POST", body: "market-report", mode: "cors" });
+        sent = r.ok;
+      } catch {}
+      if (!sent) {
+        $("#repNowStatus").textContent = "Anfrage konnte nicht gesendet werden — versuche es gleich noch einmal.";
+        b.disabled = false;
+        b.textContent = "🔄 Neuen Marktbericht anfordern";
+        return;
+      }
+      for (let i = 0; i < 24; i++) {
+        await new Promise((r) => setTimeout(r, 5000));
+        try {
+          const r2 = await fetch("./data/market-report.json", { cache: "no-store" });
+          const rep2 = await r2.json();
+          if (rep2 && rep2.ts && rep2.ts !== reportTs) {
+            renderHome();
+            return;
+          }
+        } catch {}
+      }
+      $("#repNowStatus").textContent = "Bericht wurde angefordert — die Cloud braucht bis zu 3 min. Aktualisiere die Seite gleich noch einmal.";
+      b.disabled = false;
+      b.textContent = "🔄 Neuen Marktbericht anfordern";
+    });
+  }
+}
+
+async function loadCategories() {
+  if (!categoryCache) categoryCache = await (await fetch("./data/categories.json")).json();
+  const sel = $("#catFilter");
+  (categoryCache[currentTab] || []).forEach((c) => {
+    const option = document.createElement("option");
+    option.value = c;
+    option.textContent = c;
+    sel.appendChild(option);
+  });
+}
+
+async function refresh() {
+  newsCache = null;
+  if (currentTab === "home") await renderHome();
+  else if (currentTab === "links") await loadLinks();
+  else if (currentTab === "live") { /* iframe bleibt unberührt (kein Reload bei Auto-Refresh) */ }
+  else if (currentTab === "learn") await renderLearn();
+  else await loadNews();
+  const stats = await fetch("./data/stats.json", { cache: "no-store" }).then((r) => r.json());
+  $("#lastScan").textContent = stats.last_updated
+    ? `Aktualisiert: ${new Date(stats.last_updated.replace("Z", "+00:00")).toLocaleString("de-DE")}`
+    : "";
+}
+
+document.querySelectorAll(".tab").forEach((t) => {
+  t.addEventListener("click", async () => {
+    document.querySelectorAll(".tab").forEach((x) => x.classList.remove("active"));
+    t.classList.add("active");
+    currentTab = t.dataset.tab;
+    const noFilters = ["home", "links", "live", "learn"].includes(currentTab);
+    $("#filters").style.display = noFilters ? "none" : "flex";
+    $("#catFilter").innerHTML = '<option value="">Alle Kategorien</option>';
+    if (!noFilters) await loadCategories();
+    if (currentTab === "crypto" || currentTab === "ai") {
+      $("#scoreFilter").value = scoreSel[currentTab];
+      updateScoreLabel();
+    }
+    if (currentTab === "live") renderLive();
+    else refresh();
+  });
+});
+$("#catFilter").addEventListener("change", refresh);
+$("#scoreFilter").addEventListener("change", () => {
+  if (currentTab === "crypto" || currentTab === "ai") scoreSel[currentTab] = $("#scoreFilter").value;
+  refresh();
+});
+
+(async function init() {
+  try {
+    await loadCategories();
+    await refresh();
+    setInterval(refresh, 300000);
+  } catch (error) {
+    $("#content").innerHTML = '<div class="empty">Öffentliche Daten sind vorübergehend nicht verfügbar. Bitte versuche es später erneut.</div>';
+    console.error(error);
+  }
+})();
+</script>
+</body>
+</html>
