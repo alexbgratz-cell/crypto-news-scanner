@@ -5,8 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.tailwindcss.com https://unpkg.com; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self' https://ntfy.sh; font-src 'self'; frame-src https://www.coinglass.com https://s.tradingview.com; object-src 'none'; base-uri 'none'; form-action 'none'">
-<title>News-Scanner v2 · Crypto & KI</title>
-<!-- Baukasten: Tailwind (Utility), Lucide (Icons), Motion (Animation), date-fns (Datum), IBM Plex Sans + JetBrains Mono (Typo, self-hosted) -->
+<title>SCANNER // Crypto & KI · HoloNet</title>
+<!-- Baukasten: Tailwind, Lucide, Motion, date-fns, IBM Plex Sans + JetBrains Mono -->
 <script src="https://cdn.tailwindcss.com"></script>
 <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
 <script src="https://unpkg.com/motion@11.11.17/dist/motion.js"></script>
@@ -14,16 +14,17 @@
 <script>
   tailwind.config = { theme: { extend: {
     colors: {
-      bg:      '#0b0d11',
-      card:    'rgba(255,255,255,0.025)',
-      border:  'rgba(255,255,255,0.07)',
-      'border-strong': 'rgba(255,255,255,0.15)',
-      text:    '#e8ebf0',
-      muted:   '#8b93a3',
-      accent:  '#5b9dff',
-      green:   '#34d399',
-      red:     '#f87171',
-      amber:   '#fbbf24',
+      void:   '#030508',
+      panel:  'rgba(0,229,255,0.03)',
+      line:   'rgba(0,229,255,0.16)',
+      'line-hi': 'rgba(0,229,255,0.45)',
+      cyan:   '#00e5ff',
+      mag:    '#ff2e88',
+      amber:  '#ffb300',
+      red:    '#ff3b3b',
+      green:  '#2aff8f',
+      text:   '#d6ecf5',
+      dim:    '#5d7a8a',
     },
     fontFamily: {
       sans: ['"IBM Plex Sans"','system-ui','sans-serif'],
@@ -32,79 +33,98 @@
   } } };
 </script>
 <style>
-  @font-face { font-family:'IBM Plex Sans'; font-weight:400; font-display:swap;
-    src:url('./assets/fonts/IBMPlexSans-Regular.woff2') format('woff2'); }
-  @font-face { font-family:'IBM Plex Sans'; font-weight:500; font-display:swap;
-    src:url('./assets/fonts/IBMPlexSans-Medium.woff2') format('woff2'); }
-  @font-face { font-family:'IBM Plex Sans'; font-weight:700; font-display:swap;
-    src:url('./assets/fonts/IBMPlexSans-Bold.woff2') format('woff2'); }
-  @font-face { font-family:'JetBrains Mono'; font-weight:400; font-display:swap;
-    src:url('./assets/fonts/JetBrainsMono-Regular.woff2') format('woff2'); }
-  @font-face { font-family:'JetBrains Mono'; font-weight:700; font-display:swap;
-    src:url('./assets/fonts/JetBrainsMono-Bold.woff2') format('woff2'); }
-  html { color-scheme: dark; scroll-behavior: smooth; }
-  body { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
-  body::before { /* dezenter Akzent-Glow oben */
-    content:''; position: fixed; top:-180px; left:50%; transform:translateX(-50%);
-    width:640px; height:320px; pointer-events:none; z-index:0;
-    background: radial-gradient(closest-side, rgba(91,157,255,0.07), transparent);
+  @font-face { font-family:'IBM Plex Sans'; font-weight:400; font-display:swap; src:url('./assets/fonts/IBMPlexSans-Regular.woff2') format('woff2'); }
+  @font-face { font-family:'IBM Plex Sans'; font-weight:500; font-display:swap; src:url('./assets/fonts/IBMPlexSans-Medium.woff2') format('woff2'); }
+  @font-face { font-family:'IBM Plex Sans'; font-weight:700; font-display:swap; src:url('./assets/fonts/IBMPlexSans-Bold.woff2') format('woff2'); }
+  @font-face { font-family:'JetBrains Mono'; font-weight:400; font-display:swap; src:url('./assets/fonts/JetBrainsMono-Regular.woff2') format('woff2'); }
+  @font-face { font-family:'JetBrains Mono'; font-weight:700; font-display:swap; src:url('./assets/fonts/JetBrainsMono-Bold.woff2') format('woff2'); }
+  html { color-scheme: dark; }
+  body {
+    background:
+      radial-gradient(ellipse 90% 50% at 50% -10%, rgba(0,229,255,0.06), transparent 60%),
+      #030508;
+    -webkit-font-smoothing: antialiased;
+  }
+  /* Star-Wars Scanline-Overlay */
+  body::after {
+    content:''; position: fixed; inset:0; z-index:50; pointer-events:none;
+    background: repeating-linear-gradient(0deg, rgba(255,255,255,0.022) 0 1px, transparent 1px 3px);
+    mix-blend-mode: overlay;
   }
   .lucide { width:1em; height:1em; stroke-width:2; display:inline-block; vertical-align:-0.12em; }
-  .tab[aria-selected="true"] { background:rgba(255,255,255,0.09); color:#e8ebf0; }
-  ::selection { background:rgba(91,157,255,0.32); }
-  ::-webkit-scrollbar { width:10px; height:10px; }
-  ::-webkit-scrollbar-thumb { background:rgba(255,255,255,0.09); border-radius:8px; border:2px solid #0b0d11; }
-  ::-webkit-scrollbar-track { background:transparent; }
-  select:focus, button:focus-visible, a:focus-visible { outline:2px solid rgba(91,157,255,0.55); outline-offset:2px; border-radius:6px; }
+  /* HUD-Rahmen: Eck-Marker */
+  .hud { position:relative; }
+  .hud::before, .hud::after,
+  .hud > .corners::before, .hud > .corners::after {
+    content:''; position:absolute; width:14px; height:14px; pointer-events:none;
+    border-color: rgba(0,229,255,0.5); border-style:solid;
+  }
+  .hud::before { top:-1px; left:-1px; border-width:1px 0 0 1px; }
+  .hud::after { top:-1px; right:-1px; border-width:1px 1px 0 0; }
+  .hud > .corners::before { bottom:-1px; left:-1px; border-width:0 0 1px 1px; }
+  .hud > .corners::after { bottom:-1px; right:-1px; border-width:0 1px 1px 0; }
+  .glow { text-shadow: 0 0 12px rgba(0,229,255,0.55); }
+  .glow-mag { text-shadow: 0 0 12px rgba(255,46,136,0.55); }
+  .tab[aria-selected="true"] {
+    background: rgba(0,229,255,0.10); color: #00e5ff;
+    border-color: rgba(0,229,255,0.45);
+    box-shadow: 0 0 14px rgba(0,229,255,0.18), inset 0 0 10px rgba(0,229,255,0.06);
+    text-shadow: 0 0 8px rgba(0,229,255,0.6);
+  }
+  ::selection { background: rgba(0,229,255,0.28); }
+  ::-webkit-scrollbar { width:8px; height:8px; }
+  ::-webkit-scrollbar-thumb { background: rgba(0,229,255,0.18); }
+  ::-webkit-scrollbar-track { background: transparent; }
+  select:focus, button:focus-visible, a:focus-visible { outline:1px solid rgba(0,229,255,0.6); outline-offset:2px; }
+  .blink { animation: blink 1.6s step-end infinite; }
+  @keyframes blink { 50% { opacity: 0.25; } }
   @media (prefers-reduced-motion: reduce) { * { animation:none !important; transition:none !important; } }
 </style>
 </head>
-<body class="bg-bg text-text font-sans min-h-screen relative">
+<body class="bg-void text-text font-sans min-h-screen relative">
 
-<header class="sticky top-0 z-20 border-b border-border bg-bg/80 backdrop-blur-xl">
-  <div class="max-w-4xl mx-auto px-5 pt-4 pb-3 flex items-center gap-3">
-    <span class="relative flex w-2 h-2 shrink-0">
-      <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-green opacity-60"></span>
-      <span class="relative inline-flex rounded-full w-2 h-2 bg-green"></span>
+<header class="sticky top-0 z-20 border-b border-line bg-void/85 backdrop-blur-md">
+  <div class="max-w-5xl mx-auto px-4 pt-3.5 pb-2.5 flex items-center gap-3">
+    <span class="relative flex w-2.5 h-2.5 shrink-0">
+      <span class="animate-ping absolute inline-flex h-full w-full bg-cyan opacity-50"></span>
+      <span class="relative inline-flex w-2.5 h-2.5 bg-cyan blink"></span>
     </span>
     <div class="flex-1 min-w-0">
-      <h1 class="text-[16px] font-semibold tracking-tight leading-tight">News-Scanner</h1>
-      <p class="text-[11px] text-muted font-mono mt-0.5">Crypto & KI · alle 15 min</p>
+      <h1 class="text-[15px] font-bold tracking-[0.18em] uppercase glow leading-tight">Scanner</h1>
+      <p class="text-[10px] text-dim font-mono mt-0.5 tracking-wider">HOLONET · CRYPTO & KI · CYCLE 15:00</p>
     </div>
-    <span id="lastUpdate" class="text-[11px] text-muted font-mono whitespace-nowrap"></span>
+    <span id="lastUpdate" class="text-[10px] text-dim font-mono whitespace-nowrap tracking-wider"></span>
   </div>
-  <div class="max-w-4xl mx-auto px-5 pb-3.5">
-    <nav id="tabs" role="tablist" class="grid grid-cols-3 gap-1 p-1 rounded-2xl border border-border bg-white/[0.02] sm:inline-flex sm:rounded-full">
-      <button class="tab flex items-center justify-center gap-1.5 px-3 py-1.5 rounded-xl sm:rounded-full text-[13px] font-medium text-muted hover:text-text transition-colors" data-tab="home" role="tab"><i data-lucide="activity"></i> Home</button>
-      <button class="tab flex items-center justify-center gap-1.5 px-3 py-1.5 rounded-xl sm:rounded-full text-[13px] font-medium text-muted hover:text-text transition-colors" data-tab="crypto" role="tab"><i data-lucide="bitcoin"></i> Crypto</button>
-      <button class="tab flex items-center justify-center gap-1.5 px-3 py-1.5 rounded-xl sm:rounded-full text-[13px] font-medium text-muted hover:text-text transition-colors" data-tab="ai" role="tab"><i data-lucide="cpu"></i> AI</button>
-      <button class="tab flex items-center justify-center gap-1.5 px-3 py-1.5 rounded-xl sm:rounded-full text-[13px] font-medium text-muted hover:text-text transition-colors" data-tab="learn" role="tab"><i data-lucide="book-open"></i> Learn</button>
-      <button class="tab flex items-center justify-center gap-1.5 px-3 py-1.5 rounded-xl sm:rounded-full text-[13px] font-medium text-muted hover:text-text transition-colors" data-tab="live" role="tab"><i data-lucide="radio"></i> Live</button>
-      <button class="tab flex items-center justify-center gap-1.5 px-3 py-1.5 rounded-xl sm:rounded-full text-[13px] font-medium text-muted hover:text-text transition-colors" data-tab="links" role="tab"><i data-lucide="link-2"></i> Links</button>
+  <div class="max-w-5xl mx-auto px-4 pb-3">
+    <nav id="tabs" role="tablist" class="grid grid-cols-3 gap-1 sm:flex sm:flex-wrap sm:gap-1">
+      <button class="tab flex items-center justify-center gap-1.5 px-3 py-1.5 border border-line text-[12px] font-mono uppercase tracking-wider text-dim hover:text-cyan hover:border-line-hi transition-colors" data-tab="home" role="tab"><i data-lucide="activity"></i> Home</button>
+      <button class="tab flex items-center justify-center gap-1.5 px-3 py-1.5 border border-line text-[12px] font-mono uppercase tracking-wider text-dim hover:text-cyan hover:border-line-hi transition-colors" data-tab="crypto" role="tab"><i data-lucide="bitcoin"></i> Crypto</button>
+      <button class="tab flex items-center justify-center gap-1.5 px-3 py-1.5 border border-line text-[12px] font-mono uppercase tracking-wider text-dim hover:text-cyan hover:border-line-hi transition-colors" data-tab="ai" role="tab"><i data-lucide="cpu"></i> AI</button>
+      <button class="tab flex items-center justify-center gap-1.5 px-3 py-1.5 border border-line text-[12px] font-mono uppercase tracking-wider text-dim hover:text-cyan hover:border-line-hi transition-colors" data-tab="learn" role="tab"><i data-lucide="book-open"></i> Learn</button>
+      <button class="tab flex items-center justify-center gap-1.5 px-3 py-1.5 border border-line text-[12px] font-mono uppercase tracking-wider text-dim hover:text-cyan hover:border-line-hi transition-colors" data-tab="live" role="tab"><i data-lucide="radio"></i> Live</button>
+      <button class="tab flex items-center justify-center gap-1.5 px-3 py-1.5 border border-line text-[12px] font-mono uppercase tracking-wider text-dim hover:text-cyan hover:border-line-hi transition-colors" data-tab="links" role="tab"><i data-lucide="link-2"></i> Links</button>
     </nav>
   </div>
 </header>
 
-<div id="filterBar" class="max-w-4xl mx-auto px-5 pt-4 hidden">
+<div id="filterBar" class="max-w-5xl mx-auto px-4 pt-4 hidden">
   <div class="flex gap-2 flex-wrap">
-    <select id="catFilter" class="bg-white/[0.03] text-text border border-border rounded-xl px-3 py-2 text-[13px] max-w-full"></select>
-    <select id="scoreFilter" class="bg-white/[0.03] text-text border border-border rounded-xl px-3 py-2 text-[13px]">
+    <select id="catFilter" class="bg-panel text-text border border-line rounded-none px-3 py-2 text-[12px] font-mono max-w-full"></select>
+    <select id="scoreFilter" class="bg-panel text-text border border-line rounded-none px-3 py-2 text-[12px] font-mono">
       <option value="">Standard-Score</option><option value="0">Alle (ohne Mindest-Score)</option>
       <option value="6">≥ 6</option><option value="7">≥ 7</option><option value="8">≥ 8</option><option value="9">≥ 9</option>
     </select>
   </div>
 </div>
 
-<main id="content" class="max-w-4xl mx-auto px-5 py-6 relative z-10"></main>
+<main id="content" class="max-w-5xl mx-auto px-4 py-5 relative z-10"></main>
 
-<footer class="max-w-4xl mx-auto px-5 pt-10 pb-8 text-center text-muted text-[11px] font-mono">
-  News-Scanner v2 · Tailwind · Lucide · Motion · date-fns · IBM Plex / JetBrains Mono
+<footer class="max-w-5xl mx-auto px-4 pt-10 pb-8 text-center text-dim text-[10px] font-mono tracking-widest uppercase">
+  HoloNet-Übertragung · Tailwind · Lucide · Motion · date-fns
 </footer>
 
 <script>
-/* ============================================================
-   Scanner v2 — gleiche Daten & Funktionen, neues Design
-   ============================================================ */
+/* Scanner v2 — Star-Wars HUD · gleiche Daten & Funktionen */
 const $ = (s) => document.querySelector(s);
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const NTFY_TOPIC = "crypto-scanner-report-9f3k2";
@@ -112,7 +132,6 @@ let currentTab = 'home';
 let newsCache = null, categoryCache = null;
 const SCORE_DEFAULT = { crypto: 8, ai: 7 };
 
-/* ---- Tabs ---- */
 $('#tabs').addEventListener('click', (e) => {
   const b = e.target.closest('.tab'); if (!b) return;
   currentTab = b.dataset.tab;
@@ -123,7 +142,6 @@ $('#tabs').addEventListener('click', (e) => {
   refresh();
 });
 
-/* ---- News ---- */
 async function loadNews() {
   if (!newsCache) newsCache = await (await fetch('./data/news.json', {cache:'no-store'})).json();
   if (!categoryCache) categoryCache = await (await fetch('./data/categories.json', {cache:'no-store'})).json();
@@ -131,18 +149,15 @@ async function loadNews() {
 }
 function relTime(iso){
   if(!iso) return '';
-  try{
-    const d = new Date(iso.replace('Z','+00:00'));
-    if(window.dateFns && dateFns.formatDistanceToNow){
-      return 'vor ' + dateFns.formatDistanceToNow(d, {locale: dateFns.locale.de, addSuffix:false});
-    }
+  try{ const d=new Date(iso.replace('Z','+00:00'));
+    if(window.dateFns && dateFns.formatDistanceToNow) return 'vor '+dateFns.formatDistanceToNow(d,{locale:dateFns.locale.de,addSuffix:false});
   }catch{}
-  const m = Math.round((Date.now()-new Date(iso.replace('Z','+00:00')).getTime())/60000);
+  const m=Math.round((Date.now()-new Date(iso.replace('Z','+00:00')).getTime())/60000);
   if(m<1) return 'gerade eben'; if(m<60) return `vor ${m} Min.`;
   const h=Math.round(m/60); if(h<24) return `vor ${h} Std.`; return `vor ${Math.round(h/24)} Tagen`;
 }
 function safeUrl(u){ try{ const x=new URL(u); return (x.protocol==='https:'||x.protocol==='http:')?u:'#'; }catch{ return '#'; } }
-function scoreClass(s){ return s>=9?'bg-red/10 text-red':s>=8?'bg-amber/10 text-amber':s>=7?'bg-amber/10 text-amber/80':'bg-green/10 text-green'; }
+function scoreClass(s){ return s>=9?'bg-mag/15 text-mag border-mag/40':s>=8?'bg-amber/15 text-amber border-amber/40':s>=7?'bg-cyan/10 text-cyan border-line-hi':'bg-green/10 text-green border-green/40'; }
 function renderNewsCards() {
   const el = $('#content');
   const catSel = $('#catFilter');
@@ -160,23 +175,24 @@ function renderNewsCards() {
     .filter(a => !selCat || a.category === selCat)
     .filter(a => Number(a.score || 0) >= minScore)
     .slice(0, 60);
-  if (!list.length) { el.innerHTML = '<div class="text-center text-muted py-16 text-[13.5px]">Keine Artikel in dieser Auswahl.</div>'; return; }
+  if (!list.length) { el.innerHTML = '<div class="text-center text-dim py-16 text-[12.5px] font-mono uppercase tracking-widest">// Keine Signale in dieser Auswahl</div>'; return; }
   el.innerHTML = list.map((a) => `
-    <article class="group border border-border bg-card rounded-2xl p-4 mb-3 hover:border-border-strong transition-colors" data-anim>
+    <article class="hud border border-line bg-panel p-4 mb-3 hover:border-line-hi transition-colors" data-anim>
+      <span class="corners"></span>
       <div class="flex items-center gap-2.5 flex-wrap">
-        <span class="font-mono text-[11px] font-bold px-2 py-0.5 rounded-full ${scoreClass(a.score||0)}">${esc(a.score)}/10</span>
-        <span class="text-[12px] text-muted">${esc(a.category||'')}</span>
-        <span class="inline-flex items-center gap-1 text-[11px] text-muted font-mono ml-auto"><i data-lucide="clock"></i>${esc(relTime(a.published))}</span>
+        <span class="font-mono text-[11px] font-bold px-2 py-0.5 border ${scoreClass(a.score||0)}">${esc(a.score)}/10</span>
+        <span class="text-[11px] text-dim font-mono uppercase tracking-wider">${esc(a.category||'')}</span>
+        <span class="inline-flex items-center gap-1 text-[10px] text-dim font-mono ml-auto uppercase tracking-wider"><i data-lucide="clock"></i>${esc(relTime(a.published))}</span>
       </div>
-      <h3 class="text-[15px] font-medium mt-2 mb-1 leading-snug tracking-tight">
-        <a class="hover:text-accent transition-colors" href="${esc(safeUrl(a.url||'#'))}" target="_blank" rel="noopener">${esc(a.title||'')}</a></h3>
-      <p class="text-[13.5px] text-muted leading-relaxed">${esc(a.summary||'')}</p>
-      <div class="mt-2.5"><a class="inline-flex items-center gap-1 text-[12.5px] font-medium text-accent hover:underline" href="${esc(safeUrl(a.url||'#'))}" target="_blank" rel="noopener">Quelle <i data-lucide="arrow-up-right"></i></a></div>
+      <h3 class="text-[15px] font-semibold mt-2.5 mb-1.5 leading-snug tracking-tight">
+        <a class="hover:text-cyan transition-colors" href="${esc(safeUrl(a.url||'#'))}" target="_blank" rel="noopener">${esc(a.title||'')}</a></h3>
+      <p class="text-[13px] text-dim leading-relaxed">${esc(a.summary||'')}</p>
+      <div class="mt-3"><a class="inline-flex items-center gap-1 text-[11.5px] font-mono uppercase tracking-wider text-cyan hover:glow" href="${esc(safeUrl(a.url||'#'))}" target="_blank" rel="noopener">Quelle <i data-lucide="arrow-up-right"></i></a></div>
     </article>`).join('');
   animateCards(); lucide.createIcons();
 }
 
-/* ---- Home: Marktbericht + Zahlen ---- */
+/* ---- Home: Marktbericht + Zahlen (HUD) ---- */
 function cleanReport(t){ return String(t||'').replace(/\\n/g,'\n').replace(/\*\*/g,'').replace(/#{1,3} /g,''); }
 let sessionCache = null;
 function berlinParts(ts){ const f=new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Berlin',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hour12:false});
@@ -200,22 +216,23 @@ function sessionChange(sym){ const c=sessionCache; if(!c||!c.hist.length) return
   for(const h of c.hist){ const ts=new Date((h.ts||'').replace('Z','+00:00')).getTime(); if(Number.isNaN(ts)) continue;
     if(ts<=c.ref) refVal=(h.instruments[sym]||{}).value; else break; }
   if(refVal==null||!refVal) return null; return ((cur-refVal)/Math.abs(refVal))*100; }
-function fmtVal(v){ if(v==null) return '–'; return v>=1000?v.toLocaleString('de-DE',{maximumFractionDigits:0}):v>=10?v.toFixed(2):v.toFixed(4); }
-function fmtPct(p){ if(p==null||Number.isNaN(p)) return '<span class="text-muted font-mono">–</span>';
-  const cls=p>=0?'text-green':'text-red'; const ic=p>=0?'trending-up':'trending-down';
-  return `<span class="${cls} font-mono inline-flex items-center gap-0.5"><i data-lucide="${ic}"></i>${p>=0?'+':''}${p.toFixed(2)} %</span>`; }
+function fmtVal(v){ if(v==null) return '—'; return v>=1000?v.toLocaleString('de-DE',{maximumFractionDigits:0}):v>=10?v.toFixed(2):v.toFixed(4); }
+function fmtPct(p){ if(p==null||Number.isNaN(p)) return '<span class="text-dim font-mono">—</span>';
+  return p>=0
+    ? `<span class="text-green font-mono inline-flex items-center gap-0.5">▲ +${p.toFixed(2)} %</span>`
+    : `<span class="text-mag font-mono inline-flex items-center gap-0.5">▼ ${p.toFixed(2)} %</span>`; }
 function numbersTable(numbers){
   if(!numbers||!numbers.length) return '';
   const lbl=sessionCache&&sessionCache.label?esc(sessionCache.label):'';
-  const rows=numbers.map(n=>`<tr class="border-b border-border/60 last:border-0 hover:bg-white/[0.02] transition-colors">
-    <td class="py-2 pr-3 pl-4 font-mono text-[12.5px]">${esc(n.sym)}${n.label?` <span class="text-muted text-[10px]">${esc(n.label)}</span>`:''}</td>
-    <td class="py-2 pr-3 font-mono text-[13px]">${fmtVal(n.value)}</td>
-    <td class="py-2 pr-3">${fmtPct(n.change)}</td>
-    <td class="py-2 pr-4">${fmtPct(sessionChange(n.sym))}</td></tr>`).join('');
-  return `<div class="overflow-x-auto rounded-2xl border border-border bg-card"><table class="w-full border-collapse">
-    <thead><tr class="border-b border-border text-left text-muted text-[10.5px] uppercase tracking-widest font-mono">
-    <th class="py-2.5 pr-3 pl-4 font-medium">Instrument</th><th class="py-2.5 pr-3 font-medium">Wert</th>
-    <th class="py-2.5 pr-3 font-medium">24h</th><th class="py-2.5 pr-4 font-medium">Session${lbl?' · '+lbl:''}</th></tr></thead>
+  const rows=numbers.map(n=>`<tr class="border-b border-line/50 last:border-0 hover:bg-cyan/[0.03] transition-colors">
+    <td class="py-2 pr-3 pl-3 font-mono text-[12px] text-text">${esc(n.sym)}${n.label?` <span class="text-dim text-[10px]">${esc(n.label)}</span>`:''}</td>
+    <td class="py-2 pr-3 font-mono text-[12.5px]">${fmtVal(n.value)}</td>
+    <td class="py-2 pr-3 text-[11px]">${fmtPct(n.change)}</td>
+    <td class="py-2 pr-3 text-[11px]">${fmtPct(sessionChange(n.sym))}</td></tr>`).join('');
+  return `<div class="hud border border-line bg-panel overflow-x-auto"><span class="corners"></span><table class="w-full border-collapse">
+    <thead><tr class="border-b border-line text-left text-dim text-[10px] uppercase tracking-widest font-mono">
+    <th class="py-2 pr-3 pl-3 font-medium">Instrument</th><th class="py-2 pr-3 font-medium">Wert</th>
+    <th class="py-2 pr-3 font-medium">24H</th><th class="py-2 pr-3 font-medium">Session${lbl?' · '+lbl:''}</th></tr></thead>
     <tbody>${rows}</tbody></table></div>`;
 }
 async function renderHome(){
@@ -224,38 +241,39 @@ async function renderHome(){
   const slots='09:00 · 15:30 · 22:00 Uhr';
   const reportTs=rep&&rep.ts?rep.ts:'';
   const ageH=reportTs?(Date.now()-new Date(reportTs.replace('Z','+00:00')).getTime())/36e5:null;
-  const staleNote=ageH!==null&&ageH>8?`<div class="mb-3 rounded-xl border border-amber/25 bg-amber/10 text-amber text-[12.5px] px-3 py-2.5 flex items-start gap-2"><i data-lucide="alert-triangle" class="mt-0.5 shrink-0"></i><span>Bericht ist ${ageH>=24?Math.floor(ageH/24)+' Tage':Math.round(ageH)+' Stunden'} alt — bitte neu anfordern.</span></div>`:'';
+  const staleNote=ageH!==null&&ageH>8?`<div class="mb-3 border border-amber/40 bg-amber/10 text-amber text-[11.5px] font-mono px-3 py-2 flex items-start gap-2 uppercase tracking-wider"><i data-lucide="alert-triangle" class="mt-0.5 shrink-0"></i><span>Signal veraltet — Bericht ist ${ageH>=24?Math.floor(ageH/24)+' Tage':Math.round(ageH)+' Stunden'} alt · neu anfordern</span></div>`:'';
   el.innerHTML=`
-    <h2 class="text-[12px] text-muted uppercase tracking-widest font-mono mb-3">Marktbericht · KI-Einschätzung</h2>
+    <div class="flex items-center gap-2 mb-3"><span class="w-1.5 h-1.5 bg-cyan blink"></span><h2 class="text-[11px] text-dim uppercase tracking-widest font-mono">Marktbericht · KI-Einschätzung</h2></div>
     ${rep&&rep.text?`
-    <div class="border border-border bg-card rounded-2xl p-5" data-anim>
+    <div class="hud border border-line bg-panel p-5" data-anim>
+      <span class="corners"></span>
       ${staleNote}
-      <div class="text-[11.5px] text-muted font-mono mb-3">${rep.ts?esc(window.dateFns.format(new Date(rep.ts.replace('Z','+00:00')),'dd.MM.yyyy HH:mm')):'–'} · ${rep.instrument==='ALL'?'Gesamtmarkt':esc(rep.instrument)}</div>
-      <div class="text-[14.5px] leading-relaxed whitespace-pre-wrap text-text/95">${esc(cleanReport(rep.text))}</div>
+      <div class="text-[10.5px] text-dim font-mono mb-3 uppercase tracking-widest">${rep.ts?esc(window.dateFns.format(new Date(rep.ts.replace('Z','+00:00')),'dd.MM.yyyy · HH:mm')):'—'} · ${rep.instrument==='ALL'?'Gesamtmarkt':esc(rep.instrument)}</div>
+      <div class="text-[14px] leading-relaxed whitespace-pre-wrap text-text/95">${esc(cleanReport(rep.text))}</div>
       <div class="flex items-center gap-3 flex-wrap mt-4">
-        <button id="repNowBtn" class="inline-flex items-center gap-1.5 rounded-full bg-accent text-[#0b0d11] font-semibold text-[13px] px-4 py-2 hover:bg-accent/85 transition-colors disabled:opacity-50">
-          <i data-lucide="refresh-cw"></i>Neuen Marktbericht anfordern</button>
-        <div id="repNowStatus" class="text-[12px] text-muted">Automatisch um ${slots} · manuell ~1–3 min (Cloud)</div>
+        <button id="repNowBtn" class="inline-flex items-center gap-1.5 border border-cyan/50 bg-cyan/10 text-cyan font-mono uppercase tracking-wider text-[11.5px] px-4 py-2 hover:bg-cyan/20 transition-colors disabled:opacity-40">
+          <i data-lucide="refresh-cw"></i>Bericht anfordern</button>
+        <div id="repNowStatus" class="text-[10.5px] text-dim font-mono uppercase tracking-wider">auto ${slots} · manuell ~1–3 min</div>
       </div>
-    </div>`:`<div class="text-center text-muted py-16 text-[13.5px]">Noch kein Bericht — automatisch um ${slots}.</div>`}
-    ${rep&&rep.numbers&&rep.numbers.length?`<h2 class="text-[12px] text-muted uppercase tracking-widest font-mono mb-3 mt-8">Zahlen</h2><div data-anim>${numbersTable(rep.numbers)}</div>`:''}
-    <p class="text-[11px] text-muted mt-4">KI-Einordnung aus Snapshot, 12h-Verlauf und Top-News — keine Finanzberatung.</p>`;
+    </div>`:`<div class="text-center text-dim py-16 text-[12px] font-mono uppercase tracking-widest">// Kein Bericht — automatisch um ${slots}</div>`}
+    ${rep&&rep.numbers&&rep.numbers.length?`<div class="flex items-center gap-2 mb-3 mt-7"><span class="w-1.5 h-1.5 bg-mag blink"></span><h2 class="text-[11px] text-dim uppercase tracking-widest font-mono">Zahlen</h2></div><div data-anim>${numbersTable(rep.numbers)}</div>`:''}
+    <p class="text-[10px] text-dim font-mono uppercase tracking-widest mt-4">KI-Einordnung aus Snapshot, 12h-Verlauf und Top-News — keine Finanzberatung</p>`;
   lucide.createIcons(); animateCards(); attachReportButton(reportTs);
 }
 function attachReportButton(reportTs){
   const btn=$('#repNowBtn'); if(!btn) return;
   btn.addEventListener('click', async ()=>{
-    btn.disabled=true; btn.innerHTML='<i data-lucide="loader-2" class="animate-spin"></i>wird angefragt …'; lucide.createIcons();
-    $('#repNowStatus').textContent='Anfrage gesendet — Cloud erstellt den Bericht (ca. 1–3 min) …';
+    btn.disabled=true; btn.innerHTML='<i data-lucide="loader-2" class="animate-spin"></i>übertrage …'; lucide.createIcons();
+    $('#repNowStatus').textContent='Übertragung — Cloud erstellt Bericht (1–3 min) …';
     let sent=false;
     try{ const r=await fetch(`https://ntfy.sh/${NTFY_TOPIC}`,{method:'POST',body:'market-report',mode:'cors'}); sent=r.ok; }catch{}
-    if(!sent){ $('#repNowStatus').textContent='Senden fehlgeschlagen — gleich noch einmal versuchen.'; btn.disabled=false;
-      btn.innerHTML='<i data-lucide="refresh-cw"></i>Neuen Marktbericht anfordern'; lucide.createIcons(); return; }
+    if(!sent){ $('#repNowStatus').textContent='Übertragung fehlgeschlagen — erneut versuchen.'; btn.disabled=false;
+      btn.innerHTML='<i data-lucide="refresh-cw"></i>Bericht anfordern'; lucide.createIcons(); return; }
     for(let i=0;i<36;i++){ await new Promise(r=>setTimeout(r,5000));
       try{ const r2=await fetch('./data/market-report.json',{cache:'no-store'}); const rep2=await r2.json();
         if(rep2&&rep2.ts&&rep2.ts!==reportTs){ renderHome(); return; } }catch{} }
-    $('#repNowStatus').textContent='Angefordert — Cloud braucht bis zu 3 min. Seite gleich neu laden.';
-    btn.disabled=false; btn.innerHTML='<i data-lucide="refresh-cw"></i>Neuen Marktbericht anfordern'; lucide.createIcons();
+    $('#repNowStatus').textContent='angefordert — Cloud bis 3 min · Seite neu laden.';
+    btn.disabled=false; btn.innerHTML='<i data-lucide="refresh-cw"></i>Bericht anfordern'; lucide.createIcons();
   });
 }
 
@@ -264,16 +282,17 @@ async function renderLearn(){
   const el=$('#content');
   let data;
   try{ data=await (await fetch('./data/learn.json',{cache:'no-store'})).json(); }
-  catch{ el.innerHTML='<div class="text-center text-muted py-16 text-[13.5px]">Lern-Inhalte gerade nicht verfügbar.</div>'; return; }
+  catch{ el.innerHTML='<div class="text-center text-dim py-16 text-[12px] font-mono uppercase tracking-widest">// Lern-Daten nicht verfügbar</div>'; return; }
   const sections=data.sections||[];
-  el.innerHTML='<p class="text-[13px] text-muted mb-4">Erklärungen zu allen Funktionen und Werten.</p>'+
+  el.innerHTML='<p class="text-[11.5px] text-dim font-mono uppercase tracking-widest mb-4">// Erklärungen zu Funktionen und Werten</p>'+
     sections.map(s=>`
-    <h2 class="text-[12px] text-muted uppercase tracking-widest font-mono mt-7 mb-3">${s.emoji?esc(s.emoji)+' ':''}${esc(s.title)}</h2>
-    ${s.intro?`<p class="text-[13px] text-muted mb-3">${esc(s.intro)}</p>`:''}
+    <div class="flex items-center gap-2 mt-7 mb-3"><span class="w-1.5 h-1.5 bg-cyan"></span><h2 class="text-[11px] text-dim uppercase tracking-widest font-mono">${s.emoji?esc(s.emoji)+' ':''}${esc(s.title)}</h2></div>
+    ${s.intro?`<p class="text-[12px] text-dim mb-3">${esc(s.intro)}</p>`:''}
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">${(s.cards||[]).map(c=>`
-      <div class="border border-border bg-card rounded-2xl p-4 hover:border-border-strong transition-colors" data-anim>
-        <div class="text-[14px] font-medium flex items-center gap-1.5 flex-wrap tracking-tight">${esc(c.title)}${c.tag?`<span class="text-[10px] text-accent bg-accent/10 rounded-full px-2 py-0.5 font-mono">${esc(c.tag)}</span>`:''}</div>
-        <div class="text-[12.5px] text-muted leading-relaxed mt-1.5">${esc(c.body)}</div>
+      <div class="hud border border-line bg-panel p-4 hover:border-line-hi transition-colors" data-anim>
+        <span class="corners"></span>
+        <div class="text-[13.5px] font-semibold flex items-center gap-1.5 flex-wrap tracking-tight">${esc(c.title)}${c.tag?`<span class="text-[9.5px] text-cyan bg-cyan/10 border border-line font-mono uppercase px-1.5 py-0.5">${esc(c.tag)}</span>`:''}</div>
+        <div class="text-[12px] text-dim leading-relaxed mt-1.5">${esc(c.body)}</div>
       </div>`).join('')}</div>`).join('');
   animateCards();
 }
@@ -284,14 +303,15 @@ async function renderLinks(){
   const data=await (await fetch('./data/links.json',{cache:'no-store'})).json();
   const groups={};
   (data.links||[]).forEach(l=>{ (groups[l.group||'Weitere']=groups[l.group||'Weitere']||[]).push(l); });
-  el.innerHTML=(data.note?`<p class="text-[13px] text-muted mb-4">${esc(data.note)}</p>`:'')+
+  el.innerHTML=(data.note?`<p class="text-[11.5px] text-dim font-mono uppercase tracking-widest mb-4">// ${esc(data.note)}</p>`:'')+
     Object.entries(groups).map(([g,items])=>`
-    <h2 class="text-[12px] text-muted uppercase tracking-widest font-mono mt-7 mb-3">${esc(g)}</h2>
+    <div class="flex items-center gap-2 mt-7 mb-3"><span class="w-1.5 h-1.5 bg-mag"></span><h2 class="text-[11px] text-dim uppercase tracking-widest font-mono">${esc(g)}</h2></div>
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">${items.map(l=>`
-      <div class="border border-border bg-card rounded-2xl p-4 flex flex-col gap-2 hover:border-border-strong transition-colors" data-anim>
-        <div class="text-[14.5px] font-medium tracking-tight">${l.emoji?esc(l.emoji)+' ':''}${esc(l.name)}</div>
-        <div class="text-[12.5px] text-muted flex-1 leading-relaxed">${esc(l.desc||'')}</div>
-        <a class="self-start inline-flex items-center gap-1 text-[12.5px] font-medium text-accent hover:underline" href="${esc(safeUrl(l.url))}" target="_blank" rel="noopener">Öffnen <i data-lucide="arrow-up-right"></i></a>
+      <div class="hud border border-line bg-panel p-4 flex flex-col gap-2 hover:border-line-hi transition-colors" data-anim>
+        <span class="corners"></span>
+        <div class="text-[14px] font-semibold tracking-tight">${l.emoji?esc(l.emoji)+' ':''}${esc(l.name)}</div>
+        <div class="text-[12px] text-dim flex-1 leading-relaxed">${esc(l.desc||'')}</div>
+        <a class="self-start inline-flex items-center gap-1 text-[11.5px] font-mono uppercase tracking-wider text-cyan hover:glow" href="${esc(safeUrl(l.url))}" target="_blank" rel="noopener">Öffnen <i data-lucide="arrow-up-right"></i></a>
       </div>`).join('')}</div>`).join('');
   animateCards(); lucide.createIcons();
 }
@@ -309,13 +329,13 @@ async function renderLive(){
   const el=$('#content');
   const emb=EMBEDS.find(e=>e.id===currentEmbed)||EMBEDS[0];
   const chips=EMBEDS.map(e=>`
-    <button class="px-3 py-1.5 rounded-full border text-[12.5px] font-medium transition-colors ${e.id===emb.id?'bg-white/10 text-text border-border-strong':'bg-white/[0.03] text-muted border-border hover:text-text hover:border-border-strong'}" data-embed="${e.id}">${esc(e.label)}</button>`).join('');
+    <button class="px-3 py-1.5 border font-mono uppercase tracking-wider text-[11px] transition-colors ${e.id===emb.id?'border-cyan/50 bg-cyan/10 text-cyan glow':'border-line bg-panel text-dim hover:text-cyan hover:border-line-hi'}" data-embed="${e.id}">${esc(e.label)}</button>`).join('');
   el.innerHTML=`
-    <div class="flex items-center gap-2 flex-wrap">${chips}
-      <a class="ml-auto inline-flex items-center gap-1 text-[12.5px] font-medium text-accent hover:underline" href="${esc(safeUrl(emb.url))}" target="_blank" rel="noopener noreferrer">Im Original öffnen <i data-lucide="arrow-up-right"></i></a>
+    <div class="flex items-center gap-1.5 flex-wrap">${chips}
+      <a class="ml-auto inline-flex items-center gap-1 text-[11px] font-mono uppercase tracking-wider text-cyan hover:glow" href="${esc(safeUrl(emb.url))}" target="_blank" rel="noopener noreferrer">Original <i data-lucide="arrow-up-right"></i></a>
     </div>
-    <div class="pt-3"><iframe class="w-full rounded-2xl border border-border bg-black block" style="height:calc(100vh - 230px);min-height:480px" src="${esc(safeUrl(emb.url))}" allow="fullscreen" title="${esc(emb.label)}"></iframe></div>
-    <p class="pt-2.5 text-[11px] text-muted">Externe Live-Seite: ${esc(emb.note)} · Es gelten die Datenschutz-/Cookie-Regeln des jeweiligen Anbieters.</p>`;
+    <div class="pt-3 hud"><span class="corners"></span><iframe class="w-full border border-line bg-black block" style="height:calc(100vh - 240px);min-height:480px" src="${esc(safeUrl(emb.url))}" allow="fullscreen" title="${esc(emb.label)}"></iframe></div>
+    <p class="pt-2.5 text-[10px] text-dim font-mono uppercase tracking-widest">Externe Live-Seite: ${esc(emb.note)} · Datenschutz des Anbieters</p>`;
   el.querySelectorAll('[data-embed]').forEach(c=>c.addEventListener('click',()=>{ currentEmbed=c.dataset.embed; renderLive(); }));
   lucide.createIcons();
 }
@@ -330,11 +350,11 @@ async function refresh(){
 }
 function animateCards(){
   if(window.matchMedia('(prefers-reduced-motion: reduce)').matches||!window.Motion) return;
-  window.Motion.animate('[data-anim]', {opacity:[0,1],transform:['translateY(8px)','translateY(0)']},
-    {duration:0.28,delay:window.Motion.stagger(0.035),easing:'ease-out'});
+  window.Motion.animate('[data-anim]', {opacity:[0,1],transform:['translateY(10px)','translateY(0)']},
+    {duration:0.3,delay:window.Motion.stagger(0.04),easing:'ease-out'});
 }
 async function loadStats(){ try{ const s=await (await fetch('./data/stats.json',{cache:'no-store'})).json();
-  $('#lastUpdate').textContent=s.generated_at?('akt. '+window.dateFns.format(new Date(s.generated_at.replace('Z','+00:00')),'dd.MM. HH:mm')):''; }catch{} }
+  $('#lastUpdate').textContent=s.generated_at?('SYNC '+window.dateFns.format(new Date(s.generated_at.replace('Z','+00:00')),'dd.MM. HH:mm')):''; }catch{} }
 
 document.querySelectorAll('.tab').forEach(t=>t.setAttribute('aria-selected', t.dataset.tab===currentTab?'true':'false'));
 refresh(); loadStats(); lucide.createIcons();
