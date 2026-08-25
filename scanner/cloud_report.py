@@ -66,8 +66,22 @@ def get_nous_token():
             "User-Agent": USER_AGENT,
         },
     )
-    with urllib.request.urlopen(req, timeout=30) as r:
-        t = json.load(r)
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            t = json.load(r)
+    except urllib.error.HTTPError as e:
+        detail = ""
+        try:
+            detail = e.read().decode(errors="replace")[:200]
+        except Exception:
+            pass
+        if e.code in (400, 401):
+            raise RuntimeError(
+                f"NOUS_REFRESH_TOKEN abgelaufen oder ungültig (HTTP {e.code}: {detail}). "
+                "Bitte im Nous-Portal neu einloggen und das Secret NOUS_REFRESH_TOKEN "
+                "im GitHub-Repo (Settings → Secrets → Actions) aktualisieren."
+            ) from e
+        raise
     return t["access_token"], t.get("token_type", "Bearer"), t.get("refresh_token", "")
 
 
