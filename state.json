@@ -2581,7 +2581,15 @@
     "https://huggingface.co/blog/ibm-granite/granite-4-2": "2026-08-25T16:17:46Z",
     "https://techcrunch.com/?p=3154850": "2026-08-25T16:17:46Z",
     "https://techcrunch.com/?p=3156453": "2026-08-25T16:17:46Z",
-    "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/": "2026-08-25T16:17:46Z"
+    "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/": "2026-08-25T16:17:46Z",
+    "https://cointelegraph.com/news/strategy-financing-risk-not-bitcoin-sales": "2026-08-25T17:55:14Z",
+    "https://cointelegraph.com/news/bitwise-launches-self-custodied-tokenized-stock-portfolios-with-coinbase": "2026-08-25T17:55:14Z",
+    "https://decrypt.co/?p=376489": "2026-08-25T17:55:14Z",
+    "https://decrypt.co/?p=376446": "2026-08-25T17:55:14Z",
+    "https://decrypt.co/?p=376445": "2026-08-25T17:55:14Z",
+    "https://openai.com/index/introducing-admin-plugin": "2026-08-25T17:55:14Z",
+    "https://techcrunch.com/?p=3156630": "2026-08-25T17:55:16Z",
+    "https://www.marktechpost.com/?p=81857": "2026-08-25T17:55:17Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -4706,148 +4714,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://deepmind.google/blog/amie/",
-      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video",
-      "url": "https://deepmind.google/discover/blog/amie-our-research-medical-ai-system-demonstrates-real-time-clinical-video/",
-      "stream": "ai",
-      "source": "Google DeepMind",
-      "published": "2026-08-11T17:00:00Z",
-      "score": 7,
-      "category": "Research & Open Source",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "GOOGL"
-      ],
-      "summary": "Google DeepMind hat sein Forschungs-KI-System AMIE um Echtzeit-Fähigkeiten für klinische Videos erweitert, was eine unmittelbare Verarbeitung medizinischer Bilddaten während des Eingriffs ermöglicht. Diese technische Weiterentwicklung beschleunigt die Einführung von KI im Gesundheitswesen und betrifft direkt Akteure in der Medizintechnik sowie digitale Gesundheitslösungen. Die nächste Entwicklung ist die Integration dieser Echtzeit-Funktionalität in klinische Workflows zur Verbesserung der intraoperativen Entscheidungsfindung.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-12T12:06:20Z",
-      "summary_lang": "de"
-    },
-    {
-      "id": "https://huggingface.co/blog/ace-fewer-tokens",
-      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-      "url": "https://huggingface.co/blog/ace-fewer-tokens",
-      "stream": "ai",
-      "source": "Hugging Face - Blog",
-      "published": "2026-08-11T13:37:00Z",
-      "score": 6,
-      "category": "Research & Open Source",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Forscher von Hugging Face haben eine Technik entwickelt, die ähnliche Ergebnisse wie ACE mit weniger Tokens erzielt. Dieser Effizienzgewinn senkt potenziell die Inferenzkosten für agentic AI-Systeme und verbessert deren Wirtschaftlichkeit. Die praktische Durchsetzungsgeschwindigkeit dieser kostensenkenden Technologie ist der nächste entscheidende Faktor für die Marktadaption.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-12T13:27:26Z",
-      "summary_lang": "de"
-    },
-    {
-      "id": "https://techcrunch.com/2026/08/11/accel-india-fund/",
-      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after",
-      "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund/",
-      "stream": "ai",
-      "source": "TechCrunch",
-      "published": "2026-08-11T21:39:00Z",
-      "score": 5,
-      "category": "Business & Funding",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Accel hat seinen überzeichneten Fonds für Indien in Höhe von 550 Millionen US-Dollar innerhalb weniger Wochen abgeschlossen. Die starke Nachfrage signalisiert das anhaltende Interesse des Risikokapitals an KI- und Tech-Startups in Indien. Erhöhte Bewertungen indischer Deep-Tech-Gründungen sind in den kommenden Quartalen wahrscheinlich.",
-      "summary_lang": "de"
-    },
-    {
-      "id": "https://techcrunch.com/2026/08/11/openai-chatgpt-linux/",
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-      "stream": "ai",
-      "source": "TechCrunch",
-      "published": "2026-08-11T19:15:00Z",
-      "score": 6,
-      "category": "Model Release & Capability",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "OPENAI"
-      ],
-      "summary": "OpenAI hat eine ChatGPT-Desktopanwendung für Linux veröffentlicht, um die Plattformverfügbarkeit zu erweitern. Diese breitere Verteilung stärkt das Consumer-Ökosystem von OpenAI und dessen Entwicklerreichweite. Die Nutzerakquise im Linux-Bereich wird sich nun konkret zeigen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-12T13:27:26Z",
-      "summary_lang": "de"
-    },
-    {
-      "id": "https://techcrunch.com/2026/08/11/gemini-1-billion-users/",
-      "title": "Google's Gemini app surges to 1 billion users",
-      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-1-billion-users/",
-      "stream": "ai",
-      "source": "TechCrunch",
-      "published": "2026-08-11T18:49:00Z",
-      "score": 8,
-      "category": "Business & Funding",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "GOOGL"
-      ],
-      "summary": "Googles Gemini-App hat eine Milliarde Nutzer erreicht und zählt damit zu den am schnellst wachsenden Produkten aller Zeiten. Dieser Meilenstein unterstreicht Googles Führungsposition im Consumer-AI-Bereich und könnte seine Cloud- und Werbeeinnahmen ankurbeln. Die nächste Wegmarke ist die Auswirkung auf die Profitabilität von Googles Cloud-Sparte.",
-      "summary_lang": "de"
-    },
-    {
-      "id": "https://techcrunch.com/2026/08/11/lightcap-openai-departure/",
-      "title": "Brad Lightcap, OpenAI's longtime COO, is leaving to 'start something new'",
-      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openai-coo-leaving/",
-      "stream": "ai",
-      "source": "TechCrunch",
-      "published": "2026-08-11T17:41:00Z",
-      "score": 7,
-      "category": "Business & Funding",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [
-        "OPENAI"
-      ],
-      "summary": "Brad Lightcap verlässt als langjähriger COO von OpenAI das Unternehmen, um ein neues Projekt zu starten. Dies wirft Fragen zur Führungskontinuität auf und erzeugt Unsicherheit über die künftige strategische Ausrichtung der KI-Branche. Die nächste Wegmarke ist die Stabilisierung der Führungsstruktur bei OpenAI.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-12T12:06:20Z",
-      "summary_lang": "de"
-    },
-    {
-      "id": "https://techcrunch.com/2026/08/11/general-catalyst-river-ai/",
-      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-river-ai/",
-      "stream": "ai",
-      "source": "TechCrunch",
-      "published": "2026-08-11T16:25:00Z",
-      "score": 7,
-      "category": "Business & Funding",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "General Catalyst führt eine 1,1-Milliarden-Dollar-Finanzierungsrunde in das zwei Monate alte Unternehmen River AI. Diese massive Bewertung unterstreicht den intensiven Kapitalwettbewerb bei Startups für Foundation Models. Erhöhte Volatilität ist wahrscheinlich.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-12T12:06:20Z",
-      "summary_lang": "de"
-    },
-    {
-      "id": "https://techcrunch.com/2026/08/11/anthropic-riemann/",
-      "title": "An unreleased Anthropic model made progress on one of math's biggest unsolv",
-      "url": "https://techcrunch.com/2026/08/11/anthropic-model-riemann-hypothesis-progress/",
-      "stream": "ai",
-      "source": "TechCrunch",
-      "published": "2026-08-11T16:25:00Z",
-      "score": 7,
-      "category": "Model Release & Capability",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "ANTHROPIC"
-      ],
-      "summary": "Ein unveröffentlichtes Anthropic-Modell hat angeblich Fortschritte bei der Riemannschen Vermutung erzielt. Dies signalisiert einen bedeutenden Fortschritt im KI-Reasoning und betrifft autonome logische Systeme positiv. Die Bestätigung dieses Durchbruchs ist der nächste Indikator für die weitere Entwicklung autonomer logischer Systeme.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-12T12:06:20Z",
-      "summary_lang": "de"
-    },
     {
       "id": "https://techcrunch.com/2026/08/11/spotify-ai-persona/",
       "title": "Spotify will label 'AI Persona' profiles and exclude their music from recom",
@@ -8088,6 +7954,132 @@
       "instruments": [],
       "entities": [],
       "summary": "Der Artikel beschreibt, dass KI Radiologen nicht ersetzen wird, aber ihren Berufsalltag erheblich verändern dürfte. Die Technologie übernimmt zunehmend Teile der Bildanalyse, wodurch sich Aufgaben und Anforderungen an Radiologen verschieben. Die Folge ist ein Wandel des Berufsbilds mit neuen Schwerpunkten auf KI-gestützter Diagnostik und entsprechenden Weiterbildungen."
+    },
+    {
+      "id": "https://cointelegraph.com/news/strategy-financing-risk-not-bitcoin-sales",
+      "title": "Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-25T16:47:40Z",
+      "score": 7,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Ein Bericht besagt, dass die 66-Milliarden-Dollar-Bitcoin-Strategie von Strategy stärker von den Kapitalmärkten abhängt als vom Bitcoin-Preis. Ohne weitere Finanzierungsmöglichkeiten über Anleihen oder Aktien könnte das Unternehmen seine Bitcoin-Käufe nicht fortsetzen, was die Nachfrage schwächen würde. Sollte die Kapitalmarktfinanzierung versiegen, dürfte der Bitcoin-Preis entsprechend unter Druck geraten."
+    },
+    {
+      "id": "https://cointelegraph.com/news/bitwise-launches-self-custodied-tokenized-stock-portfolios-with-coinbase",
+      "title": "Bitwise launches self-custodied tokenized stock portfolios with Coinbase",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-25T16:32:00Z",
+      "score": 6,
+      "category": "Tech Update",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Bitwise bringt zusammen mit Coinbase selbstverwahrte tokenisierte Aktienportfolios auf den Markt. Das Angebot verbindet traditionelle Aktienmärkte mit der Krypto-Infrastruktur und stärkt damit die institutionelle Akzeptanz tokenisierter Vermögenswerte. In der Folge dürfte das Interesse an tokenisierten Wertpapieren und entsprechenden Partnerschaften weiter zunehmen."
+    },
+    {
+      "id": "https://decrypt.co/?p=376489",
+      "title": "Gold Hits Three-Month High as Bitcoin Tests $80,000",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-08-25T17:24:54Z",
+      "score": 6,
+      "category": "Macro",
+      "sentiment": "bullish",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Gold erreicht ein Drei-Monats-Hoch, während Bitcoin die Marke von 80.000 Dollar testet. Die parallele Stärke von Gold und Bitcoin deutet auf anhaltende Nachfrage nach alternativen Wertspeichern hin. Entscheidend ist, ob Bitcoin die 80.000-Dollar-Marke nachhaltig überwindet."
+    },
+    {
+      "id": "https://decrypt.co/?p=376446",
+      "title": "Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-08-25T16:45:59Z",
+      "score": 5,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Laut einem Artikel von Decrypt läuft die aktuelle Bitcoin-Rallye dem übrigen Markt voraus und wird mit einer besonderen Nachfrage erklärt. Diese relative Stärke von Bitcoin gegenüber anderen Kryptoassets deutet auf wachsendes Anlegerinteresse an der größten Kryptowährung hin. Erhöhte Kursschwankungen sind wahrscheinlich, und die Rally dürfte die Markterwartung einer anhaltenden Bitcoin-Dominanz bestärken."
+    },
+    {
+      "id": "https://decrypt.co/?p=376445",
+      "title": "Crypto Group Warns Regulators Against Expanding Stablecoin KYC",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-08-25T16:28:59Z",
+      "score": 5,
+      "category": "Regulation",
+      "sentiment": "neutral",
+      "instruments": [
+        "USDT.D"
+      ],
+      "entities": [],
+      "summary": "Eine Krypto-Organisation warnt Regulierungsbehörden davor, die KYC-Pflichten für Stablecoins auszuweiten. Der Einspruch will verhindern, dass strengere Identitätsprüfungen die Nutzung von Stablecoins erschweren. Sollten die Behörden die Warnung ignorieren, müssen Stablecoin-Anbieter mit höheren Compliance-Lasten rechnen."
+    },
+    {
+      "id": "https://openai.com/index/introducing-admin-plugin",
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "url": null,
+      "stream": "ai",
+      "source": "OpenAI News",
+      "published": "2026-08-25T00:00:00Z",
+      "score": 6,
+      "category": "Business & Funding",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [
+        "OpenAI"
+      ],
+      "summary": "OpenAI stellt ein Admin-Plugin für ChatGPT Work und Codex vor. Die Erweiterung erleichtert Unternehmen Verwaltung und Integration der KI-Tools. Eine stärkere Nutzung im Enterprise-Bereich ist wahrscheinlich."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3156630",
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-25T17:50:33Z",
+      "score": 6,
+      "category": "Business & Funding",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [
+        "Anthropic"
+      ],
+      "summary": "Anthropic hat Claude Cowork um eine Speicherfunktion erweitert, sodass die App Informationen aus dem Chat dauerhaft berücksichtigt. Damit verbessert der Anbieter die Nutzerfreundlichkeit seines KI-Assistenten und erhöht den Wettbewerbsdruck auf vergleichbare Produkte. Zu erwarten ist eine stärkere Nutzerbindung und höhere Adoption von Claude Cowork."
+    },
+    {
+      "id": "https://www.marktechpost.com/?p=81857",
+      "title": "Meta AI Introduces MetaRoCE: A Clean-Sheet RDMA Transport Built for AI-Scale Ethernet",
+      "url": null,
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-08-25T17:25:36Z",
+      "score": 8,
+      "category": "Hardware & Infrastructure",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "META"
+      ],
+      "summary": "Meta AI stellt MetaRoCE vor, einen neu entwickelten RDMA-Transport, der Ethernet für KI-Cluster optimieren soll. Die Technologie kann die Netzwerkleistung großer KI-Workloads verbessern und Metas Abhängigkeit von teuren Spezialnetzwerken verringern. Dadurch dürfte der Trend zu skalierbaren Ethernet-basierten KI-Rechenzentren gestärkt werden."
     }
   ],
   "digest_log": [
