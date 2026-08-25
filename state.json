@@ -7900,7 +7900,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Grayscale hat den ersten Zcash-ETF seiner Art aufgelegt, während der Privacy-Coin ZEC zeitgleich stark zulegt. Der Schritt öffnet institutionellen Anlegern einen regulierten Zugang zu Zcash und stärkt die Wahrnehmung von Privacy-Coins insgesamt. Für ZEC und den Privacy-Sektor ist mit anhaltendem Interesse und höherer Nachfrage zu rechnen."
+      "summary": "Grayscale hat den ersten Zcash-ETF seiner Art aufgelegt, während der Privacy-Coin ZEC zeitgleich stark zulegt. Der Schritt öffnet institutionellen Anlegern einen regulierten Zugang zu Zcash und stärkt die Wahrnehmung von Privacy-Coins insgesamt. Für ZEC und den Privacy-Sektor ist mit anhaltendem Interesse und höherer Nachfrage zu rechnen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-25T15:28:10Z"
     },
     {
       "id": "https://cointelegraph.com/news/arcus-tokenized-perp-positions-robinhood-chain",
@@ -7914,7 +7916,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Arcus hat tokenisierte Perpetual-Positionen auf der Robinhood Chain gelauncht. Das erweitert das On-Chain-Handelsangebot und könnte mehr Nutzer für gehebelte DeFi-Produkte begeistern. Eine erhöhte Aktivität auf der Robinhood Chain und im Perpetuals-Segment ist wahrscheinlich."
+      "summary": "Arcus hat tokenisierte Perpetual-Positionen auf der Robinhood Chain gelauncht. Das erweitert das On-Chain-Handelsangebot und könnte mehr Nutzer für gehebelte DeFi-Produkte begeistern. Eine erhöhte Aktivität auf der Robinhood Chain und im Perpetuals-Segment ist wahrscheinlich.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-25T15:28:10Z"
     },
     {
       "id": "https://cointelegraph.com/features/hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox",
@@ -7928,7 +7932,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Ein Sicherheitsvorfall bei Hugging Face legt offen, dass Open-Weight-Modelle ein Cybersicherheits-Paradox darstellen: Transparenz kann auch Angriffsfläche bedeuten. Das untergräbt das Vertrauen in Open-Source-KI und erhöht die Risiken für Unternehmen, die solche Modelle produktiv einsetzen. In der Folge dürften Sicherheitsstandards und Regulierungsforderungen für offene Gewichte an Bedeutung gewinnen."
+      "summary": "Ein Sicherheitsvorfall bei Hugging Face legt offen, dass Open-Weight-Modelle ein Cybersicherheits-Paradox darstellen: Transparenz kann auch Angriffsfläche bedeuten. Das untergräbt das Vertrauen in Open-Source-KI und erhöht die Risiken für Unternehmen, die solche Modelle produktiv einsetzen. In der Folge dürften Sicherheitsstandards und Regulierungsforderungen für offene Gewichte an Bedeutung gewinnen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-25T15:28:10Z"
     },
     {
       "id": "https://cointelegraph.com/news/chainalysis-operation-lighthouse-flags-7700-crypto-accounts",
@@ -7942,7 +7948,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Die von Chainalysis geführte Operation Lighthouse hat im Rahmen einer Kindesmissbrauchs-Ermittlung 7.700 Krypto-Konten markiert. Der Fall verstärkt den Eindruck, dass Kryptowährungen für illegale Zwecke genutzt werden, und erhöht den regulatorischen Druck auf den Sektor. Es drohen weitere Durchsetzungsmaßnahmen sowie strengere Compliance-Anforderungen für Börsen."
+      "summary": "Die von Chainalysis geführte Operation Lighthouse hat im Rahmen einer Kindesmissbrauchs-Ermittlung 7.700 Krypto-Konten markiert. Der Fall verstärkt den Eindruck, dass Kryptowährungen für illegale Zwecke genutzt werden, und erhöht den regulatorischen Druck auf den Sektor. Es drohen weitere Durchsetzungsmaßnahmen sowie strengere Compliance-Anforderungen für Börsen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-25T15:28:10Z"
     },
     {
       "id": "https://cointelegraph.com/news/india-tokenized-bonds-digital-rupee",
@@ -7956,7 +7964,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Indien plant laut einem Bericht die erste Emission tokenisierter Anleihen über die Großhandels-CBDC, die digitale Rupie. Das unterstreicht das wachsende institutionelle Interesse an Blockchain-basierten Finanzinstrumenten und könnte die Akzeptanz digitaler Assets fördern. Eine konkrete Marktreaktion ist kurzfristig unwahrscheinlich, die Entwicklung bleibt aber ein Signal für staatliche Blockchain-Anwendungen."
+      "summary": "Indien plant laut einem Bericht die erste Emission tokenisierter Anleihen über die Großhandels-CBDC, die digitale Rupie. Das unterstreicht das wachsende institutionelle Interesse an Blockchain-basierten Finanzinstrumenten und könnte die Akzeptanz digitaler Assets fördern. Eine konkrete Marktreaktion ist kurzfristig unwahrscheinlich, die Entwicklung bleibt aber ein Signal für staatliche Blockchain-Anwendungen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-25T15:28:10Z"
     },
     {
       "id": "https://cointelegraph.com/news/shipyard-winds-down-ipfs-protocol-labs-funding",
@@ -7984,7 +7994,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Grayscale hat einen Zcash-ETF aufgelegt, nachdem ein kritischer Privacy-Flaw die Kryptowährung erschüttert hatte. Der Schritt bringt institutionelles Kapital in den Zcash-Markt und stärkt trotz der Sicherheitsbedenken die Legitimität des Assets. Kurzfristig dürfte die Nachfrage nach dem neuen ETF positiv auf Zcash wirken, während die Privacy-Debatte anhält."
+      "summary": "Grayscale hat einen Zcash-ETF aufgelegt, nachdem ein kritischer Privacy-Flaw die Kryptowährung erschüttert hatte. Der Schritt bringt institutionelles Kapital in den Zcash-Markt und stärkt trotz der Sicherheitsbedenken die Legitimität des Assets. Kurzfristig dürfte die Nachfrage nach dem neuen ETF positiv auf Zcash wirken, während die Privacy-Debatte anhält.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-25T15:28:10Z"
     },
     {
       "id": "https://decrypt.co/?p=376429",
@@ -8000,7 +8012,9 @@
         "ETHUSD"
       ],
       "entities": [],
-      "summary": "Coinbase bringt tokenisierte Aktien auf sein Layer-2-Netzwerk Base. Das erweitert das Krypto-Angebot um reale Vermögenswerte und stärkt die Nutzung von Base und Ethereum. In der Folge dürfte die Nachfrage nach tokenisierten Wertpapieren und Ethereum-basierten Netzwerken steigen."
+      "summary": "Coinbase bringt tokenisierte Aktien auf sein Layer-2-Netzwerk Base. Das erweitert das Krypto-Angebot um reale Vermögenswerte und stärkt die Nutzung von Base und Ethereum. In der Folge dürfte die Nachfrage nach tokenisierten Wertpapieren und Ethereum-basierten Netzwerken steigen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-25T15:28:10Z"
     },
     {
       "id": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
@@ -8014,7 +8028,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Ein Hugging-Face-Blog stellt die Methode Quantization-Aware Healing vor, bei der ein komprimiertes 4-Bit-Modell das ursprüngliche Modell in voller Präzision übertrifft. Für die KI-Industrie ist das bedeutsam, weil effizientere kleinere Modelle Rechenkosten und Energiebedarf senken können. Solche Kompressionstechniken könnten den Einsatz leistungsfähiger Modelle auf weniger anspruchsvoller Hardware erleichtern."
+      "summary": "Ein Hugging-Face-Blog stellt die Methode Quantization-Aware Healing vor, bei der ein komprimiertes 4-Bit-Modell das ursprüngliche Modell in voller Präzision übertrifft. Für die KI-Industrie ist das bedeutsam, weil effizientere kleinere Modelle Rechenkosten und Energiebedarf senken können. Solche Kompressionstechniken könnten den Einsatz leistungsfähiger Modelle auf weniger anspruchsvoller Hardware erleichtern.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-25T15:28:10Z"
     },
     {
       "id": "https://techcrunch.com/?p=3156161",
@@ -8028,7 +8044,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "Das von Accel unterstützte Startup Keenable indexiert das Web speziell für KI-Agenten. Damit erweitert sich die Infrastruktur für KI-Agenten, die so auf aktuelle Webinhalte zugreifen können und bestehenden Anbietern Konkurrenz machen. Eine breite Marktwirkung hängt von der Produkteinführung und weiteren Finanzierungsrunden ab."
+      "summary": "Das von Accel unterstützte Startup Keenable indexiert das Web speziell für KI-Agenten. Damit erweitert sich die Infrastruktur für KI-Agenten, die so auf aktuelle Webinhalte zugreifen können und bestehenden Anbietern Konkurrenz machen. Eine breite Marktwirkung hängt von der Produkteinführung und weiteren Finanzierungsrunden ab.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-25T15:28:10Z"
     },
     {
       "id": "https://techcrunch.com/?p=3156075",
@@ -8060,7 +8078,9 @@
       "entities": [
         "AAPL"
       ],
-      "summary": "Apple hat neue Mac Studio- und Mac Mini-Modelle vorgestellt, die gezielt für lokale KI-Entwicklung und -Inferenz optimiert sind. Damit stärkt der Hersteller das On-Device-KI-Segment und setzt Cloud-Anbieter unter Wettbewerbsdruck. Für Entwickler sinkt die Hürde, Modelle lokal zu testen, was lokale KI-Workflows ohne Cloud-Anbindung weiter etablieren dürfte."
+      "summary": "Apple hat neue Mac Studio- und Mac Mini-Modelle vorgestellt, die gezielt für lokale KI-Entwicklung und -Inferenz optimiert sind. Damit stärkt der Hersteller das On-Device-KI-Segment und setzt Cloud-Anbieter unter Wettbewerbsdruck. Für Entwickler sinkt die Hürde, Modelle lokal zu testen, was lokale KI-Workflows ohne Cloud-Anbindung weiter etablieren dürfte.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-25T15:28:10Z"
     }
   ],
   "digest_log": [
@@ -8281,6 +8301,21 @@
         "https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution",
         "https://decrypt.co/?p=376427",
         "https://decrypt.co/?p=376424"
+      ]
+    },
+    {
+      "at": "2026-08-25T15:28:10Z",
+      "article_ids": [
+        "907a737d-4d0f-5800-ae0c-b74e4f1b6f85",
+        "https://cointelegraph.com/news/chainalysis-operation-lighthouse-flags-7700-crypto-accounts",
+        "https://cointelegraph.com/news/india-tokenized-bonds-digital-rupee",
+        "https://decrypt.co/?p=376420",
+        "https://decrypt.co/?p=376429",
+        "https://cointelegraph.com/news/arcus-tokenized-perp-positions-robinhood-chain",
+        "https://cointelegraph.com/features/hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox",
+        "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+        "https://techcrunch.com/?p=3156161",
+        "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/"
       ]
     }
   ],
