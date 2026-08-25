@@ -1,124 +1,103 @@
 {
-  "ts": "2026-08-19T15:35:24.815093Z",
+  "ts": "2026-08-25T10:51:30.838661Z",
   "instrument": "ALL",
-  "text": "1. **Kernaussage** — Der Gesamtmarkt zeigt bei BTC um 64.895 USD eine leichte Aufwärtsbewegung, während US-Aktienindizes wie der NDX um 1,68 % nachgeben; Krypto agiert relativ stabil.\n\n2. **Was es bedeutet** — Die positive Differenzierung trotz moderat steigendem VIX (15,19) und leicht negativem Aktienumfeld signalisiert keine ausgeprägte Risiko-On-Stimmung, sondern eher stabilisierte Nachfrage. Altcoins führen: SOL +3,05 %, ETH +2,16 %. Der Fear-and-Greed-Index bleibt mit 46 neutral, das Funding nahezu ausgeglichen. ETF-Zuflüsse von zuletzt 189 Mio. USD stützen institutionelles Interesse; regulatorische Vorschläge der SEC und der MAYAChain-Vorfall dämpfen jedoch das Sentiment.\n\n3. **Zu beachten** — Entscheidend ist, ob BTC die Marke nahe 64.900 USD halten kann, während die Aktienmärkte schwächeln; die Reaktion auf den gestiegenen VIX dürfte die Richtung im Kryptomarkt mitbestimmen.",
+  "text": "Kernaussage: Der Gesamtmarkt zeigt sich freundlich: BTC steigt auf 79.161 USD, SOL legt mit +5,2 % am stärksten zu, während ETH nahezu stagniert und ETHBTC fällt. Der Fear-and-Greed-Index bleibt mit 74 klar in der Greed-Zone.\n\nWas es bedeutet: Die Daten signalisieren einen selektiven Risk-on-Modus. Die steigende BTC-Dominanz (59,69 %) und das fallende ETHBTC deuten auf Kapitalrotation in Bitcoin und Solana statt in die breite Altcoin-Marktkapitalisierung. Positive SEC-Signale und ETF-Zuflüsse stützen das Sentiment. Gleichzeitig bleibt der makroökonomische Rahmen gemischt: Der US-10Y steigt auf 4,74 %, während der VIX fällt und die Aktienindizes leicht nachgeben.\n\nZu beachten: Wichtigster Beobachtungspunkt ist, ob die BTC-Dominanz ihren Aufwärtstrend fortsetzt und das ETF-Zuflussmomentum die Nachfrage trägt – oder ob steigende Renditen die Risk-on-Stimmung dämpfen.",
   "numbers": [
     {
       "sym": "BTCUSD",
-      "value": 64895,
-      "change": 1.32,
+      "value": 79161,
+      "change": 2.09,
       "label": "",
       "group": "Direkte Korrelation"
     },
     {
       "sym": "ETHUSD",
-      "value": 1935.87,
-      "change": 2.16,
+      "value": 2472.01,
+      "change": 0.43,
       "label": "",
       "group": "Direkte Korrelation"
     },
     {
       "sym": "SOLUSD",
-      "value": 78.39,
-      "change": 3.05,
+      "value": 99.6,
+      "change": 5.23,
       "label": "",
       "group": "Direkte Korrelation"
     },
     {
       "sym": "ETHBTC",
-      "value": 0.029831,
-      "change": 0.83,
+      "value": 0.031228,
+      "change": -1.63,
       "label": "",
       "group": "Kapitalrotation"
     },
     {
       "sym": "BTC.D",
-      "value": 56.56,
+      "value": 59.69,
       "change": null,
       "label": "",
       "group": "Liquidität & Sentiment"
     },
     {
       "sym": "USDT.D",
-      "value": 7.95,
+      "value": 6.84,
       "change": null,
       "label": "",
       "group": "Liquidität & Sentiment"
     },
     {
       "sym": "F&G",
-      "value": 46.0,
-      "change": 5.0,
-      "label": "Fear",
+      "value": 74.0,
+      "change": 1.0,
+      "label": "Greed",
       "group": "Liquidität & Sentiment"
     },
     {
-      "sym": "FUNDING",
-      "value": 0.005,
-      "change": null,
-      "label": "",
-      "group": "Derivate"
-    },
-    {
-      "sym": "OI",
-      "value": 105433.392,
-      "change": null,
-      "label": "",
-      "group": "Derivate"
-    },
-    {
-      "sym": "ORDERBOOK",
-      "value": 0.0,
-      "change": 29.55,
-      "label": "",
-      "group": "Derivate"
-    },
-    {
       "sym": "MEMPOOL",
-      "value": 80925.0,
+      "value": 82590.0,
       "change": null,
       "label": "",
       "group": "On-Chain"
     },
     {
       "sym": "MO30",
-      "value": 0.27,
+      "value": 18.86,
       "change": null,
       "label": "",
       "group": "On-Chain"
     },
     {
       "sym": "DXY",
-      "value": 118.9,
-      "change": -0.24,
+      "value": 118.06,
+      "change": -0.16,
       "label": "",
       "group": "TradFi/Makro"
     },
     {
       "sym": "NDX",
-      "value": 29490.96,
-      "change": -1.68,
+      "value": 29023.18,
+      "change": -0.97,
       "label": "",
       "group": "TradFi/Makro"
     },
     {
       "sym": "VIX",
-      "value": 15.19,
-      "change": 6.6,
+      "value": 15.13,
+      "change": -5.5,
       "label": "",
       "group": "TradFi/Makro"
     },
     {
       "sym": "US10Y",
-      "value": 4.72,
-      "change": 0.85,
+      "value": 4.74,
+      "change": 1.07,
       "label": "",
       "group": "TradFi/Makro"
     },
     {
       "sym": "SPX",
-      "value": 7691.76,
-      "change": -0.69,
+      "value": 7652.86,
+      "change": -0.28,
       "label": "",
       "group": "TradFi/Makro"
     }
