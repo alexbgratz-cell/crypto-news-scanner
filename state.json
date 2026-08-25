@@ -2549,7 +2549,11 @@
     "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia": "2026-08-25T09:59:48Z",
     "https://www.technologyreview.com/?p=1141907": "2026-08-25T09:59:50Z",
     "6a832aea4b5ce895652e6c3f": "2026-08-25T09:59:50Z",
-    "6a8bcbcc05bb0e7bdcba3ae7": "2026-08-25T09:59:50Z"
+    "6a8bcbcc05bb0e7bdcba3ae7": "2026-08-25T09:59:50Z",
+    "https://cointelegraph.com/news/thailand-bitcoin-ether-etfs-draft-rules": "2026-08-25T10:53:47Z",
+    "https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution": "2026-08-25T10:53:47Z",
+    "https://decrypt.co/?p=376427": "2026-08-25T10:53:47Z",
+    "https://decrypt.co/?p=376424": "2026-08-25T10:53:47Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -4663,62 +4667,17 @@
       "stream": "ai",
       "source": "Feed: Artificial Intelligence Latest",
       "published": "2026-08-25T09:15:00Z"
+    },
+    "https://cointelegraph.com/news/thailand-bitcoin-ether-etfs-draft-rules": {
+      "id": "https://cointelegraph.com/news/thailand-bitcoin-ether-etfs-draft-rules",
+      "title": "Thailand moves closer to Bitcoin, Ether ETFs with draft rules",
+      "url": "https://cointelegraph.com/news/thailand-bitcoin-ether-etfs-draft-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-25T10:20:14Z"
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/sec-crypto-regulations-absence-clarity-act",
-      "title": "SEC to address crypto regulations in absence of CLARITY passage",
-      "url": "https://cointelegraph.com/news/sec-crypto-regulations-absence-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-11T20:59:07Z",
-      "score": 7,
-      "category": "Regulation",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Die US-Börsenaufsichtsbehörde SEC hat für diese Woche eine Sitzung zur Behandlung digitaler Vermögenswerte angesetzt, da der CLARITY Act nicht verabschiedet wurde. Dies signalisiert eine mögliche Verschärfung der Krypto-Regulierung durch die Aufsichtsbehörde unabhängig von Kongress-Maßnahmen. Erhöhte Volatilität ist wahrscheinlich.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-12T11:10:26Z",
-      "summary_lang": "de"
-    },
-    {
-      "id": "https://cointelegraph.com/news/ita-joins-brazil-tokenization-pilot-with-openassets-brief",
-      "title": "Itaú joins Brazil tokenization pilot with OpenAssets",
-      "url": "https://cointelegraph.com/news/ita-joins-brazil-tokenization-pilot-with-openassets-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-11T20:55:58Z",
-      "score": 6,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Itaú beteiligt sich am von ANBIMA geleiteten brasilianischen Pilotprojekt mit OpenAssets zur Erprobung tokenisierter festverzinslicher Wertpapiere und Investmentfonds. Dieser Schritt einer führenden Bank unterstreicht die wachsende institutionelle Akzeptanz der Tokenisierung im Finanzsektor. Die erhöhte Marktdynamik durch diese neue institutionelle Beteiligung ist absehbar.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-12T13:27:26Z",
-      "summary_lang": "de"
-    },
-    {
-      "id": "https://cointelegraph.com/news/moneygram-expands-crypto-cash-ramps-to-solana",
-      "title": "MoneyGram expands crypto cash ramps to Solana",
-      "url": "https://cointelegraph.com/news/moneygram-expands-crypto-cash-ramps-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-11T19:53:02Z",
-      "score": 7,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [
-        "SOLUSD"
-      ],
-      "entities": [],
-      "summary": "MoneyGram integriert Solana-Wallets über seinen Ramps-Dienst in sein globales Bargeldnetzwerk, wobei Rift als erste Wallet fungiert. Dies erhöht die Zugänglichkeit von Solana für Privatkunden und erweitert die physischen Ein- und Ausstiegsmöglichkeiten für das Netzwerk. Die weitere Adoption von Rift und weiteren Wallets im MoneyGram-Ökosystem sowie die daraus resultierende Liquiditätsentwicklung auf der Solana-Chain sind zu erwarten.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-12T11:10:26Z",
-      "summary_lang": "de"
-    },
     {
       "id": "https://cointelegraph.com/news/clarity-act-senate-delay-window-become-law-midterm-elections",
       "title": "Following Senate delay, crypto bill has narrow window to become law",
@@ -8078,6 +8037,48 @@
       "summary": "Nvidia hat aufgezeigt, dass der „Harness“ – die infrastrukturseitige Steuerung und Umgebung – für den Erfolg von KI-Modellen entscheidender ist als das Modell selbst. Damit rückt die Hardware- und Infrastrukturebene ins Zentrum der KI-Wertschöpfung; Anbieter wie Nvidia gewinnen strategisch an Bedeutung. Die weitere Nachfrage nach Nvidias Infrastruktur-Lösungen dürfte dadurch gestützt bleiben.",
       "delivered": "digest",
       "delivered_at": "2026-08-21T20:55:38Z"
+    },
+    {
+      "id": "https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution",
+      "title": "Standard Chartered becomes first bank distributor of HKD stablecoin",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-25T09:52:40Z",
+      "score": 7,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Standard Chartered ist die erste Bank, die einen HKD-Stablecoin vertreibt. Das stärkt die institutionelle Akzeptanz und Legitimität von Stablecoins im asiatischen Markt. Der Stablecoin-Sektor dürfte davon insgesamt profitieren und weitere Banken könnten nachziehen."
+    },
+    {
+      "id": "https://decrypt.co/?p=376427",
+      "title": "Jury Convicts Las Vegas Man of $24M AI Crypto Mining Ponzi Scheme",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-08-25T10:50:23Z",
+      "score": 7,
+      "category": "Regulation",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Eine Jury in Las Vegas hat einen Mann wegen eines Ponzi-Schemas mit angeblich KI-gestütztem Krypto-Mining im Umfang von 24 Millionen US-Dollar schuldig gesprochen. Der Fall belastet das Vertrauen in KI-Crypto-Mining-Angebote und wirft ein schlechtes Licht auf die Branche. Die Verurteilung stärkt die regulatorische Durchsetzung gegen Krypto-Anlagebetrug."
+    },
+    {
+      "id": "https://decrypt.co/?p=376424",
+      "title": "US Can Now Sanction Anyone Operating in Iran's Crypto Sector",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-08-25T10:21:41Z",
+      "score": 7,
+      "category": "Regulation",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Die USA haben neue Sanktionsbefugnisse geschaffen, die es erlauben, Personen und Unternehmen zu sanktionieren, die im iranischen Kryptosektor tätig sind. Das erhöht den regulatorischen Druck und das Compliance-Risiko für Börsen und Dienstleister mit Iran-Bezug und könnte Marktteilnehmer abschrecken. In der Konsequenz ist mit verschärften Durchsetzungsmaßnahmen und einem Rückzug internationaler Krypto-Firmen aus Iran-Geschäften zu rechnen."
     }
   ],
   "digest_log": [
