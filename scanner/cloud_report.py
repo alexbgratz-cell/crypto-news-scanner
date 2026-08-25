@@ -188,9 +188,40 @@ def publish(report):
     return "veröffentlicht"
 
 
+SLOTS = [(9, 0), (15, 30), (22, 0)]  # Europe/Berlin
+SLOT_TOLERANCE_MIN = 45  # GH-Actions-Cron startet ungenau (±5–20 min) — Slot als Fenster
+
+
 def is_slot_time():
+    """True, wenn jetzt (Europe/Berlin) innerhalb eines Slot-Fensters liegt.
+
+    Frueher exakter Minutenvergleich -> bei Cron-Verzoegerung wurde tagelang
+    kein Bericht erzeugt, obwohl der Workflow 'success' meldete.
+    """
     now = datetime.datetime.now()  # TZ-Env Europe/Berlin
-    return (now.hour, now.minute) in [(9, 0), (15, 30), (22, 0)]
+    now_min = now.hour * 60 + now.minute
+    for h, m in SLOTS:
+        slot_min = h * 60 + m
+        # Fenster: von Slot bis +Toleranz (Cron kommt praktisch immer zu spaet, nie zu frueh)
+        if slot_min <= now_min <= slot_min + SLOT_TOLERANCE_MIN:
+            return True
+    return False
+
+
+def report_already_current():
+    """True, wenn der letzte Bericht aus dem aktuellen Slot-Fenster stammt.
+
+    Der Workflow laeuft 2x/Stunde -> ohne diese Sperre wuerde das 45-Min-Fenster
+    pro Slot zwei Berichte erzeugen.
+    """
+    last = read_json("data/market-report.json", {})
+    ts = last.get("ts", "")
+    try:
+        t = datetime.datetime.fromisoformat(ts.replace("Z", "+00:00"))
+    except Exception:
+        return False
+    age_min = (datetime.datetime.now(datetime.timezone.utc) - t).total_seconds() / 60
+    return age_min <= SLOT_TOLERANCE_MIN + 10
 
 
 def ntfy_trigger():
@@ -213,6 +244,9 @@ def main():
     if mode == "--slot":
         if not is_slot_time():
             print("Kein Berichts-Slot (09:00/15:30/22:00 Berlin) — übersprungen")
+            return
+        if report_already_current():
+            print("Bericht aus diesem Slot-Fenster liegt bereits vor — übersprungen")
             return
     elif mode == "--ntfy":
         if not ntfy_trigger():

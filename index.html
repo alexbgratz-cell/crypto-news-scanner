@@ -99,6 +99,7 @@
   .report-btn { background: var(--accent); color: #04101f; border: none; border-radius: 8px; padding: 9px 14px; font-size: 13px; font-weight: 700; cursor: pointer; margin-top: 10px; }
   .report-btn:disabled { opacity: .6; cursor: wait; }
   .report-status { font-size: 12px; color: var(--muted); margin-top: 8px; }
+  .report-stale { background: #9e6a0333; border: 1px solid #9e6a03; color: #e3b341; border-radius: 8px; padding: 8px 10px; font-size: 12px; margin-bottom: 10px; }
   .num-wrap { overflow: hidden; border-radius: 10px; }
   .num-table { width: 100%; border-collapse: collapse; font-size: 12.5px; background: var(--card); border: 1px solid var(--border); }
   .num-table th { text-align: left; color: var(--muted); font-weight: 600; font-size: 11px; text-transform: uppercase; letter-spacing: .4px; padding: 8px 12px; border-bottom: 1px solid var(--border); }
@@ -444,14 +445,19 @@ async function renderHome() {
   } catch {}
   const slots = "09:00 · 15:30 · 22:00 Uhr";
   const reportTs = rep && rep.ts ? rep.ts : "";
+  const ageH = reportTs ? (Date.now() - new Date(reportTs.replace("Z", "+00:00")).getTime()) / 36e5 : null;
+  const staleNote = ageH !== null && ageH > 8
+    ? `<div class="report-stale">⚠️ Dieser Bericht ist ${ageH >= 24 ? Math.floor(ageH / 24) + " Tage" : Math.round(ageH) + " Stunden"} alt — der automatische Bericht scheint zuletzt nicht gelaufen zu sein. Tippe unten auf „Neuen Marktbericht anfordern".</div>`
+    : "";
   el.innerHTML = `
     <div class="section-title">📈 Marktbericht · KI-Einschätzung</div>
     ${rep && rep.text ? `
       <div class="home-report">
+        ${staleNote}
         <div class="home-meta">${rep.ts ? esc(new Date(rep.ts.replace("Z", "+00:00")).toLocaleString("de-DE")) : "–"} · ${rep.instrument === "ALL" ? "Gesamtmarkt" : esc(rep.instrument)}</div>
         <div class="home-text">${esc(cleanReport(rep.text))}</div>
         <button id="repNowBtn" class="report-btn">🔄 Neuen Marktbericht anfordern</button>
-        <div id="repNowStatus" class="report-status">Automatisch um ${slots}. Jederzeit anfordern: dauert ~30–60 s, sofern der Mac läuft · max. 1 Anfrage alle 5 Minuten.</div>
+        <div id="repNowStatus" class="report-status">Automatisch um ${slots}. Jederzeit anfordern: dauert ~1–3 min (läuft in der Cloud) · max. 1 Anfrage alle 5 Minuten.</div>
       </div>` : `
       <div class="empty">Noch kein Marktbericht verfügbar.<br>Die erste Einschätzung erscheint automatisch um ${slots}.</div>`}
     ${rep && rep.numbers && rep.numbers.length ? `
@@ -464,7 +470,7 @@ async function renderHome() {
       const b = $("#repNowBtn");
       b.disabled = true;
       b.textContent = "⏳ wird angefragt …";
-      $("#repNowStatus").textContent = "Anfrage gesendet — der Mac erstellt den Bericht jetzt (ca. 30–60 s) …";
+      $("#repNowStatus").textContent = "Anfrage gesendet — der Cloud-Workflow erstellt den Bericht jetzt (ca. 1–3 min) …";
       let sent = false;
       try {
         const r = await fetch(`https://ntfy.sh/${NTFY_TOPIC}`, { method: "POST", body: "market-report", mode: "cors" });
@@ -487,7 +493,7 @@ async function renderHome() {
           }
         } catch {}
       }
-      $("#repNowStatus").textContent = "Bericht wurde angefordert — falls er in einer Minute noch nicht da ist, läuft der Mac vermutlich nicht.";
+      $("#repNowStatus").textContent = "Bericht wurde angefordert — die Cloud braucht bis zu 3 min. Aktualisiere die Seite gleich noch einmal.";
       b.disabled = false;
       b.textContent = "🔄 Neuen Marktbericht anfordern";
     });
