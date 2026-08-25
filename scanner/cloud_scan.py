@@ -27,12 +27,12 @@ import urllib.error
 
 MODEL = "~deepseek/deepseek-v4-flash-latest"
 MODEL_FALLBACKS = [
-    "~deepseek/deepseek-v4-flash-latest:free",
-    "deepseek/deepseek-v4-flash-latest:free",
-    "~deepseek/deepseek-v4-flash:free",
-    "deepseek/deepseek-chat-v3-0324:free",
-    "qwen/qwen3-235b-a22b:free",
-    "meta-llama/llama-3.3-70b-instruct:free",
+    "stepfun/step-3.7-flash:free",
+    "meituan/longcat-2.0:free",
+    "upstage/solar-pro4:free",
+    "tencent/hy3:free",
+    "poolside/laguna-s-2.1:free",
+    "poolside/laguna-xs-2.1:free",
 ]
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))

@@ -21,15 +21,16 @@ import urllib.request
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MODEL = "~deepseek/deepseek-v4-flash-latest"
-# Fallback-Kaskade: wird ein Modell mit 404 „credits/balance too low" abgelehnt,
-# probieren wir kostenlose Varianten (Suffix ':free'), dann generische free-Router.
+# Fallback-Kaskade: wird das Alias-Modell mit 404 „credits/balance too low"
+# abgelehnt (Nous-Guthaben leer), probieren wir die tatsaechlich verfuegbaren
+# kostenlosen Modelle aus dem /models-Katalog (Diagnose 25.08.2026).
 MODEL_FALLBACKS = [
-    "~deepseek/deepseek-v4-flash-latest:free",
-    "deepseek/deepseek-v4-flash-latest:free",
-    "~deepseek/deepseek-v4-flash:free",
-    "deepseek/deepseek-chat-v3-0324:free",
-    "qwen/qwen3-235b-a22b:free",
-    "meta-llama/llama-3.3-70b-instruct:free",
+    "stepfun/step-3.7-flash:free",
+    "meituan/longcat-2.0:free",
+    "upstage/solar-pro4:free",
+    "tencent/hy3:free",
+    "poolside/laguna-s-2.1:free",
+    "poolside/laguna-xs-2.1:free",
 ]
 TREND_KEYS = ["BTCUSD", "ETHUSD", "SOLUSD", "ETHBTC", "BTC.D", "F&G", "DXY", "NDX", "VIX", "US10Y"]
 NTFY_TOPIC = "crypto-scanner-report-9f3k2"
