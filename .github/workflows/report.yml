@@ -24,6 +24,9 @@ jobs:
       NOUS_INFERENCE_BASE_URL: ${{ secrets.NOUS_INFERENCE_BASE_URL }}
     steps:
       - uses: actions/checkout@v4
+      - name: Diagnose — verfügbare Modelle listen
+        if: github.event.inputs.force == 'true'
+        run: python3 scanner/_diag_models.py || true
       - name: Marktbericht erzeugen (nur zu Slot-Zeiten)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
