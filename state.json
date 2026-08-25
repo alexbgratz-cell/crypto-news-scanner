@@ -7887,7 +7887,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "LayerZero hat mit ATLAS eine neue Austauschinfrastruktur vorgestellt, die auf der Zero-Blockchain aufbaut, und der ZRO-Token reagierte darauf mit Kursgewinnen. Die Ankündigung stärkt die Erwartung, dass das Zero-Netzwerk und sein Token stärker genutzt werden, was die Nachfrage nach ZRO erhöhen könnte. Eine anhaltend positive Marktstimmung für ZRO und das Zero-Ökosystem ist wahrscheinlich, bis sich die tatsächliche Adoption der Infrastruktur zeigt."
+      "summary": "LayerZero hat mit ATLAS eine neue Austauschinfrastruktur vorgestellt, die auf der Zero-Blockchain aufbaut, und der ZRO-Token reagierte darauf mit Kursgewinnen. Die Ankündigung stärkt die Erwartung, dass das Zero-Netzwerk und sein Token stärker genutzt werden, was die Nachfrage nach ZRO erhöhen könnte. Eine anhaltend positive Marktstimmung für ZRO und das Zero-Ökosystem ist wahrscheinlich, bis sich die tatsächliche Adoption der Infrastruktur zeigt.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-25T23:01:10Z"
     },
     {
       "id": "https://cointelegraph.com/news/world-liberty-financial-launches-usd1-natively-on-canton-network",
@@ -7901,7 +7903,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "World Liberty Financial hat den Stablecoin USD1 nativ auf dem Canton Network eingeführt. Damit erweitert das Projekt seine Stablecoin-Präsenz über bestehende Blockchains hinaus und adressiert institutionelle Finanzanwendungen. Die Integration stärkt die Nutzung von USD1 im Enterprise-Settlement, eine unmittelbare Marktbewegung ist jedoch nicht absehbar."
+      "summary": "World Liberty Financial hat den Stablecoin USD1 nativ auf dem Canton Network eingeführt. Damit erweitert das Projekt seine Stablecoin-Präsenz über bestehende Blockchains hinaus und adressiert institutionelle Finanzanwendungen. Die Integration stärkt die Nutzung von USD1 im Enterprise-Settlement, eine unmittelbare Marktbewegung ist jedoch nicht absehbar.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-25T23:01:10Z"
     },
     {
       "id": "https://cointelegraph.com/markets/bitcoin-enters-initial-phase-of-new-bull-market-but-83k-remains-key-cryptoquant",
@@ -7917,7 +7921,9 @@
         "BTCUSD"
       ],
       "entities": [],
-      "summary": "CryptoQuant-Analysten erklären, Bitcoin stehe in der 'Anfangsphase' eines neuen Bullenmarktes, halten aber die Marke von 83.000 US-Dollar für entscheidend. Die Einschätzung eines bekannten Analysehauses stärkt die Risikobereitschaft der Anleger und rückt den Kursverlauf von Bitcoin in den Fokus. Die Marke von 83.000 US-Dollar dürfte darüber entscheiden, ob der Bullenmarkt bestätigt wird oder die Korrektur weitergeht."
+      "summary": "CryptoQuant-Analysten erklären, Bitcoin stehe in der 'Anfangsphase' eines neuen Bullenmarktes, halten aber die Marke von 83.000 US-Dollar für entscheidend. Die Einschätzung eines bekannten Analysehauses stärkt die Risikobereitschaft der Anleger und rückt den Kursverlauf von Bitcoin in den Fokus. Die Marke von 83.000 US-Dollar dürfte darüber entscheiden, ob der Bullenmarkt bestätigt wird oder die Korrektur weitergeht.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-25T23:01:10Z"
     },
     {
       "id": "https://cointelegraph.com/news/solana-record-transactions-rwa-sol-price",
@@ -7933,7 +7939,9 @@
         "SOLUSD"
       ],
       "entities": [],
-      "summary": "Solana hat mit 4,2 Milliarden Transaktionen einen neuen Rekord erreicht, während der SOL-Kurs um 40 % gestiegen ist. Die hohe Onchain-Aktivität und die Kursrally zeigen eine starke Nachfrage nach dem Netzwerk und stärken das Vertrauen in SOL. Die positive Dynamik dürfte anhalten, solange die Transaktionszahlen hoch bleiben; SOLUSD bleibt das zentrale Instrument."
+      "summary": "Solana hat mit 4,2 Milliarden Transaktionen einen neuen Rekord erreicht, während der SOL-Kurs um 40 % gestiegen ist. Die hohe Onchain-Aktivität und die Kursrally zeigen eine starke Nachfrage nach dem Netzwerk und stärken das Vertrauen in SOL. Die positive Dynamik dürfte anhalten, solange die Transaktionszahlen hoch bleiben; SOLUSD bleibt das zentrale Instrument.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-25T23:01:10Z"
     },
     {
       "id": "https://decrypt.co/?p=376536",
@@ -7947,7 +7955,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "Forschende haben ein KI-Modell verkleinert und es dabei zugleich intelligenter gemacht. Solche Effizienzfortschritte könnten die Rechenkosten senken und den Betrieb großer Modelle erschwinglicher machen. In der Folge könnten kompaktere Modelle breitere Anwendung finden und kleinere Anbieter begünstigen."
+      "summary": "Forschende haben ein KI-Modell verkleinert und es dabei zugleich intelligenter gemacht. Solche Effizienzfortschritte könnten die Rechenkosten senken und den Betrieb großer Modelle erschwinglicher machen. In der Folge könnten kompaktere Modelle breitere Anwendung finden und kleinere Anbieter begünstigen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-25T23:01:10Z"
     },
     {
       "id": "https://decrypt.co/?p=376473",
@@ -7963,7 +7973,9 @@
         "BTCUSD"
       ],
       "entities": [],
-      "summary": "Das Open Interest an Bitcoin-Futures ist um 12 % gefallen. Der Rückgang deutet auf eine Auflösung gehebelter Positionen hin, wodurch die Gefahr von Liquidationen und starker Volatilität abnimmt. Eine anhaltende Stabilisierung der Kennzahl dürfte das Risiko weiterer Zwangsverkäufe reduzieren und den Kurs stützen."
+      "summary": "Das Open Interest an Bitcoin-Futures ist um 12 % gefallen. Der Rückgang deutet auf eine Auflösung gehebelter Positionen hin, wodurch die Gefahr von Liquidationen und starker Volatilität abnimmt. Eine anhaltende Stabilisierung der Kennzahl dürfte das Risiko weiterer Zwangsverkäufe reduzieren und den Kurs stützen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-25T23:01:10Z"
     },
     {
       "id": "https://decrypt.co/?p=376516",
@@ -7995,7 +8007,9 @@
         "ETHUSD"
       ],
       "entities": [],
-      "summary": "Der Krypto-Markt ist laut Angst-Gier-Index erstmals seit 2024 von Angst in extreme Gier gekippt. Diese Stimmungsumkehr signalisiert starken Optimismus und kann zunächst weitere Kursgewinne bei Bitcoin und Ethereum begünstigen. Allerdings steigt damit die Wahrscheinlichkeit einer Übertreibung und späterer Gewinnmitnahmen, was zu erhöhter Volatilität führen dürfte."
+      "summary": "Der Krypto-Markt ist laut Angst-Gier-Index erstmals seit 2024 von Angst in extreme Gier gekippt. Diese Stimmungsumkehr signalisiert starken Optimismus und kann zunächst weitere Kursgewinne bei Bitcoin und Ethereum begünstigen. Allerdings steigt damit die Wahrscheinlichkeit einer Übertreibung und späterer Gewinnmitnahmen, was zu erhöhter Volatilität führen dürfte.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-25T23:01:10Z"
     },
     {
       "id": "https://decrypt.co/?p=376514",
@@ -8012,7 +8026,9 @@
         "Mistral",
         "HUMAIN"
       ],
-      "summary": "Mistral und HUMAIN kündigen eine Partnerschaft zum Aufbau sogenannter Souveräner KI in Saudi-Arabien an. Das Vorhaben stärkt die regionale KI-Infrastruktur und positioniert Mistral stärker im Nahen Osten. Weitere Investitionen und Folgeprojekte im saudischen KI-Ökosystem sind wahrscheinlich."
+      "summary": "Mistral und HUMAIN kündigen eine Partnerschaft zum Aufbau sogenannter Souveräner KI in Saudi-Arabien an. Das Vorhaben stärkt die regionale KI-Infrastruktur und positioniert Mistral stärker im Nahen Osten. Weitere Investitionen und Folgeprojekte im saudischen KI-Ökosystem sind wahrscheinlich.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-25T23:01:10Z"
     },
     {
       "id": "https://techcrunch.com/?p=3156618",
@@ -8026,7 +8042,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Stability AI, Entwickler des Bildgenerators Stable Diffusion, hat 76 Millionen US-Dollar in einer frischen Finanzierungsrunde eingesammelt. Das Kapital stärkt die finanzielle Basis des Unternehmens in einem wettbewerbsintensiven KI-Markt und signalisiert Vertrauen der Investoren. Die Mittel dürften die weitere Entwicklung und Vermarktung der Bildgenerierungsmodelle absichern."
+      "summary": "Stability AI, Entwickler des Bildgenerators Stable Diffusion, hat 76 Millionen US-Dollar in einer frischen Finanzierungsrunde eingesammelt. Das Kapital stärkt die finanzielle Basis des Unternehmens in einem wettbewerbsintensiven KI-Markt und signalisiert Vertrauen der Investoren. Die Mittel dürften die weitere Entwicklung und Vermarktung der Bildgenerierungsmodelle absichern.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-25T23:01:10Z"
     },
     {
       "id": "https://www.marktechpost.com/?p=81860",
@@ -8043,7 +8061,9 @@
         "NVDA",
         "Perplexity"
       ],
-      "summary": "Perplexity bringt einen tragbaren Computer auf Basis des NVIDIA DGX Spark auf den Markt, der lokale Schritte mit OS-Erzwingungs-Sandbox und ohne Kosten pro Token ausführt. Das stärkt lokale KI-Ausführung und reduziert die Cloud-Abhängigkeit, wovon Perplexity-Nutzer und NVIDIA profitieren. Eine steigende Nachfrage nach lokalen KI-Systemen und NVIDIA-Hardware ist wahrscheinlich."
+      "summary": "Perplexity bringt einen tragbaren Computer auf Basis des NVIDIA DGX Spark auf den Markt, der lokale Schritte mit OS-Erzwingungs-Sandbox und ohne Kosten pro Token ausführt. Das stärkt lokale KI-Ausführung und reduziert die Cloud-Abhängigkeit, wovon Perplexity-Nutzer und NVIDIA profitieren. Eine steigende Nachfrage nach lokalen KI-Systemen und NVIDIA-Hardware ist wahrscheinlich.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-25T23:01:10Z"
     },
     {
       "id": "https://decrypt.co/?p=376559",
@@ -8073,7 +8093,9 @@
       "entities": [
         "Alibaba"
       ],
-      "summary": "Alibaba veröffentlicht Qwen 3.8-Flash-Next als Vorschau auf das kommende Qwen 4. Das Open-Weight-Modell zeigt einen deutlichen Fähigkeitssprung und verstärkt den Wettbewerb bei frei verfügbaren KI-Modellen. Damit dürfte sich der Druck auf andere Anbieter erhöhen, schnell nachzuziehen."
+      "summary": "Alibaba veröffentlicht Qwen 3.8-Flash-Next als Vorschau auf das kommende Qwen 4. Das Open-Weight-Modell zeigt einen deutlichen Fähigkeitssprung und verstärkt den Wettbewerb bei frei verfügbaren KI-Modellen. Damit dürfte sich der Druck auf andere Anbieter erhöhen, schnell nachzuziehen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-25T23:01:10Z"
     },
     {
       "id": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
@@ -8348,6 +8370,22 @@
         "https://decrypt.co/?p=376489",
         "https://openai.com/index/introducing-admin-plugin",
         "https://techcrunch.com/?p=3156630"
+      ]
+    },
+    {
+      "at": "2026-08-25T23:01:10Z",
+      "article_ids": [
+        "https://cointelegraph.com/markets/bitcoin-enters-initial-phase-of-new-bull-market-but-83k-remains-key-cryptoquant",
+        "https://cointelegraph.com/news/solana-record-transactions-rwa-sol-price",
+        "https://www.marktechpost.com/?p=81860",
+        "https://decrypt.co/?p=376530",
+        "2dcf03f3-0397-5145-bad2-c2a0cf48604a",
+        "https://cointelegraph.com/news/world-liberty-financial-launches-usd1-natively-on-canton-network",
+        "https://decrypt.co/?p=376536",
+        "https://decrypt.co/?p=376473",
+        "https://decrypt.co/?p=376503",
+        "https://decrypt.co/?p=376514",
+        "https://techcrunch.com/?p=3156618"
       ]
     }
   ],
