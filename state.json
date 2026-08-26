@@ -7969,7 +7969,9 @@
         "USDT.D"
       ],
       "entities": [],
-      "summary": "Revolut startet den schrittweisen Rollout seiner EURR-Stablecoin in Dänemark, Polen und Portugal. Die Ausweitung eines Euro-gestützten Stablecoins stärkt die Akzeptanz digitaler Euro-Zahlungsmittel im europäischen Markt. Der zunehmende Wettbewerb im Stablecoin-Segment könnte die Dominanz des USDT langfristig leicht beeinflussen."
+      "summary": "Revolut startet den schrittweisen Rollout seiner EURR-Stablecoin in Dänemark, Polen und Portugal. Die Ausweitung eines Euro-gestützten Stablecoins stärkt die Akzeptanz digitaler Euro-Zahlungsmittel im europäischen Markt. Der zunehmende Wettbewerb im Stablecoin-Segment könnte die Dominanz des USDT langfristig leicht beeinflussen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-26T10:55:11Z"
     },
     {
       "id": "https://cointelegraph.com/news/revolut-eurr-euro-stablecoin-europe-rollout",
@@ -7983,7 +7985,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "Revolut bringt einen Euro-Stablecoin in drei europäischen Märkten an den Start. Das erweitert das Angebot an regulierten Stablecoins in Europa und verstärkt den Wettbewerb mit Dollar-basierten Stablecoins. Der Markt für Euro-Stablecoins dürfte dadurch an Bedeutung gewinnen."
+      "summary": "Revolut bringt einen Euro-Stablecoin in drei europäischen Märkten an den Start. Das erweitert das Angebot an regulierten Stablecoins in Europa und verstärkt den Wettbewerb mit Dollar-basierten Stablecoins. Der Markt für Euro-Stablecoins dürfte dadurch an Bedeutung gewinnen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-26T10:55:11Z"
     },
     {
       "id": "https://www.technologyreview.com/?p=1141949",
@@ -8312,6 +8316,13 @@
         "8083a4b2-8b9c-544c-ae7f-ed12d4d346dd",
         "https://cointelegraph.com/news/roman-storm-retrial-delayed-april-2027",
         "https://www.marktechpost.com/?p=81869"
+      ]
+    },
+    {
+      "at": "2026-08-26T10:55:11Z",
+      "article_ids": [
+        "afef2fa1-397f-53a2-a178-c4bf84410c2b",
+        "https://cointelegraph.com/news/revolut-eurr-euro-stablecoin-europe-rollout"
       ]
     }
   ],
