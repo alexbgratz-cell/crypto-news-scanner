@@ -8001,7 +8001,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Der Prozess gegen Tornado-Cash-Entwickler Roman Storm wurde erneut verschoben und soll nun erst im April 2027 beginnen. Die anhaltende rechtliche Unsicherheit hält regulatorische Risiken für Privacy-Projekte im Krypto-Sektor präsent. Die nächste entscheidende Wegmarke ist der Prozessbeginn im April 2027."
+      "summary": "Der Prozess gegen Tornado-Cash-Entwickler Roman Storm wurde erneut verschoben und soll nun erst im April 2027 beginnen. Die anhaltende rechtliche Unsicherheit hält regulatorische Risiken für Privacy-Projekte im Krypto-Sektor präsent. Die nächste entscheidende Wegmarke ist der Prozessbeginn im April 2027.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-26T08:10:54Z"
     },
     {
       "id": "8083a4b2-8b9c-544c-ae7f-ed12d4d346dd",
@@ -8015,7 +8017,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Japan will laut Nikkei ein blockchain-basiertes Aktienabwicklungssystem entwickeln; konkrete Details werden Anfang 2027 erwartet. Die Initiative zeigt wachsende institutionelle Akzeptanz der Blockchain-Technologie im traditionellen Finanzmarkt und stärkt das Vertrauen in Krypto-Infrastruktur. Eine positivere Marktstimmung für Krypto-Assets ist wahrscheinlich; die nächste Wegmarke sind die angekündigten Details Anfang 2027."
+      "summary": "Japan will laut Nikkei ein blockchain-basiertes Aktienabwicklungssystem entwickeln; konkrete Details werden Anfang 2027 erwartet. Die Initiative zeigt wachsende institutionelle Akzeptanz der Blockchain-Technologie im traditionellen Finanzmarkt und stärkt das Vertrauen in Krypto-Infrastruktur. Eine positivere Marktstimmung für Krypto-Assets ist wahrscheinlich; die nächste Wegmarke sind die angekündigten Details Anfang 2027.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-26T08:10:54Z"
     },
     {
       "id": "https://cointelegraph.com/news/roman-storm-retrial-delayed-april-2027",
@@ -8029,7 +8033,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Der Prozess gegen den Tornado-Cash-Entwickler Roman Storm wurde erneut verschoben und soll nun im April 2027 beginnen. Die Verzögerung verlängert die rechtliche Unsicherheit für Krypto-Mixer und Datenschutzprojekte im Krypto-Bereich. Eine kurzfristige Marktreaktion ist unwahrscheinlich; der nächste relevante Termin ist der Prozessstart im April 2027."
+      "summary": "Der Prozess gegen den Tornado-Cash-Entwickler Roman Storm wurde erneut verschoben und soll nun im April 2027 beginnen. Die Verzögerung verlängert die rechtliche Unsicherheit für Krypto-Mixer und Datenschutzprojekte im Krypto-Bereich. Eine kurzfristige Marktreaktion ist unwahrscheinlich; der nächste relevante Termin ist der Prozessstart im April 2027.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-26T08:10:54Z"
     },
     {
       "id": "https://cointelegraph.com/news/bitcoin-etf-august-inflows-surge-past-3-billion",
@@ -8073,7 +8079,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "IBM hat Granite 4.2 veröffentlicht, offene Enterprise-Modelle mit nativem Reasoning und agentischem Reinforcement Learning. Das stärkt IBMs Position im KI-Wettbewerb und bietet Unternehmen eine offene Alternative zu proprietären Modellen. Die Veröffentlichung dürfte den Wettbewerb bei offenen, anpassbaren Enterprise-KI-Lösungen weiter verschärfen."
+      "summary": "IBM hat Granite 4.2 veröffentlicht, offene Enterprise-Modelle mit nativem Reasoning und agentischem Reinforcement Learning. Das stärkt IBMs Position im KI-Wettbewerb und bietet Unternehmen eine offene Alternative zu proprietären Modellen. Die Veröffentlichung dürfte den Wettbewerb bei offenen, anpassbaren Enterprise-KI-Lösungen weiter verschärfen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-26T08:10:54Z"
     },
     {
       "id": "https://www.marktechpost.com/?p=81866",
@@ -8379,6 +8387,15 @@
         "https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027",
         "https://techcrunch.com/?p=3156276",
         "https://techcrunch.com/?p=3156922"
+      ]
+    },
+    {
+      "at": "2026-08-26T08:10:54Z",
+      "article_ids": [
+        "6e36d64f-803c-5319-b8b4-eeeb18305dfe",
+        "8083a4b2-8b9c-544c-ae7f-ed12d4d346dd",
+        "https://cointelegraph.com/news/roman-storm-retrial-delayed-april-2027",
+        "https://www.marktechpost.com/?p=81869"
       ]
     }
   ],
