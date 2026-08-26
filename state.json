@@ -7887,7 +7887,9 @@
         "BTCUSD"
       ],
       "entities": [],
-      "summary": "Analysten sehen einen historischen Short Squeeze bei Bitcoin und bezeichnen den Bessent-Katalysator als möglichen Auslöser eines Bullenmarkt-Resets. Die Marktstimmung wird dadurch kurzfristig gestützt, da gequetschte Leerverkäufer weiteren Kaufdruck erzeugen könnten. Erhöhte Volatilität und weitere Kursgewinne bei Bitcoin sind wahrscheinlich."
+      "summary": "Analysten sehen einen historischen Short Squeeze bei Bitcoin und bezeichnen den Bessent-Katalysator als möglichen Auslöser eines Bullenmarkt-Resets. Die Marktstimmung wird dadurch kurzfristig gestützt, da gequetschte Leerverkäufer weiteren Kaufdruck erzeugen könnten. Erhöhte Volatilität und weitere Kursgewinne bei Bitcoin sind wahrscheinlich.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-26T12:02:17Z"
     },
     {
       "id": "6fcd4ddb-b702-5d4b-8ce8-c8e29836fba2",
@@ -7903,7 +7905,9 @@
         "BTCUSD"
       ],
       "entities": [],
-      "summary": "Bernstein prognostiziert Bitcoin von 150.000 US-Dollar bis Mitte 2027 im 'Debasement Trade', senkt aber das Kursziel für Strategy auf 350 US-Dollar. Die institutionelle Prognose stärkt die Wahrnehmung von Bitcoin als Absicherung gegen Währungsentwertung und unterstützt die Nachfrage. Die nächste Wegmarke ist die Kursentwicklung bis Mitte 2027."
+      "summary": "Bernstein prognostiziert Bitcoin von 150.000 US-Dollar bis Mitte 2027 im 'Debasement Trade', senkt aber das Kursziel für Strategy auf 350 US-Dollar. Die institutionelle Prognose stärkt die Wahrnehmung von Bitcoin als Absicherung gegen Währungsentwertung und unterstützt die Nachfrage. Die nächste Wegmarke ist die Kursentwicklung bis Mitte 2027.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-26T12:02:17Z"
     },
     {
       "id": "https://cointelegraph.com/markets/supply-absorption-key-question-as-bitcoin-fails-to-reclaim-80k-analysis",
@@ -7919,7 +7923,9 @@
         "BTCUSD"
       ],
       "entities": [],
-      "summary": "Bitcoin ist es laut einer Analyse nicht gelungen, die Marke von 80.000 US-Dollar zurückzuerobern; die Angebotsabsorption gilt dabei als Schlüsselfrage. Das deutet auf eine schwache Nachfrage hin und belastet die Marktstimmung kurzfristig. Solange die Absorption nicht gelingt, droht eine anhaltende Konsolidierung oder ein weiterer Rückgang."
+      "summary": "Bitcoin ist es laut einer Analyse nicht gelungen, die Marke von 80.000 US-Dollar zurückzuerobern; die Angebotsabsorption gilt dabei als Schlüsselfrage. Das deutet auf eine schwache Nachfrage hin und belastet die Marktstimmung kurzfristig. Solange die Absorption nicht gelingt, droht eine anhaltende Konsolidierung oder ein weiterer Rückgang.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-26T12:02:17Z"
     },
     {
       "id": "https://cointelegraph.com/news/japan-weighs-blockchain-fast-lane-for-securities-cash-settlement",
@@ -7933,7 +7939,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Japan erwägt, Blockchain für die Abwicklung von Wertpapier-Bargeldgeschäften einzusetzen. Eine positive Regulierungsrichtung könnte die Akzeptanz digitaler Assets in etablierten Finanzmärkten stärken und Investorenvertrauen schaffen. Eine konkrete Entscheidung steht noch aus; zuerst muss die japanische Aufsicht ihre Prüfung abschließen."
+      "summary": "Japan erwägt, Blockchain für die Abwicklung von Wertpapier-Bargeldgeschäften einzusetzen. Eine positive Regulierungsrichtung könnte die Akzeptanz digitaler Assets in etablierten Finanzmärkten stärken und Investorenvertrauen schaffen. Eine konkrete Entscheidung steht noch aus; zuerst muss die japanische Aufsicht ihre Prüfung abschließen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-26T12:02:17Z"
     },
     {
       "id": "https://cointelegraph.com/news/kalshi-1-5-billion-equity-offering-1-12-billion-sold",
@@ -7963,7 +7971,9 @@
         "ETHUSD"
       ],
       "entities": [],
-      "summary": "Der geplante Tornado-Cash-Prozess gegen Roman Storm wurde auf April 2027 verschoben. Die Verzögerung verlängert die regulatorische Unsicherheit für Krypto-Mixer und den Ethereum-Sektor. Bis dahin bleibt der Fall ein wichtiger Präzedenzfall für die Branche."
+      "summary": "Der geplante Tornado-Cash-Prozess gegen Roman Storm wurde auf April 2027 verschoben. Die Verzögerung verlängert die regulatorische Unsicherheit für Krypto-Mixer und den Ethereum-Sektor. Bis dahin bleibt der Fall ein wichtiger Präzedenzfall für die Branche.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-26T12:02:17Z"
     },
     {
       "id": "6a860cfb6b770bbaf47ffa12",
@@ -7993,7 +8003,9 @@
       "entities": [
         "IBM"
       ],
-      "summary": "IBM hat mit Granite 4.2 neue KI-Modelle veröffentlicht, die speziell für den Betrieb lokaler LLMs entwickelt wurden. Das stärkt IBMs Position im wachsenden Markt für lokale und datenschutzfreundliche KI und bietet Unternehmen eine Alternative zu Cloud-basierten Modellen. Die Veröffentlichung dürfte den Trend zu lokalen LLMs weiter vorantreiben und IBM als Anbieter relevanter machen."
+      "summary": "IBM hat mit Granite 4.2 neue KI-Modelle veröffentlicht, die speziell für den Betrieb lokaler LLMs entwickelt wurden. Das stärkt IBMs Position im wachsenden Markt für lokale und datenschutzfreundliche KI und bietet Unternehmen eine Alternative zu Cloud-basierten Modellen. Die Veröffentlichung dürfte den Trend zu lokalen LLMs weiter vorantreiben und IBM als Anbieter relevanter machen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-26T12:02:17Z"
     }
   ],
   "digest_log": [
@@ -8301,6 +8313,17 @@
       "article_ids": [
         "afef2fa1-397f-53a2-a178-c4bf84410c2b",
         "https://cointelegraph.com/news/revolut-eurr-euro-stablecoin-europe-rollout"
+      ]
+    },
+    {
+      "at": "2026-08-26T12:02:17Z",
+      "article_ids": [
+        "6fcd4ddb-b702-5d4b-8ce8-c8e29836fba2",
+        "https://cointelegraph.com/news/japan-weighs-blockchain-fast-lane-for-securities-cash-settlement",
+        "https://decrypt.co/?p=376577",
+        "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
+        "6f435c06-8976-59cf-8ed6-168b55fba33f",
+        "https://cointelegraph.com/markets/supply-absorption-key-question-as-bitcoin-fails-to-reclaim-80k-analysis"
       ]
     }
   ],
