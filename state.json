@@ -8093,7 +8093,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Ein Bericht von Cointelegraph Magazine thematisiert einen Hack bei Hugging Face und zeigt das Sicherheitsparadoxon offener KI-Gewichtsmodelle. Offene Modelle lassen sich einfacher verbreiten, aber auch schwerer absichern, was das Vertrauen in Open-Weight-KI belasten könnte. Für Modell-Hubs und dezentrale KI-Plattformen dürften strengere Sicherheitsanforderungen und erhöhte Aufmerksamkeit folgen."
+      "summary": "Ein Bericht von Cointelegraph Magazine thematisiert einen Hack bei Hugging Face und zeigt das Sicherheitsparadoxon offener KI-Gewichtsmodelle. Offene Modelle lassen sich einfacher verbreiten, aber auch schwerer absichern, was das Vertrauen in Open-Weight-KI belasten könnte. Für Modell-Hubs und dezentrale KI-Plattformen dürften strengere Sicherheitsanforderungen und erhöhte Aufmerksamkeit folgen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-26T03:35:53Z"
     },
     {
       "id": "https://decrypt.co/?p=376573",
@@ -8384,6 +8386,12 @@
         "https://decrypt.co/?p=376503",
         "https://decrypt.co/?p=376514",
         "https://techcrunch.com/?p=3156618"
+      ]
+    },
+    {
+      "at": "2026-08-26T03:35:53Z",
+      "article_ids": [
+        "https://cointelegraph.com/magazine/hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox"
       ]
     }
   ],
