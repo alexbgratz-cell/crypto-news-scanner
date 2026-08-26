@@ -1248,116 +1248,6 @@
     "entities": []
   },
   {
-    "title": "Harmony plans rollback, wiping 109,000 transactions after ONE exploit",
-    "url": "https://cointelegraph.com/news/harmony-plans-rollback-transactions-one-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-17T12:31:36Z",
-    "stream": "crypto",
-    "score": 8,
-    "category": "Hack & Security",
-    "sentiment": "bearish",
-    "summary": "Harmony setzt seine Blockchain zurück und löscht 109.000 Transaktionen nach einer Ausnutzung einer Schwachstelle im ONE-Token, wobei ein inkonsistenter Chain-Zustand bei selektiver Wiederherstellung droht. Diese Maßnahme untergräbt das Vertrauen in die Unveränderbarkeit kleinerer Chains und verstärkt die bärische Stimmung sowie die allgemeine Risikoscheu im Krypto-Markt. Die Bewertung von Projekten mit ähnlicher Infrastruktur wird durch diese Unsicherheit negativ beeinflusst, während weitere regulatorische oder technische Gegenmaßnahmen abgewartet werden müssen.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Pirated Copies of 'The Odyssey' Are Hiding Crypto-Stealing Malware",
-    "url": "https://decrypt.co/375747/pirated-copies-odyssey-hiding-crypto-stealing-malware",
-    "source": "Decrypt",
-    "published": "2026-08-17T12:31:04Z",
-    "stream": "crypto",
-    "score": 8,
-    "category": "Hack & Security",
-    "sentiment": "bearish",
-    "summary": "Bitdefender identifiziert illegale Downloads des Films „The Odyssey“ als Vektor für die Verbreitung von Lumma Stealer, der Krypto-Wallets, Passwörter und Browsersitzungen kompromittiert. Diese Kampagne verschärft das Risiko von Wallet-Diebstählen und verstärkt die allgemeinen Sicherheitsängste im Markt. Erhöhte Volatilität ist wahrscheinlich, da sich die Infektionsrate schnell ausbreitet und konkrete Börsen oder Wallet-Anbieter als nächstes Ziel dieser spezifischen Malware-Kampagne ins Visier geraten.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Strategy sells $334 million in MSTR shares, makes no bitcoin purchases or sales as USD reserve hits $4.8 billion",
-    "url": "https://www.theblock.co/news/business/2026-08-17-michael-saylor-strategy-btc-411942",
-    "source": "The Block",
-    "published": "2026-08-17T12:15:52Z",
-    "stream": "crypto",
-    "score": 8,
-    "category": "Other",
-    "sentiment": "neutral",
-    "summary": "Strategy veräußerte MSTR-Aktien im Wert von 334 Millionen US-Dollar und erhöhte seine USD-Rücklagen auf 4,8 Milliarden US-Dollar ohne Bitcoin-Transaktionen. Diese Pause des größten korporativen Bitcoin-Halters entfernt kurzfristigen Kaufdruck, während die wachsende Liquidität als Munition für spätere Akquisitionen dient. Die Geschwindigkeit der Nutzung dieser Reserven zur Erweiterung der Bestände bei etwa 4 % der Obergrenze von 21 Millionen Bitcoin ist entscheidend.",
-    "instruments": [
-      "BTCUSD"
-    ],
-    "entities": []
-  },
-  {
-    "title": "BTC price loses 200-week trend line as 2022 repeats: Five things to know in Bitcoin this week",
-    "url": "https://cointelegraph.com/markets/btc-price-loses-200-week-trend-line-as-2022-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-17T11:38:52Z",
-    "stream": "crypto",
-    "score": 6,
-    "category": "FUD",
-    "sentiment": "bearish",
-    "summary": "Bitcoin schloss erstmals seit 2022 wöchentlich unter dem 200-Wochen-Durchschnitt, was Händler zu Warnungen vor Abwärtsbewegungen veranlasst. Dieser Bruch der Trendlinie signalisiert eine verschlechterte Marktstruktur und droht den bestehenden Verkaufsdruck im Krypto-Bereich weiter zu verstärken. Die strukturelle Schwäche wirkt sich direkt auf die kurzfristige Preisfindung aus.",
-    "instruments": [
-      "BTCUSD"
-    ],
-    "entities": []
-  },
-  {
-    "title": "Binance gave Russian authorities client data used in terrorism financing case: Report",
-    "url": "https://cointelegraph.com/news/binance-russia-client-data-used-ukraine-case-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-17T11:38:43Z",
-    "stream": "crypto",
-    "score": 6,
-    "category": "Regulation",
-    "sentiment": "bearish",
-    "summary": "Binance hat laut Reuters russischen Behörden Transaktionsaufzeichnungen und Identitätsdokumente im Fall der Terrorismusfinanzierung gegen Yuri Belenkiy übermittelt. Diese Offenlegung unter geopolitischen Spannungen erzeugt eine leichte regulatorische Belastung für Krypto-Börsen durch zunehmende Compliance- und Datenschutzprüfungen, wobei die direkten Preiseffekte auf große Coins begrenzt bleiben. Die verschärfte Aufsicht wird die operative Freiheit globaler Börsen einschränken, ohne dass unmittelbare Kursbewegungen erwartet werden.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "DeepSeek AI Releases DeepSeek Harness in Developer Preview: An MIT-Licensed Agent Harness Where Everything is a Plugin",
-    "url": "https://www.marktechpost.com/2026/08/17/deepseek-ai-releases-deepseek-harness-in-developer-preview/",
-    "source": "MarkTechPost",
-    "published": "2026-08-17T09:06:32Z",
-    "stream": "ai",
-    "score": 6,
-    "category": "Research & Open Source",
-    "sentiment": "neutral",
-    "summary": "DeepSeek hat DeepSeek Harness v0.1 als Open-Source-Agent-Harness unter der MIT-Lizenz veröffentlicht, die jedes Feature als Cordis-Plugin ausführt und vier Laufzeitmodi sowie herstellerunabhängiges Modell-Routing unterstützt. Diese Veröffentlichung etabliert ein modulares Framework für Entwickler und festigt DeepSeeks Position im KI-Entwicklertools-Markt durch offene Standards. Die Integration von Cordis-Plugins wird die Standardisierung von KI-Agent-Architekturen vorantreiben und Reaktionen der Wettbewerber auf dieses offene Framework auslösen.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "What happens when a kid's robot best friend dies?",
-    "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-    "source": "Artificial intelligence – MIT Technology Review",
-    "published": "2026-08-17T09:00:00Z",
-    "stream": "ai",
-    "score": 4,
-    "category": "Society & Work",
-    "sentiment": "neutral",
-    "summary": "Der MIT Technology Review beschreibt das Ende des KI-Begleiterroboters Moxie nach einer sechsjährigen Nutzung durch ein Kind. Dabei werden die starken emotionalen Bindungen der Nutzer zu diesen Assistenzsystemen detailliert analysiert. Mit dem Auslauf des Dienstes rücken gesellschaftliche Fragen zur Zukunft von Begleiterrobotern in den Fokus.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Get closer to the game with Gemini and Pixel",
-    "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-    "source": "AI",
-    "published": "2026-08-17T08:00:00Z",
-    "stream": "ai",
-    "score": 6,
-    "category": "Business & Funding",
-    "sentiment": "neutral",
-    "summary": "Google integriert Gemini und Pixel in Fan-Erlebnisse von Fußballclubs, um die Consumer-Distribution zu erweitern. Diese marketinggetriebene Partnerschaft hat begrenzten direkten Einfluss auf die breitere KI-Branche. Die langfristige Nutzerakquise für Google-KI-Tools im Sportsektor wird sich durch diese Vermarktung konkret auswirken.",
-    "instruments": [],
-    "entities": [
-      "GOOGL"
-    ]
-  },
-  {
     "title": "The Defender’s Window",
     "url": "https://openai.com/index/the-defenders-window",
     "source": "OpenAI News",
@@ -1382,21 +1272,6 @@
     "category": "Business & Funding",
     "sentiment": "bullish",
     "summary": "OpenAI ist dem PORTS-Pike-Projekt beigetreten und erweitert damit seine Beteiligung an Infrastrukturvorhaben. Diese Partnerschaft stärkt OpenAIs Position im Bereich großer Infrastrukturprojekte und signalisiert weiteres Wachstum der KI-Infrastruktur. Die nächste strategische Entwicklung hängt davon ab, wie sich die verstärkte Ausrichtung auf große Projekte auf das Unternehmen auswirkt.",
-    "instruments": [],
-    "entities": [
-      "OPENAI"
-    ]
-  },
-  {
-    "title": "New policy ideas for the Intelligence Age",
-    "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-    "source": "OpenAI News",
-    "published": "2026-08-17T03:15:00Z",
-    "stream": "ai",
-    "score": 6,
-    "category": "Regulation & Policy",
-    "sentiment": "neutral",
-    "summary": "OpenAI finanziert 14 unabhängige Projekte zur Erforschung neuer KI-Politikideen, um wirtschaftliche Chancen zu erweitern und die gesellschaftliche Resilienz im Zeitalter der Intelligenz zu stärken. Diese Initiative positioniert OpenAI als zentralen Akteur in den Debatten über KI-Politik und beeinflusst direkt die künftige Ausgestaltung von Regulierung sowie Wirtschaftspolitik im KI-Bereich. Die finanzielle Unterstützung wird die politische Agenda und die regulatorische Landschaft für künstliche Intelligenz konkret prägen.",
     "instruments": [],
     "entities": [
       "OPENAI"
