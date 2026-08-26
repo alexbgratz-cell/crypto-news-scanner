@@ -1317,60 +1317,6 @@
     "entities": []
   },
   {
-    "title": "Paul Tudor Jones' Firm Buys Back Into BlackRock Bitcoin ETF After a Year of Selling",
-    "url": "https://decrypt.co/375745/paul-tudor-jones-buys-blackrock-bitcoin-etf",
-    "source": "Decrypt",
-    "published": "2026-08-17T10:31:04Z",
-    "stream": "crypto",
-    "score": 8,
-    "category": "Macro",
-    "sentiment": "bullish",
-    "summary": "Das Makro-Fonds von Paul Tudor Jones erhöhte seine Beteiligung am iShares Bitcoin Trust im zweiten Quartal um 18,9 Prozent auf 688.529 Anteile im Wert von 22,9 Millionen US-Dollar und reduzierte gleichzeitig deutlich die Call-Optionen. Dieser Wechsel von gehobenen Wetten zu einer direkten Spot-Beteiligung signalisiert erneutes institutionelles Vertrauen und stützt die BTC-Nachfrage. Die direkte Folge ist eine konkrete Ausweitung der Positionierung durch einen prominenten Makro-Investor, was das Volumen des BlackRock Bitcoin ETF unmittelbar beeinflusst.",
-    "instruments": [
-      "BTCUSD"
-    ],
-    "entities": []
-  },
-  {
-    "title": "Bitcoin miner HIVE inks five-year $350 million AI cloud contract, adds $70 million in annualized revenue",
-    "url": "https://www.theblock.co/news/business/2026-08-17-bitcoin-miner-hive-inks-five-year-350-million-ai-cloud-contract-411940",
-    "source": "The Block",
-    "published": "2026-08-17T10:30:30Z",
-    "stream": "crypto",
-    "score": 6,
-    "category": "Other",
-    "sentiment": "bullish",
-    "summary": "Der Bitcoin-Miner HIVE schließt mit seiner BUZZ HPC-Sparte einen fünfjährigen GPU-Cloud-Vertrag über 350 Millionen US-Dollar ab, was zu einer jährlichen Umsatzsteigerung von 70 Millionen US-Dollar führt. Dieser zweite große Cluster-Deal mit NVIDIA innerhalb von zwei Monaten verdeutlicht, wie Miner Energie- und Hardwareanlagen in AI-Cloud-Einnahmen umwandeln, um sich über die Wirtschaftlichkeit des Bitcoin-Minings hinaus zu diversifizieren. Die weitere Ausweitung dieser Diversifizierungsstrategie bei anderen Minern ist angesichts der wachsenden Nachfrage nach KI-Infrastruktur zu erwarten.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Dutch Prosecutors Sell $2.5M of Crypto From Bankrupt Platform Knaken",
-    "url": "https://decrypt.co/375757/dutch-prosecutors-sell-2-5m-of-crypto-from-bankrupt-platform-knaken",
-    "source": "Decrypt",
-    "published": "2026-08-17T10:13:41Z",
-    "stream": "crypto",
-    "score": 5,
-    "category": "Other",
-    "sentiment": "neutral",
-    "summary": "Niederländische Staatsanwälte veräußern Kryptowährungen im Wert von 2,5 Millionen US-Dollar der insolventen Plattform Knaken. Da die Coins in eigenem Namen erworben wurden, haben Kunden nur einen Euro-Forderungsanspruch. Erhöhte Vorsicht bei Guthaben auf verwahrten Börsen ist wahrscheinlich.",
-    "instruments": [],
-    "entities": []
-  },
-  {
-    "title": "Bitpanda fined in Austria's first published MiCA penalty",
-    "url": "https://cointelegraph.com/news/bitpanda-fined-austrian-published-mica-penalty",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-17T09:31:47Z",
-    "stream": "crypto",
-    "score": 7,
-    "category": "Regulation",
-    "sentiment": "bearish",
-    "summary": "Die österreichische FMA hat Bitpanda als erstes Unternehmen mit einer rechtskräftigen Geldstrafe nach dem MiCA-Regelwerk bestraft, da die Börse gegen Vorschriften für Krypto-Whitepapers und Marketingkommunikationen verstoßen hat. Diese aktive Durchsetzung durch europäische Aufsichtsbehörden erhöht das rechtliche Risiko und die Compliance-Kosten für alle in der EU tätigen Krypto-Unternehmen erheblich. Erhöhte regulatorische Unsicherheit führt zu höheren Markteintrittsbarrieren für weitere Exchange-Anbieter.",
-    "instruments": [],
-    "entities": []
-  },
-  {
     "title": "SafePal Bitcoin Wallet Data Breach Stokes Fears of Physical Attacks",
     "url": "https://decrypt.co/375743/safepal-bitcoin-wallet-data-breach",
     "source": "Decrypt",
@@ -1393,6 +1339,60 @@
     "category": "Research & Open Source",
     "sentiment": "neutral",
     "summary": "DeepSeek hat DeepSeek Harness v0.1 als Open-Source-Agent-Harness unter der MIT-Lizenz veröffentlicht, die jedes Feature als Cordis-Plugin ausführt und vier Laufzeitmodi sowie herstellerunabhängiges Modell-Routing unterstützt. Diese Veröffentlichung etabliert ein modulares Framework für Entwickler und festigt DeepSeeks Position im KI-Entwicklertools-Markt durch offene Standards. Die Integration von Cordis-Plugins wird die Standardisierung von KI-Agent-Architekturen vorantreiben und Reaktionen der Wettbewerber auf dieses offene Framework auslösen.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "What happens when a kid's robot best friend dies?",
+    "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+    "source": "Artificial intelligence – MIT Technology Review",
+    "published": "2026-08-17T09:00:00Z",
+    "stream": "ai",
+    "score": 4,
+    "category": "Society & Work",
+    "sentiment": "neutral",
+    "summary": "Der MIT Technology Review beschreibt das Ende des KI-Begleiterroboters Moxie nach einer sechsjährigen Nutzung durch ein Kind. Dabei werden die starken emotionalen Bindungen der Nutzer zu diesen Assistenzsystemen detailliert analysiert. Mit dem Auslauf des Dienstes rücken gesellschaftliche Fragen zur Zukunft von Begleiterrobotern in den Fokus.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "BitMart account demands founder explain funds status, Xia calls claims 'fabricated'",
+    "url": "https://cointelegraph.com/news/bitmart-account-founder-explain-repayment-plan",
+    "source": "Cointelegraph.com News",
+    "published": "2026-08-17T08:15:01Z",
+    "stream": "crypto",
+    "score": 4,
+    "category": "FUD",
+    "sentiment": "bearish",
+    "summary": "Der BitMart-Gründer Sheldon Xia wies Forderungen nach einem Rückzahlungsplan bis zum 19. August als erfundene Gerüchte zurück. Diese öffentliche Auseinandersetzung verstärkt die Unsicherheit bezüglich der Solvenz der Börse und der Sicherheit von Kundengeldern. Erhöhte Volatilität ist wahrscheinlich, solange weitere Forderungen oder Beweise ausstehen.",
+    "instruments": [],
+    "entities": []
+  },
+  {
+    "title": "Get closer to the game with Gemini and Pixel",
+    "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+    "source": "AI",
+    "published": "2026-08-17T08:00:00Z",
+    "stream": "ai",
+    "score": 6,
+    "category": "Business & Funding",
+    "sentiment": "neutral",
+    "summary": "Google integriert Gemini und Pixel in Fan-Erlebnisse von Fußballclubs, um die Consumer-Distribution zu erweitern. Diese marketinggetriebene Partnerschaft hat begrenzten direkten Einfluss auf die breitere KI-Branche. Die langfristige Nutzerakquise für Google-KI-Tools im Sportsektor wird sich durch diese Vermarktung konkret auswirken.",
+    "instruments": [],
+    "entities": [
+      "GOOGL"
+    ]
+  },
+  {
+    "title": "Greenlane's $70M BERA treasury ends Q2 valued at $16M",
+    "url": "https://cointelegraph.com/news/greenlane-70m-bera-treasury-valued-16m",
+    "source": "Cointelegraph.com News",
+    "published": "2026-08-17T05:52:55Z",
+    "stream": "crypto",
+    "score": 5,
+    "category": "Other",
+    "sentiment": "bearish",
+    "summary": "Greenlanes BERA-Treasury verlor im zweiten Quartal von 70 Millionen auf 16 Millionen US-Dollar, was einen nicht-kassenwirksamen Abschreibungsverlust von 19,1 Millionen US-Dollar nach sich zog. Dieser Einbruch verdeutlicht die extreme Volatilität von Altcoin-Token und warnt Unternehmen vor der Haltung solcher riskanten Krypto-Treasuries. Erhöhte Skepsis gegenüber volatilen Krypto-Assets in Unternehmensbilanzen ist wahrscheinlich.",
     "instruments": [],
     "entities": []
   }
