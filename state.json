@@ -8035,7 +8035,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "RockawayX übernimmt Relayer Capital, um sein Krypto-Angebot in den USA auszubauen. Die Akquisition stärkt die Marktposition des Unternehmens im US-Kryptosektor und erweitert potenziell dessen Dienstleistungen. Die Expansion dürfte den Wettbewerb im US-Kryptohandel weiter erhöhen."
+      "summary": "RockawayX übernimmt Relayer Capital, um sein Krypto-Angebot in den USA auszubauen. Die Akquisition stärkt die Marktposition des Unternehmens im US-Kryptosektor und erweitert potenziell dessen Dienstleistungen. Die Expansion dürfte den Wettbewerb im US-Kryptohandel weiter erhöhen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-26T05:53:49Z"
     },
     {
       "id": "https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027",
@@ -8049,7 +8051,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "US-Bankengruppen planen laut einem Bericht ein landesweites Blockchain-Netzwerk, das bis 2027 in Betrieb gehen soll. Die Initiative unterstreicht die zunehmende Akzeptanz verteilter Ledger-Technologie im traditionellen Finanzsektor und könnte die Nachfrage nach Krypto-Infrastruktur stärken. Eine konkrete Marktreaktion ist bis zur Umsetzung nicht zu erwarten; die Ankündigung wirkt vor allem als positives Stimmungssignal."
+      "summary": "US-Bankengruppen planen laut einem Bericht ein landesweites Blockchain-Netzwerk, das bis 2027 in Betrieb gehen soll. Die Initiative unterstreicht die zunehmende Akzeptanz verteilter Ledger-Technologie im traditionellen Finanzsektor und könnte die Nachfrage nach Krypto-Infrastruktur stärken. Eine konkrete Marktreaktion ist bis zur Umsetzung nicht zu erwarten; die Ankündigung wirkt vor allem als positives Stimmungssignal.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-26T05:53:49Z"
     },
     {
       "id": "https://techcrunch.com/?p=3156276",
@@ -8063,7 +8067,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Das indische Startup Ringg hat eine Finanzierung von Peak XV erhalten und will seine Sprach-KI über den reinen Telefonanruf hinaus ausbauen. Die Unterstützung eines renommierten Investors stärkt Ringg im wachsenden Markt für sprachbasierte KI-Assistenten in Indien. Der Ausbau dürfte den Wettbewerb im Bereich Voice-AI weiter verstärken."
+      "summary": "Das indische Startup Ringg hat eine Finanzierung von Peak XV erhalten und will seine Sprach-KI über den reinen Telefonanruf hinaus ausbauen. Die Unterstützung eines renommierten Investors stärkt Ringg im wachsenden Markt für sprachbasierte KI-Assistenten in Indien. Der Ausbau dürfte den Wettbewerb im Bereich Voice-AI weiter verstärken.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-26T05:53:49Z"
     },
     {
       "id": "https://techcrunch.com/?p=3156922",
@@ -8077,7 +8083,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Laut Quellen erreicht das Robotik-Startup Generalist eine Bewertung von drei Milliarden US-Dollar. Die hohe Bewertung signalisiert starkes Investorenvertrauen in KI-gestützte Robotik. Eine offizielle Bestätigung des Unternehmens steht noch aus."
+      "summary": "Laut Quellen erreicht das Robotik-Startup Generalist eine Bewertung von drei Milliarden US-Dollar. Die hohe Bewertung signalisiert starkes Investorenvertrauen in KI-gestützte Robotik. Eine offizielle Bestätigung des Unternehmens steht noch aus.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-26T05:53:49Z"
     },
     {
       "id": "https://techcrunch.com/?p=3156793",
@@ -8376,6 +8384,15 @@
       "at": "2026-08-26T03:35:53Z",
       "article_ids": [
         "https://cointelegraph.com/magazine/hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox"
+      ]
+    },
+    {
+      "at": "2026-08-26T05:53:49Z",
+      "article_ids": [
+        "b05b6aab-ef7a-55cf-9d80-0710574ca834",
+        "https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027",
+        "https://techcrunch.com/?p=3156276",
+        "https://techcrunch.com/?p=3156922"
       ]
     }
   ],
