@@ -1,5 +1,18 @@
 [
   {
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph.com News",
+    "published": "2026-08-26T06:04:55Z",
+    "stream": "crypto",
+    "score": 5,
+    "category": "Other",
+    "sentiment": "neutral",
+    "summary": "Der Artikel bietet eine allgemeine Übersicht der Krypto-Geschehnisse des Tages. Konkrete Zahlen oder Ereignisse werden in der Überschrift nicht genannt. Eine direkte Marktbewegung lässt sich daraus nicht ableiten.",
+    "instruments": [],
+    "entities": []
+  },
+  {
     "title": "Ex-Signature Bank chair warns big banks could use blockchain to take market share from smaller rivals as N3XT goes global",
     "url": "https://www.theblock.co/news/business/2026-08-19-ex-signature-bank-chair-big-banks-blockchain-n3xt-412202",
     "source": "The Block",
@@ -175,19 +188,6 @@
     "instruments": [
       "BTCUSD"
     ],
-    "entities": []
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-19T05:53:49Z",
-    "stream": "crypto",
-    "score": 3,
-    "category": "Other",
-    "sentiment": "neutral",
-    "summary": "Cointelegraph hat seine tägliche Übersichts-Rubrik veröffentlicht, die die wichtigsten Trends und Ereignisse zu Bitcoin, Blockchain, DeFi, Web3 und Krypto-Regulierung zusammenfasst. Der Artikel enthält keine konkreten Fakten, Zahlen oder Ereignisse, daher ist keine direkte Marktbewegung ableitbar. Es ist mit keiner unmittelbaren Kursreaktion zu rechnen; der Beitrag dient lediglich als tagesaktueller Überblick.",
-    "instruments": [],
     "entities": []
   },
   {
@@ -1317,19 +1317,6 @@
     "entities": []
   },
   {
-    "title": "SafePal Bitcoin Wallet Data Breach Stokes Fears of Physical Attacks",
-    "url": "https://decrypt.co/375743/safepal-bitcoin-wallet-data-breach",
-    "source": "Decrypt",
-    "published": "2026-08-17T09:31:04Z",
-    "stream": "crypto",
-    "score": 7,
-    "category": "Hack & Security",
-    "sentiment": "bearish",
-    "summary": "Ein Fehler im Order-Tracking-Plugin von SafePal hat Namen, Adressen und Telefonnummern von fast 40.000 Bitcoin-Wallet-Kunden offengelegt. Dieser Sicherheitsvorfall erhöht das Phishing- und physische Sicherheitsrisiko für Krypto-Besitzer und untergräbt das Vertrauen in die Datenverarbeitung durch Wallet-Anbieter. Die gestiegene Unsicherheit wird die Akzeptanz von Hardware-Wallets beeinflussen und schnelle Patch-Maßnahmen der Anbieter erzwingen.",
-    "instruments": [],
-    "entities": []
-  },
-  {
     "title": "DeepSeek AI Releases DeepSeek Harness in Developer Preview: An MIT-Licensed Agent Harness Where Everything is a Plugin",
     "url": "https://www.marktechpost.com/2026/08/17/deepseek-ai-releases-deepseek-harness-in-developer-preview/",
     "source": "MarkTechPost",
@@ -1356,19 +1343,6 @@
     "entities": []
   },
   {
-    "title": "BitMart account demands founder explain funds status, Xia calls claims 'fabricated'",
-    "url": "https://cointelegraph.com/news/bitmart-account-founder-explain-repayment-plan",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-17T08:15:01Z",
-    "stream": "crypto",
-    "score": 4,
-    "category": "FUD",
-    "sentiment": "bearish",
-    "summary": "Der BitMart-Gründer Sheldon Xia wies Forderungen nach einem Rückzahlungsplan bis zum 19. August als erfundene Gerüchte zurück. Diese öffentliche Auseinandersetzung verstärkt die Unsicherheit bezüglich der Solvenz der Börse und der Sicherheit von Kundengeldern. Erhöhte Volatilität ist wahrscheinlich, solange weitere Forderungen oder Beweise ausstehen.",
-    "instruments": [],
-    "entities": []
-  },
-  {
     "title": "Get closer to the game with Gemini and Pixel",
     "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
     "source": "AI",
@@ -1384,16 +1358,48 @@
     ]
   },
   {
-    "title": "Greenlane's $70M BERA treasury ends Q2 valued at $16M",
-    "url": "https://cointelegraph.com/news/greenlane-70m-bera-treasury-valued-16m",
-    "source": "Cointelegraph.com News",
-    "published": "2026-08-17T05:52:55Z",
-    "stream": "crypto",
+    "title": "The Defender’s Window",
+    "url": "https://openai.com/index/the-defenders-window",
+    "source": "OpenAI News",
+    "published": "2026-08-17T05:30:00Z",
+    "stream": "ai",
     "score": 5,
-    "category": "Other",
-    "sentiment": "bearish",
-    "summary": "Greenlanes BERA-Treasury verlor im zweiten Quartal von 70 Millionen auf 16 Millionen US-Dollar, was einen nicht-kassenwirksamen Abschreibungsverlust von 19,1 Millionen US-Dollar nach sich zog. Dieser Einbruch verdeutlicht die extreme Volatilität von Altcoin-Token und warnt Unternehmen vor der Haltung solcher riskanten Krypto-Treasuries. Erhöhte Skepsis gegenüber volatilen Krypto-Assets in Unternehmensbilanzen ist wahrscheinlich.",
+    "category": "Safety & Risk",
+    "sentiment": "neutral",
+    "summary": "OpenAI hat den Artikel „The Defender's Window“ veröffentlicht, der das Handlungsfenster für Verteidiger in der Cybersicherheit thematisiert und die wachsende Rolle von KI in der Cyberabwehr hervorhebt. Der Beitrag unterstreicht strategisch die Bedeutung künstlicher Intelligenz für die digitale Sicherheit, ohne dabei konkrete Produkt- oder Policy-Ankündigungen zu machen. Die nächste Wegmarke ist die inhaltliche Ausrichtung der Debatte um KI-gestützte Abwehrmaßnahmen, da keine unmittelbaren geschäftlichen Neuerungen vorliegen.",
     "instruments": [],
-    "entities": []
+    "entities": [
+      "OPENAI"
+    ]
+  },
+  {
+    "title": "OpenAI joins PORTS-Pike project",
+    "url": "https://openai.com/index/openai-joins-ports-pike-project",
+    "source": "OpenAI News",
+    "published": "2026-08-17T05:00:00Z",
+    "stream": "ai",
+    "score": 6,
+    "category": "Business & Funding",
+    "sentiment": "bullish",
+    "summary": "OpenAI ist dem PORTS-Pike-Projekt beigetreten und erweitert damit seine Beteiligung an Infrastrukturvorhaben. Diese Partnerschaft stärkt OpenAIs Position im Bereich großer Infrastrukturprojekte und signalisiert weiteres Wachstum der KI-Infrastruktur. Die nächste strategische Entwicklung hängt davon ab, wie sich die verstärkte Ausrichtung auf große Projekte auf das Unternehmen auswirkt.",
+    "instruments": [],
+    "entities": [
+      "OPENAI"
+    ]
+  },
+  {
+    "title": "New policy ideas for the Intelligence Age",
+    "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+    "source": "OpenAI News",
+    "published": "2026-08-17T03:15:00Z",
+    "stream": "ai",
+    "score": 6,
+    "category": "Regulation & Policy",
+    "sentiment": "neutral",
+    "summary": "OpenAI finanziert 14 unabhängige Projekte zur Erforschung neuer KI-Politikideen, um wirtschaftliche Chancen zu erweitern und die gesellschaftliche Resilienz im Zeitalter der Intelligenz zu stärken. Diese Initiative positioniert OpenAI als zentralen Akteur in den Debatten über KI-Politik und beeinflusst direkt die künftige Ausgestaltung von Regulierung sowie Wirtschaftspolitik im KI-Bereich. Die finanzielle Unterstützung wird die politische Agenda und die regulatorische Landschaft für künstliche Intelligenz konkret prägen.",
+    "instruments": [],
+    "entities": [
+      "OPENAI"
+    ]
   }
 ]
