@@ -2605,7 +2605,13 @@
     "https://decrypt.co/?p=376530": "2026-08-25T21:57:23Z",
     "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/": "2026-08-25T21:57:27Z",
     "https://cointelegraph.com/magazine/hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox": "2026-08-25T23:58:35Z",
-    "https://decrypt.co/?p=376573": "2026-08-25T23:58:35Z"
+    "https://decrypt.co/?p=376573": "2026-08-25T23:58:35Z",
+    "0603488c-db56-5c4d-95ff-c4b661449a9d": "2026-08-26T05:18:53Z",
+    "b05b6aab-ef7a-55cf-9d80-0710574ca834": "2026-08-26T05:18:53Z",
+    "https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027": "2026-08-26T05:18:53Z",
+    "https://techcrunch.com/?p=3156276": "2026-08-26T05:18:54Z",
+    "https://techcrunch.com/?p=3156922": "2026-08-26T05:18:54Z",
+    "https://techcrunch.com/?p=3156793": "2026-08-26T05:18:54Z"
   },
   "pending": {
     "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund": {
@@ -4730,114 +4736,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing",
-      "title": "Fidelity files with SEC to add staking to Ethereum ETF",
-      "url": "https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-12T12:42:58Z",
-      "score": 8,
-      "category": "Regulation",
-      "sentiment": "bullish",
-      "instruments": [
-        "ETHUSD",
-        "ETHBTC"
-      ],
-      "entities": [],
-      "summary": "Fidelity hat bei der SEC beantragt, dem Ethereum-ETF FETH Staking hinzuzufügen, wobei 85 % der Erträge einbehalten und vierteljährlich ausgezahlt werden. Diese strukturelle Anpassung macht den Fonds für Institutionen attraktiver, stützt die ETH-Nachfrage und verbessert die relative Attraktivität gegenüber BTC. Die nächste Wegmarke ist die SEC-Entscheidung über diesen Antrag.",
-      "summary_lang": "de"
-    },
-    {
-      "id": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "stream": "ai",
-      "source": "OpenAI News",
-      "published": "2026-08-12T06:00:00Z",
-      "score": 6,
-      "category": "Business & Funding",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [
-        "OPENAI"
-      ],
-      "summary": "OpenAI hat Forschungsergebnisse zur Einführung agentic AI über ChatGPT und Codex veröffentlicht, wobei führende Unternehmen bei der Adoption vorauseilen. Dies untermauert OpenAIs Position im Unternehmensmarkt und signalisiert eine beschleunigte Integration von KI-Arbeitsabläufen in verschiedene Branchen. Die Wettbewerbslandschaft für andere KI-Anbieter wird sich durch diese beschleunigte Adoption verändern.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-12T13:27:26Z",
-      "summary_lang": "de"
-    },
-    {
-      "id": "https://cointelegraph.com/news/wintermute-pour-1b-ai-tradfi-expansion-report",
-      "title": "Wintermute to pour $1B in AI, high-frequency trading amid TradFi expansion: report",
-      "url": "https://cointelegraph.com/news/wintermute-pour-1b-ai-tradfi-expansion-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-12T13:23:57Z",
-      "score": 8,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [
-        "BTCUSD",
-        "ETHUSD"
-      ],
-      "entities": [],
-      "summary": "Wintermute investiert laut Bericht 1 Milliarde US-Dollar in KI-Infrastruktur und Hochfrequenzhandel zur Expansion in den traditionellen Finanzsektor. Dies signalisiert wachsendes institutionelles Vertrauen und vertieft die Integration zwischen Kryptomärkten und TradFi, was Liquidität und Reife stärken könnte. Die konkrete Folge ist die erwartete Beeinflussung der kurzfristigen Marktliquidität durch diese Kapitalströme sowie der erste Nutzen für Akteure der erhöhten Interoperabilität.",
-      "summary_lang": "de"
-    },
-    {
-      "id": "https://cointelegraph.com/news/slovenia-eu-mica-stablecoin-register-dinaro",
-      "title": "Slovenia joins EU’s MiCA stablecoin register with first issuer",
-      "url": "https://cointelegraph.com/news/slovenia-eu-mica-stablecoin-register-dinaro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-12T13:31:54Z",
-      "score": 6,
-      "category": "Regulation",
-      "sentiment": "neutral",
-      "instruments": [
-        "USDT.D"
-      ],
-      "entities": [],
-      "summary": "Slowenien hat sich mit Dinaro als erster Emittent im EU-MiCA-Register eingetragen, ergänzt durch zwei neue CASPs. Dies signalisiert den Übergang des EU-Stablecoin-Rahmens in die aktive Aufsicht und schafft regulatorische Klarheit für den europäischen Markt. Die konkrete Umsetzung der neuen Aufsichtsrichtlinien wird die Compliance-Landschaft für weitere Emittenten direkt beeinflussen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-12T14:02:22Z",
-      "summary_lang": "de"
-    },
-    {
-      "id": "https://cointelegraph.com/magazine/el-salvadors-bitcoin-experiment-turns-5-it-was-for-us-and-not-them",
-      "title": "El Salvador’s Bitcoin experiment turns 5: ‘It was for us, not them’",
-      "url": "https://cointelegraph.com/magazine/el-salvadors-bitcoin-experiment-turns-5-it-was-for-us-and-not-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-12T13:30:00Z",
-      "score": 4,
-      "category": "Other",
-      "sentiment": "neutral",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "El Salvador markiert den fünften Jahrestag der Bitcoin-Einführung als gesetzliches Zahlungsmittel, wobei lokale Versprechen verfehlt und das globale Profil gestärkt wurden. Diese narrative Entwicklung beeinflusst den Preis kaum, hält jedoch die Länderebene-Adoption im Fokus. Die langfristige Akzeptanz von Bitcoin auf nationaler Ebene bleibt ein zentrales Thema für die Krypto-Branche.",
-      "summary_lang": "de"
-    },
-    {
-      "id": "https://www.theblock.co/post/411589",
-      "title": "Kalshi first prediction market to stream full order books via DoubleZero",
-      "url": "https://www.theblock.co/news/markets/2026-08-12-kalshi-first-prediction-market-to-stream-full-order-books-via-doublezero-411589",
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-12T14:00:00Z",
-      "score": 6,
-      "category": "Tech Update",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Kalshi streamt als erster Prediction Market vollständige Orderbücher mit Level-1- und Level-2-Daten über DoubleZero. Dies ermöglicht institutionellen Händlern einen direkten Datenzugang ohne API-basierte Rekonstruktion. Die Stärkung der Infrastruktur erfolgt ohne direkte Auswirkungen auf den Krypto-Spotmarkt oder Derivatehandel.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-17T11:55:48Z",
-      "summary_lang": "de"
-    },
     {
       "id": "https://cointelegraph.com/news/kalshi-launches-sports-crypto-data-feed-doublezero",
       "title": "Kalshi launches sports and crypto perps data feed on DoubleZero",
@@ -8110,6 +8008,92 @@
       "instruments": [],
       "entities": [],
       "summary": "Elon Musks SpaceX plant laut Decrypt eine Raumfahrtanlage in Louisiana mit Investitionen von 100 Milliarden Dollar. Für den Kryptomarkt hat das Vorhaben keinen direkten Bezug, da es weder Angebot noch Nachfrage digitaler Assets berührt. Eine unmittelbare Reaktion von Bitcoin, Ethereum oder anderen Krypto-Instrumenten ist daher nicht zu erwarten."
+    },
+    {
+      "id": "0603488c-db56-5c4d-95ff-c4b661449a9d",
+      "title": "Kalshi raised $1.12 billion via private equity offering since April, latest SEC filing shows",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-08-26T04:51:58Z",
+      "score": 5,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Kalshi hat laut SEC-Einreichung seit April 1,12 Milliarden USD über ein Private-Equity-Angebot eingesammelt. Die Kapitalspritze stärkt Kalshi als Plattform für Event-Verträge, hat aber keinen direkten Einfluss auf Kryptopreise. Eine unmittelbare Marktreaktion ist unwahrscheinlich; relevant bleibt das weitere Wachstum der Prognosemärkte."
+    },
+    {
+      "id": "b05b6aab-ef7a-55cf-9d80-0710574ca834",
+      "title": "RockawayX acquires Relayer Capital to expand crypto offerings in US",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-08-26T03:35:32Z",
+      "score": 6,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "RockawayX übernimmt Relayer Capital, um sein Krypto-Angebot in den USA auszubauen. Die Akquisition stärkt die Marktposition des Unternehmens im US-Kryptosektor und erweitert potenziell dessen Dienstleistungen. Die Expansion dürfte den Wettbewerb im US-Kryptohandel weiter erhöhen."
+    },
+    {
+      "id": "https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027",
+      "title": "US banking groups plan nationwide blockchain network for 2027",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-26T04:17:39Z",
+      "score": 6,
+      "category": "Tech Update",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "US-Bankengruppen planen laut einem Bericht ein landesweites Blockchain-Netzwerk, das bis 2027 in Betrieb gehen soll. Die Initiative unterstreicht die zunehmende Akzeptanz verteilter Ledger-Technologie im traditionellen Finanzsektor und könnte die Nachfrage nach Krypto-Infrastruktur stärken. Eine konkrete Marktreaktion ist bis zur Umsetzung nicht zu erwarten; die Ankündigung wirkt vor allem als positives Stimmungssignal."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3156276",
+      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-26T03:30:00Z",
+      "score": 6,
+      "category": "Business & Funding",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Das indische Startup Ringg hat eine Finanzierung von Peak XV erhalten und will seine Sprach-KI über den reinen Telefonanruf hinaus ausbauen. Die Unterstützung eines renommierten Investors stärkt Ringg im wachsenden Markt für sprachbasierte KI-Assistenten in Indien. Der Ausbau dürfte den Wettbewerb im Bereich Voice-AI weiter verstärken."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3156922",
+      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-26T00:40:59Z",
+      "score": 6,
+      "category": "Business & Funding",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Laut Quellen erreicht das Robotik-Startup Generalist eine Bewertung von drei Milliarden US-Dollar. Die hohe Bewertung signalisiert starkes Investorenvertrauen in KI-gestützte Robotik. Eine offizielle Bestätigung des Unternehmens steht noch aus."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3156793",
+      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-26T00:06:20Z",
+      "score": 5,
+      "category": "Business & Funding",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [
+        "OpenAI"
+      ],
+      "summary": "OpenAI verliert erneut eine Führungskraft im Rechenzentrumsbereich, die Serie prominenter Abgänge setzt sich damit fort. Der Weggang betrifft den Ausbau der KI-Infrastruktur, der für OpenAI zentral ist, und erhöht das Risiko von Verzögerungen. Personalentscheidungen und die Nachbesetzung der Position werden darüber bestimmen, ob die Infrastrukturprojekte stabil weiterlaufen."
     }
   ],
   "digest_log": [
