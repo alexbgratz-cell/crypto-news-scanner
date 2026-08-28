@@ -1,45 +1,45 @@
 {
-  "timestamp": "2026-08-26T14:26:22Z",
+  "timestamp": "2026-08-28T00:57:13Z",
   "instruments": {
     "BTCUSD": {
-      "value": 78502,
-      "change_24h": -0.75,
+      "value": 80464,
+      "change_24h": 2.23,
       "group": "Direkte Korrelation",
       "label": null
     },
     "ETHUSD": {
-      "value": 2457.07,
-      "change_24h": -0.69,
+      "value": 2514.17,
+      "change_24h": 0.86,
       "group": "Direkte Korrelation",
       "label": null
     },
     "SOLUSD": {
-      "value": 96.68,
-      "change_24h": -1.23,
+      "value": 109.35,
+      "change_24h": 8.36,
       "group": "Direkte Korrelation",
       "label": null
     },
     "ETHBTC": {
-      "value": 0.031299,
-      "change_24h": 0.06,
+      "value": 0.031246,
+      "change_24h": -1.34,
       "group": "Kapitalrotation",
       "label": null
     },
     "BTC.D": {
-      "value": 59.26,
+      "value": 59.28,
       "change_24h": null,
       "group": "Liquidität & Sentiment",
       "label": null
     },
     "USDT.D": {
-      "value": 6.89,
+      "value": 6.73,
       "change_24h": null,
       "group": "Liquidität & Sentiment",
       "label": null
     },
     "F&G": {
-      "value": 65.0,
-      "change_24h": -9.0,
+      "value": 73.0,
+      "change_24h": 2.0,
       "group": "Liquidität & Sentiment",
       "label": "Greed"
     },
@@ -62,13 +62,13 @@
       "label": null
     },
     "MEMPOOL": {
-      "value": 84414.0,
+      "value": 86279.0,
       "change_24h": null,
       "group": "On-Chain",
       "label": null
     },
     "MO30": {
-      "value": 18.72,
+      "value": 25.54,
       "change_24h": null,
       "group": "On-Chain",
       "label": null
@@ -80,26 +80,26 @@
       "label": null
     },
     "NDX": {
-      "value": 29140.69,
-      "change_24h": -0.23,
+      "value": 29641.56,
+      "change_24h": 1.43,
       "group": "TradFi/Makro",
       "label": null
     },
     "VIX": {
-      "value": 15.45,
-      "change_24h": -2.52,
+      "value": 15.21,
+      "change_24h": -1.55,
       "group": "TradFi/Makro",
       "label": null
     },
     "US10Y": {
-      "value": 4.7,
-      "change_24h": -0.84,
+      "value": 4.66,
+      "change_24h": 0.43,
       "group": "TradFi/Makro",
       "label": null
     },
     "SPX": {
-      "value": 7677.28,
-      "change_24h": 0.32,
+      "value": 7730.99,
+      "change_24h": 0.72,
       "group": "TradFi/Makro",
       "label": null
     }
