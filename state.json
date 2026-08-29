@@ -2561,7 +2561,8 @@
     "https://decrypt.co/videos/interviews/50vopyFa/the-white-whale-up-10x-in-a-week-lighter-tge-saylor-buys-109m-btc": "2026-08-29T07:04:29Z",
     "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief": "2026-08-29T08:19:23Z",
     "6a8f5fcd81a7b3cc4250388b": "2026-08-29T10:04:36Z",
-    "6a91a28c803370e4d9cbd822": "2026-08-29T10:34:26Z"
+    "6a91a28c803370e4d9cbd822": "2026-08-29T10:34:26Z",
+    "https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash": "2026-08-29T11:04:25Z"
   },
   "pending": {
     "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult": {
@@ -3422,22 +3423,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=376536",
-      "title": "These Researchers Just Shrunk an AI Model and Somehow Made It Smarter",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-25T20:46:03Z",
-      "score": 6,
-      "category": "Research & Open Source",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Forschende haben ein KI-Modell verkleinert und es dabei zugleich intelligenter gemacht. Solche Effizienzfortschritte könnten die Rechenkosten senken und den Betrieb großer Modelle erschwinglicher machen. In der Folge könnten kompaktere Modelle breitere Anwendung finden und kleinere Anbieter begünstigen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-25T23:01:10Z"
-    },
     {
       "id": "https://decrypt.co/?p=376473",
       "title": "Bitcoin Open Interest Collapses to 12%. Is the Short Squeeze Over?",
@@ -6681,6 +6666,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Führende KI-Unternehmen warnen vor einer Cyber-Sicherheitskrise, die bereits in Monaten eintreten könne. Die Warnung erhöht den Risikodruck auf die gesamte KI-Branche und könnte Vertrauen sowie Investitionen belasten. In der Folge ist mit verstärkten Sicherheitsdebatten und möglichen regulatorischen Reaktionen zu rechnen."
+    },
+    {
+      "id": "https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash",
+      "title": "Trump-promoted brand touts GOLD before token collapse",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-29T10:53:41Z",
+      "score": 5,
+      "category": "Other",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Eine mit Trump verknüpfte Marke bewarb laut Cointelegraph den Token GOLD, bevor dieser kollabierte. Solche Vorfälle können das Vertrauen in kleinere Krypto-Projekte schwächen und regulatorische Aufmerksamkeit erhöhen. Eine direkte Kursreaktion bei den etablierten Hauptwerten ist jedoch unwahrscheinlich."
     }
   ],
   "digest_log": [
