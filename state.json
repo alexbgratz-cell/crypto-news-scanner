@@ -6617,7 +6617,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Das Transfervolumen tokenisierter Aktien ist innerhalb von 30 Tagen um 415 % auf 29,5 Mrd. US-Dollar gestiegen. Der Anstieg zeigt, dass tokenisierte Wertpapiere zunehmend genutzt werden und Krypto-Infrastruktur für traditionelle Finanzmärkte an Bedeutung gewinnt. Die wachsende Nachfrage dürfte die Integration blockchainbasierter Handelswege weiter vorantreiben; eine unmittelbare Marktreaktion ist daraus aber nicht direkt abzuleiten."
+      "summary": "Das Transfervolumen tokenisierter Aktien ist innerhalb von 30 Tagen um 415 % auf 29,5 Mrd. US-Dollar gestiegen. Der Anstieg zeigt, dass tokenisierte Wertpapiere zunehmend genutzt werden und Krypto-Infrastruktur für traditionelle Finanzmärkte an Bedeutung gewinnt. Die wachsende Nachfrage dürfte die Integration blockchainbasierter Handelswege weiter vorantreiben; eine unmittelbare Marktreaktion ist daraus aber nicht direkt abzuleiten.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-29T17:08:00Z"
     }
   ],
   "digest_log": [
@@ -7075,6 +7077,12 @@
       "at": "2026-08-29T16:08:15Z",
       "article_ids": [
         "https://decrypt.co/?p=376866"
+      ]
+    },
+    {
+      "at": "2026-08-29T17:08:00Z",
+      "article_ids": [
+        "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b"
       ]
     }
   ],
