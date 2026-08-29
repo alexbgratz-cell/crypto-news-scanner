@@ -6658,7 +6658,9 @@
         "Cursor",
         "SpaceX"
       ],
-      "summary": "OpenAI hat eine Entscheidung zu Cursor bekannt gegeben, nachdem SpaceX das KI-Code-Editing-Produkt übernommen hat. Die Ankündigung betrifft Entwickler und den Markt für KI-gestützte Codierungstools. Die konkreten Folgen für Zusammenarbeit und Verfügbarkeit von Cursor ergeben sich aus den Details der Entscheidung."
+      "summary": "OpenAI hat eine Entscheidung zu Cursor bekannt gegeben, nachdem SpaceX das KI-Code-Editing-Produkt übernommen hat. Die Ankündigung betrifft Entwickler und den Markt für KI-gestützte Codierungstools. Die konkreten Folgen für Zusammenarbeit und Verfügbarkeit von Cursor ergeben sich aus den Details der Entscheidung.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-29T02:08:24Z"
     }
   ],
   "digest_log": [
@@ -7084,6 +7086,12 @@
         "https://techcrunch.com/?p=3158461",
         "https://techcrunch.com/?p=3158175",
         "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/"
+      ]
+    },
+    {
+      "at": "2026-08-29T02:08:24Z",
+      "article_ids": [
+        "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
       ]
     }
   ],
