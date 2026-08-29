@@ -6574,7 +6574,9 @@
       "entities": [
         "NVDA"
       ],
-      "summary": "NVIDIA hat mit Earth2Studio ein neues Toolkit zur Erstellung maßgeschneiderter Batched-Ensemble-Wettervorhersagen vorgestellt. Das Tool vereinfacht die Arbeit mit mehreren Ensemble-Läufen und stärkt die Position von NVIDIA im Bereich KI-gestützter Klimamodellierung und Hochleistungsrechnen. Die Verfügbarkeit dürfte die Nutzung von NVIDIA-Beschleunigern in meteorologischen Anwendungen weiter erhöhen."
+      "summary": "NVIDIA hat mit Earth2Studio ein neues Toolkit zur Erstellung maßgeschneiderter Batched-Ensemble-Wettervorhersagen vorgestellt. Das Tool vereinfacht die Arbeit mit mehreren Ensemble-Läufen und stärkt die Position von NVIDIA im Bereich KI-gestützter Klimamodellierung und Hochleistungsrechnen. Die Verfügbarkeit dürfte die Nutzung von NVIDIA-Beschleunigern in meteorologischen Anwendungen weiter erhöhen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-29T20:08:04Z"
     },
     {
       "id": "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth",
@@ -6588,7 +6590,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Der Markt für tokenisierte reale Vermögenswerte (RWA) auf Stellar ist laut dem Artikel auf fast 4 Mrd. USD gestiegen und hat sich im Jahresvergleich mehr als vervierfacht. Das signalisiert wachsende institutionelle Nachfrage nach tokenisierten Anlagen und stärkt Stellars Rolle als RWA-Plattform. Ein anhaltender Anstieg des tokenisierten RWA-Segments ist wahrscheinlich, weitere Zuflüsse in ähnliche Blockchain-Projekte sind zu erwarten."
+      "summary": "Der Markt für tokenisierte reale Vermögenswerte (RWA) auf Stellar ist laut dem Artikel auf fast 4 Mrd. USD gestiegen und hat sich im Jahresvergleich mehr als vervierfacht. Das signalisiert wachsende institutionelle Nachfrage nach tokenisierten Anlagen und stärkt Stellars Rolle als RWA-Plattform. Ein anhaltender Anstieg des tokenisierten RWA-Segments ist wahrscheinlich, weitere Zuflüsse in ähnliche Blockchain-Projekte sind zu erwarten.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-29T20:08:04Z"
     }
   ],
   "digest_log": [
@@ -7064,6 +7068,13 @@
       "at": "2026-08-29T19:07:55Z",
       "article_ids": [
         "https://techcrunch.com/?p=3158639"
+      ]
+    },
+    {
+      "at": "2026-08-29T20:08:04Z",
+      "article_ids": [
+        "https://www.marktechpost.com/?p=81950",
+        "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth"
       ]
     }
   ],
