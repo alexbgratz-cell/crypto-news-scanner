@@ -2563,17 +2563,10 @@
     "https://decrypt.co/?p=376864": "2026-08-29T13:34:05Z",
     "761554c2-c5fc-5f3c-b019-816d3a074ce9": "2026-08-29T14:04:07Z",
     "https://techcrunch.com/?p=3158515": "2026-08-29T14:04:08Z",
-    "https://www.marktechpost.com/?p=81947": "2026-08-29T15:04:26Z"
+    "https://www.marktechpost.com/?p=81947": "2026-08-29T15:04:26Z",
+    "https://decrypt.co/?p=376866": "2026-08-29T15:34:08Z"
   },
   "pending": {
-    "https://decrypt.co/?p=376296": {
-      "id": "https://decrypt.co/?p=376296",
-      "title": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
-      "url": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-22T15:31:04Z"
-    },
     "1742e707-109c-5307-884c-1113fff775d0": {
       "id": "1742e707-109c-5307-884c-1113fff775d0",
       "title": "Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal",
@@ -3400,22 +3393,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3156618",
-      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-25T19:03:47Z",
-      "score": 6,
-      "category": "Business & Funding",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Stability AI, Entwickler des Bildgenerators Stable Diffusion, hat 76 Millionen US-Dollar in einer frischen Finanzierungsrunde eingesammelt. Das Kapital stärkt die finanzielle Basis des Unternehmens in einem wettbewerbsintensiven KI-Markt und signalisiert Vertrauen der Investoren. Die Mittel dürften die weitere Entwicklung und Vermarktung der Bildgenerierungsmodelle absichern.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-25T23:01:10Z"
-    },
     {
       "id": "https://www.marktechpost.com/?p=81860",
       "title": "Perplexity Ships Portable Computer on NVIDIA DGX Spark: Local Harness, OS-Enforced Sandbox, and Zero Per-Token Cost for Local Steps",
@@ -6652,6 +6629,22 @@
         "GOOGL"
       ],
       "summary": "Google hat Gemini Omni 1.1 Flash veröffentlicht, der 40-Sekunden-Szenenverlängerung, Erst-/Letzt-Bild-Steuerung und 4K-Upscaling bietet. Die Erweiterung stärkt Googles Videogenerierungsangebot und erhöht den Wettbewerbsdruck im KI-Videomarkt. Zu erwarten sind eine höhere Nachfrage nach Googles KI-Diensten und verstärkte Innovationsanstrengungen bei Wettbewerbern."
+    },
+    {
+      "id": "https://decrypt.co/?p=376866",
+      "title": "Bitcoin's Oldest Coins Are Waking Up in 2026 at a Pace Rarely Seen",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-08-29T15:31:04Z",
+      "score": 6,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Laut Decrypt erwachen 2026 Bitcoins älteste Coins in einem selten gesehenen Tempo. Die Bewegung alter Bestände kann das verfügbare Angebot erhöhen und wird als möglicher Verkaufsdruck von Langzeitbesitzern gedeutet. Erhöhte Volatilität am Bitcoin-Markt ist wahrscheinlich."
     }
   ],
   "digest_log": [
