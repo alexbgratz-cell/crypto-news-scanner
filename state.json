@@ -1,6 +1,5 @@
 {
   "seen": {
-    "2180291a-ed71-5e13-927d-3d0231f9aa06": "2026-08-22T19:52:25Z",
     "https://techcrunch.com/?p=3155861": "2026-08-22T22:51:20Z",
     "https://www.marktechpost.com/?p=81814": "2026-08-23T00:01:46Z",
     "https://www.marktechpost.com/?p=81823": "2026-08-23T07:51:27Z",
@@ -2563,7 +2562,8 @@
     "https://techcrunch.com/?p=3156771": "2026-08-29T17:49:06Z",
     "https://techcrunch.com/?p=3158639": "2026-08-29T18:49:27Z",
     "https://www.marktechpost.com/?p=81950": "2026-08-29T19:19:17Z",
-    "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth": "2026-08-29T19:34:11Z"
+    "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth": "2026-08-29T19:34:11Z",
+    "968ca34b-a548-542f-bf77-ad913d92547c": "2026-08-29T20:19:20Z"
   },
   "pending": {
     "https://techcrunch.com/?p=3155861": {
@@ -3336,20 +3336,6 @@
     }
   },
   "articles": [
-    {
-      "id": "0603488c-db56-5c4d-95ff-c4b661449a9d",
-      "title": "Kalshi raised $1.12 billion via private equity offering since April, latest SEC filing shows",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-26T04:51:58Z",
-      "score": 5,
-      "category": "Other",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Kalshi hat laut SEC-Einreichung seit April 1,12 Milliarden USD über ein Private-Equity-Angebot eingesammelt. Die Kapitalspritze stärkt Kalshi als Plattform für Event-Verträge, hat aber keinen direkten Einfluss auf Kryptopreise. Eine unmittelbare Marktreaktion ist unwahrscheinlich; relevant bleibt das weitere Wachstum der Prognosemärkte."
-    },
     {
       "id": "b05b6aab-ef7a-55cf-9d80-0710574ca834",
       "title": "RockawayX acquires Relayer Capital to expand crypto offerings in US",
@@ -6593,6 +6579,20 @@
       "summary": "Der Markt für tokenisierte reale Vermögenswerte (RWA) auf Stellar ist laut dem Artikel auf fast 4 Mrd. USD gestiegen und hat sich im Jahresvergleich mehr als vervierfacht. Das signalisiert wachsende institutionelle Nachfrage nach tokenisierten Anlagen und stärkt Stellars Rolle als RWA-Plattform. Ein anhaltender Anstieg des tokenisierten RWA-Segments ist wahrscheinlich, weitere Zuflüsse in ähnliche Blockchain-Projekte sind zu erwarten.",
       "delivered": "digest",
       "delivered_at": "2026-08-29T20:08:04Z"
+    },
+    {
+      "id": "968ca34b-a548-542f-bf77-ad913d92547c",
+      "title": "Cosmos Labs says it wrongly cleared the bug behind a $5.7 million six-chain hack",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-08-29T20:15:32Z",
+      "score": 8,
+      "category": "Hack & Security",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Cosmos Labs räumt ein, den Bug, der hinter einem 5,7-Millionen-Dollar-Hack über sechs Chains steckt, fälschlicherweise als behoben eingestuft zu haben. Der Sicherheitsvorfall erschüttert das Vertrauen in das Cosmos-Ökosystem und setzt betroffene Token und Projekte unter Verkaufsdruck. Weitere Sicherheitsprüfungen und Gegenmaßnahmen der betroffenen Chains sind wahrscheinlich."
     }
   ],
   "digest_log": [
