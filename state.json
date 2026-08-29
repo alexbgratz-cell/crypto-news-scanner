@@ -2562,7 +2562,8 @@
     "https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash": "2026-08-29T11:04:25Z",
     "https://decrypt.co/?p=376864": "2026-08-29T13:34:05Z",
     "761554c2-c5fc-5f3c-b019-816d3a074ce9": "2026-08-29T14:04:07Z",
-    "https://techcrunch.com/?p=3158515": "2026-08-29T14:04:08Z"
+    "https://techcrunch.com/?p=3158515": "2026-08-29T14:04:08Z",
+    "https://www.marktechpost.com/?p=81947": "2026-08-29T15:04:26Z"
   },
   "pending": {
     "https://decrypt.co/?p=376296": {
@@ -3399,25 +3400,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=376514",
-      "title": "Mistral and HUMAIN Are Building 'Sovereign AI' in Saudi Arabia",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-25T18:39:26Z",
-      "score": 6,
-      "category": "Business & Funding",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "Mistral",
-        "HUMAIN"
-      ],
-      "summary": "Mistral und HUMAIN kündigen eine Partnerschaft zum Aufbau sogenannter Souveräner KI in Saudi-Arabien an. Das Vorhaben stärkt die regionale KI-Infrastruktur und positioniert Mistral stärker im Nahen Osten. Weitere Investitionen und Folgeprojekte im saudischen KI-Ökosystem sind wahrscheinlich.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-25T23:01:10Z"
-    },
     {
       "id": "https://techcrunch.com/?p=3156618",
       "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
@@ -6654,6 +6636,22 @@
       "summary": "Nvidia baut seinen Vorsprung im KI-Markt offenbar über die reine GPU-Hardware hinaus aus. Das stärkt die Marktposition des Unternehmens gegenüber Wettbewerbern im KI-Infrastruktursegment. Als direkte Folge dürfte Nvidia weiterhin von steigender KI-Nachfrage profitieren und seine führende Rolle im Ökosystem festigen.",
       "delivered": "digest",
       "delivered_at": "2026-08-29T14:08:03Z"
+    },
+    {
+      "id": "https://www.marktechpost.com/?p=81947",
+      "title": "Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling",
+      "url": null,
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-08-29T14:30:44Z",
+      "score": 8,
+      "category": "Model Release & Capability",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "GOOGL"
+      ],
+      "summary": "Google hat Gemini Omni 1.1 Flash veröffentlicht, der 40-Sekunden-Szenenverlängerung, Erst-/Letzt-Bild-Steuerung und 4K-Upscaling bietet. Die Erweiterung stärkt Googles Videogenerierungsangebot und erhöht den Wettbewerbsdruck im KI-Videomarkt. Zu erwarten sind eine höhere Nachfrage nach Googles KI-Diensten und verstärkte Innovationsanstrengungen bei Wettbewerbern."
     }
   ],
   "digest_log": [
