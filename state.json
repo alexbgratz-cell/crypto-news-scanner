@@ -6591,7 +6591,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "Polygon hat Sicherheitslücken offengelegt, die in den jüngsten Hard Forks des Netzwerks behoben wurden. Die Offenlegung betrifft Knotenbetreiber und Nutzer, da ungepatchte Versionen potenziell angreifbar waren. Die aktualisierten Clients gelten nun als relevanter Sicherheitsstandard für das Netzwerk."
+      "summary": "Polygon hat Sicherheitslücken offengelegt, die in den jüngsten Hard Forks des Netzwerks behoben wurden. Die Offenlegung betrifft Knotenbetreiber und Nutzer, da ungepatchte Versionen potenziell angreifbar waren. Die aktualisierten Clients gelten nun als relevanter Sicherheitsstandard für das Netzwerk.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-29T21:07:59Z"
     }
   ],
   "digest_log": [
@@ -7074,6 +7076,12 @@
       "article_ids": [
         "https://www.marktechpost.com/?p=81950",
         "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth"
+      ]
+    },
+    {
+      "at": "2026-08-29T21:07:59Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks"
       ]
     }
   ],
