@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://decrypt.co/?p=376296": "2026-08-22T15:48:33Z",
     "1742e707-109c-5307-884c-1113fff775d0": "2026-08-22T16:55:00Z",
     "https://techcrunch.com/?p=3155841": "2026-08-22T16:55:01Z",
     "https://techcrunch.com/?p=3155518": "2026-08-22T16:55:01Z",
@@ -2564,33 +2563,10 @@
     "761554c2-c5fc-5f3c-b019-816d3a074ce9": "2026-08-29T14:04:07Z",
     "https://techcrunch.com/?p=3158515": "2026-08-29T14:04:08Z",
     "https://www.marktechpost.com/?p=81947": "2026-08-29T15:04:26Z",
-    "https://decrypt.co/?p=376866": "2026-08-29T15:34:08Z"
+    "https://decrypt.co/?p=376866": "2026-08-29T15:34:08Z",
+    "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b": "2026-08-29T16:49:25Z"
   },
   "pending": {
-    "1742e707-109c-5307-884c-1113fff775d0": {
-      "id": "1742e707-109c-5307-884c-1113fff775d0",
-      "title": "Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal",
-      "url": "https://www.theblock.co/news/ecosystems/2026-08-22-solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal-412521",
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-22T15:54:13Z"
-    },
-    "https://techcrunch.com/?p=3155841": {
-      "id": "https://techcrunch.com/?p=3155841",
-      "title": "OpenAI says California should strengthen its AI safety bill",
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-22T16:30:34Z"
-    },
-    "https://techcrunch.com/?p=3155518": {
-      "id": "https://techcrunch.com/?p=3155518",
-      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-22T16:00:00Z"
-    },
     "https://decrypt.co/?p=376287": {
       "id": "https://decrypt.co/?p=376287",
       "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
@@ -3393,25 +3369,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://www.marktechpost.com/?p=81860",
-      "title": "Perplexity Ships Portable Computer on NVIDIA DGX Spark: Local Harness, OS-Enforced Sandbox, and Zero Per-Token Cost for Local Steps",
-      "url": null,
-      "stream": "ai",
-      "source": "MarkTechPost",
-      "published": "2026-08-25T19:12:19Z",
-      "score": 7,
-      "category": "Hardware & Infrastructure",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "NVDA",
-        "Perplexity"
-      ],
-      "summary": "Perplexity bringt einen tragbaren Computer auf Basis des NVIDIA DGX Spark auf den Markt, der lokale Schritte mit OS-Erzwingungs-Sandbox und ohne Kosten pro Token ausführt. Das stärkt lokale KI-Ausführung und reduziert die Cloud-Abhängigkeit, wovon Perplexity-Nutzer und NVIDIA profitieren. Eine steigende Nachfrage nach lokalen KI-Systemen und NVIDIA-Hardware ist wahrscheinlich.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-25T23:01:10Z"
-    },
     {
       "id": "https://decrypt.co/?p=376559",
       "title": "XRP Hot Streak Cools as Traders Hit a Wall: Where Does It Go Next?",
@@ -6647,6 +6604,20 @@
       "summary": "Laut Decrypt erwachen 2026 Bitcoins älteste Coins in einem selten gesehenen Tempo. Die Bewegung alter Bestände kann das verfügbare Angebot erhöhen und wird als möglicher Verkaufsdruck von Langzeitbesitzern gedeutet. Erhöhte Volatilität am Bitcoin-Markt ist wahrscheinlich.",
       "delivered": "digest",
       "delivered_at": "2026-08-29T16:08:15Z"
+    },
+    {
+      "id": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b",
+      "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-29T16:27:28Z",
+      "score": 6,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Das Transfervolumen tokenisierter Aktien ist innerhalb von 30 Tagen um 415 % auf 29,5 Mrd. US-Dollar gestiegen. Der Anstieg zeigt, dass tokenisierte Wertpapiere zunehmend genutzt werden und Krypto-Infrastruktur für traditionelle Finanzmärkte an Bedeutung gewinnt. Die wachsende Nachfrage dürfte die Integration blockchainbasierter Handelswege weiter vorantreiben; eine unmittelbare Marktreaktion ist daraus aber nicht direkt abzuleiten."
     }
   ],
   "digest_log": [
