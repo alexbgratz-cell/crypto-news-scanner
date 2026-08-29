@@ -2562,7 +2562,8 @@
     "https://decrypt.co/?p=376866": "2026-08-29T15:34:08Z",
     "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b": "2026-08-29T16:49:25Z",
     "https://decrypt.co/?p=376878": "2026-08-29T17:34:16Z",
-    "https://techcrunch.com/?p=3156771": "2026-08-29T17:49:06Z"
+    "https://techcrunch.com/?p=3156771": "2026-08-29T17:49:06Z",
+    "https://techcrunch.com/?p=3158639": "2026-08-29T18:49:27Z"
   },
   "pending": {
     "https://techcrunch.com/?p=3155023": {
@@ -3351,20 +3352,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
-      "title": "World humanoid robot games show runners breaking records, bursting into flames",
-      "url": null,
-      "stream": "ai",
-      "source": "AI - Ars Technica",
-      "published": "2026-08-25T20:59:03Z",
-      "score": 5,
-      "category": "Hardware & Infrastructure",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Bei den weltweiten Humanoid-Roboter-Spielen liefen Roboter neue Bestzeiten, während einige in Flammen ausbrachen. Die Vorfälle zeigen sowohl Fortschritte als auch Sicherheitsrisiken humanoider Roboter und rücken Zuverlässigkeit in den Fokus der Branche. Erhöhte Aufmerksamkeit für Sicherheitsstandards und Belastungstests ist wahrscheinlich."
-    },
     {
       "id": "https://cointelegraph.com/magazine/hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox",
       "title": "Hugging Face hack exposes the open-weight AI cybersecurity paradox",
@@ -6600,6 +6587,22 @@
       "instruments": [],
       "entities": [],
       "summary": "Vijay Pande, der bei a16z einen 4-Milliarden-Dollar-Fonds verantwortet hat, erklärt im Interview, dass er bewusst nur wenige Wetten eingeht. Diese Haltung signalisiert eine fokussierte Venture-Kapital-Strategie im Bio- und KI-Bereich, die Start-ups mit weniger Finanzierungsrunden rechnen lässt. Die Aussage ist eine persönliche Strategie-Einordnung ohne konkrete Marktfolge, weshalb keine unmittelbare Kursbewegung zu erwarten ist."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3158639",
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-29T18:41:59Z",
+      "score": 7,
+      "category": "Regulation & Policy",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [
+        "Anthropic"
+      ],
+      "summary": "Sony Music und Warner Music verklagen Anthropic wegen einer mutmaßlich „dreisten Kampagne“ von Urheberrechtsverletzungen. Die Klage betrifft die Nutzung geschützter Musiktexte für das KI-Training und erhöht die rechtlichen Risiken für KI-Modelle. Der Ausgang dürfte die Lizenzpraxis der gesamten KI-Branche prägen."
     }
   ],
   "digest_log": [
