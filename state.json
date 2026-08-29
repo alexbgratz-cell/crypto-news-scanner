@@ -2563,7 +2563,8 @@
     "https://techcrunch.com/?p=3158639": "2026-08-29T18:49:27Z",
     "https://www.marktechpost.com/?p=81950": "2026-08-29T19:19:17Z",
     "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth": "2026-08-29T19:34:11Z",
-    "968ca34b-a548-542f-bf77-ad913d92547c": "2026-08-29T20:19:20Z"
+    "968ca34b-a548-542f-bf77-ad913d92547c": "2026-08-29T20:19:20Z",
+    "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks": "2026-08-29T20:49:21Z"
   },
   "pending": {
     "https://techcrunch.com/?p=3155861": {
@@ -3336,22 +3337,6 @@
     }
   },
   "articles": [
-    {
-      "id": "b05b6aab-ef7a-55cf-9d80-0710574ca834",
-      "title": "RockawayX acquires Relayer Capital to expand crypto offerings in US",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-26T03:35:32Z",
-      "score": 6,
-      "category": "Other",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "RockawayX übernimmt Relayer Capital, um sein Krypto-Angebot in den USA auszubauen. Die Akquisition stärkt die Marktposition des Unternehmens im US-Kryptosektor und erweitert potenziell dessen Dienstleistungen. Die Expansion dürfte den Wettbewerb im US-Kryptohandel weiter erhöhen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-26T05:53:49Z"
-    },
     {
       "id": "https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027",
       "title": "US banking groups plan nationwide blockchain network for 2027",
@@ -6593,6 +6578,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Cosmos Labs räumt ein, den Bug, der hinter einem 5,7-Millionen-Dollar-Hack über sechs Chains steckt, fälschlicherweise als behoben eingestuft zu haben. Der Sicherheitsvorfall erschüttert das Vertrauen in das Cosmos-Ökosystem und setzt betroffene Token und Projekte unter Verkaufsdruck. Weitere Sicherheitsprüfungen und Gegenmaßnahmen der betroffenen Chains sind wahrscheinlich."
+    },
+    {
+      "id": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks",
+      "title": "Polygon discloses security flaws fixed in recent hard forks",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-29T20:28:51Z",
+      "score": 6,
+      "category": "Hack & Security",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Polygon hat Sicherheitslücken offengelegt, die in den jüngsten Hard Forks des Netzwerks behoben wurden. Die Offenlegung betrifft Knotenbetreiber und Nutzer, da ungepatchte Versionen potenziell angreifbar waren. Die aktualisierten Clients gelten nun als relevanter Sicherheitsstandard für das Netzwerk."
     }
   ],
   "digest_log": [
