@@ -2537,7 +2537,28 @@
     "https://www.marktechpost.com/?p=81925": "2026-08-28T21:52:17Z",
     "https://www.marktechpost.com/?p=81905": "2026-08-28T21:52:17Z",
     "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex": "2026-08-29T02:04:15Z",
-    "https://www.marktechpost.com/?p=81942": "2026-08-29T05:49:18Z"
+    "https://www.marktechpost.com/?p=81942": "2026-08-29T05:49:18Z",
+    "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k": "2026-08-29T07:04:29Z",
+    "https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc": "2026-08-29T07:04:29Z",
+    "https://decrypt.co/videos/interviews/ZJJKjnAR/from-stellar-to-canton-how-franklin-templeton-adopted-tokenization": "2026-08-29T07:04:29Z",
+    "https://decrypt.co/videos/interviews/MqZOhomP/crypto-rebounds-after-trump-tacos-on-tariffs-bitgo-21b-ipo-solanas-skr-token-soars-250-fdv": "2026-08-29T07:04:29Z",
+    "https://decrypt.co/videos/interviews/nWmEOl4c/trumps-speech-at-davos-gives-small-boost-to-crypto-saylor-buys-213b-btc-blondish-interview": "2026-08-29T07:04:29Z",
+    "https://decrypt.co/videos/interviews/O1HZN4PH/trump-tariffs-3-return-of-the-bull-market-nyse-tokenising-what-that-means-for-hype-claude-meme-meta": "2026-08-29T07:04:29Z",
+    "https://decrypt.co/videos/interviews/lokwS0bc/crypto-sells-off-amidst-trump-tariff-turmoil-trove-falls-90-in-awful-tge-pump-fund-announced": "2026-08-29T07:04:29Z",
+    "https://decrypt.co/videos/interviews/9g4stfJX/massive-coinbase-news-bitcoin-rips-to-96-750-footballfun-tge-interview-with-founder": "2026-08-29T07:04:29Z",
+    "https://decrypt.co/videos/interviews/Iv1NIhI4/are-we-back-crypto-is-green-solana-intern-goes-rogue-pump-up-13-monero-hits-another-ath": "2026-08-29T07:04:29Z",
+    "https://decrypt.co/videos/interviews/IuLdmgP6/pump-memes-heating-up-xmr-vs-zec-how-important-are-these-rate-cuts-under-exposed": "2026-08-29T07:04:29Z",
+    "https://decrypt.co/videos/interviews/mefbKZgQ/psyopanime-meme-up-30x-are-memes-back-monero-ath-interview-w-joseph-chalom-ceo-of-sharplink": "2026-08-29T07:04:29Z",
+    "https://decrypt.co/videos/interviews/0y90noNs/a16z-raise-15b-jerome-powell-vs-trump-crypto-remains-flat-special-guest-dudas": "2026-08-29T07:04:29Z",
+    "https://decrypt.co/videos/interviews/72tPnqPX/zec-rebounds-11-trump-says-he-wont-pardon-sam-bankman-fried-florida-revisits-its-strategic-bitcoin-reserve": "2026-08-29T07:04:29Z",
+    "https://decrypt.co/videos/interviews/wmsgKRFW/the-zcash-situation-explained-interview-with-zec-bull-mert-btc-below-90k-zec-falls-19": "2026-08-29T07:04:29Z",
+    "https://decrypt.co/videos/interviews/GVQVX2ND/first-2026-dip-btc-at-92k-morgan-stanley-file-for-btc-eth-sol-etfs-hyperliquid-airdrop-speculation": "2026-08-29T07:04:29Z",
+    "https://decrypt.co/videos/interviews/XjhRjGIk/crypto-starts-2026-strong-venezuela-impacts-on-the-market-lighter-tge-reactions": "2026-08-29T07:04:29Z",
+    "https://decrypt.co/videos/interviews/OS1PGiAq/global-crypto-mcap-up-to-322-trillion-xrp-up-12-japan-endorse-crypto-fear-greed-back-to-neutral": "2026-08-29T07:04:29Z",
+    "https://decrypt.co/videos/interviews/EmmJkWJn/crypto-is-green-up-6-9-memes-outperform-pepe-up-67-infinex-founder-interview": "2026-08-29T07:04:29Z",
+    "https://decrypt.co/videos/interviews/WsvLVFlp/crypto-wallets-can-directly-compete-with-neobanks": "2026-08-29T07:04:29Z",
+    "https://decrypt.co/videos/interviews/dBDZqp65/2026-crypto-predictions-tom-lee-still-buying-eth-rekt-tease-worldstar-collab": "2026-08-29T07:04:29Z",
+    "https://decrypt.co/videos/interviews/50vopyFa/the-white-whale-up-10x-in-a-week-lighter-tge-saylor-buys-109m-btc": "2026-08-29T07:04:29Z"
   },
   "pending": {
     "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult": {
@@ -3398,22 +3419,6 @@
     }
   },
   "articles": [
-    {
-      "id": "2dcf03f3-0397-5145-bad2-c2a0cf48604a",
-      "title": "ZRO token surges as LayerZero unveils ATLAS exchange infrastructure built on Zero blockchain",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-25T18:41:50Z",
-      "score": 6,
-      "category": "Tech Update",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "LayerZero hat mit ATLAS eine neue Austauschinfrastruktur vorgestellt, die auf der Zero-Blockchain aufbaut, und der ZRO-Token reagierte darauf mit Kursgewinnen. Die Ankündigung stärkt die Erwartung, dass das Zero-Netzwerk und sein Token stärker genutzt werden, was die Nachfrage nach ZRO erhöhen könnte. Eine anhaltend positive Marktstimmung für ZRO und das Zero-Ökosystem ist wahrscheinlich, bis sich die tatsächliche Adoption der Infrastruktur zeigt.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-25T23:01:10Z"
-    },
     {
       "id": "https://cointelegraph.com/news/world-liberty-financial-launches-usd1-natively-on-canton-network",
       "title": "World Liberty Financial launches USD1 natively on Canton Network",
@@ -6663,6 +6668,22 @@
       "summary": "Hugging Face stellt Microduck vor, einen 399 Dollar teuren, 25 Zentimeter großen zweibeinigen Open-Source-Roboter, der per Reinforcement Learning trainiert wird. Die Veröffentlichung senkt die Hürde für Robotik-Forschung, weil günstige Hardware und modernes Training kombiniert werden und mehr Labore experimentieren können. Das dürfte die Entwicklung humanoider Robotik beschleunigen, ähnliche Plattformen könnten folgen.",
       "delivered": "digest",
       "delivered_at": "2026-08-29T06:09:07Z"
+    },
+    {
+      "id": "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k",
+      "title": "Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-29T06:47:12Z",
+      "score": 7,
+      "category": "Other",
+      "sentiment": "bearish",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Bitcoin-ETFs haben ihre neuntägige Zufluss-Serie beendet, während BTC unter 78.000 USD gefallen ist. Der Stopp der institutionellen Käufe schwächt die Nachfrage und erhöht den Verkaufsdruck auf den Markt. Erhöhte Volatilität und ein möglicher weiterer Rückgang sind wahrscheinlich."
     }
   ],
   "digest_log": [
