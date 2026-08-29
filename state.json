@@ -6617,7 +6617,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "BitGo übernimmt die institutionelle Handelssparte von NYDIG, um sein Geschäft mit Derivaten und Finanzierung auszubauen. Der Schritt stärkt BitGos Angebot für institutionelle Kunden und unterstreicht das Wachstum im regulierten Krypto-Handel. Die Integration dürfte das Vertrauen in institutionelle Krypto-Infrastruktur weiter stützen."
+      "summary": "BitGo übernimmt die institutionelle Handelssparte von NYDIG, um sein Geschäft mit Derivaten und Finanzierung auszubauen. Der Schritt stärkt BitGos Angebot für institutionelle Kunden und unterstreicht das Wachstum im regulierten Krypto-Handel. Die Integration dürfte das Vertrauen in institutionelle Krypto-Infrastruktur weiter stützen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-29T14:08:03Z"
     },
     {
       "id": "761554c2-c5fc-5f3c-b019-816d3a074ce9",
@@ -6631,7 +6633,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Ein ehemaliger Teleprompter-Operator des Weißen Hauses muss 172.000 Dollar Strafe für Kalshi-Wetten auf Erwähnungsmärkte zahlen. Die Regulierungsbehörden signalisieren damit härteres Vorgehen gegen Insiderhandel in Prognosemärkten. Es ist mit verstärkter Aufsicht und weiteren Enforcement-Maßnahmen zu rechnen."
+      "summary": "Ein ehemaliger Teleprompter-Operator des Weißen Hauses muss 172.000 Dollar Strafe für Kalshi-Wetten auf Erwähnungsmärkte zahlen. Die Regulierungsbehörden signalisieren damit härteres Vorgehen gegen Insiderhandel in Prognosemärkten. Es ist mit verstärkter Aufsicht und weiteren Enforcement-Maßnahmen zu rechnen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-29T14:08:03Z"
     },
     {
       "id": "https://techcrunch.com/?p=3158515",
@@ -6647,7 +6651,9 @@
       "entities": [
         "Nvidia"
       ],
-      "summary": "Nvidia baut seinen Vorsprung im KI-Markt offenbar über die reine GPU-Hardware hinaus aus. Das stärkt die Marktposition des Unternehmens gegenüber Wettbewerbern im KI-Infrastruktursegment. Als direkte Folge dürfte Nvidia weiterhin von steigender KI-Nachfrage profitieren und seine führende Rolle im Ökosystem festigen."
+      "summary": "Nvidia baut seinen Vorsprung im KI-Markt offenbar über die reine GPU-Hardware hinaus aus. Das stärkt die Marktposition des Unternehmens gegenüber Wettbewerbern im KI-Infrastruktursegment. Als direkte Folge dürfte Nvidia weiterhin von steigender KI-Nachfrage profitieren und seine führende Rolle im Ökosystem festigen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-29T14:08:03Z"
     }
   ],
   "digest_log": [
@@ -7091,6 +7097,14 @@
       "at": "2026-08-29T07:08:03Z",
       "article_ids": [
         "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k"
+      ]
+    },
+    {
+      "at": "2026-08-29T14:08:03Z",
+      "article_ids": [
+        "761554c2-c5fc-5f3c-b019-816d3a074ce9",
+        "https://decrypt.co/?p=376864",
+        "https://techcrunch.com/?p=3158515"
       ]
     }
   ],
