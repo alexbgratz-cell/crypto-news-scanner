@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.marktechpost.com/?p=81805": "2026-08-22T03:08:30Z",
     "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult": "2026-08-22T14:00:54Z",
     "https://decrypt.co/?p=376271": "2026-08-22T14:00:54Z",
     "https://www.marktechpost.com/?p=81811": "2026-08-22T14:00:56Z",
@@ -2537,7 +2536,8 @@
     "https://www.marktechpost.com/?p=81938": "2026-08-28T21:52:17Z",
     "https://www.marktechpost.com/?p=81925": "2026-08-28T21:52:17Z",
     "https://www.marktechpost.com/?p=81905": "2026-08-28T21:52:17Z",
-    "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex": "2026-08-29T02:04:15Z"
+    "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex": "2026-08-29T02:04:15Z",
+    "https://www.marktechpost.com/?p=81942": "2026-08-29T05:49:18Z"
   },
   "pending": {
     "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult": {
@@ -3398,22 +3398,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://www.marktechpost.com/?p=81857",
-      "title": "Meta AI Introduces MetaRoCE: A Clean-Sheet RDMA Transport Built for AI-Scale Ethernet",
-      "url": null,
-      "stream": "ai",
-      "source": "MarkTechPost",
-      "published": "2026-08-25T17:25:36Z",
-      "score": 8,
-      "category": "Hardware & Infrastructure",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "META"
-      ],
-      "summary": "Meta AI stellt MetaRoCE vor, einen neu entwickelten RDMA-Transport, der Ethernet für KI-Cluster optimieren soll. Die Technologie kann die Netzwerkleistung großer KI-Workloads verbessern und Metas Abhängigkeit von teuren Spezialnetzwerken verringern. Dadurch dürfte der Trend zu skalierbaren Ethernet-basierten KI-Rechenzentren gestärkt werden."
-    },
     {
       "id": "2dcf03f3-0397-5145-bad2-c2a0cf48604a",
       "title": "ZRO token surges as LayerZero unveils ATLAS exchange infrastructure built on Zero blockchain",
@@ -6661,6 +6645,22 @@
       "summary": "OpenAI hat eine Entscheidung zu Cursor bekannt gegeben, nachdem SpaceX das KI-Code-Editing-Produkt übernommen hat. Die Ankündigung betrifft Entwickler und den Markt für KI-gestützte Codierungstools. Die konkreten Folgen für Zusammenarbeit und Verfügbarkeit von Cursor ergeben sich aus den Details der Entscheidung.",
       "delivered": "digest",
       "delivered_at": "2026-08-29T02:08:24Z"
+    },
+    {
+      "id": "https://www.marktechpost.com/?p=81942",
+      "title": "Hugging Face Unveils Microduck: A $399 Open-Source 25 cm Biped You Train with Reinforcement Learning",
+      "url": null,
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-08-29T05:25:16Z",
+      "score": 6,
+      "category": "Hardware & Infrastructure",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "Hugging Face"
+      ],
+      "summary": "Hugging Face stellt Microduck vor, einen 399 Dollar teuren, 25 Zentimeter großen zweibeinigen Open-Source-Roboter, der per Reinforcement Learning trainiert wird. Die Veröffentlichung senkt die Hürde für Robotik-Forschung, weil günstige Hardware und modernes Training kombiniert werden und mehr Labore experimentieren können. Das dürfte die Entwicklung humanoider Robotik beschleunigen, ähnliche Plattformen könnten folgen."
     }
   ],
   "digest_log": [
