@@ -2562,25 +2562,10 @@
     "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief": "2026-08-29T08:19:23Z",
     "6a8f5fcd81a7b3cc4250388b": "2026-08-29T10:04:36Z",
     "6a91a28c803370e4d9cbd822": "2026-08-29T10:34:26Z",
-    "https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash": "2026-08-29T11:04:25Z"
+    "https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash": "2026-08-29T11:04:25Z",
+    "https://decrypt.co/?p=376864": "2026-08-29T13:34:05Z"
   },
   "pending": {
-    "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult": {
-      "id": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult",
-      "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
-      "url": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-22T13:30:00Z"
-    },
-    "https://decrypt.co/?p=376271": {
-      "id": "https://decrypt.co/?p=376271",
-      "title": "A Third of the Post-ChatGPT Web Is AI-Written, Pew Finds",
-      "url": "https://decrypt.co/376271/chatgpt-web-ai-written-pew",
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-22T13:31:03Z"
-    },
     "https://www.marktechpost.com/?p=81811": {
       "id": "https://www.marktechpost.com/?p=81811",
       "title": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
@@ -3423,24 +3408,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=376473",
-      "title": "Bitcoin Open Interest Collapses to 12%. Is the Short Squeeze Over?",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-25T20:16:04Z",
-      "score": 6,
-      "category": "Other",
-      "sentiment": "neutral",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "Das Open Interest an Bitcoin-Futures ist um 12 % gefallen. Der Rückgang deutet auf eine Auflösung gehebelter Positionen hin, wodurch die Gefahr von Liquidationen und starker Volatilität abnimmt. Eine anhaltende Stabilisierung der Kennzahl dürfte das Risiko weiterer Zwangsverkäufe reduzieren und den Kurs stützen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-25T23:01:10Z"
-    },
     {
       "id": "https://decrypt.co/?p=376516",
       "title": "What's the Deal With Nancy Pelosi and the Bloom Energy Stock Surge?",
@@ -6680,6 +6647,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Eine mit Trump verknüpfte Marke bewarb laut Cointelegraph den Token GOLD, bevor dieser kollabierte. Solche Vorfälle können das Vertrauen in kleinere Krypto-Projekte schwächen und regulatorische Aufmerksamkeit erhöhen. Eine direkte Kursreaktion bei den etablierten Hauptwerten ist jedoch unwahrscheinlich."
+    },
+    {
+      "id": "https://decrypt.co/?p=376864",
+      "title": "BitGo Buys NYDIG's Institutional Trading Arm to Beef Up Derivatives and Financing",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-08-29T13:31:04Z",
+      "score": 6,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "BitGo übernimmt die institutionelle Handelssparte von NYDIG, um sein Geschäft mit Derivaten und Finanzierung auszubauen. Der Schritt stärkt BitGos Angebot für institutionelle Kunden und unterstreicht das Wachstum im regulierten Krypto-Handel. Die Integration dürfte das Vertrauen in institutionelle Krypto-Infrastruktur weiter stützen."
     }
   ],
   "digest_log": [
