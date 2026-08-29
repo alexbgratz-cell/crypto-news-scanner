@@ -6583,7 +6583,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "US-Senator Bernie Sanders kündigt Gesetzesvorhaben an, um die Überwachungspraktiken von Flock und KI-gestützte Massenüberwachung zu stoppen. Die Ankündigung erhöht den regulatorischen Druck auf Anbieter von KI-Überwachungstechnologie und könnte deren Geschäftsmodelle belasten. Sollte das Gesetz eingebracht werden, drohen strengere Auflagen und eingeschränkte Einsätze solcher Systeme in den USA."
+      "summary": "US-Senator Bernie Sanders kündigt Gesetzesvorhaben an, um die Überwachungspraktiken von Flock und KI-gestützte Massenüberwachung zu stoppen. Die Ankündigung erhöht den regulatorischen Druck auf Anbieter von KI-Überwachungstechnologie und könnte deren Geschäftsmodelle belasten. Sollte das Gesetz eingebracht werden, drohen strengere Auflagen und eingeschränkte Einsätze solcher Systeme in den USA.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-29T18:08:05Z"
     },
     {
       "id": "https://techcrunch.com/?p=3156771",
@@ -7061,6 +7063,12 @@
       "at": "2026-08-29T17:08:00Z",
       "article_ids": [
         "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b"
+      ]
+    },
+    {
+      "at": "2026-08-29T18:08:05Z",
+      "article_ids": [
+        "https://decrypt.co/?p=376878"
       ]
     }
   ],
