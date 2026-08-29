@@ -1,7 +1,5 @@
 {
   "seen": {
-    "3b81cda1-7a72-5818-ae46-ce5f90b5a946": "2026-08-22T19:01:35Z",
-    "https://techcrunch.com/?p=3155023": "2026-08-22T19:01:36Z",
     "2180291a-ed71-5e13-927d-3d0231f9aa06": "2026-08-22T19:52:25Z",
     "https://techcrunch.com/?p=3155861": "2026-08-22T22:51:20Z",
     "https://www.marktechpost.com/?p=81814": "2026-08-23T00:01:46Z",
@@ -2563,17 +2561,10 @@
     "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b": "2026-08-29T16:49:25Z",
     "https://decrypt.co/?p=376878": "2026-08-29T17:34:16Z",
     "https://techcrunch.com/?p=3156771": "2026-08-29T17:49:06Z",
-    "https://techcrunch.com/?p=3158639": "2026-08-29T18:49:27Z"
+    "https://techcrunch.com/?p=3158639": "2026-08-29T18:49:27Z",
+    "https://www.marktechpost.com/?p=81950": "2026-08-29T19:19:17Z"
   },
   "pending": {
-    "https://techcrunch.com/?p=3155023": {
-      "id": "https://techcrunch.com/?p=3155023",
-      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-22T19:00:00Z"
-    },
     "2180291a-ed71-5e13-927d-3d0231f9aa06": {
       "id": "2180291a-ed71-5e13-927d-3d0231f9aa06",
       "title": "Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume",
@@ -3352,22 +3343,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/magazine/hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox",
-      "title": "Hugging Face hack exposes the open-weight AI cybersecurity paradox",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-25T13:30:00Z",
-      "score": 7,
-      "category": "Safety & Risk",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Ein Bericht von Cointelegraph Magazine thematisiert einen Hack bei Hugging Face und zeigt das Sicherheitsparadoxon offener KI-Gewichtsmodelle. Offene Modelle lassen sich einfacher verbreiten, aber auch schwerer absichern, was das Vertrauen in Open-Weight-KI belasten könnte. Für Modell-Hubs und dezentrale KI-Plattformen dürften strengere Sicherheitsanforderungen und erhöhte Aufmerksamkeit folgen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-26T03:35:53Z"
-    },
     {
       "id": "https://decrypt.co/?p=376573",
       "title": "Elon Musk’s SpaceX Plans $100 Billion Louisiana Spaceport",
@@ -6605,6 +6580,22 @@
       "summary": "Sony Music und Warner Music verklagen Anthropic wegen einer mutmaßlich „dreisten Kampagne“ von Urheberrechtsverletzungen. Die Klage betrifft die Nutzung geschützter Musiktexte für das KI-Training und erhöht die rechtlichen Risiken für KI-Modelle. Der Ausgang dürfte die Lizenzpraxis der gesamten KI-Branche prägen.",
       "delivered": "digest",
       "delivered_at": "2026-08-29T19:07:55Z"
+    },
+    {
+      "id": "https://www.marktechpost.com/?p=81950",
+      "title": "Building Custom Batched Ensemble Weather Forecasting with NVIDIA Earth2Studio",
+      "url": null,
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-08-29T18:57:26Z",
+      "score": 6,
+      "category": "Hardware & Infrastructure",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [
+        "NVDA"
+      ],
+      "summary": "NVIDIA hat mit Earth2Studio ein neues Toolkit zur Erstellung maßgeschneiderter Batched-Ensemble-Wettervorhersagen vorgestellt. Das Tool vereinfacht die Arbeit mit mehreren Ensemble-Läufen und stärkt die Position von NVIDIA im Bereich KI-gestützter Klimamodellierung und Hochleistungsrechnen. Die Verfügbarkeit dürfte die Nutzung von NVIDIA-Beschleunigern in meteorologischen Anwendungen weiter erhöhen."
     }
   ],
   "digest_log": [
