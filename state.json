@@ -2559,7 +2559,8 @@
     "https://decrypt.co/videos/interviews/WsvLVFlp/crypto-wallets-can-directly-compete-with-neobanks": "2026-08-29T07:04:29Z",
     "https://decrypt.co/videos/interviews/dBDZqp65/2026-crypto-predictions-tom-lee-still-buying-eth-rekt-tease-worldstar-collab": "2026-08-29T07:04:29Z",
     "https://decrypt.co/videos/interviews/50vopyFa/the-white-whale-up-10x-in-a-week-lighter-tge-saylor-buys-109m-btc": "2026-08-29T07:04:29Z",
-    "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief": "2026-08-29T08:19:23Z"
+    "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief": "2026-08-29T08:19:23Z",
+    "6a8f5fcd81a7b3cc4250388b": "2026-08-29T10:04:36Z"
   },
   "pending": {
     "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult": {
@@ -3420,24 +3421,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/markets/bitcoin-enters-initial-phase-of-new-bull-market-but-83k-remains-key-cryptoquant",
-      "title": "Bitcoin enters ‘initial phase’ of new bull market, but $83K remains key: CryptoQuant",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-25T18:13:11Z",
-      "score": 7,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "CryptoQuant-Analysten erklären, Bitcoin stehe in der 'Anfangsphase' eines neuen Bullenmarktes, halten aber die Marke von 83.000 US-Dollar für entscheidend. Die Einschätzung eines bekannten Analysehauses stärkt die Risikobereitschaft der Anleger und rückt den Kursverlauf von Bitcoin in den Fokus. Die Marke von 83.000 US-Dollar dürfte darüber entscheiden, ob der Bullenmarkt bestätigt wird oder die Korrektur weitergeht.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-25T23:01:10Z"
-    },
     {
       "id": "https://cointelegraph.com/news/solana-record-transactions-rwa-sol-price",
       "title": "Solana transactions hit record 4.2B as SOL rallies 40%",
@@ -6687,6 +6670,20 @@
       ],
       "entities": [],
       "summary": "Der Chef der Bank für Internationalen Zahlungsausgleich sagte, Stablecoins seien für Zahlungen in großem Maßstab nicht glaubwürdig. Die Aussage erhöht den regulatorischen Druck auf den Stablecoin-Sektor und könnte Vertrauen in deren Nutzung schwächen. Marktteilnehmer dürften vorsichtiger werden, der Fokus liegt auf dem Marktanteil des größten Stablecoins."
+    },
+    {
+      "id": "6a8f5fcd81a7b3cc4250388b",
+      "title": "How to Run a Chatbot on Your Own Computer",
+      "url": null,
+      "stream": "ai",
+      "source": "Feed: Artificial Intelligence Latest",
+      "published": "2026-08-29T10:00:00Z",
+      "score": 5,
+      "category": "Hardware & Infrastructure",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Der Artikel erklärt, wie man einen Chatbot lokal auf dem eigenen Computer betreibt. Lokale Ausführung reduziert die Abhängigkeit von Cloud-Diensten und spricht Datenschutz- sowie Kostenfragen an. Für die Branche bedeutet das eine zunehmende Dezentralisierung von KI-Anwendungen, unmittelbare Marktauswirkungen sind jedoch nicht absehbar."
     }
   ],
   "digest_log": [
