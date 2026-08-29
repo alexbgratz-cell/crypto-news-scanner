@@ -1,33 +1,33 @@
 {
-  "ts": "2026-08-29T13:32:28.975601Z",
+  "ts": "2026-08-29T20:02:37.321463Z",
   "instrument": "ALL",
-  "text": "**Kernaussage:** Der Kryptomarkt konsolidiert mit leichten Verlusten: BTC liegt bei 77.709 USD, ETH und SOL geben moderat nach – ein stabiler Seitwärtshandel ohne Panik.\n\n**Was es bedeutet:** Die Kombination aus fallendem VIX (14,51), stabilem F&G-Index (68, Gier) und nur leichten 24h-Verlusten spricht für eine vorsichtige, aber nicht risk-off geprägte Stimmung. Der Stopp der Bitcoin-ETF-Zufluss-Serie und die leicht gestiegene US10Y-Rendite (4,67 %) belasten jedoch. BTC.D steigt minimal auf 59,01, ETHBTC bleibt stabil – keine Rotation, die Altcoins laufen nach unten synchron mit.\n\n**Zu beachten:** Entscheidend ist, ob BTC den Bereich um 77.700 USD verteidigt; ein nachhaltiger Bruch darunter könnte die Konsolidierung beenden.",
+  "text": "**Kernaussage:** Der Kryptomarkt zeigt sich freundlich: BTC, ETH und SOL notieren leicht im Plus, die Bitcoin-Dominanz bleibt mit rund 59 % stabil und der VIX liegt mit 14,5 tief.\n\n**Was es bedeutet:** Fallende Volatilität, ein leicht nachgebender Dollar und positive Tagesveränderungen bei den Large Caps sprechen für moderates Risk-on. Der Angst-und-Gier-Index gibt jedoch von 68 um 5 Punkte nach, und die Bitcoin-ETF-Zuflussserie ist gerissen – die Stimmung ist gestützt, aber nicht mehr euphorisch. Die stabile BTC-Dominanz und das kaum veränderte ETH/BTC-Verhältnis deuten darauf hin, dass keine breite Kapitalrotation in Altcoins stattfindet.\n\n**Zu beachten:** Der Anstieg der 10-jährigen US-Rendite auf 4,67 %. Setzt er sich fort, könnte er den freundlichen Risikoappetit im Kryptomarkt zunehmend belasten.",
   "numbers": [
     {
       "sym": "BTCUSD",
-      "value": 77709,
-      "change": -2.09,
+      "value": 78235,
+      "change": 1.01,
       "label": "",
       "group": "Direkte Korrelation"
     },
     {
       "sym": "ETHUSD",
-      "value": 2435.52,
-      "change": -2.55,
+      "value": 2455.46,
+      "change": 0.88,
       "label": "",
       "group": "Direkte Korrelation"
     },
     {
       "sym": "SOLUSD",
-      "value": 103.74,
-      "change": -1.18,
+      "value": 105.52,
+      "change": 2.04,
       "label": "",
       "group": "Direkte Korrelation"
     },
     {
       "sym": "ETHBTC",
-      "value": 0.031342,
-      "change": -0.47,
+      "value": 0.031386,
+      "change": -0.13,
       "label": "",
       "group": "Kapitalrotation"
     },
@@ -40,7 +40,7 @@
     },
     {
       "sym": "USDT.D",
-      "value": 6.94,
+      "value": 6.89,
       "change": null,
       "label": "",
       "group": "Liquidität & Sentiment"
@@ -54,14 +54,14 @@
     },
     {
       "sym": "MEMPOOL",
-      "value": 82987.0,
+      "value": 95499.0,
       "change": null,
       "label": "",
       "group": "On-Chain"
     },
     {
       "sym": "MO30",
-      "value": 20.82,
+      "value": 21.64,
       "change": null,
       "label": "",
       "group": "On-Chain"
