@@ -2564,7 +2564,8 @@
     "https://www.marktechpost.com/?p=81950": "2026-08-29T19:19:17Z",
     "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth": "2026-08-29T19:34:11Z",
     "968ca34b-a548-542f-bf77-ad913d92547c": "2026-08-29T20:19:20Z",
-    "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks": "2026-08-29T20:49:21Z"
+    "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks": "2026-08-29T20:49:21Z",
+    "91c09846-6ead-5663-99a1-8df0e6372704": "2026-08-29T21:19:06Z"
   },
   "pending": {
     "https://techcrunch.com/?p=3155861": {
@@ -3337,22 +3338,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027",
-      "title": "US banking groups plan nationwide blockchain network for 2027",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-26T04:17:39Z",
-      "score": 6,
-      "category": "Tech Update",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "US-Bankengruppen planen laut einem Bericht ein landesweites Blockchain-Netzwerk, das bis 2027 in Betrieb gehen soll. Die Initiative unterstreicht die zunehmende Akzeptanz verteilter Ledger-Technologie im traditionellen Finanzsektor und könnte die Nachfrage nach Krypto-Infrastruktur stärken. Eine konkrete Marktreaktion ist bis zur Umsetzung nicht zu erwarten; die Ankündigung wirkt vor allem als positives Stimmungssignal.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-26T05:53:49Z"
-    },
     {
       "id": "https://techcrunch.com/?p=3156276",
       "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
@@ -6594,6 +6579,20 @@
       "summary": "Polygon hat Sicherheitslücken offengelegt, die in den jüngsten Hard Forks des Netzwerks behoben wurden. Die Offenlegung betrifft Knotenbetreiber und Nutzer, da ungepatchte Versionen potenziell angreifbar waren. Die aktualisierten Clients gelten nun als relevanter Sicherheitsstandard für das Netzwerk.",
       "delivered": "digest",
       "delivered_at": "2026-08-29T21:07:59Z"
+    },
+    {
+      "id": "91c09846-6ead-5663-99a1-8df0e6372704",
+      "title": "Layer 1 blockchain Fogo halts mainnet after attacker receives 400 million FOGO tokens, 10% of circulating supply",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-08-29T21:16:51Z",
+      "score": 8,
+      "category": "Hack & Security",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Die Layer-1-Blockchain Fogo hat ihr Mainnet gestoppt, nachdem ein Angreifer 400 Millionen FOGO-Token erhalten hat, etwa 10% des zirkulierenden Angebots. Der Vorfall erschüttert das Vertrauen in die Sicherheit des Netzwerks und dürfte den Preis des FOGO-Tokens stark belasten. Solange das Mainnet gestoppt bleibt, ist mit erhöhter Volatilität und weiteren Abflüssen zu rechnen."
     }
   ],
   "digest_log": [
