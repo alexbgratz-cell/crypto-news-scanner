@@ -6683,7 +6683,9 @@
         "BTCUSD"
       ],
       "entities": [],
-      "summary": "Bitcoin-ETFs haben ihre neuntägige Zufluss-Serie beendet, während BTC unter 78.000 USD gefallen ist. Der Stopp der institutionellen Käufe schwächt die Nachfrage und erhöht den Verkaufsdruck auf den Markt. Erhöhte Volatilität und ein möglicher weiterer Rückgang sind wahrscheinlich."
+      "summary": "Bitcoin-ETFs haben ihre neuntägige Zufluss-Serie beendet, während BTC unter 78.000 USD gefallen ist. Der Stopp der institutionellen Käufe schwächt die Nachfrage und erhöht den Verkaufsdruck auf den Markt. Erhöhte Volatilität und ein möglicher weiterer Rückgang sind wahrscheinlich.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-29T07:08:03Z"
     }
   ],
   "digest_log": [
@@ -7121,6 +7123,12 @@
       "at": "2026-08-29T06:09:07Z",
       "article_ids": [
         "https://www.marktechpost.com/?p=81942"
+      ]
+    },
+    {
+      "at": "2026-08-29T07:08:03Z",
+      "article_ids": [
+        "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k"
       ]
     }
   ],
