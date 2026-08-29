@@ -6602,7 +6602,9 @@
       "entities": [
         "Anthropic"
       ],
-      "summary": "Sony Music und Warner Music verklagen Anthropic wegen einer mutmaßlich „dreisten Kampagne“ von Urheberrechtsverletzungen. Die Klage betrifft die Nutzung geschützter Musiktexte für das KI-Training und erhöht die rechtlichen Risiken für KI-Modelle. Der Ausgang dürfte die Lizenzpraxis der gesamten KI-Branche prägen."
+      "summary": "Sony Music und Warner Music verklagen Anthropic wegen einer mutmaßlich „dreisten Kampagne“ von Urheberrechtsverletzungen. Die Klage betrifft die Nutzung geschützter Musiktexte für das KI-Training und erhöht die rechtlichen Risiken für KI-Modelle. Der Ausgang dürfte die Lizenzpraxis der gesamten KI-Branche prägen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-29T19:07:55Z"
     }
   ],
   "digest_log": [
@@ -7072,6 +7074,12 @@
       "at": "2026-08-29T18:08:05Z",
       "article_ids": [
         "https://decrypt.co/?p=376878"
+      ]
+    },
+    {
+      "at": "2026-08-29T19:07:55Z",
+      "article_ids": [
+        "https://techcrunch.com/?p=3158639"
       ]
     }
   ],
