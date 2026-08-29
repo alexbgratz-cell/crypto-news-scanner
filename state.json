@@ -6644,7 +6644,9 @@
         "BTCUSD"
       ],
       "entities": [],
-      "summary": "Laut Decrypt erwachen 2026 Bitcoins älteste Coins in einem selten gesehenen Tempo. Die Bewegung alter Bestände kann das verfügbare Angebot erhöhen und wird als möglicher Verkaufsdruck von Langzeitbesitzern gedeutet. Erhöhte Volatilität am Bitcoin-Markt ist wahrscheinlich."
+      "summary": "Laut Decrypt erwachen 2026 Bitcoins älteste Coins in einem selten gesehenen Tempo. Die Bewegung alter Bestände kann das verfügbare Angebot erhöhen und wird als möglicher Verkaufsdruck von Langzeitbesitzern gedeutet. Erhöhte Volatilität am Bitcoin-Markt ist wahrscheinlich.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-29T16:08:15Z"
     }
   ],
   "digest_log": [
@@ -7096,6 +7098,12 @@
         "761554c2-c5fc-5f3c-b019-816d3a074ce9",
         "https://decrypt.co/?p=376864",
         "https://techcrunch.com/?p=3158515"
+      ]
+    },
+    {
+      "at": "2026-08-29T16:08:15Z",
+      "article_ids": [
+        "https://decrypt.co/?p=376866"
       ]
     }
   ],
