@@ -1,12 +1,5 @@
 {
   "seen": {
-    "06084bea-a23c-5ba3-a112-bff6095e632f": "2026-08-21T21:54:26Z",
-    "https://decrypt.co/?p=376270": "2026-08-21T21:54:27Z",
-    "https://www.marktechpost.com/?p=81798": "2026-08-21T21:54:29Z",
-    "https://techcrunch.com/?p=3155585": "2026-08-21T22:55:30Z",
-    "https://www.marktechpost.com/?p=81802": "2026-08-21T22:55:31Z",
-    "https://techcrunch.com/?p=3155131": "2026-08-21T23:52:10Z",
-    "6a85df6ad0110f6d404e4794": "2026-08-21T23:52:10Z",
     "https://www.marktechpost.com/?p=81805": "2026-08-22T03:08:30Z",
     "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult": "2026-08-22T14:00:54Z",
     "https://decrypt.co/?p=376271": "2026-08-22T14:00:54Z",
@@ -2543,49 +2536,10 @@
     "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/": "2026-08-28T21:52:16Z",
     "https://www.marktechpost.com/?p=81938": "2026-08-28T21:52:17Z",
     "https://www.marktechpost.com/?p=81925": "2026-08-28T21:52:17Z",
-    "https://www.marktechpost.com/?p=81905": "2026-08-28T21:52:17Z"
+    "https://www.marktechpost.com/?p=81905": "2026-08-28T21:52:17Z",
+    "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex": "2026-08-29T02:04:15Z"
   },
   "pending": {
-    "https://techcrunch.com/?p=3155585": {
-      "id": "https://techcrunch.com/?p=3155585",
-      "title": "Nvidia partners with data center developer Cloverleaf",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-21T22:37:38Z"
-    },
-    "https://www.marktechpost.com/?p=81802": {
-      "id": "https://www.marktechpost.com/?p=81802",
-      "title": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure",
-      "url": "https://www.marktechpost.com/2026/08/21/building-agentic-document-intelligence-pipelines-creating-scientific-figures-with-autofigure/",
-      "stream": "ai",
-      "source": "MarkTechPost",
-      "published": "2026-08-21T22:00:25Z"
-    },
-    "https://techcrunch.com/?p=3155131": {
-      "id": "https://techcrunch.com/?p=3155131",
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
-      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-21T23:07:25Z"
-    },
-    "6a85df6ad0110f6d404e4794": {
-      "id": "6a85df6ad0110f6d404e4794",
-      "title": "The Unlikely Place at the Center of China’s AI Boom",
-      "url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
-      "stream": "ai",
-      "source": "Feed: Artificial Intelligence Latest",
-      "published": "2026-08-21T23:25:32Z"
-    },
-    "https://www.marktechpost.com/?p=81805": {
-      "id": "https://www.marktechpost.com/?p=81805",
-      "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
-      "url": "https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/",
-      "stream": "ai",
-      "source": "MarkTechPost",
-      "published": "2026-08-21T23:20:12Z"
-    },
     "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult": {
       "id": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult",
       "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
@@ -3444,24 +3398,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3156630",
-      "title": "Claude Cowork finally remembers what you told the app in chat",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-25T17:50:33Z",
-      "score": 6,
-      "category": "Business & Funding",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [
-        "Anthropic"
-      ],
-      "summary": "Anthropic hat Claude Cowork um eine Speicherfunktion erweitert, sodass die App Informationen aus dem Chat dauerhaft berücksichtigt. Damit verbessert der Anbieter die Nutzerfreundlichkeit seines KI-Assistenten und erhöht den Wettbewerbsdruck auf vergleichbare Produkte. Zu erwarten ist eine stärkere Nutzerbindung und höhere Adoption von Claude Cowork.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-25T19:46:24Z"
-    },
     {
       "id": "https://www.marktechpost.com/?p=81857",
       "title": "Meta AI Introduces MetaRoCE: A Clean-Sheet RDMA Transport Built for AI-Scale Ethernet",
@@ -6705,6 +6641,24 @@
         "GOOGL"
       ],
       "summary": "Google hat Gemini 3.5 Transcribe vorgestellt, ein Spracherkennungsmodell mit durchschnittlich 2,6 % Wortfehlerrate über 85+ Sprachen. Das Modell stärkt Googles Position im wachsenden Markt für Speech-to-Text und könnte Konkurrenzprodukte unter Druck setzen. Unternehmen mit Transkriptionsanwendungen dürften die Technologie früh übernehmen, Googles Cloud-Angebote profitieren."
+    },
+    {
+      "id": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": null,
+      "stream": "ai",
+      "source": "OpenAI News",
+      "published": "2026-08-28T06:00:00Z",
+      "score": 7,
+      "category": "Business & Funding",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [
+        "OpenAI",
+        "Cursor",
+        "SpaceX"
+      ],
+      "summary": "OpenAI hat eine Entscheidung zu Cursor bekannt gegeben, nachdem SpaceX das KI-Code-Editing-Produkt übernommen hat. Die Ankündigung betrifft Entwickler und den Markt für KI-gestützte Codierungstools. Die konkreten Folgen für Zusammenarbeit und Verfügbarkeit von Cursor ergeben sich aus den Details der Entscheidung."
     }
   ],
   "digest_log": [
