@@ -2558,7 +2558,8 @@
     "https://decrypt.co/videos/interviews/EmmJkWJn/crypto-is-green-up-6-9-memes-outperform-pepe-up-67-infinex-founder-interview": "2026-08-29T07:04:29Z",
     "https://decrypt.co/videos/interviews/WsvLVFlp/crypto-wallets-can-directly-compete-with-neobanks": "2026-08-29T07:04:29Z",
     "https://decrypt.co/videos/interviews/dBDZqp65/2026-crypto-predictions-tom-lee-still-buying-eth-rekt-tease-worldstar-collab": "2026-08-29T07:04:29Z",
-    "https://decrypt.co/videos/interviews/50vopyFa/the-white-whale-up-10x-in-a-week-lighter-tge-saylor-buys-109m-btc": "2026-08-29T07:04:29Z"
+    "https://decrypt.co/videos/interviews/50vopyFa/the-white-whale-up-10x-in-a-week-lighter-tge-saylor-buys-109m-btc": "2026-08-29T07:04:29Z",
+    "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief": "2026-08-29T08:19:23Z"
   },
   "pending": {
     "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult": {
@@ -3419,22 +3420,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/world-liberty-financial-launches-usd1-natively-on-canton-network",
-      "title": "World Liberty Financial launches USD1 natively on Canton Network",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-25T20:35:10Z",
-      "score": 6,
-      "category": "Tech Update",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "World Liberty Financial hat den Stablecoin USD1 nativ auf dem Canton Network eingeführt. Damit erweitert das Projekt seine Stablecoin-Präsenz über bestehende Blockchains hinaus und adressiert institutionelle Finanzanwendungen. Die Integration stärkt die Nutzung von USD1 im Enterprise-Settlement, eine unmittelbare Marktbewegung ist jedoch nicht absehbar.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-25T23:01:10Z"
-    },
     {
       "id": "https://cointelegraph.com/markets/bitcoin-enters-initial-phase-of-new-bull-market-but-83k-remains-key-cryptoquant",
       "title": "Bitcoin enters ‘initial phase’ of new bull market, but $83K remains key: CryptoQuant",
@@ -6686,6 +6671,22 @@
       "summary": "Bitcoin-ETFs haben ihre neuntägige Zufluss-Serie beendet, während BTC unter 78.000 USD gefallen ist. Der Stopp der institutionellen Käufe schwächt die Nachfrage und erhöht den Verkaufsdruck auf den Markt. Erhöhte Volatilität und ein möglicher weiterer Rückgang sind wahrscheinlich.",
       "delivered": "digest",
       "delivered_at": "2026-08-29T07:08:03Z"
+    },
+    {
+      "id": "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief",
+      "title": "Stablecoins not credible for payments at scale, BIS chief says",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-29T08:01:04Z",
+      "score": 5,
+      "category": "Regulation",
+      "sentiment": "bearish",
+      "instruments": [
+        "USDT.D"
+      ],
+      "entities": [],
+      "summary": "Der Chef der Bank für Internationalen Zahlungsausgleich sagte, Stablecoins seien für Zahlungen in großem Maßstab nicht glaubwürdig. Die Aussage erhöht den regulatorischen Druck auf den Stablecoin-Sektor und könnte Vertrauen in deren Nutzung schwächen. Marktteilnehmer dürften vorsichtiger werden, der Fokus liegt auf dem Marktanteil des größten Stablecoins."
     }
   ],
   "digest_log": [
