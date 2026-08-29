@@ -1,67 +1,67 @@
 {
-  "ts": "2026-08-25T10:51:30.838661Z",
+  "ts": "2026-08-29T07:02:36.742877Z",
   "instrument": "ALL",
-  "text": "Kernaussage: Der Gesamtmarkt zeigt sich freundlich: BTC steigt auf 79.161 USD, SOL legt mit +5,2 % am stärksten zu, während ETH nahezu stagniert und ETHBTC fällt. Der Fear-and-Greed-Index bleibt mit 74 klar in der Greed-Zone.\n\nWas es bedeutet: Die Daten signalisieren einen selektiven Risk-on-Modus. Die steigende BTC-Dominanz (59,69 %) und das fallende ETHBTC deuten auf Kapitalrotation in Bitcoin und Solana statt in die breite Altcoin-Marktkapitalisierung. Positive SEC-Signale und ETF-Zuflüsse stützen das Sentiment. Gleichzeitig bleibt der makroökonomische Rahmen gemischt: Der US-10Y steigt auf 4,74 %, während der VIX fällt und die Aktienindizes leicht nachgeben.\n\nZu beachten: Wichtigster Beobachtungspunkt ist, ob die BTC-Dominanz ihren Aufwärtstrend fortsetzt und das ETF-Zuflussmomentum die Nachfrage trägt – oder ob steigende Renditen die Risk-on-Stimmung dämpfen.",
+  "text": "Kernaussage: Der Kryptomarkt korrigiert über die Breite: BTC fällt auf 77.462 USD (-3,1 %), ETH und SOL geben zwischen 2,8 % und 3,9 % nach, während Aktienindizes nur leicht schwächer sind und der VIX niedrig bleibt.\n\nWas es bedeutet: Die Schwäche ist kryptospezifisch, nicht makrogetrieben. Der F&G-Index sinkt von 73 auf 68, bleibt aber in der Gier-Zone; die Risikoneigung kühlt ab, ohne in Panik umzuschlagen. BTC.D bleibt stabil bei 58,96 %, ETHBTC dreht leicht positiv – es gibt weder eine Flucht in BTC noch eine klare Rotation zu Altcoins. Solanas positive Disinflations-News wird bislang nicht in steigenden Kursen eingepreist.\n\nZu beachten: Der Sentiment-Rückgang beim F&G-Index – ob die Gier weiter abkühlt, dürfte die kurzfristige Richtung mitbestimmen; Derivate-Daten fehlen, um die Leverage-Lage einzuordnen.",
   "numbers": [
     {
       "sym": "BTCUSD",
-      "value": 79161,
-      "change": 2.09,
+      "value": 77462,
+      "change": -3.09,
       "label": "",
       "group": "Direkte Korrelation"
     },
     {
       "sym": "ETHUSD",
-      "value": 2472.01,
-      "change": 0.43,
+      "value": 2434.45,
+      "change": -2.76,
       "label": "",
       "group": "Direkte Korrelation"
     },
     {
       "sym": "SOLUSD",
-      "value": 99.6,
-      "change": 5.23,
+      "value": 103.53,
+      "change": -3.86,
       "label": "",
       "group": "Direkte Korrelation"
     },
     {
       "sym": "ETHBTC",
-      "value": 0.031228,
-      "change": -1.63,
+      "value": 0.031428,
+      "change": 0.34,
       "label": "",
       "group": "Kapitalrotation"
     },
     {
       "sym": "BTC.D",
-      "value": 59.69,
+      "value": 58.96,
       "change": null,
       "label": "",
       "group": "Liquidität & Sentiment"
     },
     {
       "sym": "USDT.D",
-      "value": 6.84,
+      "value": 6.95,
       "change": null,
       "label": "",
       "group": "Liquidität & Sentiment"
     },
     {
       "sym": "F&G",
-      "value": 74.0,
-      "change": 1.0,
+      "value": 68.0,
+      "change": -5.0,
       "label": "Greed",
       "group": "Liquidität & Sentiment"
     },
     {
       "sym": "MEMPOOL",
-      "value": 82590.0,
+      "value": 84517.0,
       "change": null,
       "label": "",
       "group": "On-Chain"
     },
     {
       "sym": "MO30",
-      "value": 18.86,
+      "value": 20.44,
       "change": null,
       "label": "",
       "group": "On-Chain"
@@ -75,29 +75,29 @@
     },
     {
       "sym": "NDX",
-      "value": 29023.18,
-      "change": -0.97,
+      "value": 29433.43,
+      "change": -0.7,
       "label": "",
       "group": "TradFi/Makro"
     },
     {
       "sym": "VIX",
-      "value": 15.13,
-      "change": -5.5,
+      "value": 14.51,
+      "change": -4.6,
       "label": "",
       "group": "TradFi/Makro"
     },
     {
       "sym": "US10Y",
-      "value": 4.74,
-      "change": 1.07,
+      "value": 4.67,
+      "change": 0.21,
       "label": "",
       "group": "TradFi/Makro"
     },
     {
       "sym": "SPX",
-      "value": 7652.86,
-      "change": -0.28,
+      "value": 7711.76,
+      "change": -0.25,
       "label": "",
       "group": "TradFi/Makro"
     }
