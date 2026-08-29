@@ -6660,7 +6660,9 @@
       "entities": [
         "Hugging Face"
       ],
-      "summary": "Hugging Face stellt Microduck vor, einen 399 Dollar teuren, 25 Zentimeter großen zweibeinigen Open-Source-Roboter, der per Reinforcement Learning trainiert wird. Die Veröffentlichung senkt die Hürde für Robotik-Forschung, weil günstige Hardware und modernes Training kombiniert werden und mehr Labore experimentieren können. Das dürfte die Entwicklung humanoider Robotik beschleunigen, ähnliche Plattformen könnten folgen."
+      "summary": "Hugging Face stellt Microduck vor, einen 399 Dollar teuren, 25 Zentimeter großen zweibeinigen Open-Source-Roboter, der per Reinforcement Learning trainiert wird. Die Veröffentlichung senkt die Hürde für Robotik-Forschung, weil günstige Hardware und modernes Training kombiniert werden und mehr Labore experimentieren können. Das dürfte die Entwicklung humanoider Robotik beschleunigen, ähnliche Plattformen könnten folgen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-29T06:09:07Z"
     }
   ],
   "digest_log": [
@@ -7092,6 +7094,12 @@
       "at": "2026-08-29T02:08:24Z",
       "article_ids": [
         "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
+      ]
+    },
+    {
+      "at": "2026-08-29T06:09:07Z",
+      "article_ids": [
+        "https://www.marktechpost.com/?p=81942"
       ]
     }
   ],
