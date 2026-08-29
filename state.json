@@ -2560,7 +2560,8 @@
     "https://decrypt.co/videos/interviews/dBDZqp65/2026-crypto-predictions-tom-lee-still-buying-eth-rekt-tease-worldstar-collab": "2026-08-29T07:04:29Z",
     "https://decrypt.co/videos/interviews/50vopyFa/the-white-whale-up-10x-in-a-week-lighter-tge-saylor-buys-109m-btc": "2026-08-29T07:04:29Z",
     "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief": "2026-08-29T08:19:23Z",
-    "6a8f5fcd81a7b3cc4250388b": "2026-08-29T10:04:36Z"
+    "6a8f5fcd81a7b3cc4250388b": "2026-08-29T10:04:36Z",
+    "6a91a28c803370e4d9cbd822": "2026-08-29T10:34:26Z"
   },
   "pending": {
     "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult": {
@@ -3421,24 +3422,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/solana-record-transactions-rwa-sol-price",
-      "title": "Solana transactions hit record 4.2B as SOL rallies 40%",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-25T18:08:58Z",
-      "score": 7,
-      "category": "Tech Update",
-      "sentiment": "bullish",
-      "instruments": [
-        "SOLUSD"
-      ],
-      "entities": [],
-      "summary": "Solana hat mit 4,2 Milliarden Transaktionen einen neuen Rekord erreicht, während der SOL-Kurs um 40 % gestiegen ist. Die hohe Onchain-Aktivität und die Kursrally zeigen eine starke Nachfrage nach dem Netzwerk und stärken das Vertrauen in SOL. Die positive Dynamik dürfte anhalten, solange die Transaktionszahlen hoch bleiben; SOLUSD bleibt das zentrale Instrument.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-25T23:01:10Z"
-    },
     {
       "id": "https://decrypt.co/?p=376536",
       "title": "These Researchers Just Shrunk an AI Model and Somehow Made It Smarter",
@@ -6684,6 +6667,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Der Artikel erklärt, wie man einen Chatbot lokal auf dem eigenen Computer betreibt. Lokale Ausführung reduziert die Abhängigkeit von Cloud-Diensten und spricht Datenschutz- sowie Kostenfragen an. Für die Branche bedeutet das eine zunehmende Dezentralisierung von KI-Anwendungen, unmittelbare Marktauswirkungen sind jedoch nicht absehbar."
+    },
+    {
+      "id": "6a91a28c803370e4d9cbd822",
+      "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
+      "url": null,
+      "stream": "ai",
+      "source": "Feed: Artificial Intelligence Latest",
+      "published": "2026-08-29T10:30:00Z",
+      "score": 4,
+      "category": "Safety & Risk",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Führende KI-Unternehmen warnen vor einer Cyber-Sicherheitskrise, die bereits in Monaten eintreten könne. Die Warnung erhöht den Risikodruck auf die gesamte KI-Branche und könnte Vertrauen sowie Investitionen belasten. In der Folge ist mit verstärkten Sicherheitsdebatten und möglichen regulatorischen Reaktionen zu rechnen."
     }
   ],
   "digest_log": [
