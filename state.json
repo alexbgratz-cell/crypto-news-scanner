@@ -2570,7 +2570,8 @@
     "https://decrypt.co/?p=376897": "2026-08-30T21:34:11Z",
     "https://www.marktechpost.com/?p=81967": "2026-08-30T21:34:14Z",
     "https://decrypt.co/?p=376911": "2026-08-30T22:34:09Z",
-    "https://decrypt.co/?p=376909": "2026-08-30T23:34:17Z"
+    "https://decrypt.co/?p=376909": "2026-08-30T23:34:17Z",
+    "https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest": "2026-08-30T23:49:15Z"
   },
   "pending": {
     "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest": {
@@ -3231,24 +3232,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=376577",
-      "title": "Roman Storm's Tornado Cash Retrial Pushed to April 2027",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-26T10:42:35Z",
-      "score": 7,
-      "category": "Regulation",
-      "sentiment": "bearish",
-      "instruments": [
-        "ETHUSD"
-      ],
-      "entities": [],
-      "summary": "Der geplante Tornado-Cash-Prozess gegen Roman Storm wurde auf April 2027 verschoben. Die Verzögerung verlängert die regulatorische Unsicherheit für Krypto-Mixer und den Ethereum-Sektor. Bis dahin bleibt der Fall ein wichtiger Präzedenzfall für die Branche.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-26T12:02:17Z"
-    },
     {
       "id": "6a860cfb6b770bbaf47ffa12",
       "title": "AI Slop Is Ruining Cute Animals on the Internet",
@@ -6481,6 +6464,23 @@
       "instruments": [],
       "entities": [],
       "summary": "Ein ehemaliger Teleprompter-Bediener des Weißen Hauses wurde wegen Insiderhandels auf Vorhersagemärkten zu einer Geldstrafe verurteilt. Der Fall zeigt, dass Aufsichtsbehörden auch bei Vorhersagemärkten streng durchgreifen, was Plattformen und Nutzer solcher Märkte betrifft. Es ist mit verstärkten Compliance-Anforderungen und weiteren Ermittlungen gegen Insiderhandel auf diesen Märkten zu rechnen."
+    },
+    {
+      "id": "https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest",
+      "title": "Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-30T23:36:16Z",
+      "score": 7,
+      "category": "Tech Update",
+      "sentiment": "bullish",
+      "instruments": [
+        "BTCUSD",
+        "SOLUSD"
+      ],
+      "entities": [],
+      "summary": "Ein Krypto-Digest berichtet über neue Quantenabwehrmechanismen für Bitcoin und die Streichung von 18,9 Millionen SOL. Die gestärkte Sicherheit dürfte das Vertrauen in Bitcoin erhöhen, während das reduzierte SOL-Angebot den Token potenziell knapper macht. In der Folge sind erhöhte Kursbewegungen bei BTC und SOL zu erwarten."
     }
   ],
   "digest_log": [
