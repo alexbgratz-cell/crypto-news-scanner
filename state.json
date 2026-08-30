@@ -2566,17 +2566,11 @@
     "ddd5d30a-77d8-51b2-829f-183fcb303132": "2026-08-30T18:04:25Z",
     "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying": "2026-08-30T18:19:09Z",
     "ab4006e1-2fc8-5bcc-b064-fab72dcf09e5": "2026-08-30T18:49:18Z",
-    "https://decrypt.co/?p=376884": "2026-08-30T19:49:12Z"
+    "https://decrypt.co/?p=376884": "2026-08-30T19:49:12Z",
+    "37507202-9591-56f4-ab54-2e0f19014a8e": "2026-08-30T20:34:16Z",
+    "https://www.marktechpost.com/?p=81962": "2026-08-30T20:34:19Z"
   },
   "pending": {
-    "https://techcrunch.com/?p=3155879": {
-      "id": "https://techcrunch.com/?p=3155879",
-      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-23T20:01:36Z"
-    },
     "95593f84-a5b5-5ab4-99a5-53fdca96ebcf": {
       "id": "95593f84-a5b5-5ab4-99a5-53fdca96ebcf",
       "title": "DeFi lending protocol Term Finance loses an estimated $8.5 million to governance exploit",
@@ -3243,38 +3237,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://www.technologyreview.com/?p=1141952",
-      "title": "AI models flub these intelligence tests. Can you fare any better?",
-      "url": null,
-      "stream": "ai",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "published": "2026-08-26T09:00:00Z",
-      "score": 5,
-      "category": "Model Release & Capability",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Der Artikel des MIT Technology Review behandelt Intelligenztests, bei denen KI-Modelle scheitern, während Menschen sie möglicherweise besser lösen. Dies verdeutlicht anhaltende Schwächen aktueller KI-Systeme bei bestimmten Reasoning-Aufgaben und relativiert überhöhte Fähigkeitsdarstellungen. Eine unmittelbare Marktbewegung ist nicht zu erwarten, die Diskussion über aussagekräftige KI-Benchmarks dürfte jedoch weitergehen."
-    },
-    {
-      "id": "6f435c06-8976-59cf-8ed6-168b55fba33f",
-      "title": "‘Altitude sickness can wait’: Bitcoin’s historic short squeeze, Bessent catalyst may signal bull-market reset, analysts say",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-26T11:47:25Z",
-      "score": 6,
-      "category": "Macro",
-      "sentiment": "bullish",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "Analysten sehen einen historischen Short Squeeze bei Bitcoin und bezeichnen den Bessent-Katalysator als möglichen Auslöser eines Bullenmarkt-Resets. Die Marktstimmung wird dadurch kurzfristig gestützt, da gequetschte Leerverkäufer weiteren Kaufdruck erzeugen könnten. Erhöhte Volatilität und weitere Kursgewinne bei Bitcoin sind wahrscheinlich.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-26T12:02:17Z"
-    },
     {
       "id": "6fcd4ddb-b702-5d4b-8ce8-c8e29836fba2",
       "title": "Bernstein sees bitcoin reaching $150,000 by mid-2027 amid ‘debasement trade,’ but cuts Strategy target to $350",
@@ -6496,6 +6458,36 @@
       ],
       "entities": [],
       "summary": "Strategy hat laut Artikel rund 2,8 Milliarden Dollar unrealisierten Gewinn auf seinen Bitcoin-Beständen; es wird spekuliert, ob Michael Saylor weitere Käufe plant. Sollte ein neuer Kauf folgen, würde das zusätzliche institutionelle Nachfrage signalisieren und den Bitcoin-Kurs tendenziell stützen. Eine Bestätigung durch das Unternehmen wäre die nächste entscheidende Wegmarke; bis dahin bleibt die Einschätzung spekulativ."
+    },
+    {
+      "id": "37507202-9591-56f4-ab54-2e0f19014a8e",
+      "title": "Kalshi becomes exclusive prediction market partner of US Open: report",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-08-30T20:28:52Z",
+      "score": 6,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Laut einem Bericht von The Block wird Kalshi exklusiver Partner für Vorhersagemärkte der US Open. Der Deal bringt Vorhersagemärkte in den Mainstream-Sport und stärkt das Geschäftsmodell regulierter Prognoseplattformen. In der Folge dürfte das Interesse an Ereigniswetten insgesamt steigen, ohne dass dies unmittelbar einen Krypto-Kurs beeinflusst."
+    },
+    {
+      "id": "https://www.marktechpost.com/?p=81962",
+      "title": "Google AI Introduces EnvHarness: A Programmable Layer That Turns Static Agent Environments Into Adaptive Training Worlds",
+      "url": null,
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-08-30T20:23:46Z",
+      "score": 6,
+      "category": "Research & Open Source",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "GOOGL"
+      ],
+      "summary": "Google AI stellt EnvHarness vor, eine programmierbare Schicht, die statische Agentenumgebungen in adaptive Trainingswelten verwandelt. Das Tool könnte die Forschung an KI-Agenten beschleunigen und die Effizienz des Trainings verbessern, was vor allem Google/Alphabet zugutekommt. Die nächste Wegmarke ist die Verfügbarkeit und Validierung anhand konkreter Benchmarks."
     }
   ],
   "digest_log": [
