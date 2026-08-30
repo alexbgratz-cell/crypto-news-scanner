@@ -6471,7 +6471,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Laut einem Bericht von The Block wird Kalshi exklusiver Partner für Vorhersagemärkte der US Open. Der Deal bringt Vorhersagemärkte in den Mainstream-Sport und stärkt das Geschäftsmodell regulierter Prognoseplattformen. In der Folge dürfte das Interesse an Ereigniswetten insgesamt steigen, ohne dass dies unmittelbar einen Krypto-Kurs beeinflusst."
+      "summary": "Laut einem Bericht von The Block wird Kalshi exklusiver Partner für Vorhersagemärkte der US Open. Der Deal bringt Vorhersagemärkte in den Mainstream-Sport und stärkt das Geschäftsmodell regulierter Prognoseplattformen. In der Folge dürfte das Interesse an Ereigniswetten insgesamt steigen, ohne dass dies unmittelbar einen Krypto-Kurs beeinflusst.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-30T21:08:05Z"
     },
     {
       "id": "https://www.marktechpost.com/?p=81962",
@@ -6487,7 +6489,9 @@
       "entities": [
         "GOOGL"
       ],
-      "summary": "Google AI stellt EnvHarness vor, eine programmierbare Schicht, die statische Agentenumgebungen in adaptive Trainingswelten verwandelt. Das Tool könnte die Forschung an KI-Agenten beschleunigen und die Effizienz des Trainings verbessern, was vor allem Google/Alphabet zugutekommt. Die nächste Wegmarke ist die Verfügbarkeit und Validierung anhand konkreter Benchmarks."
+      "summary": "Google AI stellt EnvHarness vor, eine programmierbare Schicht, die statische Agentenumgebungen in adaptive Trainingswelten verwandelt. Das Tool könnte die Forschung an KI-Agenten beschleunigen und die Effizienz des Trainings verbessern, was vor allem Google/Alphabet zugutekommt. Die nächste Wegmarke ist die Verfügbarkeit und Validierung anhand konkreter Benchmarks.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-30T21:08:05Z"
     }
   ],
   "digest_log": [
@@ -7006,6 +7010,13 @@
       "at": "2026-08-30T14:08:10Z",
       "article_ids": [
         "https://decrypt.co/?p=376863"
+      ]
+    },
+    {
+      "at": "2026-08-30T21:08:05Z",
+      "article_ids": [
+        "37507202-9591-56f4-ab54-2e0f19014a8e",
+        "https://www.marktechpost.com/?p=81962"
       ]
     }
   ],
