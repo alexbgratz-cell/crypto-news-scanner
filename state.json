@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.marktechpost.com/?p=81826": "2026-08-23T10:55:23Z",
     "https://decrypt.co/?p=376265": "2026-08-23T14:59:39Z",
     "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns": "2026-08-23T15:51:38Z",
     "https://techcrunch.com/?p=3155556": "2026-08-23T15:51:38Z",
@@ -2566,17 +2565,10 @@
     "https://www.marktechpost.com/?p=81958": "2026-08-30T06:19:14Z",
     "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch": "2026-08-30T08:19:32Z",
     "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans": "2026-08-30T10:04:07Z",
-    "6a8dc20a07538691fe0533d6": "2026-08-30T10:34:29Z"
+    "6a8dc20a07538691fe0533d6": "2026-08-30T10:34:29Z",
+    "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/": "2026-08-30T11:19:28Z"
   },
   "pending": {
-    "https://www.marktechpost.com/?p=81826": {
-      "id": "https://www.marktechpost.com/?p=81826",
-      "title": "Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU",
-      "url": "https://www.marktechpost.com/2026/08/23/meet-freetoken-an-edge-native-moe-serving-engine-that-runs-753b-glm-5-2-on-a-single-workstation-gpu/",
-      "stream": "ai",
-      "source": "MarkTechPost",
-      "published": "2026-08-23T10:44:59Z"
-    },
     "https://decrypt.co/?p=376265": {
       "id": "https://decrypt.co/?p=376265",
       "title": "Robot Brains Could Have Their ‘ChatGPT Moment’ by 2027, ACE Robotics Chairman Says",
@@ -3307,22 +3299,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/roman-storm-retrial-delayed-april-2027",
-      "title": "Tornado Cash developer Roman Storm’s retrial delayed to April 2027",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-26T07:44:04Z",
-      "score": 7,
-      "category": "Regulation",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Der Prozess gegen den Tornado-Cash-Entwickler Roman Storm wurde erneut verschoben und soll nun im April 2027 beginnen. Die Verzögerung verlängert die rechtliche Unsicherheit für Krypto-Mixer und Datenschutzprojekte im Krypto-Bereich. Eine kurzfristige Marktreaktion ist unwahrscheinlich; der nächste relevante Termin ist der Prozessstart im April 2027.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-26T08:10:54Z"
-    },
     {
       "id": "https://cointelegraph.com/news/bitcoin-etf-august-inflows-surge-past-3-billion",
       "title": "Bitcoin ETFs tear through 2026 outflows in 7-day hot streak",
@@ -6562,6 +6538,22 @@
       "instruments": [],
       "entities": [],
       "summary": "Ein Artikel befasst sich mit Wearables, die bewusst unauffällig sein sollen und im Alltag ignoriert werden können. Solche unaufdringlichen Geräte könnten die Akzeptanz von KI-gestützten Alltagsprodukten erhöhen, da sie weniger stören. Da der Beitrag keine konkreten Produkte, Zahlen oder Unternehmen nennt, ist keine unmittelbare Marktreaktion zu erwarten."
+    },
+    {
+      "id": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+      "title": "Inside Meta’s push to put robots to work in data centers",
+      "url": null,
+      "stream": "ai",
+      "source": "AI - Ars Technica",
+      "published": "2026-08-30T11:03:47Z",
+      "score": 6,
+      "category": "Hardware & Infrastructure",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "META"
+      ],
+      "summary": "Meta treibt laut einem Bericht den Einsatz von Robotern in Rechenzentren voran. Das könnte die Betriebskosten senken und den Betrieb der KI-Infrastruktur effizienter machen. Eine breitere Einführung solcher Automatisierung in der Branche ist damit wahrscheinlicher."
     }
   ],
   "digest_log": [
