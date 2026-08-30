@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://techcrunch.com/?p=3155861": "2026-08-22T22:51:20Z",
-    "https://www.marktechpost.com/?p=81814": "2026-08-23T00:01:46Z",
     "https://www.marktechpost.com/?p=81823": "2026-08-23T07:51:27Z",
     "https://www.marktechpost.com/?p=81820": "2026-08-23T07:51:27Z",
     "https://www.marktechpost.com/?p=81826": "2026-08-23T10:55:23Z",
@@ -2565,25 +2563,10 @@
     "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth": "2026-08-29T19:34:11Z",
     "968ca34b-a548-542f-bf77-ad913d92547c": "2026-08-29T20:19:20Z",
     "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks": "2026-08-29T20:49:21Z",
-    "91c09846-6ead-5663-99a1-8df0e6372704": "2026-08-29T21:19:06Z"
+    "91c09846-6ead-5663-99a1-8df0e6372704": "2026-08-29T21:19:06Z",
+    "https://www.marktechpost.com/?p=81955": "2026-08-30T02:04:29Z"
   },
   "pending": {
-    "https://techcrunch.com/?p=3155861": {
-      "id": "https://techcrunch.com/?p=3155861",
-      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-22T21:46:56Z"
-    },
-    "https://www.marktechpost.com/?p=81814": {
-      "id": "https://www.marktechpost.com/?p=81814",
-      "title": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety",
-      "url": "https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/",
-      "stream": "ai",
-      "source": "MarkTechPost",
-      "published": "2026-08-22T23:49:38Z"
-    },
     "https://www.marktechpost.com/?p=81823": {
       "id": "https://www.marktechpost.com/?p=81823",
       "title": "Building an End-to-End Document Intelligence Pipeline with deepDoctection",
@@ -3338,22 +3321,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3156276",
-      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-26T03:30:00Z",
-      "score": 6,
-      "category": "Business & Funding",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Das indische Startup Ringg hat eine Finanzierung von Peak XV erhalten und will seine Sprach-KI über den reinen Telefonanruf hinaus ausbauen. Die Unterstützung eines renommierten Investors stärkt Ringg im wachsenden Markt für sprachbasierte KI-Assistenten in Indien. Der Ausbau dürfte den Wettbewerb im Bereich Voice-AI weiter verstärken.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-26T05:53:49Z"
-    },
     {
       "id": "https://techcrunch.com/?p=3156922",
       "title": "Robotics startup Generalist reaches $3B valuation, sources say",
@@ -6593,6 +6560,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Die Layer-1-Blockchain Fogo hat ihr Mainnet gestoppt, nachdem ein Angreifer 400 Millionen FOGO-Token erhalten hat, etwa 10% des zirkulierenden Angebots. Der Vorfall erschüttert das Vertrauen in die Sicherheit des Netzwerks und dürfte den Preis des FOGO-Tokens stark belasten. Solange das Mainnet gestoppt bleibt, ist mit erhöhter Volatilität und weiteren Abflüssen zu rechnen."
+    },
+    {
+      "id": "https://www.marktechpost.com/?p=81955",
+      "title": "Meet ‘Code-as-World’: An Agentic Loop That Rewrites Real Videos Into Executable MuJoCo Physics Programs",
+      "url": null,
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-08-30T01:35:02Z",
+      "score": 6,
+      "category": "Research & Open Source",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Ein Forschungsteam stellt 'Code-as-World' vor, einen agentischen Loop, der echte Videos in ausführbare MuJoCo-Physikprogramme übersetzt. Der Ansatz könnte Simulation und Robotiktraining beschleunigen, da physikalisch korrekte Umgebungen direkt aus Videodaten erzeugt werden. Konkrete Produktfolgen sind noch offen; ob sich die Methode in der Praxis bewährt, bleibt abzuwarten."
     }
   ],
   "digest_log": [
