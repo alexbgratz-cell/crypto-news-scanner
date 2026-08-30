@@ -6573,7 +6573,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "Ein Forschungsteam stellt 'Code-as-World' vor, einen agentischen Loop, der echte Videos in ausführbare MuJoCo-Physikprogramme übersetzt. Der Ansatz könnte Simulation und Robotiktraining beschleunigen, da physikalisch korrekte Umgebungen direkt aus Videodaten erzeugt werden. Konkrete Produktfolgen sind noch offen; ob sich die Methode in der Praxis bewährt, bleibt abzuwarten."
+      "summary": "Ein Forschungsteam stellt 'Code-as-World' vor, einen agentischen Loop, der echte Videos in ausführbare MuJoCo-Physikprogramme übersetzt. Der Ansatz könnte Simulation und Robotiktraining beschleunigen, da physikalisch korrekte Umgebungen direkt aus Videodaten erzeugt werden. Konkrete Produktfolgen sind noch offen; ob sich die Methode in der Praxis bewährt, bleibt abzuwarten.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-30T02:08:07Z"
     }
   ],
   "digest_log": [
@@ -7062,6 +7064,12 @@
       "at": "2026-08-29T21:07:59Z",
       "article_ids": [
         "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks"
+      ]
+    },
+    {
+      "at": "2026-08-30T02:08:07Z",
+      "article_ids": [
+        "https://www.marktechpost.com/?p=81955"
       ]
     }
   ],
