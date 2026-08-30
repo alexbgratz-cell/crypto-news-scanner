@@ -2564,7 +2564,8 @@
     "968ca34b-a548-542f-bf77-ad913d92547c": "2026-08-29T20:19:20Z",
     "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks": "2026-08-29T20:49:21Z",
     "91c09846-6ead-5663-99a1-8df0e6372704": "2026-08-29T21:19:06Z",
-    "https://www.marktechpost.com/?p=81955": "2026-08-30T02:04:29Z"
+    "https://www.marktechpost.com/?p=81955": "2026-08-30T02:04:29Z",
+    "https://www.marktechpost.com/?p=81958": "2026-08-30T06:19:14Z"
   },
   "pending": {
     "https://www.marktechpost.com/?p=81823": {
@@ -3321,22 +3322,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3156922",
-      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-26T00:40:59Z",
-      "score": 6,
-      "category": "Business & Funding",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Laut Quellen erreicht das Robotik-Startup Generalist eine Bewertung von drei Milliarden US-Dollar. Die hohe Bewertung signalisiert starkes Investorenvertrauen in KI-gestützte Robotik. Eine offizielle Bestätigung des Unternehmens steht noch aus.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-26T05:53:49Z"
-    },
     {
       "id": "https://techcrunch.com/?p=3156793",
       "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
@@ -6576,6 +6561,22 @@
       "summary": "Ein Forschungsteam stellt 'Code-as-World' vor, einen agentischen Loop, der echte Videos in ausführbare MuJoCo-Physikprogramme übersetzt. Der Ansatz könnte Simulation und Robotiktraining beschleunigen, da physikalisch korrekte Umgebungen direkt aus Videodaten erzeugt werden. Konkrete Produktfolgen sind noch offen; ob sich die Methode in der Praxis bewährt, bleibt abzuwarten.",
       "delivered": "digest",
       "delivered_at": "2026-08-30T02:08:07Z"
+    },
+    {
+      "id": "https://www.marktechpost.com/?p=81958",
+      "title": "Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for AI Agents to Safely Operate Physical Devices",
+      "url": null,
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-08-30T06:12:21Z",
+      "score": 6,
+      "category": "Safety & Risk",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [
+        "Anthropic"
+      ],
+      "summary": "Anthropic veröffentlicht eine Research Preview des Model Hardware Standard (MHS), einer gemeinsamen Spezifikation für den sicheren Betrieb physischer Geräte durch KI-Agenten. Der Standard adressiert Sicherheitslücken bei der Hardware-Steuerung und könnte die Entwicklung sicherer Agentensysteme in der Branche vorantreiben. Die Industrie wird voraussichtlich auf dieser Grundlage weitere Standards und Implementierungen entwickeln."
     }
   ],
   "digest_log": [
