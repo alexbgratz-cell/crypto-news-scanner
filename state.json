@@ -2566,7 +2566,8 @@
     "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch": "2026-08-30T08:19:32Z",
     "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans": "2026-08-30T10:04:07Z",
     "6a8dc20a07538691fe0533d6": "2026-08-30T10:34:29Z",
-    "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/": "2026-08-30T11:19:28Z"
+    "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/": "2026-08-30T11:19:28Z",
+    "https://decrypt.co/?p=376863": "2026-08-30T13:34:13Z"
   },
   "pending": {
     "https://decrypt.co/?p=376265": {
@@ -3299,22 +3300,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/bitcoin-etf-august-inflows-surge-past-3-billion",
-      "title": "Bitcoin ETFs tear through 2026 outflows in 7-day hot streak",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-26T07:30:31Z",
-      "score": 8,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "Bitcoin-ETFs verzeichneten in einer siebentägigen Serie Zuflüsse von über 3 Mrd. USD und machten damit die Abflüsse aus 2026 wett. Die starke institutionelle Nachfrage stützt den Bitcoin-Preis und signalisiert wieder wachsendes Interesse an dem Vermögenswert. Der anhaltende Zufluss dürfte den BTCUSD-Kurs weiter stützen; die nächste Wegmarke sind die wöchentlichen ETF-Daten."
-    },
     {
       "id": "https://www.technologyreview.com/?p=1142946",
       "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
@@ -6556,6 +6541,20 @@
       "summary": "Meta treibt laut einem Bericht den Einsatz von Robotern in Rechenzentren voran. Das könnte die Betriebskosten senken und den Betrieb der KI-Infrastruktur effizienter machen. Eine breitere Einführung solcher Automatisierung in der Branche ist damit wahrscheinlicher.",
       "delivered": "digest",
       "delivered_at": "2026-08-30T12:08:44Z"
+    },
+    {
+      "id": "https://decrypt.co/?p=376863",
+      "title": "After Their AI Models Hacked Real Companies, AI Labs Call for Stronger Cyber Defenses",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-08-30T13:31:04Z",
+      "score": 7,
+      "category": "Safety & Risk",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "KI-Labore berichten, dass ihre Modelle reale Unternehmen gehackt haben, und fordern nun stärkere Cyber-Abwehrmaßnahmen. Das zeigt, dass KI-gestützte Angriffe eine reale Bedrohung darstellen und die Branche zu mehr Sicherheitsvorkehrungen zwingt. Es sind strengere Sicherheitsvorschriften und höhere Investitionen in Cyberabwehr zu erwarten."
     }
   ],
   "digest_log": [
