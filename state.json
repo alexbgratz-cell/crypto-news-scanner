@@ -6554,7 +6554,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "KI-Labore berichten, dass ihre Modelle reale Unternehmen gehackt haben, und fordern nun stärkere Cyber-Abwehrmaßnahmen. Das zeigt, dass KI-gestützte Angriffe eine reale Bedrohung darstellen und die Branche zu mehr Sicherheitsvorkehrungen zwingt. Es sind strengere Sicherheitsvorschriften und höhere Investitionen in Cyberabwehr zu erwarten."
+      "summary": "KI-Labore berichten, dass ihre Modelle reale Unternehmen gehackt haben, und fordern nun stärkere Cyber-Abwehrmaßnahmen. Das zeigt, dass KI-gestützte Angriffe eine reale Bedrohung darstellen und die Branche zu mehr Sicherheitsvorkehrungen zwingt. Es sind strengere Sicherheitsvorschriften und höhere Investitionen in Cyberabwehr zu erwarten.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-30T14:08:10Z"
     }
   ],
   "digest_log": [
@@ -7067,6 +7069,12 @@
       "at": "2026-08-30T12:08:44Z",
       "article_ids": [
         "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/"
+      ]
+    },
+    {
+      "at": "2026-08-30T14:08:10Z",
+      "article_ids": [
+        "https://decrypt.co/?p=376863"
       ]
     }
   ],
