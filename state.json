@@ -2564,7 +2564,8 @@
     "91c09846-6ead-5663-99a1-8df0e6372704": "2026-08-29T21:19:06Z",
     "https://www.marktechpost.com/?p=81955": "2026-08-30T02:04:29Z",
     "https://www.marktechpost.com/?p=81958": "2026-08-30T06:19:14Z",
-    "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch": "2026-08-30T08:19:32Z"
+    "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch": "2026-08-30T08:19:32Z",
+    "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans": "2026-08-30T10:04:07Z"
   },
   "pending": {
     "https://www.marktechpost.com/?p=81826": {
@@ -3305,22 +3306,6 @@
     }
   },
   "articles": [
-    {
-      "id": "6e36d64f-803c-5319-b8b4-eeeb18305dfe",
-      "title": "Tornado Cash developer Roman Storm’s retrial pushed back to April 2027",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-26T08:00:17Z",
-      "score": 7,
-      "category": "Regulation",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Der Prozess gegen Tornado-Cash-Entwickler Roman Storm wurde erneut verschoben und soll nun erst im April 2027 beginnen. Die anhaltende rechtliche Unsicherheit hält regulatorische Risiken für Privacy-Projekte im Krypto-Sektor präsent. Die nächste entscheidende Wegmarke ist der Prozessbeginn im April 2027.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-26T08:10:54Z"
-    },
     {
       "id": "8083a4b2-8b9c-544c-ae7f-ed12d4d346dd",
       "title": "Japan to work on blockchain-based stock settlement system, details expected early 2027: Nikkei",
@@ -6560,6 +6545,22 @@
       "instruments": [],
       "entities": [],
       "summary": "Real Trump Coins hat bestritten, einen offiziellen GOLD-Token zu lancieren, und macht \"bad actors\" für das angebliche Angebot verantwortlich. Diese Klarstellung könnte das Vertrauen in markenbezogene Token beeinflussen, da Anleger zwischen echten und gefälschten Projekten unterscheiden müssen. Kurzfristig ist mit erhöhter Volatilität bei betroffenen Token zu rechnen, bis sich die Lage eindeutig klärt."
+    },
+    {
+      "id": "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans",
+      "title": "Russia’s Sber eyes USDT loans, questions digital ruble demand",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-30T09:45:01Z",
+      "score": 6,
+      "category": "Tech Update",
+      "sentiment": "bullish",
+      "instruments": [
+        "USDT.D"
+      ],
+      "entities": [],
+      "summary": "Russlands größte Bank Sber erwägt, Kredite in USDT anzubieten, und stellt zugleich die Nachfrage nach dem digitalen Rubel infrage. Das signalisiert wachsende institutionelle Akzeptanz von Stablecoins in Russland und könnte die Nachfrage nach USDT erhöhen. Sollte der Plan bestätigt werden, dürften Stablecoin-bezogene Kennzahlen wie die USDT-Dominanz an Bedeutung gewinnen."
     }
   ],
   "digest_log": [
