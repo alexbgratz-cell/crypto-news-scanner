@@ -6478,7 +6478,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "Polygon hat Sicherheitslücken in zwei Hard Forks behoben, bevor es diese öffentlich machte. Die Patches stärken die Netzwerksicherheit und verringern das Risiko künftiger Angriffe, ohne direkte Marktbewegungen auszulösen. Eine unmittelbare Kursreaktion ist unwahrscheinlich, relevant bleibt die Transparenz zukünftiger Protokoll-Upgrades."
+      "summary": "Polygon hat Sicherheitslücken in zwei Hard Forks behoben, bevor es diese öffentlich machte. Die Patches stärken die Netzwerksicherheit und verringern das Risiko künftiger Angriffe, ohne direkte Marktbewegungen auszulösen. Eine unmittelbare Kursreaktion ist unwahrscheinlich, relevant bleibt die Transparenz zukünftiger Protokoll-Upgrades.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-30T23:08:12Z"
     }
   ],
   "digest_log": [
@@ -7004,6 +7006,12 @@
       "article_ids": [
         "37507202-9591-56f4-ab54-2e0f19014a8e",
         "https://www.marktechpost.com/?p=81962"
+      ]
+    },
+    {
+      "at": "2026-08-30T23:08:12Z",
+      "article_ids": [
+        "https://decrypt.co/?p=376911"
       ]
     }
   ],
