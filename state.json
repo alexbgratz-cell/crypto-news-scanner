@@ -2564,7 +2564,8 @@
     "https://techcrunch.com/?p=3158173": "2026-08-30T15:04:23Z",
     "https://techcrunch.com/?p=3158648": "2026-08-30T17:04:16Z",
     "ddd5d30a-77d8-51b2-829f-183fcb303132": "2026-08-30T18:04:25Z",
-    "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying": "2026-08-30T18:19:09Z"
+    "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying": "2026-08-30T18:19:09Z",
+    "ab4006e1-2fc8-5bcc-b064-fab72dcf09e5": "2026-08-30T18:49:18Z"
   },
   "pending": {
     "https://techcrunch.com/?p=3155879": {
@@ -3241,22 +3242,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/revolut-eurr-euro-stablecoin-europe-rollout",
-      "title": "Revolut rolls out euro stablecoin in 3 European markets",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-26T08:45:41Z",
-      "score": 6,
-      "category": "Other",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Revolut bringt einen Euro-Stablecoin in drei europäischen Märkten an den Start. Das erweitert das Angebot an regulierten Stablecoins in Europa und verstärkt den Wettbewerb mit Dollar-basierten Stablecoins. Der Markt für Euro-Stablecoins dürfte dadurch an Bedeutung gewinnen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-26T10:55:11Z"
-    },
     {
       "id": "https://www.technologyreview.com/?p=1141949",
       "title": "Raised on AI",
@@ -6494,6 +6479,20 @@
       ],
       "entities": [],
       "summary": "Michael Saylor signalisiert, dass Strategy wieder Bitcoin kauft. Großkäufe des Unternehmens erhöhen die Nachfrage und stärken die Marktstimmung für Bitcoin. Kurzfristig ist mit positivem Kaufdruck auf den BTC-Kurs zu rechnen."
+    },
+    {
+      "id": "ab4006e1-2fc8-5bcc-b064-fab72dcf09e5",
+      "title": "Crypto.com-linked Cronos network halts after Tectonic exploit estimated at $75 million",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-08-30T18:40:08Z",
+      "score": 8,
+      "category": "Hack & Security",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Der mit Crypto.com verbundene Cronos-Blockchain wurde nach einem Exploit des DeFi-Protokolls Tectonic angehalten; der Schaden wird auf etwa 75 Millionen Dollar geschätzt. Der Vorfall untergräbt das Vertrauen in die Sicherheit des Cronos-Ökosystems und dürfte kurzzeitig zu Kursverlusten bei betroffenen Token führen. In der Folge ist mit erhöhter Volatilität und verschärften Sicherheitsprüfungen im DeFi-Bereich zu rechnen."
     }
   ],
   "digest_log": [
