@@ -2565,7 +2565,8 @@
     "https://techcrunch.com/?p=3158648": "2026-08-30T17:04:16Z",
     "ddd5d30a-77d8-51b2-829f-183fcb303132": "2026-08-30T18:04:25Z",
     "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying": "2026-08-30T18:19:09Z",
-    "ab4006e1-2fc8-5bcc-b064-fab72dcf09e5": "2026-08-30T18:49:18Z"
+    "ab4006e1-2fc8-5bcc-b064-fab72dcf09e5": "2026-08-30T18:49:18Z",
+    "https://decrypt.co/?p=376884": "2026-08-30T19:49:12Z"
   },
   "pending": {
     "https://techcrunch.com/?p=3155879": {
@@ -3242,20 +3243,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://www.technologyreview.com/?p=1141949",
-      "title": "Raised on AI",
-      "url": null,
-      "stream": "ai",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "published": "2026-08-26T09:00:00Z",
-      "score": 4,
-      "category": "Society & Work",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Der Artikel des MIT Technology Review befasst sich mit dem Aufwachsen in einer von KI geprägten Umgebung. Die gesellschaftliche Wirkung betrifft vor allem Erziehung, Bildung und Alltagserfahrungen junger Menschen. Eine zunehmende gesellschaftliche Debatte über den Umgang mit KI ist die Folge."
-    },
     {
       "id": "https://www.technologyreview.com/?p=1141952",
       "title": "AI models flub these intelligence tests. Can you fare any better?",
@@ -6493,6 +6480,22 @@
       "instruments": [],
       "entities": [],
       "summary": "Der mit Crypto.com verbundene Cronos-Blockchain wurde nach einem Exploit des DeFi-Protokolls Tectonic angehalten; der Schaden wird auf etwa 75 Millionen Dollar geschätzt. Der Vorfall untergräbt das Vertrauen in die Sicherheit des Cronos-Ökosystems und dürfte kurzzeitig zu Kursverlusten bei betroffenen Token führen. In der Folge ist mit erhöhter Volatilität und verschärften Sicherheitsprüfungen im DeFi-Bereich zu rechnen."
+    },
+    {
+      "id": "https://decrypt.co/?p=376884",
+      "title": "Strategy’s Bitcoin Is $2.8 Billion in Profit—Is Saylor Teeing Up a Buy?",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-08-30T19:39:55Z",
+      "score": 5,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Strategy hat laut Artikel rund 2,8 Milliarden Dollar unrealisierten Gewinn auf seinen Bitcoin-Beständen; es wird spekuliert, ob Michael Saylor weitere Käufe plant. Sollte ein neuer Kauf folgen, würde das zusätzliche institutionelle Nachfrage signalisieren und den Bitcoin-Kurs tendenziell stützen. Eine Bestätigung durch das Unternehmen wäre die nächste entscheidende Wegmarke; bis dahin bleibt die Einschätzung spekulativ."
     }
   ],
   "digest_log": [
