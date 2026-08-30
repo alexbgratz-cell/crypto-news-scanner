@@ -6553,7 +6553,9 @@
       "entities": [
         "META"
       ],
-      "summary": "Meta treibt laut einem Bericht den Einsatz von Robotern in Rechenzentren voran. Das könnte die Betriebskosten senken und den Betrieb der KI-Infrastruktur effizienter machen. Eine breitere Einführung solcher Automatisierung in der Branche ist damit wahrscheinlicher."
+      "summary": "Meta treibt laut einem Bericht den Einsatz von Robotern in Rechenzentren voran. Das könnte die Betriebskosten senken und den Betrieb der KI-Infrastruktur effizienter machen. Eine breitere Einführung solcher Automatisierung in der Branche ist damit wahrscheinlicher.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-30T12:08:44Z"
     }
   ],
   "digest_log": [
@@ -7060,6 +7062,12 @@
       "at": "2026-08-30T10:08:03Z",
       "article_ids": [
         "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans"
+      ]
+    },
+    {
+      "at": "2026-08-30T12:08:44Z",
+      "article_ids": [
+        "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/"
       ]
     }
   ],
