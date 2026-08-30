@@ -6576,7 +6576,9 @@
       "entities": [
         "Anthropic"
       ],
-      "summary": "Anthropic veröffentlicht eine Research Preview des Model Hardware Standard (MHS), einer gemeinsamen Spezifikation für den sicheren Betrieb physischer Geräte durch KI-Agenten. Der Standard adressiert Sicherheitslücken bei der Hardware-Steuerung und könnte die Entwicklung sicherer Agentensysteme in der Branche vorantreiben. Die Industrie wird voraussichtlich auf dieser Grundlage weitere Standards und Implementierungen entwickeln."
+      "summary": "Anthropic veröffentlicht eine Research Preview des Model Hardware Standard (MHS), einer gemeinsamen Spezifikation für den sicheren Betrieb physischer Geräte durch KI-Agenten. Der Standard adressiert Sicherheitslücken bei der Hardware-Steuerung und könnte die Entwicklung sicherer Agentensysteme in der Branche vorantreiben. Die Industrie wird voraussichtlich auf dieser Grundlage weitere Standards und Implementierungen entwickeln.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-30T07:08:13Z"
     }
   ],
   "digest_log": [
@@ -7071,6 +7073,12 @@
       "at": "2026-08-30T02:08:07Z",
       "article_ids": [
         "https://www.marktechpost.com/?p=81955"
+      ]
+    },
+    {
+      "at": "2026-08-30T07:08:13Z",
+      "article_ids": [
+        "https://www.marktechpost.com/?p=81958"
       ]
     }
   ],
