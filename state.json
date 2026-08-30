@@ -2569,7 +2569,8 @@
     "37507202-9591-56f4-ab54-2e0f19014a8e": "2026-08-30T20:34:16Z",
     "https://www.marktechpost.com/?p=81962": "2026-08-30T20:34:19Z",
     "https://decrypt.co/?p=376897": "2026-08-30T21:34:11Z",
-    "https://www.marktechpost.com/?p=81967": "2026-08-30T21:34:14Z"
+    "https://www.marktechpost.com/?p=81967": "2026-08-30T21:34:14Z",
+    "https://decrypt.co/?p=376911": "2026-08-30T22:34:09Z"
   },
   "pending": {
     "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest": {
@@ -3230,22 +3231,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/japan-weighs-blockchain-fast-lane-for-securities-cash-settlement",
-      "title": "Japan weighs blockchain fast lane for securities cash settlement",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-26T10:46:47Z",
-      "score": 7,
-      "category": "Regulation",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Japan erwägt, Blockchain für die Abwicklung von Wertpapier-Bargeldgeschäften einzusetzen. Eine positive Regulierungsrichtung könnte die Akzeptanz digitaler Assets in etablierten Finanzmärkten stärken und Investorenvertrauen schaffen. Eine konkrete Entscheidung steht noch aus; zuerst muss die japanische Aufsicht ihre Prüfung abschließen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-26T12:02:17Z"
-    },
     {
       "id": "https://cointelegraph.com/news/kalshi-1-5-billion-equity-offering-1-12-billion-sold",
       "title": "Kalshi’s $1.5B equity offering is three-quarters sold at $1.12B",
@@ -6480,6 +6465,20 @@
       "instruments": [],
       "entities": [],
       "summary": "MarkTechPost veröffentlicht einen Benchmark, der die Zeit bis zum ersten Token (TTFT) für Sprach- und Echtzeit-Agenten-Inferenz-APIs vergleicht. Der Benchmark zeigt, welche Anbieter die geringste Latenz bieten, was für Unternehmen mit Echtzeitanwendungen wichtig ist. Die Ergebnisse können die Auswahl von Inferenz-APIs beeinflussen und den Wettbewerb zwischen den Anbietern verschärfen."
+    },
+    {
+      "id": "https://decrypt.co/?p=376911",
+      "title": "Polygon Quietly Patched Security Flaws in Two Hard Forks Before Disclosing Them",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-08-30T22:31:04Z",
+      "score": 6,
+      "category": "Tech Update",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Polygon hat Sicherheitslücken in zwei Hard Forks behoben, bevor es diese öffentlich machte. Die Patches stärken die Netzwerksicherheit und verringern das Risiko künftiger Angriffe, ohne direkte Marktbewegungen auszulösen. Eine unmittelbare Kursreaktion ist unwahrscheinlich, relevant bleibt die Transparenz zukünftiger Protokoll-Upgrades."
     }
   ],
   "digest_log": [
