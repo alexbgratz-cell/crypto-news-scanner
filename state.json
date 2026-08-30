@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.marktechpost.com/?p=81823": "2026-08-23T07:51:27Z",
-    "https://www.marktechpost.com/?p=81820": "2026-08-23T07:51:27Z",
     "https://www.marktechpost.com/?p=81826": "2026-08-23T10:55:23Z",
     "https://decrypt.co/?p=376265": "2026-08-23T14:59:39Z",
     "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns": "2026-08-23T15:51:38Z",
@@ -2565,25 +2563,10 @@
     "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks": "2026-08-29T20:49:21Z",
     "91c09846-6ead-5663-99a1-8df0e6372704": "2026-08-29T21:19:06Z",
     "https://www.marktechpost.com/?p=81955": "2026-08-30T02:04:29Z",
-    "https://www.marktechpost.com/?p=81958": "2026-08-30T06:19:14Z"
+    "https://www.marktechpost.com/?p=81958": "2026-08-30T06:19:14Z",
+    "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch": "2026-08-30T08:19:32Z"
   },
   "pending": {
-    "https://www.marktechpost.com/?p=81823": {
-      "id": "https://www.marktechpost.com/?p=81823",
-      "title": "Building an End-to-End Document Intelligence Pipeline with deepDoctection",
-      "url": "https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/",
-      "stream": "ai",
-      "source": "MarkTechPost",
-      "published": "2026-08-23T07:51:22Z"
-    },
-    "https://www.marktechpost.com/?p=81820": {
-      "id": "https://www.marktechpost.com/?p=81820",
-      "title": "Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks",
-      "url": "https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/",
-      "stream": "ai",
-      "source": "MarkTechPost",
-      "published": "2026-08-23T07:37:14Z"
-    },
     "https://www.marktechpost.com/?p=81826": {
       "id": "https://www.marktechpost.com/?p=81826",
       "title": "Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU",
@@ -3322,22 +3305,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3156793",
-      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-26T00:06:20Z",
-      "score": 5,
-      "category": "Business & Funding",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [
-        "OpenAI"
-      ],
-      "summary": "OpenAI verliert erneut eine Führungskraft im Rechenzentrumsbereich, die Serie prominenter Abgänge setzt sich damit fort. Der Weggang betrifft den Ausbau der KI-Infrastruktur, der für OpenAI zentral ist, und erhöht das Risiko von Verzögerungen. Personalentscheidungen und die Nachbesetzung der Position werden darüber bestimmen, ob die Infrastrukturprojekte stabil weiterlaufen."
-    },
     {
       "id": "6e36d64f-803c-5319-b8b4-eeeb18305dfe",
       "title": "Tornado Cash developer Roman Storm’s retrial pushed back to April 2027",
@@ -6579,6 +6546,20 @@
       "summary": "Anthropic veröffentlicht eine Research Preview des Model Hardware Standard (MHS), einer gemeinsamen Spezifikation für den sicheren Betrieb physischer Geräte durch KI-Agenten. Der Standard adressiert Sicherheitslücken bei der Hardware-Steuerung und könnte die Entwicklung sicherer Agentensysteme in der Branche vorantreiben. Die Industrie wird voraussichtlich auf dieser Grundlage weitere Standards und Implementierungen entwickeln.",
       "delivered": "digest",
       "delivered_at": "2026-08-30T07:08:13Z"
+    },
+    {
+      "id": "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch",
+      "title": "Real Trump Coins denies launching GOLD token, blames ‘bad actors’",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-30T08:04:56Z",
+      "score": 5,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Real Trump Coins hat bestritten, einen offiziellen GOLD-Token zu lancieren, und macht \"bad actors\" für das angebliche Angebot verantwortlich. Diese Klarstellung könnte das Vertrauen in markenbezogene Token beeinflussen, da Anleger zwischen echten und gefälschten Projekten unterscheiden müssen. Kurzfristig ist mit erhöhter Volatilität bei betroffenen Token zu rechnen, bis sich die Lage eindeutig klärt."
     }
   ],
   "digest_log": [
