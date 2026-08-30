@@ -2563,7 +2563,8 @@
     "https://decrypt.co/?p=376863": "2026-08-30T13:34:13Z",
     "https://techcrunch.com/?p=3158173": "2026-08-30T15:04:23Z",
     "https://techcrunch.com/?p=3158648": "2026-08-30T17:04:16Z",
-    "ddd5d30a-77d8-51b2-829f-183fcb303132": "2026-08-30T18:04:25Z"
+    "ddd5d30a-77d8-51b2-829f-183fcb303132": "2026-08-30T18:04:25Z",
+    "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying": "2026-08-30T18:19:09Z"
   },
   "pending": {
     "https://techcrunch.com/?p=3155879": {
@@ -3240,24 +3241,6 @@
     }
   },
   "articles": [
-    {
-      "id": "afef2fa1-397f-53a2-a178-c4bf84410c2b",
-      "title": "Revolut begins phased EURR stablecoin rollout in Denmark, Poland and Portugal",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-26T09:12:54Z",
-      "score": 6,
-      "category": "Tech Update",
-      "sentiment": "bullish",
-      "instruments": [
-        "USDT.D"
-      ],
-      "entities": [],
-      "summary": "Revolut startet den schrittweisen Rollout seiner EURR-Stablecoin in Dänemark, Polen und Portugal. Die Ausweitung eines Euro-gestützten Stablecoins stärkt die Akzeptanz digitaler Euro-Zahlungsmittel im europäischen Markt. Der zunehmende Wettbewerb im Stablecoin-Segment könnte die Dominanz des USDT langfristig leicht beeinflussen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-26T10:55:11Z"
-    },
     {
       "id": "https://cointelegraph.com/news/revolut-eurr-euro-stablecoin-europe-rollout",
       "title": "Revolut rolls out euro stablecoin in 3 European markets",
@@ -6495,6 +6478,22 @@
       "instruments": [],
       "entities": [],
       "summary": "Chainalysis beschuldigt die US-Einwanderungsbehörde ICE, einen 95-Millionen-Dollar-Vertrag für Blockchain-Analysen unfair an den Konkurrenten TRM Labs vergeben zu haben. Der Vorwurf betrifft vor allem den öffentlichen Vergabemarkt für Blockchain-Dienstleistungen und könnte das Vertrauen in solche Vergabeverfahren schwächen. Eine direkte Auswirkung auf Kryptowährungskurse ist nicht zu erwarten; die Auseinandersetzung bleibt ein brancheninterner Rechtsstreit."
+    },
+    {
+      "id": "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying",
+      "title": "Saylor signals Strategy is ‘Back’ to Bitcoin buying",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-30T17:59:00Z",
+      "score": 8,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Michael Saylor signalisiert, dass Strategy wieder Bitcoin kauft. Großkäufe des Unternehmens erhöhen die Nachfrage und stärken die Marktstimmung für Bitcoin. Kurzfristig ist mit positivem Kaufdruck auf den BTC-Kurs zu rechnen."
     }
   ],
   "digest_log": [
