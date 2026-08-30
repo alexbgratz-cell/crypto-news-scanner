@@ -1,6 +1,5 @@
 {
   "seen": {
-    "95593f84-a5b5-5ab4-99a5-53fdca96ebcf": "2026-08-23T22:43:44Z",
     "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest": "2026-08-24T00:01:43Z",
     "https://www.marktechpost.com/?p=81837": "2026-08-24T03:36:32Z",
     "7bf37c0d-c789-5613-a47f-3a8f0fac173e": "2026-08-24T05:55:47Z",
@@ -2570,7 +2569,8 @@
     "https://www.marktechpost.com/?p=81962": "2026-08-30T20:34:19Z",
     "https://decrypt.co/?p=376897": "2026-08-30T21:34:11Z",
     "https://www.marktechpost.com/?p=81967": "2026-08-30T21:34:14Z",
-    "https://decrypt.co/?p=376911": "2026-08-30T22:34:09Z"
+    "https://decrypt.co/?p=376911": "2026-08-30T22:34:09Z",
+    "https://decrypt.co/?p=376909": "2026-08-30T23:34:17Z"
   },
   "pending": {
     "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest": {
@@ -3231,20 +3231,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/kalshi-1-5-billion-equity-offering-1-12-billion-sold",
-      "title": "Kalshi’s $1.5B equity offering is three-quarters sold at $1.12B",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-26T10:15:44Z",
-      "score": 5,
-      "category": "Other",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Kalshi hat eine Eigenkapitalrunde über 1,5 Mrd. USD aufgelegt, von der bereits 1,12 Mrd. USD gezeichnet wurden. Das starke Interesse zeigt Kapitalzufluss in Prognosemärkte und stützt die Branche, hat aber keinen direkten Krypto-Bezug. Die Runde dürfte das Wachstum von Kalshi weiter finanzieren; direkte Auswirkungen auf Krypto-Kurse sind nicht zu erwarten."
-    },
     {
       "id": "https://decrypt.co/?p=376577",
       "title": "Roman Storm's Tornado Cash Retrial Pushed to April 2027",
@@ -6481,6 +6467,20 @@
       "summary": "Polygon hat Sicherheitslücken in zwei Hard Forks behoben, bevor es diese öffentlich machte. Die Patches stärken die Netzwerksicherheit und verringern das Risiko künftiger Angriffe, ohne direkte Marktbewegungen auszulösen. Eine unmittelbare Kursreaktion ist unwahrscheinlich, relevant bleibt die Transparenz zukünftiger Protokoll-Upgrades.",
       "delivered": "digest",
       "delivered_at": "2026-08-30T23:08:12Z"
+    },
+    {
+      "id": "https://decrypt.co/?p=376909",
+      "title": "Ex-White House Teleprompter Operator Fined for Prediction Market Insider Trading",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-08-30T23:31:03Z",
+      "score": 7,
+      "category": "Regulation",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Ein ehemaliger Teleprompter-Bediener des Weißen Hauses wurde wegen Insiderhandels auf Vorhersagemärkten zu einer Geldstrafe verurteilt. Der Fall zeigt, dass Aufsichtsbehörden auch bei Vorhersagemärkten streng durchgreifen, was Plattformen und Nutzer solcher Märkte betrifft. Es ist mit verstärkten Compliance-Anforderungen und weiteren Ermittlungen gegen Insiderhandel auf diesen Märkten zu rechnen."
     }
   ],
   "digest_log": [
