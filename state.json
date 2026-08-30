@@ -2565,7 +2565,8 @@
     "https://www.marktechpost.com/?p=81955": "2026-08-30T02:04:29Z",
     "https://www.marktechpost.com/?p=81958": "2026-08-30T06:19:14Z",
     "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch": "2026-08-30T08:19:32Z",
-    "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans": "2026-08-30T10:04:07Z"
+    "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans": "2026-08-30T10:04:07Z",
+    "6a8dc20a07538691fe0533d6": "2026-08-30T10:34:29Z"
   },
   "pending": {
     "https://www.marktechpost.com/?p=81826": {
@@ -3306,22 +3307,6 @@
     }
   },
   "articles": [
-    {
-      "id": "8083a4b2-8b9c-544c-ae7f-ed12d4d346dd",
-      "title": "Japan to work on blockchain-based stock settlement system, details expected early 2027: Nikkei",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-26T06:40:31Z",
-      "score": 7,
-      "category": "Regulation",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Japan will laut Nikkei ein blockchain-basiertes Aktienabwicklungssystem entwickeln; konkrete Details werden Anfang 2027 erwartet. Die Initiative zeigt wachsende institutionelle Akzeptanz der Blockchain-Technologie im traditionellen Finanzmarkt und stärkt das Vertrauen in Krypto-Infrastruktur. Eine positivere Marktstimmung für Krypto-Assets ist wahrscheinlich; die nächste Wegmarke sind die angekündigten Details Anfang 2027.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-26T08:10:54Z"
-    },
     {
       "id": "https://cointelegraph.com/news/roman-storm-retrial-delayed-april-2027",
       "title": "Tornado Cash developer Roman Storm’s retrial delayed to April 2027",
@@ -6563,6 +6548,20 @@
       "summary": "Russlands größte Bank Sber erwägt, Kredite in USDT anzubieten, und stellt zugleich die Nachfrage nach dem digitalen Rubel infrage. Das signalisiert wachsende institutionelle Akzeptanz von Stablecoins in Russland und könnte die Nachfrage nach USDT erhöhen. Sollte der Plan bestätigt werden, dürften Stablecoin-bezogene Kennzahlen wie die USDT-Dominanz an Bedeutung gewinnen.",
       "delivered": "digest",
       "delivered_at": "2026-08-30T10:08:03Z"
+    },
+    {
+      "id": "6a8dc20a07538691fe0533d6",
+      "title": "Why the Hottest New Wearables Want to Be Ignored",
+      "url": null,
+      "stream": "ai",
+      "source": "Feed: Artificial Intelligence Latest",
+      "published": "2026-08-30T10:30:00Z",
+      "score": 4,
+      "category": "Hardware & Infrastructure",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Ein Artikel befasst sich mit Wearables, die bewusst unauffällig sein sollen und im Alltag ignoriert werden können. Solche unaufdringlichen Geräte könnten die Akzeptanz von KI-gestützten Alltagsprodukten erhöhen, da sie weniger stören. Da der Beitrag keine konkreten Produkte, Zahlen oder Unternehmen nennt, ist keine unmittelbare Marktreaktion zu erwarten."
     }
   ],
   "digest_log": [
