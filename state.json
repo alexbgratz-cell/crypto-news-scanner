@@ -6560,7 +6560,9 @@
         "USDT.D"
       ],
       "entities": [],
-      "summary": "Russlands größte Bank Sber erwägt, Kredite in USDT anzubieten, und stellt zugleich die Nachfrage nach dem digitalen Rubel infrage. Das signalisiert wachsende institutionelle Akzeptanz von Stablecoins in Russland und könnte die Nachfrage nach USDT erhöhen. Sollte der Plan bestätigt werden, dürften Stablecoin-bezogene Kennzahlen wie die USDT-Dominanz an Bedeutung gewinnen."
+      "summary": "Russlands größte Bank Sber erwägt, Kredite in USDT anzubieten, und stellt zugleich die Nachfrage nach dem digitalen Rubel infrage. Das signalisiert wachsende institutionelle Akzeptanz von Stablecoins in Russland und könnte die Nachfrage nach USDT erhöhen. Sollte der Plan bestätigt werden, dürften Stablecoin-bezogene Kennzahlen wie die USDT-Dominanz an Bedeutung gewinnen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-30T10:08:03Z"
     }
   ],
   "digest_log": [
@@ -7061,6 +7063,12 @@
       "at": "2026-08-30T07:08:13Z",
       "article_ids": [
         "https://www.marktechpost.com/?p=81958"
+      ]
+    },
+    {
+      "at": "2026-08-30T10:08:03Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans"
       ]
     }
   ],
