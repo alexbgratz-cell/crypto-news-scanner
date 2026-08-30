@@ -1,7 +1,5 @@
 {
   "seen": {
-    "1110a552-44e9-5497-bdea-01636ae932ca": "2026-08-23T18:01:43Z",
-    "https://www.marktechpost.com/?p=81832": "2026-08-23T18:01:46Z",
     "https://techcrunch.com/?p=3155879": "2026-08-23T20:52:07Z",
     "95593f84-a5b5-5ab4-99a5-53fdca96ebcf": "2026-08-23T22:43:44Z",
     "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest": "2026-08-24T00:01:43Z",
@@ -2564,17 +2562,10 @@
     "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/": "2026-08-30T11:19:28Z",
     "https://decrypt.co/?p=376863": "2026-08-30T13:34:13Z",
     "https://techcrunch.com/?p=3158173": "2026-08-30T15:04:23Z",
-    "https://techcrunch.com/?p=3158648": "2026-08-30T17:04:16Z"
+    "https://techcrunch.com/?p=3158648": "2026-08-30T17:04:16Z",
+    "ddd5d30a-77d8-51b2-829f-183fcb303132": "2026-08-30T18:04:25Z"
   },
   "pending": {
-    "https://www.marktechpost.com/?p=81832": {
-      "id": "https://www.marktechpost.com/?p=81832",
-      "title": "Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work",
-      "url": "https://www.marktechpost.com/2026/08/23/harvey-tenet-post-trained-kimi-k3-legal-agent-model/",
-      "stream": "ai",
-      "source": "MarkTechPost",
-      "published": "2026-08-23T17:51:56Z"
-    },
     "https://techcrunch.com/?p=3155879": {
       "id": "https://techcrunch.com/?p=3155879",
       "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
@@ -3249,20 +3240,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://www.marktechpost.com/?p=81866",
-      "title": "Liquid AI Open-Sources Pipette: A Reproducible Benchmarking Suite That Measures On-Device Models, Quantization, Runtime and Hardware Together",
-      "url": null,
-      "stream": "ai",
-      "source": "MarkTechPost",
-      "published": "2026-08-25T23:48:08Z",
-      "score": 5,
-      "category": "Research & Open Source",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Liquid AI hat die Open-Source-Benchmarking-Suite „Pipette“ veröffentlicht, die On-Device-Modelle, Quantisierung, Laufzeit und Hardware gemeinsam reproduzierbar misst. Die Suite ermöglicht Entwicklern und Forschern, Modellleistung unter realen Bedingungen zu vergleichen, was die Bewertung lokaler KI-Modelle transparenter und standardisierter macht. Die Open-Source-Verfügbarkeit dürfte die Akzeptanz von On-Device-KI und effizienten Quantisierungsmethoden fördern; weitere Anpassungen und Integrationen durch die Community sind zu erwarten."
-    },
     {
       "id": "afef2fa1-397f-53a2-a178-c4bf84410c2b",
       "title": "Revolut begins phased EURR stablecoin rollout in Denmark, Poland and Portugal",
@@ -6504,6 +6481,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Elon Musk treibt den schnelleren Ausbau von Gasturbinen zur Stromversorgung voran, was jedoch mit einem Problem der Umweltverschmutzung verbunden ist. Der wachsende Energiebedarf für KI-Rechenzentren macht zusätzliche Stromerzeugung nötig, doch höhere Emissionen könnten regulatorische und gesellschaftliche Widerstände verstärken. Die Folge sind mögliche Verzögerungen oder Auflagen für den Ausbau der Energieinfrastruktur."
+    },
+    {
+      "id": "ddd5d30a-77d8-51b2-829f-183fcb303132",
+      "title": "Chainalysis accuses ICE of unfairly steering $95 million blockchain contract to TRM Labs",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-08-30T17:51:54Z",
+      "score": 5,
+      "category": "Regulation",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Chainalysis beschuldigt die US-Einwanderungsbehörde ICE, einen 95-Millionen-Dollar-Vertrag für Blockchain-Analysen unfair an den Konkurrenten TRM Labs vergeben zu haben. Der Vorwurf betrifft vor allem den öffentlichen Vergabemarkt für Blockchain-Dienstleistungen und könnte das Vertrauen in solche Vergabeverfahren schwächen. Eine direkte Auswirkung auf Kryptowährungskurse ist nicht zu erwarten; die Auseinandersetzung bleibt ein brancheninterner Rechtsstreit."
     }
   ],
   "digest_log": [
