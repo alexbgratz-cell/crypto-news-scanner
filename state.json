@@ -2563,7 +2563,8 @@
     "https://cointelegraph.com/news/mutiny-metaplanet-moves-4800-btc-worth-377m-to-coinbase": "2026-08-31T13:49:30Z",
     "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/": "2026-08-31T13:49:32Z",
     "https://decrypt.co/?p=376929": "2026-08-31T14:04:34Z",
-    "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads": "2026-08-31T14:04:34Z"
+    "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads": "2026-08-31T14:04:34Z",
+    "60b8b1ac-e5f2-5cbb-a83f-d78495d069a5": "2026-08-31T14:19:33Z"
   },
   "pending": {
     "245a63ca-9dac-58b1-a1db-dcf3afb1384e": {
@@ -2669,14 +2670,6 @@
       "stream": "ai",
       "source": "AI - Ars Technica",
       "published": "2026-08-24T16:41:45Z"
-    },
-    "https://www.marktechpost.com/?p=81850": {
-      "id": "https://www.marktechpost.com/?p=81850",
-      "title": "Generalist AI Releases GEN-1.5: A Robot Foundation Model That Learns New Tasks From One 3–12 Second Demo",
-      "url": "https://www.marktechpost.com/2026/08/24/generalist-ai-releases-gen-1-5-a-robot-foundation-model-that-learns-new-tasks-from-one-3-12-second-demo/",
-      "stream": "ai",
-      "source": "MarkTechPost",
-      "published": "2026-08-24T14:17:01Z"
     },
     "3194e8a8-39f2-565f-87ed-e9991bce142d": {
       "id": "3194e8a8-39f2-565f-87ed-e9991bce142d",
@@ -3000,22 +2993,6 @@
     }
   },
   "articles": [
-    {
-      "id": "ad56fa79-d08d-51bb-b8bf-fdd88fcf5061",
-      "title": "Charles Schwab to add Solana, Avalanche and Chainlink to crypto trading platform",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-27T14:20:05Z",
-      "score": 8,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [
-        "SOLUSD"
-      ],
-      "entities": [],
-      "summary": "Charles Schwab kündigt an, Solana, Avalanche und Chainlink in seine Krypto-Handelsplattform aufzunehmen. Der Schritt erweitert den Zugang institutioneller und privater Anleger zu diesen Assets und stärkt die Nachfrage, insbesondere nach Solana. Eine positive Kursreaktion bei SOL ist in der Folge wahrscheinlich."
-    },
     {
       "id": "cb8adb5a-e3a3-5a14-a0c0-f4a770c0e422",
       "title": "Chainalysis says global crypto taxable activity topped $457 billion in 2025",
@@ -6271,6 +6248,22 @@
       "summary": "OpenAI kündigt einen Meilenstein zur Erweiterung des Zugangs zu KI an, offenbar durch Werbung in ChatGPT. Damit will das Unternehmen die Nutzung von KI-Assistenten verbreitern und neue Einnahmen erschließen. Dies stärkt die kommerzielle Basis von OpenAI und dürfte den Wettbewerb im KI-Markt sowie die Nachfrage nach Recheninfrastruktur erhöhen.",
       "delivered": "digest",
       "delivered_at": "2026-08-31T14:08:17Z"
+    },
+    {
+      "id": "60b8b1ac-e5f2-5cbb-a83f-d78495d069a5",
+      "title": "Tom Lee says ether is ‘best performing macro asset’ as Bitmine adds 53,501 ETH",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-08-31T14:17:57Z",
+      "score": 7,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [
+        "ETHUSD"
+      ],
+      "entities": [],
+      "summary": "Tom Lee bezeichnet Ether als bestes makroökonomisches Asset, während Bitmine 53.501 ETH erworben hat. Der Zukauf zeigt institutionelle Nachfrage und stützt den ETH-Kurs. Infolgedessen ist mit weiterem Aufwärtsdruck auf Ether zu rechnen."
     }
   ],
   "digest_log": [
