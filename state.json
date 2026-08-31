@@ -2556,7 +2556,8 @@
     "https://huggingface.co/blog/allenai/olmoearth-embeddings": "2026-08-31T12:34:38Z",
     "https://decrypt.co/?p=376923": "2026-08-31T12:49:17Z",
     "https://cointelegraph.com/news/strategy-buys-370m-bitcoin-first-acquisition-june": "2026-08-31T13:04:28Z",
-    "https://techcrunch.com/?p=3158688": "2026-08-31T13:04:29Z"
+    "https://techcrunch.com/?p=3158688": "2026-08-31T13:04:29Z",
+    "114e906b-b803-50c5-917c-a30ad78d5493": "2026-08-31T13:19:18Z"
   },
   "pending": {
     "630297fc-830e-5d3a-8909-acd26001b666": {
@@ -3033,22 +3034,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3156546",
-      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-26T12:00:00Z",
-      "score": 6,
-      "category": "Business & Funding",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Das Hearing-Tech-Startup Legato hat sich aus der Stealth-Phase gelöst und 12 Millionen US-Dollar eingesammelt. Zugleich gab es einen ersten Einblick in seine KI-gestützten Hörbrillen. Die nächste Wegmarke ist die Markteinführung der Hörbrille; ein konkreter Termin wurde nicht genannt.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-26T16:37:01Z"
-    },
     {
       "id": "https://techcrunch.com/?p=3156706",
       "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
@@ -6291,6 +6276,22 @@
       "summary": "Circleback, ein KI-gestützter Meeting-Notizdienst, führt einen kostenlosen Tarif ein, um mehr Kunden zu gewinnen. Der Schritt senkt die Einstiegshürde für Nutzer und verschärft den Wettbewerb im Markt für KI-Notiztools. Der freie Tarif dürfte die Nutzerbasis des Anbieters vergrößern und den Druck auf vergleichbare Dienste erhöhen.",
       "delivered": "digest",
       "delivered_at": "2026-08-31T13:08:19Z"
+    },
+    {
+      "id": "114e906b-b803-50c5-917c-a30ad78d5493",
+      "title": "‘We’re back’: Strategy buys another 4,603 bitcoin for $369.7 million as holdings hit 845,050 BTC",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-08-31T13:11:07Z",
+      "score": 8,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Strategy hat weitere 4.603 Bitcoin für 369,7 Millionen US-Dollar gekauft und den Bestand damit auf 845.050 BTC erhöht. Der erneute Grosskauf eines institutionellen Akteurs signalisiert anhaltende Nachfrage und stützt das Marktumfeld für Bitcoin. Diese Käufe dürften den Bitcoin-Kurs weiter positiv beeinflussen und das Vertrauen institutioneller Anleger festigen."
     }
   ],
   "digest_log": [
