@@ -6476,7 +6476,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Die USA errichten Handels- und Exportbarrieren um Drohnen und Roboter, während China dank seiner Skalierungsvorteile diese Hürden umgehen kann. Diese Regulierungspolitik schwächt die Wettbewerbsposition US-amerikanischer Hersteller, da Chinas Produktionsumfang die Wirkung der Beschränkungen reduziert. Die Folge sind anhaltende Marktunsicherheiten und eine verstärkte Eigenfertigung Chinas in diesen Schlüsseltechnologien."
+      "summary": "Die USA errichten Handels- und Exportbarrieren um Drohnen und Roboter, während China dank seiner Skalierungsvorteile diese Hürden umgehen kann. Diese Regulierungspolitik schwächt die Wettbewerbsposition US-amerikanischer Hersteller, da Chinas Produktionsumfang die Wirkung der Beschränkungen reduziert. Die Folge sind anhaltende Marktunsicherheiten und eine verstärkte Eigenfertigung Chinas in diesen Schlüsseltechnologien.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T03:08:19Z"
     }
   ],
   "digest_log": [
@@ -7015,6 +7017,12 @@
       "article_ids": [
         "https://decrypt.co/?p=376909",
         "https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest"
+      ]
+    },
+    {
+      "at": "2026-08-31T03:08:19Z",
+      "article_ids": [
+        "https://techcrunch.com/?p=3157348"
       ]
     }
   ],
