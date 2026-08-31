@@ -2571,17 +2571,10 @@
     "https://www.marktechpost.com/?p=81971": "2026-08-31T05:19:14Z",
     "9544007b-cb6d-56e5-bdc0-a5cd437c13f9": "2026-08-31T08:19:10Z",
     "https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m": "2026-08-31T09:19:16Z",
-    "https://decrypt.co/?p=376913": "2026-08-31T09:49:26Z"
+    "https://decrypt.co/?p=376913": "2026-08-31T09:49:26Z",
+    "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/": "2026-08-31T10:19:16Z"
   },
   "pending": {
-    "21a4241b-3598-5664-9779-e4e826cf77f6": {
-      "id": "21a4241b-3598-5664-9779-e4e826cf77f6",
-      "title": "Bernstein says Circle’s growth cycle can continue without the Clarity Act, sees 59% upside",
-      "url": "https://www.theblock.co/news/business/2026-08-24-bernstein-says-circles-growth-cycle-can-continue-without-the-clarity-act-sees-59-upside-412573",
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-24T10:08:38Z"
-    },
     "https://cointelegraph.com/news/sbi-fasset-round-1b-valuation": {
       "id": "https://cointelegraph.com/news/sbi-fasset-round-1b-valuation",
       "title": "Japan’s SBI leads $68M Fasset round at $1B valuation",
@@ -3152,25 +3145,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/taurus-digital-asset-platforms-swift-blockchain-ledger",
-      "title": "Taurus links digital asset platforms to Swift’s blockchain ledger",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-26T12:00:00Z",
-      "score": 7,
-      "category": "Tech Update",
-      "sentiment": "bullish",
-      "instruments": [
-        "BTCUSD",
-        "ETHUSD"
-      ],
-      "entities": [],
-      "summary": "Taurus verbindet seine digitalen Asset-Plattformen mit dem Blockchain-Ledger von Swift. Dadurch erhalten institutionelle Anleger eine direkte, vertrauenswürdige Anbindung an digitale Wertpapiere und Krypto-Assets, was die Nachfrage stützen dürfte. Positive Kursimpulse für Bitcoin und Ethereum sind wahrscheinlich.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-26T16:37:01Z"
-    },
     {
       "id": "https://decrypt.co/?p=376590",
       "title": "Digital Euro Will Offer 'Maximum Level of Privacy,' ECB Board Member Says",
@@ -6399,6 +6373,22 @@
       "instruments": [],
       "entities": [],
       "summary": "Crypto.coms Cronos hat die gesamte Blockchain angehalten, nachdem ein Exploit das Tectonic-Protokoll um 75 Millionen Dollar geschädigt hat. Der Vorfall erschüttert das Vertrauen in die Sicherheit des Cronos-Ökosystems und dürfte CRO und DeFi-Token belasten. Bis zur Behebung bleibt die Chain gestoppt; erhöhte Volatilität und Sicherheitsprüfungen sind wahrscheinlich."
+    },
+    {
+      "id": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+      "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+      "url": null,
+      "stream": "ai",
+      "source": "AI - Ars Technica",
+      "published": "2026-08-31T10:00:34Z",
+      "score": 5,
+      "category": "Society & Work",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [
+        "META"
+      ],
+      "summary": "Der Artikel beschreibt, wie die KI von Pocket Spielideen des Autors umsetzt und Meta nun die Ergebnisse kontrolliert. Das verdeutlicht, wie Plattformkonzerne zunehmend über KI-generierte kreative Inhalte bestimmen. Für Entwickler und Kreative wächst dadurch die Abhängigkeit von Meta."
     }
   ],
   "digest_log": [
