@@ -6463,7 +6463,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Ein ehemaliger Teleprompter-Bediener des Weißen Hauses wurde wegen Insiderhandels auf Vorhersagemärkten zu einer Geldstrafe verurteilt. Der Fall zeigt, dass Aufsichtsbehörden auch bei Vorhersagemärkten streng durchgreifen, was Plattformen und Nutzer solcher Märkte betrifft. Es ist mit verstärkten Compliance-Anforderungen und weiteren Ermittlungen gegen Insiderhandel auf diesen Märkten zu rechnen."
+      "summary": "Ein ehemaliger Teleprompter-Bediener des Weißen Hauses wurde wegen Insiderhandels auf Vorhersagemärkten zu einer Geldstrafe verurteilt. Der Fall zeigt, dass Aufsichtsbehörden auch bei Vorhersagemärkten streng durchgreifen, was Plattformen und Nutzer solcher Märkte betrifft. Es ist mit verstärkten Compliance-Anforderungen und weiteren Ermittlungen gegen Insiderhandel auf diesen Märkten zu rechnen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T00:10:39Z"
     },
     {
       "id": "https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest",
@@ -6480,7 +6482,9 @@
         "SOLUSD"
       ],
       "entities": [],
-      "summary": "Ein Krypto-Digest berichtet über neue Quantenabwehrmechanismen für Bitcoin und die Streichung von 18,9 Millionen SOL. Die gestärkte Sicherheit dürfte das Vertrauen in Bitcoin erhöhen, während das reduzierte SOL-Angebot den Token potenziell knapper macht. In der Folge sind erhöhte Kursbewegungen bei BTC und SOL zu erwarten."
+      "summary": "Ein Krypto-Digest berichtet über neue Quantenabwehrmechanismen für Bitcoin und die Streichung von 18,9 Millionen SOL. Die gestärkte Sicherheit dürfte das Vertrauen in Bitcoin erhöhen, während das reduzierte SOL-Angebot den Token potenziell knapper macht. In der Folge sind erhöhte Kursbewegungen bei BTC und SOL zu erwarten.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T00:10:39Z"
     }
   ],
   "digest_log": [
@@ -7012,6 +7016,13 @@
       "at": "2026-08-30T23:08:12Z",
       "article_ids": [
         "https://decrypt.co/?p=376911"
+      ]
+    },
+    {
+      "at": "2026-08-31T00:10:39Z",
+      "article_ids": [
+        "https://decrypt.co/?p=376909",
+        "https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest"
       ]
     }
   ],
