@@ -2570,17 +2570,10 @@
     "https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million": "2026-08-31T03:34:13Z",
     "https://www.marktechpost.com/?p=81971": "2026-08-31T05:19:14Z",
     "9544007b-cb6d-56e5-bdc0-a5cd437c13f9": "2026-08-31T08:19:10Z",
-    "https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m": "2026-08-31T09:19:16Z"
+    "https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m": "2026-08-31T09:19:16Z",
+    "https://decrypt.co/?p=376913": "2026-08-31T09:49:26Z"
   },
   "pending": {
-    "6a6a638dbda4e52fe44bd61a": {
-      "id": "6a6a638dbda4e52fe44bd61a",
-      "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
-      "url": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
-      "stream": "ai",
-      "source": "Feed: Artificial Intelligence Latest",
-      "published": "2026-08-24T09:30:00Z"
-    },
     "21a4241b-3598-5664-9779-e4e826cf77f6": {
       "id": "21a4241b-3598-5664-9779-e4e826cf77f6",
       "title": "Bernstein says Circle’s growth cycle can continue without the Clarity Act, sees 59% upside",
@@ -3159,22 +3152,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/markets/bernstein-predicts-bitcoin-reclaim-125000-year-end",
-      "title": "Bernstein forecasts Bitcoin to reclaim $125K by late 2026 ahead of cycle peak",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-26T12:32:36Z",
-      "score": 5,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "Bernstein prognostiziert, dass Bitcoin bis Ende 2026 wieder 125.000 US-Dollar erreichen könnte, vor dem erwarteten Zyklushoch. Die Prognose stützt die bullische Markterwartung, bleibt aber eine Einschätzung ohne unmittelbare Marktwirkung. Kurzfristig ist mit erhöhter Aufmerksamkeit für BTC zu rechnen, während der nächste wichtige Meilenstein der spätere Zyklusgipfel bleibt."
-    },
     {
       "id": "https://cointelegraph.com/news/taurus-digital-asset-platforms-swift-blockchain-ledger",
       "title": "Taurus links digital asset platforms to Swift’s blockchain ledger",
@@ -6408,6 +6385,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Das Kreditprotokoll More Markets hat laut Sicherheitsfirma Blockaid einen Angriff erlitten, bei dem rund 9,3 Mio. USD aus Lending-Reserven abgezogen wurden. Der Vorfall verstärkt Sicherheitsbedenken im DeFi-Sektor und belastet kurzfristig das Vertrauen in Kreditprotokolle. Erhöhte Volatilität und genauere Prüfung ähnlicher Protokolle sind als Folge wahrscheinlich."
+    },
+    {
+      "id": "https://decrypt.co/?p=376913",
+      "title": "Crypto.com's Cronos Halts Entire Blockchain After $75M Tectonic Exploit",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-08-31T09:41:27Z",
+      "score": 8,
+      "category": "Hack & Security",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Crypto.coms Cronos hat die gesamte Blockchain angehalten, nachdem ein Exploit das Tectonic-Protokoll um 75 Millionen Dollar geschädigt hat. Der Vorfall erschüttert das Vertrauen in die Sicherheit des Cronos-Ökosystems und dürfte CRO und DeFi-Token belasten. Bis zur Behebung bleibt die Chain gestoppt; erhöhte Volatilität und Sicherheitsprüfungen sind wahrscheinlich."
     }
   ],
   "digest_log": [
