@@ -5986,7 +5986,9 @@
         "SOLUSD"
       ],
       "entities": [],
-      "summary": "Die Gebühren auf Solana haben einen Rekordwert erreicht, während die Validatoren das Tempo der Inflationskürzungen verdoppeln. Höhere Netzgebühren und eine schnellere Senkung der Token-Inflation verringern das SOL-Angebotswachstum und stützen damit die Preisbildung. Die Wahrscheinlichkeit steigender SOLUSD-Kurse und anhaltender Angebotsverknappung ist hoch."
+      "summary": "Die Gebühren auf Solana haben einen Rekordwert erreicht, während die Validatoren das Tempo der Inflationskürzungen verdoppeln. Höhere Netzgebühren und eine schnellere Senkung der Token-Inflation verringern das SOL-Angebotswachstum und stützen damit die Preisbildung. Die Wahrscheinlichkeit steigender SOLUSD-Kurse und anhaltender Angebotsverknappung ist hoch.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T21:08:24Z"
     },
     {
       "id": "https://decrypt.co/?p=376985",
@@ -6014,7 +6016,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "Das Pentagon hat laut TechCrunch einen eigenen KI-Chatbot entwickelt, der an ChatGPT und Grok angelehnt ist. Das zeigt eine wachsende Nutzung von KI im Verteidigungsbereich und könnte private KI-Anbieter sowie Sicherheitsdebatten beeinflussen. Es ist mit verstärkten Diskussionen über militärische KI-Anwendungen zu rechnen."
+      "summary": "Das Pentagon hat laut TechCrunch einen eigenen KI-Chatbot entwickelt, der an ChatGPT und Grok angelehnt ist. Das zeigt eine wachsende Nutzung von KI im Verteidigungsbereich und könnte private KI-Anbieter sowie Sicherheitsdebatten beeinflussen. Es ist mit verstärkten Diskussionen über militärische KI-Anwendungen zu rechnen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T21:08:24Z"
     },
     {
       "id": "https://cointelegraph.com/news/ireland-crypto-tax-advantaged-investment-accounts",
@@ -6028,7 +6032,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Die irische Regierung lässt Krypto-Anlagen aus den neuen steuerbegünstigten Investmentkonten aus. Dadurch entgehen Anlegern in Irland Steuervorteile bei Krypto-Investitionen, was die Attraktivität des Sektors dort mindert. Krypto bleibt in Irland steuerlich benachteiligt; unmittelbare Kursfolgen sind nicht zu erwarten."
+      "summary": "Die irische Regierung lässt Krypto-Anlagen aus den neuen steuerbegünstigten Investmentkonten aus. Dadurch entgehen Anlegern in Irland Steuervorteile bei Krypto-Investitionen, was die Attraktivität des Sektors dort mindert. Krypto bleibt in Irland steuerlich benachteiligt; unmittelbare Kursfolgen sind nicht zu erwarten.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T21:08:24Z"
     },
     {
       "id": "https://decrypt.co/?p=376992",
@@ -6670,6 +6676,14 @@
       "article_ids": [
         "https://decrypt.co/?p=376973",
         "https://techcrunch.com/?p=3158959"
+      ]
+    },
+    {
+      "at": "2026-08-31T21:08:24Z",
+      "article_ids": [
+        "010fda64-ff93-55f3-8161-0fafdedd8731",
+        "https://cointelegraph.com/news/ireland-crypto-tax-advantaged-investment-accounts",
+        "https://techcrunch.com/?p=3158932"
       ]
     }
   ],
