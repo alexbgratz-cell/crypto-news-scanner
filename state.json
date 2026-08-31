@@ -6192,7 +6192,9 @@
         "ETHUSD"
       ],
       "entities": [],
-      "summary": "Tom Lee bezeichnet Ether als bestes makroökonomisches Asset, während Bitmine 53.501 ETH erworben hat. Der Zukauf zeigt institutionelle Nachfrage und stützt den ETH-Kurs. Infolgedessen ist mit weiterem Aufwärtsdruck auf Ether zu rechnen."
+      "summary": "Tom Lee bezeichnet Ether als bestes makroökonomisches Asset, während Bitmine 53.501 ETH erworben hat. Der Zukauf zeigt institutionelle Nachfrage und stützt den ETH-Kurs. Infolgedessen ist mit weiterem Aufwärtsdruck auf Ether zu rechnen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T15:08:02Z"
     },
     {
       "id": "6677574c-0e7e-5d24-90e6-f311ae3a5dea",
@@ -6206,7 +6208,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Die New Yorker Börsen-Mutter ICE kooperiert mit tZERO für die Infrastruktur tokenisierter Wertpapiere. Die Partnerschaft signalisiert wachsendes institutionelles Interesse an Blockchain-basierten Finanzinstrumenten. Der Schritt dürfte die Akzeptanz von Security Token stärken und weitere Kooperationen im traditionellen Finanzwesen anstoßen."
+      "summary": "Die New Yorker Börsen-Mutter ICE kooperiert mit tZERO für die Infrastruktur tokenisierter Wertpapiere. Die Partnerschaft signalisiert wachsendes institutionelles Interesse an Blockchain-basierten Finanzinstrumenten. Der Schritt dürfte die Akzeptanz von Security Token stärken und weitere Kooperationen im traditionellen Finanzwesen anstoßen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T15:08:02Z"
     },
     {
       "id": "https://cointelegraph.com/news/russian-crypto-trading-bring-46b-regulated-exchanges-legalization",
@@ -6222,7 +6226,9 @@
         "BTCUSD"
       ],
       "entities": [],
-      "summary": "Laut einem Bericht könnte die Legalisierung des Krypto-Handels in Russland im ersten Jahr rund 46 Milliarden US-Dollar an regulierte Börsen bringen. Dies würde die Liquidität und institutionelle Beteiligung im Kryptomarkt erhöhen und das Vertrauen in digitale Assets stärken. Infolgedessen ist ein positiver Impuls für die Kurse großer Kryptowährungen wie Bitcoin zu erwarten."
+      "summary": "Laut einem Bericht könnte die Legalisierung des Krypto-Handels in Russland im ersten Jahr rund 46 Milliarden US-Dollar an regulierte Börsen bringen. Dies würde die Liquidität und institutionelle Beteiligung im Kryptomarkt erhöhen und das Vertrauen in digitale Assets stärken. Infolgedessen ist ein positiver Impuls für die Kurse großer Kryptowährungen wie Bitcoin zu erwarten.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T15:08:02Z"
     },
     {
       "id": "https://decrypt.co/?p=376932",
@@ -6824,6 +6830,14 @@
         "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
         "https://decrypt.co/?p=376929",
         "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
+      ]
+    },
+    {
+      "at": "2026-08-31T15:08:02Z",
+      "article_ids": [
+        "60b8b1ac-e5f2-5cbb-a83f-d78495d069a5",
+        "https://cointelegraph.com/news/russian-crypto-trading-bring-46b-regulated-exchanges-legalization",
+        "6677574c-0e7e-5d24-90e6-f311ae3a5dea"
       ]
     }
   ],
