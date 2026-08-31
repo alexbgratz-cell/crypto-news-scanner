@@ -2557,7 +2557,9 @@
     "https://cointelegraph.com/news/russian-crypto-trading-bring-46b-regulated-exchanges-legalization": "2026-08-31T15:04:25Z",
     "https://decrypt.co/?p=376932": "2026-08-31T15:04:25Z",
     "https://openai.com/index/the-defenders-window": "2026-08-31T15:04:25Z",
-    "https://openai.com/index/openai-joins-ports-pike-project": "2026-08-31T15:04:25Z"
+    "https://openai.com/index/openai-joins-ports-pike-project": "2026-08-31T15:04:25Z",
+    "https://cointelegraph.com/news/strive-buys-1800-bitcoin-143m-btc-purchase": "2026-08-31T15:19:13Z",
+    "https://techcrunch.com/?p=3158734": "2026-08-31T15:19:14Z"
   },
   "pending": {
     "245a63ca-9dac-58b1-a1db-dcf3afb1384e": {
@@ -2970,40 +2972,6 @@
     }
   },
   "articles": [
-    {
-      "id": "211694b7-dc00-5790-bea3-d926818c574c",
-      "title": "Binance co-founder Changpeng ‘CZ’ Zhao says bitcoin could surpass gold in next bull market",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-27T11:54:48Z",
-      "score": 5,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "Binance-Mitgründer Changpeng 'CZ' Zhao sagt, Bitcoin könne Gold im nächsten Bullenmarkt übertreffen. Als Marktmeinung eines bekannten Branchenakteurs kann das die Stimmung stützen, ist aber keine konkrete Marktbewegung. Kurzfristige Kursreaktionen sind möglich, ein fundamentaler Impuls ist daraus nicht abzuleiten."
-    },
-    {
-      "id": "a10bec8f-dcc4-5317-bc72-f8ac17e022b2",
-      "title": "Bithumb wins lawsuit over proceeds from 620,000 BTC fat-finger error: report",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-27T09:37:16Z",
-      "score": 6,
-      "category": "Regulation",
-      "sentiment": "neutral",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "Bithumb hat laut Bericht einen Rechtsstreit um Erlöse aus einem Fat-Finger-Fehler mit 620.000 BTC gewonnen. Die gerichtliche Entscheidung stärkt die Rechtsposition der Börse bei fehlerhaften Handelsausführungen und verringert rechtliche Unsicherheit. Unmittelbare Kursbewegungen sind unwahrscheinlich, der Fall könnte aber als Präzedenzfall in der Branche beachtet werden.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T01:31:15Z"
-    },
     {
       "id": "e95c42d0-c3af-53d3-97be-73d79436f47a",
       "title": "Mirae Asset maps out $109 billion digital asset push with Digital X: report",
@@ -6245,6 +6213,38 @@
       ],
       "entities": [],
       "summary": "Die Firma Bitmine von Tom Lee hat Ethereum im Wert von rund 131 Millionen US-Dollar gekauft – der größte institutionelle ETH-Kauf seit Juni. Der Zukauf signalisiert starkes institutionelles Interesse und könnte weiteres Kapital in den Ethereum-Markt ziehen. Eine positive Kursreaktion bei Ethereum ist wahrscheinlich."
+    },
+    {
+      "id": "https://cointelegraph.com/news/strive-buys-1800-bitcoin-143m-btc-purchase",
+      "title": "Strive buys 1,800 Bitcoin for $143M, becomes fifth-biggest corporate holder",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-31T15:08:12Z",
+      "score": 8,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Strive hat 1.800 Bitcoin für 143 Mio. USD gekauft und ist damit der fünftgrößte Unternehmens-Halter von Bitcoin. Der große institutionelle Kauf signalisiert anhaltende Nachfrage und kann den Bitcoin-Kurs stützen. Eine positive Marktreaktion ist wahrscheinlich."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3158734",
+      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-31T15:15:25Z",
+      "score": 8,
+      "category": "Hardware & Infrastructure",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "NVDA"
+      ],
+      "summary": "Nvidia investiert 3,5 Milliarden US-Dollar in MediaTek, um seinen Plan für den Ausbau von KI-Chips gegen die Eigenentwicklungen der Big-Tech-Konzerne zu untermauern. Der Deal stärkt Nvidias Position im AI-Hardware-Markt und sichert Zugang zu zusätzlicher Chip-Design-Kompetenz. Die Investition dürfte Nvidias Rolle als führender KI-Chip-Anbieter weiter festigen und den Wettbewerb im KI-Infrastrukturgeschäft intensivieren."
     }
   ],
   "digest_log": [
