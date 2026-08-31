@@ -2559,17 +2559,10 @@
     "https://cointelegraph.com/news/bitmine-ether-buying-streak-65-weeks-ethereum": "2026-08-31T15:49:22Z",
     "https://decrypt.co/?p=376935": "2026-08-31T15:49:22Z",
     "https://techcrunch.com/?p=3158701": "2026-08-31T16:19:29Z",
-    "https://www.technologyreview.com/?p=1142630": "2026-08-31T16:19:30Z"
+    "https://www.technologyreview.com/?p=1142630": "2026-08-31T16:19:30Z",
+    "https://cointelegraph.com/news/telegram-gram-wallet-launch-wallet-in-telegram-walt-rebrand": "2026-08-31T16:49:14Z"
   },
   "pending": {
-    "https://cointelegraph.com/news/strive-buys-1110-bitcoin-for-815m-holdings-top-21k-btc": {
-      "id": "https://cointelegraph.com/news/strive-buys-1110-bitcoin-for-815m-holdings-top-21k-btc",
-      "title": "Strive buys 1,110 Bitcoin for $81.5M, holdings top 21K BTC; ASST shares surge 11%",
-      "url": "https://cointelegraph.com/news/strive-buys-1110-bitcoin-for-815m-holdings-top-21k-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-24T16:44:55Z"
-    },
     "https://decrypt.co/?p=376372": {
       "id": "https://decrypt.co/?p=376372",
       "title": "Zcash Hits Eight-Year High as Futures Bets Nearly Double",
@@ -2585,14 +2578,6 @@
       "stream": "crypto",
       "source": "Decrypt",
       "published": "2026-08-24T17:07:32Z"
-    },
-    "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/": {
-      "id": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
-      "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
-      "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
-      "stream": "ai",
-      "source": "AI - Ars Technica",
-      "published": "2026-08-24T16:41:45Z"
     },
     "3194e8a8-39f2-565f-87ed-e9991bce142d": {
       "id": "3194e8a8-39f2-565f-87ed-e9991bce142d",
@@ -2916,22 +2901,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/donald-trump-crypto-investors-losses-public-citizen",
-      "title": "Trump cost investors $4.7B through crypto ‘schemes’: Public Citizen",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-27T19:22:14Z",
-      "score": 6,
-      "category": "Regulation",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Die Organisation Public Citizen wirft Donald Trump vor, mit Krypto-„Schemes“ Anlegerverluste von 4,7 Mrd. Dollar verursacht zu haben. Der Bericht erhöht den politischen Druck auf die Krypto-Branche und könnte das Vertrauen in krypto-nahe Angebote schwächen. Eine negative Marktstimmung ist wahrscheinlich, eine offizielle regulatorische Reaktion steht jedoch noch aus.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T01:31:15Z"
-    },
     {
       "id": "https://cointelegraph.com/news/mirae-asset-lays-out-crypto-stablecoin-and-tokenization-plans",
       "title": "Mirae Asset lays out crypto, stablecoin, tokenization plans for Digital X",
@@ -6178,6 +6147,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Clipto nutzt KI, um Terabyte an Videomaterial durchsuchbar zu machen, und wird laut TechCrunch inzwischen mit 250 Millionen US-Dollar bewertet. Die Bewertung zeigt wachsendes Investoreninteresse an KI-gestützter Videoanalyse und -suche. Damit dürfte das Unternehmen im KI-Video-Segment weiter an Sichtbarkeit gewinnen."
+    },
+    {
+      "id": "https://cointelegraph.com/news/telegram-gram-wallet-launch-wallet-in-telegram-walt-rebrand",
+      "title": "Wallet in Telegram rebrands to Walt as Gram wallet debuts",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-31T16:36:47Z",
+      "score": 5,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Die Wallet in Telegram wird in Walt umbenannt, während zeitgleich die Gram Wallet debütiert. Für den Kryptomarkt hat die reine Marken- und Produktänderung zunächst keine direkte Preiswirkung. Eine konkrete Kursreaktion ist nicht zu erwarten; erste Auswirkungen dürften sich bei Nutzern der Wallet zeigen."
     }
   ],
   "digest_log": [
