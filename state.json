@@ -2553,7 +2553,8 @@
     "https://huggingface.co/blog/state-of-open-models-summer-2026": "2026-08-31T12:34:38Z",
     "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop": "2026-08-31T12:34:38Z",
     "https://huggingface.co/blog/icml-2026-open-reproductions": "2026-08-31T12:34:38Z",
-    "https://huggingface.co/blog/allenai/olmoearth-embeddings": "2026-08-31T12:34:38Z"
+    "https://huggingface.co/blog/allenai/olmoearth-embeddings": "2026-08-31T12:34:38Z",
+    "https://decrypt.co/?p=376923": "2026-08-31T12:49:17Z"
   },
   "pending": {
     "630297fc-830e-5d3a-8909-acd26001b666": {
@@ -2579,14 +2580,6 @@
       "stream": "crypto",
       "source": "Cointelegraph.com News",
       "published": "2026-08-24T13:30:00Z"
-    },
-    "https://cointelegraph.com/news/strategy-2-billion-raise-strc-136-million-bitcoin-pause": {
-      "id": "https://cointelegraph.com/news/strategy-2-billion-raise-strc-136-million-bitcoin-pause",
-      "title": "Strategy launches $1.6B cash pool after $2B common shares raise, maintains hold on BTC buys",
-      "url": "https://cointelegraph.com/news/strategy-2-billion-raise-strc-136-million-bitcoin-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-24T12:45:00Z"
     },
     "https://decrypt.co/?p=376321": {
       "id": "https://decrypt.co/?p=376321",
@@ -3054,22 +3047,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3155979",
-      "title": "Robot brain builders are pushing out of their GPT-2 era",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-26T13:30:00Z",
-      "score": 6,
-      "category": "Model Release & Capability",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Der Artikel beschreibt, dass Entwickler von KI-Systemen für Roboter sich von frühen GPT-2-ähnlichen Modellen entfernen und zu leistungsfähigeren Ansätzen übergehen. Das deutet auf einen Reifungsschritt bei Robotik-Foundation-Modellen hin, der die Branche näher an vielseitig einsetzbare Roboter bringt. In der Folge sind weitere Fortschritte und Ankündigungen im Bereich Robotik-KI zu erwarten.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-26T16:37:01Z"
-    },
     {
       "id": "https://techcrunch.com/?p=3156754",
       "title": "QueryStory wants you to believe what AI is telling you",
@@ -6306,6 +6283,22 @@
       ],
       "entities": [],
       "summary": "Strategy hat erstmals seit Juni wieder Bitcoin gekauft und dabei 370 Millionen US-Dollar in BTC investiert. Der Schritt signalisiert anhaltendes institutionelles Interesse an der größten Kryptowährung und stützt deren Kurs. Erhöhte Nachfrage durch Großanleger ist wahrscheinlich; der Bitcoin-Kurs dürfte positiv reagieren."
+    },
+    {
+      "id": "https://decrypt.co/?p=376923",
+      "title": "Morning Minute: Robinhood Chain Flips Ethereum and Base in Fees",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-08-31T12:37:44Z",
+      "score": 6,
+      "category": "Tech Update",
+      "sentiment": "neutral",
+      "instruments": [
+        "ETHUSD"
+      ],
+      "entities": [],
+      "summary": "Robinhood Chain hat Ethereum und Base bei den Transaktionsgebühren überholt. Dies zeigt den zunehmenden Wettbewerb für Ethereum-Netzwerkgebühren und könnte die Marktstimmung beeinflussen. Die Entwicklung könnte als Zeichen für die Attraktivität alternativer Chain-Ökosysteme gewertet werden, was Ethereum kurzfristig unter Druck setzen könnte."
     }
   ],
   "digest_log": [
