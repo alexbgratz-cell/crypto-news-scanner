@@ -2572,33 +2572,10 @@
     "https://www.technologyreview.com/?p=1141740": "2026-08-31T10:49:12Z",
     "6a832bd4364359700ebc52b3": "2026-08-31T10:49:12Z",
     "https://cointelegraph.com/markets/markets-pivot-to-september-fed-rate-hike-five-things-to-know-in-bitcoin-this-week": "2026-08-31T11:04:22Z",
-    "https://decrypt.co/?p=376916": "2026-08-31T11:19:46Z"
+    "https://decrypt.co/?p=376916": "2026-08-31T11:19:46Z",
+    "https://cointelegraph.com/news/hyperliquid-pumpfun-90-record-638m-crypto-buybacks": "2026-08-31T11:34:10Z"
   },
   "pending": {
-    "https://cointelegraph.com/news/sbi-fasset-round-1b-valuation": {
-      "id": "https://cointelegraph.com/news/sbi-fasset-round-1b-valuation",
-      "title": "Japan’s SBI leads $68M Fasset round at $1B valuation",
-      "url": "https://cointelegraph.com/news/sbi-fasset-round-1b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-24T11:25:26Z"
-    },
-    "https://cointelegraph.com/markets/first-bear-market-trend-line-reclaim-since-2025-five-things-to-know-in-bitcoin-this-week": {
-      "id": "https://cointelegraph.com/markets/first-bear-market-trend-line-reclaim-since-2025-five-things-to-know-in-bitcoin-this-week",
-      "title": "First bear-market trend line reclaim since 2025: Five things to know in Bitcoin this week",
-      "url": "https://cointelegraph.com/markets/first-bear-market-trend-line-reclaim-since-2025-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-24T11:23:58Z"
-    },
-    "https://cointelegraph.com/news/ecb-digital-euro-privacy-cbdcs-global-scrutiny": {
-      "id": "https://cointelegraph.com/news/ecb-digital-euro-privacy-cbdcs-global-scrutiny",
-      "title": "ECB defends digital euro privacy as CBDCs face global scrutiny",
-      "url": "https://cointelegraph.com/news/ecb-digital-euro-privacy-cbdcs-global-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-24T11:21:19Z"
-    },
     "630297fc-830e-5d3a-8909-acd26001b666": {
       "id": "630297fc-830e-5d3a-8909-acd26001b666",
       "title": "‘Upside move in ETH was overdue,’ Tom Lee says as Bitmine buys another 32,447 ether",
@@ -3121,20 +3098,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://huggingface.co/blog/train-multi-vector-encoder",
-      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-      "url": null,
-      "stream": "ai",
-      "source": "Hugging Face - Blog",
-      "published": "2026-08-26T00:00:00Z",
-      "score": 5,
-      "category": "Research & Open Source",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Der Hugging-Face-Blog beschreibt Methoden zum Training und Feintuning von Multi-Vector-Embedding-Modellen mit Sentence Transformers. Die Anleitung erweitert die Open-Source-Werkzeuge für semantische Suche und Retrieval und macht fortschrittliche Embedding-Techniken für Entwickler zugänglicher. Für den KI-Markt ergibt sich daraus keine unmittelbare Kursbewegung; primär profitieren Anwendungen mit besserer Textrepräsentation."
-    },
     {
       "id": "https://techcrunch.com/?p=3157083",
       "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
@@ -6367,6 +6330,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Irland schließt Kryptowährungen aus seinem staatlichen Sparprogramm aus, das auf Einlagen von 203 Mrd. Dollar abzielt. Damit verliert die Krypto-Branche einen staatlich geförderten Zugang zu Sparern, während sich die regulatorische Haltung verschärft. Die Folge ist ein dauerhaft erschwerter Vertrieb von Krypto-Produkten über staatliche Sparvehikel in Irland."
+    },
+    {
+      "id": "https://cointelegraph.com/news/hyperliquid-pumpfun-90-record-638m-crypto-buybacks",
+      "title": "Hyperliquid, Pump.fun account for nearly 90% of record $638M crypto buybacks: FT",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-31T11:21:57Z",
+      "score": 7,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Laut Financial Times entfielen fast 90 % der Krypto-Rückkäufe auf Hyperliquid und Pump.fun, bei einem Rekordvolumen von insgesamt 638 Millionen Dollar. Die Rückkäufe verringern das Angebot der jeweiligen Token und stützen deren Kurse, was die Marktstimmung insgesamt aufhellt. Die hohe Nachfrage dürfte vorerst anhalten und weitere Rückkaufprogramme wahrscheinlicher machen."
     }
   ],
   "digest_log": [
