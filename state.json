@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://cointelegraph.com/news/banks-regulators-quantum-resistant-crypto-pilot": "2026-08-24T08:26:58Z",
     "00de6a34-292a-5c44-b556-bc775dabac36": "2026-08-24T10:23:44Z",
     "https://cointelegraph.com/markets/bitcoin-etf-inflows-billion-strongest-week-october": "2026-08-24T10:23:44Z",
     "https://www.technologyreview.com/?p=1141740": "2026-08-24T10:23:46Z",
@@ -2570,25 +2569,10 @@
     "https://techcrunch.com/?p=3157348": "2026-08-31T02:34:39Z",
     "https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million": "2026-08-31T03:34:13Z",
     "https://www.marktechpost.com/?p=81971": "2026-08-31T05:19:14Z",
-    "9544007b-cb6d-56e5-bdc0-a5cd437c13f9": "2026-08-31T08:19:10Z"
+    "9544007b-cb6d-56e5-bdc0-a5cd437c13f9": "2026-08-31T08:19:10Z",
+    "https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m": "2026-08-31T09:19:16Z"
   },
   "pending": {
-    "https://cointelegraph.com/markets/bitcoin-etf-inflows-billion-strongest-week-october": {
-      "id": "https://cointelegraph.com/markets/bitcoin-etf-inflows-billion-strongest-week-october",
-      "title": "Bitcoin ETF inflows hit $1.9B in strongest week since October 2025",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-billion-strongest-week-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-24T08:56:52Z"
-    },
-    "https://www.technologyreview.com/?p=1141740": {
-      "id": "https://www.technologyreview.com/?p=1141740",
-      "title": "Kids outlearn AI—and we still don’t know why",
-      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-      "stream": "ai",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "published": "2026-08-24T09:00:00Z"
-    },
     "6a6a638dbda4e52fe44bd61a": {
       "id": "6a6a638dbda4e52fe44bd61a",
       "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
@@ -3175,20 +3159,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/students-crypto-classes-learn-social-media-okx",
-      "title": "Students want crypto classes but learn on social media: OKX survey",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-26T13:00:00Z",
-      "score": 5,
-      "category": "Other",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Eine OKX-Umfrage zeigt, dass Studierende Krypto-Kurse an Universitäten wünschen, sich das Wissen aber über soziale Medien aneignen. Die Diskrepanz deutet auf eine Bildungslücke hin, die für Krypto-Börsen sowohl ein Risiko als auch eine Chance darstellt. Unmittelbare Marktbewegungen sind daraus nicht abzuleiten; relevant ist der langfristige Einfluss auf die Krypto-Adoption."
-    },
     {
       "id": "https://cointelegraph.com/markets/bernstein-predicts-bitcoin-reclaim-125000-year-end",
       "title": "Bernstein forecasts Bitcoin to reclaim $125K by late 2026 ahead of cycle peak",
@@ -6424,6 +6394,20 @@
       "summary": "Laut einem Bericht prognostiziert die größte russische Bank ein Handelsvolumen von 46 Milliarden Dollar im ersten Jahr des Krypto-Exchange-Tradings unter den neuen Regeln. Der Schritt schafft einen regulären Rahmen für Kryptohandel in Russland und dürfte institutionelles Interesse und Marktliquidität erhöhen. Bei Umsetzung ist eine deutlich steigende Handelsaktivität an russischen Krypto-Börsen zu erwarten.",
       "delivered": "digest",
       "delivered_at": "2026-08-31T09:08:16Z"
+    },
+    {
+      "id": "https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m",
+      "title": "More Markets lending reserve drained for $9.3M: Blockaid",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-31T08:57:10Z",
+      "score": 8,
+      "category": "Hack & Security",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Das Kreditprotokoll More Markets hat laut Sicherheitsfirma Blockaid einen Angriff erlitten, bei dem rund 9,3 Mio. USD aus Lending-Reserven abgezogen wurden. Der Vorfall verstärkt Sicherheitsbedenken im DeFi-Sektor und belastet kurzfristig das Vertrauen in Kreditprotokolle. Erhöhte Volatilität und genauere Prüfung ähnlicher Protokolle sind als Folge wahrscheinlich."
     }
   ],
   "digest_log": [
