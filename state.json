@@ -1,11 +1,5 @@
 {
   "seen": {
-    "245a63ca-9dac-58b1-a1db-dcf3afb1384e": "2026-08-24T16:07:14Z",
-    "https://cointelegraph.com/news/bitmine-eth-holdings-5-percent-ether-price-breakout": "2026-08-24T16:07:14Z",
-    "https://decrypt.co/?p=376336": "2026-08-24T16:07:15Z",
-    "https://techcrunch.com/?p=3155937": "2026-08-24T16:07:16Z",
-    "https://techcrunch.com/?p=3155884": "2026-08-24T16:07:16Z",
-    "https://www.technologyreview.com/?p=1142630": "2026-08-24T16:07:16Z",
     "a0d693ae-2747-51b3-948a-ff701c496489": "2026-08-24T17:52:08Z",
     "73957fc7-b904-5aae-9ea3-d81e0f25b35e": "2026-08-24T17:52:08Z",
     "https://cointelegraph.com/news/strive-buys-1110-bitcoin-for-815m-holdings-top-21k-btc": "2026-08-24T17:52:08Z",
@@ -2563,25 +2557,11 @@
     "fbfda97b-b2fa-5809-ab6e-da1f752a6ede": "2026-08-31T15:34:21Z",
     "94b789ee-3d71-55f5-bfc2-2e66820e8dfa": "2026-08-31T15:49:21Z",
     "https://cointelegraph.com/news/bitmine-ether-buying-streak-65-weeks-ethereum": "2026-08-31T15:49:22Z",
-    "https://decrypt.co/?p=376935": "2026-08-31T15:49:22Z"
+    "https://decrypt.co/?p=376935": "2026-08-31T15:49:22Z",
+    "https://techcrunch.com/?p=3158701": "2026-08-31T16:19:29Z",
+    "https://www.technologyreview.com/?p=1142630": "2026-08-31T16:19:30Z"
   },
   "pending": {
-    "a0d693ae-2747-51b3-948a-ff701c496489": {
-      "id": "a0d693ae-2747-51b3-948a-ff701c496489",
-      "title": "Hyperliquid Policy Center urges SEC, CFTC to harmonize rules for perpetual contracts",
-      "url": "https://www.theblock.co/news/regulation/2026-08-24-hyperliquid-policy-center-urges-sec-cftc-harmonize-rules-perpetual-contracts-412601",
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-24T16:18:24Z"
-    },
-    "73957fc7-b904-5aae-9ea3-d81e0f25b35e": {
-      "id": "73957fc7-b904-5aae-9ea3-d81e0f25b35e",
-      "title": "Stand With Crypto ramps up midterm push with 32 House endorsements",
-      "url": "https://www.theblock.co/news/regulation/2026-08-24-stand-with-crypto-ramps-up-midterm-push-with-32-house-endorsements-412616",
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-24T15:57:45Z"
-    },
     "https://cointelegraph.com/news/strive-buys-1110-bitcoin-for-815m-holdings-top-21k-btc": {
       "id": "https://cointelegraph.com/news/strive-buys-1110-bitcoin-for-815m-holdings-top-21k-btc",
       "title": "Strive buys 1,110 Bitcoin for $81.5M, holdings top 21K BTC; ASST shares surge 11%",
@@ -2589,14 +2569,6 @@
       "stream": "crypto",
       "source": "Cointelegraph.com News",
       "published": "2026-08-24T16:44:55Z"
-    },
-    "https://cointelegraph.com/news/cryptocurrency-organizations-oppose-illinois-digital-asset-tax-court": {
-      "id": "https://cointelegraph.com/news/cryptocurrency-organizations-oppose-illinois-digital-asset-tax-court",
-      "title": "Crypto advocacy groups oppose Illinois digital asset tax in court",
-      "url": "https://cointelegraph.com/news/cryptocurrency-organizations-oppose-illinois-digital-asset-tax-court?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-24T16:05:48Z"
     },
     "https://decrypt.co/?p=376372": {
       "id": "https://decrypt.co/?p=376372",
@@ -2944,22 +2916,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/virtu-tradeweb-complete-onchain-repo-using-marshall-islands-digital-bond",
-      "title": "Virtu, Tradeweb complete onchain repo using Marshall Islands digital bond",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-27T20:39:40Z",
-      "score": 6,
-      "category": "Tech Update",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Virtu und Tradeweb haben erfolgreich ein Onchain-Repo-Geschäft mit der digitalen Anleihe der Marshallinseln abgeschlossen. Die Transaktion zeigt wachsende institutionelle Akzeptanz blockchain-basierter Wertpapiere und könnte traditionelle Finanzmärkte stärker mit Krypto-Infrastruktur verbinden. Direkte Kursauswirkungen auf große Kryptowährungen sind vorerst begrenzt, die Entwicklung dürfte aber die Nutzung digitaler Anleihen weiter vorantreiben.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T01:31:15Z"
-    },
     {
       "id": "https://cointelegraph.com/news/donald-trump-crypto-investors-losses-public-citizen",
       "title": "Trump cost investors $4.7B through crypto ‘schemes’: Public Citizen",
@@ -6208,6 +6164,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Sony argumentiert vor Gericht, dass digitale Spiele nicht im Besitz der Käufer sind. Diese Rechtsauffassung könnte die Eigentumsdebatte bei digitalen Gütern beeinflussen, hat aber keinen direkten Bezug zu Krypto-Märkten. Eine Entscheidung könnte künftig Präzedenzfälle für digitale Besitzrechte schaffen, unmittelbare Marktbewegungen sind jedoch unwahrscheinlich."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3158701",
+      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-31T16:00:00Z",
+      "score": 6,
+      "category": "Business & Funding",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Clipto nutzt KI, um Terabyte an Videomaterial durchsuchbar zu machen, und wird laut TechCrunch inzwischen mit 250 Millionen US-Dollar bewertet. Die Bewertung zeigt wachsendes Investoreninteresse an KI-gestützter Videoanalyse und -suche. Damit dürfte das Unternehmen im KI-Video-Segment weiter an Sichtbarkeit gewinnen."
     }
   ],
   "digest_log": [
