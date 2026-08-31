@@ -6087,7 +6087,9 @@
       "entities": [
         "META"
       ],
-      "summary": "Instagram führt neue Beschränkungen für KI-Profile ein, die nicht als solche gekennzeichnet sind. Das stärkt Transparenz und Verbraucherschutz und betrifft Meta als Plattformbetreiber sowie Anbieter KI-gestützter Profile. Strengere Kennzeichnungspflichten dürften die Folge sein; Meta muss die Regeln auf seiner Plattform umsetzen."
+      "summary": "Instagram führt neue Beschränkungen für KI-Profile ein, die nicht als solche gekennzeichnet sind. Das stärkt Transparenz und Verbraucherschutz und betrifft Meta als Plattformbetreiber sowie Anbieter KI-gestützter Profile. Strengere Kennzeichnungspflichten dürften die Folge sein; Meta muss die Regeln auf seiner Plattform umsetzen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T20:08:14Z"
     },
     {
       "id": "https://decrypt.co/?p=376973",
@@ -6101,7 +6103,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "XRP-ETFs haben ihre Zufluss-Serie auf neun Tage verlängert und seit dem Start insgesamt 1,6 Milliarden Dollar eingesammelt. Die anhaltenden Nettozuflüsse zeigen institutionelle Nachfrage nach Krypto-ETFs und stärken das Marktvertrauen. Sollte der Trend anhalten, dürfte der Kaufdruck auf XRP und verwandte Krypto-Assets zunehmen."
+      "summary": "XRP-ETFs haben ihre Zufluss-Serie auf neun Tage verlängert und seit dem Start insgesamt 1,6 Milliarden Dollar eingesammelt. Die anhaltenden Nettozuflüsse zeigen institutionelle Nachfrage nach Krypto-ETFs und stärken das Marktvertrauen. Sollte der Trend anhalten, dürfte der Kaufdruck auf XRP und verwandte Krypto-Assets zunehmen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T20:08:14Z"
     }
   ],
   "digest_log": [
@@ -6720,6 +6724,13 @@
         "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
         "b81e1240-e532-5174-8b5c-418c24dfc253",
         "https://techcrunch.com/?p=3158889"
+      ]
+    },
+    {
+      "at": "2026-08-31T20:08:14Z",
+      "article_ids": [
+        "https://decrypt.co/?p=376973",
+        "https://techcrunch.com/?p=3158959"
       ]
     }
   ],
