@@ -6199,7 +6199,9 @@
         "USDT.D"
       ],
       "entities": [],
-      "summary": "Die japanische Finanzaufsicht fordert im Rahmen der Steuerreform 2027 eine Befreiung von der Steuererklärungspflicht für Trust-Typ-Stablecoins. Dies würde die regulatorische Unsicherheit für Stablecoin-Emittenten in Japan verringern und die Akzeptanz institutioneller Anleger fördern. Eine solche Erleichterung könnte die Nachfrage nach regulierten Stablecoins stützen und den Marktanteil entsprechender Anbieter erhöhen."
+      "summary": "Die japanische Finanzaufsicht fordert im Rahmen der Steuerreform 2027 eine Befreiung von der Steuererklärungspflicht für Trust-Typ-Stablecoins. Dies würde die regulatorische Unsicherheit für Stablecoin-Emittenten in Japan verringern und die Akzeptanz institutioneller Anleger fördern. Eine solche Erleichterung könnte die Nachfrage nach regulierten Stablecoins stützen und den Marktanteil entsprechender Anbieter erhöhen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T14:08:17Z"
     },
     {
       "id": "https://cointelegraph.com/news/mutiny-metaplanet-moves-4800-btc-worth-377m-to-coinbase",
@@ -6231,7 +6233,9 @@
       "entities": [
         "OpenAI"
       ],
-      "summary": "Die EU unterwirft ChatGPT und Reddit künftig ihren strengsten Online-Sicherheitsregeln. Die Plattformen müssen strengere Auflagen zu Moderation, Transparenz und Risikomanagement erfüllen, was ihre Betriebs- und Compliance-Kosten erhöht. Es drohen verschärfte Aufsicht und mögliche Bußgelder; die nächste Wegmarke sind die konkreten Umsetzungsfristen der EU."
+      "summary": "Die EU unterwirft ChatGPT und Reddit künftig ihren strengsten Online-Sicherheitsregeln. Die Plattformen müssen strengere Auflagen zu Moderation, Transparenz und Risikomanagement erfüllen, was ihre Betriebs- und Compliance-Kosten erhöht. Es drohen verschärfte Aufsicht und mögliche Bußgelder; die nächste Wegmarke sind die konkreten Umsetzungsfristen der EU.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T14:08:17Z"
     },
     {
       "id": "https://decrypt.co/?p=376929",
@@ -6245,7 +6249,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Südkorea plant, allen Bürgern kostenlosen KI-Zugang mit unbegrenzten Tokens zu gewähren. Die Maßnahme könnte die KI-Nutzung im Land massiv erhöhen und die Nachfrage nach KI-Diensten und -Infrastruktur steigern. Erhöhte Aktivität im südkoreanischen KI-Sektor und potenzielle Vorteile für lokale Anbieter sind zu erwarten."
+      "summary": "Südkorea plant, allen Bürgern kostenlosen KI-Zugang mit unbegrenzten Tokens zu gewähren. Die Maßnahme könnte die KI-Nutzung im Land massiv erhöhen und die Nachfrage nach KI-Diensten und -Infrastruktur steigern. Erhöhte Aktivität im südkoreanischen KI-Sektor und potenzielle Vorteile für lokale Anbieter sind zu erwarten.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T14:08:17Z"
     },
     {
       "id": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
@@ -6262,7 +6268,9 @@
         "NVDA",
         "MSFT"
       ],
-      "summary": "OpenAI kündigt einen Meilenstein zur Erweiterung des Zugangs zu KI an, offenbar durch Werbung in ChatGPT. Damit will das Unternehmen die Nutzung von KI-Assistenten verbreitern und neue Einnahmen erschließen. Dies stärkt die kommerzielle Basis von OpenAI und dürfte den Wettbewerb im KI-Markt sowie die Nachfrage nach Recheninfrastruktur erhöhen."
+      "summary": "OpenAI kündigt einen Meilenstein zur Erweiterung des Zugangs zu KI an, offenbar durch Werbung in ChatGPT. Damit will das Unternehmen die Nutzung von KI-Assistenten verbreitern und neue Einnahmen erschließen. Dies stärkt die kommerzielle Basis von OpenAI und dürfte den Wettbewerb im KI-Markt sowie die Nachfrage nach Recheninfrastruktur erhöhen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T14:08:17Z"
     }
   ],
   "digest_log": [
@@ -6839,6 +6847,15 @@
       "article_ids": [
         "https://decrypt.co/?p=376923",
         "https://techcrunch.com/?p=3158688"
+      ]
+    },
+    {
+      "at": "2026-08-31T14:08:17Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/japanese-regulator-tax-exemption-trust-type-stablecoins-2027",
+        "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
+        "https://decrypt.co/?p=376929",
+        "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
       ]
     }
   ],
