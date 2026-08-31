@@ -6000,7 +6000,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Robinhood Chain verzeichnet mit 989 Millionen US-Dollar einen Rekord beim täglichen DEX-Volumen, während die TVL wächst. Das zeigt zunehmende DeFi-Aktivität auf dieser Chain und stärkt ihr Ökosystem. Diese Entwicklung könnte weitere Liquidität und Partnerschaften anziehen, ohne die großen Krypto-Märkte direkt zu bewegen."
+      "summary": "Robinhood Chain verzeichnet mit 989 Millionen US-Dollar einen Rekord beim täglichen DEX-Volumen, während die TVL wächst. Das zeigt zunehmende DeFi-Aktivität auf dieser Chain und stärkt ihr Ökosystem. Diese Entwicklung könnte weitere Liquidität und Partnerschaften anziehen, ohne die großen Krypto-Märkte direkt zu bewegen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T23:08:04Z"
     }
   ],
   "digest_log": [
@@ -6641,6 +6643,12 @@
       "article_ids": [
         "https://www.marktechpost.com/?p=81981",
         "https://decrypt.co/?p=376999"
+      ]
+    },
+    {
+      "at": "2026-08-31T23:08:04Z",
+      "article_ids": [
+        "e2743cd4-5315-5138-acbf-a2439dc2cd16"
       ]
     }
   ],
