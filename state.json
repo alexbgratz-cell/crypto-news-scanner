@@ -6329,7 +6329,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Irland schließt Kryptowährungen aus seinem staatlichen Sparprogramm aus, das auf Einlagen von 203 Mrd. Dollar abzielt. Damit verliert die Krypto-Branche einen staatlich geförderten Zugang zu Sparern, während sich die regulatorische Haltung verschärft. Die Folge ist ein dauerhaft erschwerter Vertrieb von Krypto-Produkten über staatliche Sparvehikel in Irland."
+      "summary": "Irland schließt Kryptowährungen aus seinem staatlichen Sparprogramm aus, das auf Einlagen von 203 Mrd. Dollar abzielt. Damit verliert die Krypto-Branche einen staatlich geförderten Zugang zu Sparern, während sich die regulatorische Haltung verschärft. Die Folge ist ein dauerhaft erschwerter Vertrieb von Krypto-Produkten über staatliche Sparvehikel in Irland.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T12:09:01Z"
     },
     {
       "id": "https://cointelegraph.com/news/hyperliquid-pumpfun-90-record-638m-crypto-buybacks",
@@ -6343,7 +6345,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Laut Financial Times entfielen fast 90 % der Krypto-Rückkäufe auf Hyperliquid und Pump.fun, bei einem Rekordvolumen von insgesamt 638 Millionen Dollar. Die Rückkäufe verringern das Angebot der jeweiligen Token und stützen deren Kurse, was die Marktstimmung insgesamt aufhellt. Die hohe Nachfrage dürfte vorerst anhalten und weitere Rückkaufprogramme wahrscheinlicher machen."
+      "summary": "Laut Financial Times entfielen fast 90 % der Krypto-Rückkäufe auf Hyperliquid und Pump.fun, bei einem Rekordvolumen von insgesamt 638 Millionen Dollar. Die Rückkäufe verringern das Angebot der jeweiligen Token und stützen deren Kurse, was die Marktstimmung insgesamt aufhellt. Die hohe Nachfrage dürfte vorerst anhalten und weitere Rückkaufprogramme wahrscheinlicher machen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T12:09:01Z"
     }
   ],
   "digest_log": [
@@ -6906,6 +6910,13 @@
       "at": "2026-08-31T11:08:14Z",
       "article_ids": [
         "https://cointelegraph.com/markets/markets-pivot-to-september-fed-rate-hike-five-things-to-know-in-bitcoin-this-week"
+      ]
+    },
+    {
+      "at": "2026-08-31T12:09:01Z",
+      "article_ids": [
+        "https://decrypt.co/?p=376916",
+        "https://cointelegraph.com/news/hyperliquid-pumpfun-90-record-638m-crypto-buybacks"
       ]
     }
   ],
