@@ -2557,33 +2557,10 @@
     "https://techcrunch.com/?p=3158932": "2026-08-31T20:19:11Z",
     "https://cointelegraph.com/news/ireland-crypto-tax-advantaged-investment-accounts": "2026-08-31T20:34:11Z",
     "https://decrypt.co/?p=376992": "2026-08-31T21:04:24Z",
-    "https://openai.com/index/gpt-5-6-in-kiro": "2026-08-31T21:04:24Z"
+    "https://openai.com/index/gpt-5-6-in-kiro": "2026-08-31T21:04:24Z",
+    "https://www.marktechpost.com/?p=81981": "2026-08-31T21:34:35Z"
   },
   "pending": {
-    "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations": {
-      "id": "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations",
-      "title": "CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets",
-      "url": "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-24T21:33:13Z"
-    },
-    "https://decrypt.co/?p=376416": {
-      "id": "https://decrypt.co/?p=376416",
-      "title": "Strive Buys $81.5 Million in Bitcoin After Issuing More Shares",
-      "url": "https://decrypt.co/376416/strive-buys-81-million-bitcoin-more-shares",
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-24T21:28:30Z"
-    },
-    "https://techcrunch.com/?p=3156185": {
-      "id": "https://techcrunch.com/?p=3156185",
-      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-      "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-24T21:24:17Z"
-    },
     "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/": {
       "id": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
       "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
@@ -2778,20 +2755,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=376755",
-      "title": "Bitcoin Privacy Wallet Sparrow Issues Update After AI Flags Fixes",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-27T21:36:05Z",
-      "score": 5,
-      "category": "Tech Update",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Die Bitcoin-Privacy-Wallet Sparrow hat ein Update veröffentlicht, nachdem KI-gestützte Hinweise auf Fehler vorlagen. Die Korrekturen sollen Sicherheit und Zuverlässigkeit für Bitcoin-Nutzer erhöhen, haben aber keine unmittelbare Marktwirkung. Nutzer der Wallet sollten das Update installieren; größere Kursauswirkungen sind nicht zu erwarten."
-    },
     {
       "id": "https://decrypt.co/?p=376757",
       "title": "Red Flag? OpenAI's Agentic ChatGPT Work Signs Into Your Accounts Without You",
@@ -6051,6 +6014,22 @@
       ],
       "entities": [],
       "summary": "Strive hat eigenen Angaben zufolge 143 Millionen Dollar in Bitcoin investiert, während weitere Treasury-Firmen wieder in die Kryptowährung einsteigen. Die institutionelle Nachfrage steigt und dürfte den Bitcoin-Kurs stützen. Weitere Unternehmenszuflüsse sind zu erwarten, was das Marktumfeld für BTC positiv hält."
+    },
+    {
+      "id": "https://www.marktechpost.com/?p=81981",
+      "title": "Google AI Releases TimesFM-3: A 330M Parameter Zero-Shot Foundation Model For Multivariate Time Series Forecasting",
+      "url": null,
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-08-31T21:20:16Z",
+      "score": 7,
+      "category": "Model Release & Capability",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "GOOGL"
+      ],
+      "summary": "Google AI stellt TimesFM-3 vor, ein 330-Millionen-Parameter-Foundation-Modell für multivariate Zeitreihenprognosen mit Zero-Shot-Fähigkeiten. Das Modell stärkt Googles KI-Angebot und dürfte Anwendungen in Finanzen, Supply Chain und Wissenschaft verbessern. Dadurch erhöht sich der Wettbewerbsdruck auf andere Forecasting-Anbieter, während GOOGL seine Position im KI-Bereich weiter ausbaut."
     }
   ],
   "digest_log": [
