@@ -2563,7 +2563,8 @@
     "https://decrypt.co/?p=376973": "2026-08-31T19:34:09Z",
     "010fda64-ff93-55f3-8161-0fafdedd8731": "2026-08-31T20:19:10Z",
     "https://decrypt.co/?p=376985": "2026-08-31T20:19:10Z",
-    "https://techcrunch.com/?p=3158932": "2026-08-31T20:19:11Z"
+    "https://techcrunch.com/?p=3158932": "2026-08-31T20:19:11Z",
+    "https://cointelegraph.com/news/ireland-crypto-tax-advantaged-investment-accounts": "2026-08-31T20:34:11Z"
   },
   "pending": {
     "https://cointelegraph.com/news/gemini-plans-to-distribute-crypto-prediction-markets-through-apex-brokerages": {
@@ -2800,24 +2801,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=376767",
-      "title": "Bitcoin Completes First Experimental Quantum-Safe Transaction, Starkware Says",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-27T22:36:04Z",
-      "score": 7,
-      "category": "Tech Update",
-      "sentiment": "neutral",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "Starkware meldet die erste experimentelle quanten-sichere Transaktion auf Bitcoin. Das stärkt die langfristige Sicherheit des Netzwerks gegen mögliche künftige Quantenangriffe und betrifft Bitcoin direkt. Kurzfristige Kursbewegungen bleiben jedoch unwahrscheinlich, da es sich um ein experimentelles Verfahren handelt.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T01:31:15Z"
-    },
     {
       "id": "https://decrypt.co/?p=376760",
       "title": "Google’s Android 17 Turns On New Privacy Feature—But Your Browsing Isn’t Fully Hidden",
@@ -6069,6 +6052,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Das Pentagon hat laut TechCrunch einen eigenen KI-Chatbot entwickelt, der an ChatGPT und Grok angelehnt ist. Das zeigt eine wachsende Nutzung von KI im Verteidigungsbereich und könnte private KI-Anbieter sowie Sicherheitsdebatten beeinflussen. Es ist mit verstärkten Diskussionen über militärische KI-Anwendungen zu rechnen."
+    },
+    {
+      "id": "https://cointelegraph.com/news/ireland-crypto-tax-advantaged-investment-accounts",
+      "title": "Ireland excludes crypto from new tax-advantaged investment accounts",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-31T20:25:25Z",
+      "score": 7,
+      "category": "Regulation",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Die irische Regierung lässt Krypto-Anlagen aus den neuen steuerbegünstigten Investmentkonten aus. Dadurch entgehen Anlegern in Irland Steuervorteile bei Krypto-Investitionen, was die Attraktivität des Sektors dort mindert. Krypto bleibt in Irland steuerlich benachteiligt; unmittelbare Kursfolgen sind nicht zu erwarten."
     }
   ],
   "digest_log": [
