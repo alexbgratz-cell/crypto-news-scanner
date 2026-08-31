@@ -6256,7 +6256,9 @@
         "ETHUSD"
       ],
       "entities": [],
-      "summary": "Robinhood Chain hat Ethereum und Base bei den Transaktionsgebühren überholt. Dies zeigt den zunehmenden Wettbewerb für Ethereum-Netzwerkgebühren und könnte die Marktstimmung beeinflussen. Die Entwicklung könnte als Zeichen für die Attraktivität alternativer Chain-Ökosysteme gewertet werden, was Ethereum kurzfristig unter Druck setzen könnte."
+      "summary": "Robinhood Chain hat Ethereum und Base bei den Transaktionsgebühren überholt. Dies zeigt den zunehmenden Wettbewerb für Ethereum-Netzwerkgebühren und könnte die Marktstimmung beeinflussen. Die Entwicklung könnte als Zeichen für die Attraktivität alternativer Chain-Ökosysteme gewertet werden, was Ethereum kurzfristig unter Druck setzen könnte.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T13:08:19Z"
     },
     {
       "id": "https://cointelegraph.com/news/strategy-buys-370m-bitcoin-first-acquisition-june",
@@ -6286,7 +6288,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "Circleback, ein KI-gestützter Meeting-Notizdienst, führt einen kostenlosen Tarif ein, um mehr Kunden zu gewinnen. Der Schritt senkt die Einstiegshürde für Nutzer und verschärft den Wettbewerb im Markt für KI-Notiztools. Der freie Tarif dürfte die Nutzerbasis des Anbieters vergrößern und den Druck auf vergleichbare Dienste erhöhen."
+      "summary": "Circleback, ein KI-gestützter Meeting-Notizdienst, führt einen kostenlosen Tarif ein, um mehr Kunden zu gewinnen. Der Schritt senkt die Einstiegshürde für Nutzer und verschärft den Wettbewerb im Markt für KI-Notiztools. Der freie Tarif dürfte die Nutzerbasis des Anbieters vergrößern und den Druck auf vergleichbare Dienste erhöhen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T13:08:19Z"
     }
   ],
   "digest_log": [
@@ -6856,6 +6860,13 @@
       "article_ids": [
         "https://decrypt.co/?p=376916",
         "https://cointelegraph.com/news/hyperliquid-pumpfun-90-record-638m-crypto-buybacks"
+      ]
+    },
+    {
+      "at": "2026-08-31T13:08:19Z",
+      "article_ids": [
+        "https://decrypt.co/?p=376923",
+        "https://techcrunch.com/?p=3158688"
       ]
     }
   ],
