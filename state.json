@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest": "2026-08-24T00:01:43Z",
     "https://www.marktechpost.com/?p=81837": "2026-08-24T03:36:32Z",
     "7bf37c0d-c789-5613-a47f-3a8f0fac173e": "2026-08-24T05:55:47Z",
     "https://cointelegraph.com/news/pakistan-crypto-licensing-portal-september-5-deadline": "2026-08-24T05:55:48Z",
@@ -2571,17 +2570,10 @@
     "https://www.marktechpost.com/?p=81967": "2026-08-30T21:34:14Z",
     "https://decrypt.co/?p=376911": "2026-08-30T22:34:09Z",
     "https://decrypt.co/?p=376909": "2026-08-30T23:34:17Z",
-    "https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest": "2026-08-30T23:49:15Z"
+    "https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest": "2026-08-30T23:49:15Z",
+    "https://techcrunch.com/?p=3157348": "2026-08-31T02:34:39Z"
   },
   "pending": {
-    "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest": {
-      "id": "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest",
-      "title": "We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest",
-      "url": "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-23T23:56:00Z"
-    },
     "https://www.marktechpost.com/?p=81837": {
       "id": "https://www.marktechpost.com/?p=81837",
       "title": "Scientific Data Analysis with LabPlot in Python: Signal Processing, Spectral Peak Fitting, Visualization, and Batch Automation",
@@ -3232,20 +3224,6 @@
     }
   },
   "articles": [
-    {
-      "id": "6a860cfb6b770bbaf47ffa12",
-      "title": "AI Slop Is Ruining Cute Animals on the Internet",
-      "url": null,
-      "stream": "ai",
-      "source": "Feed: Artificial Intelligence Latest",
-      "published": "2026-08-26T11:00:00Z",
-      "score": 4,
-      "category": "Society & Work",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Ein Meinungsbeitrag beschreibt, wie KI-generierte Inhalte („AI Slop“) niedliche Tierbilder und -videos im Internet verdrängen und deren Authentizität untergraben. Für die KI-Branche zeichnet sich gesellschaftlicher Gegenwind ab: Nutzer und Plattformen reagieren zunehmend genervt auf ungekennzeichnete KI-Inhalte. Die Folge dürfte ein stärkerer Druck auf Plattformen sein, KI-generierte Posts zu kennzeichnen oder einzuschränken."
-    },
     {
       "id": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
       "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
@@ -6485,6 +6463,20 @@
       "summary": "Ein Krypto-Digest berichtet über neue Quantenabwehrmechanismen für Bitcoin und die Streichung von 18,9 Millionen SOL. Die gestärkte Sicherheit dürfte das Vertrauen in Bitcoin erhöhen, während das reduzierte SOL-Angebot den Token potenziell knapper macht. In der Folge sind erhöhte Kursbewegungen bei BTC und SOL zu erwarten.",
       "delivered": "digest",
       "delivered_at": "2026-08-31T00:10:39Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3157348",
+      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-31T02:34:00Z",
+      "score": 7,
+      "category": "Regulation & Policy",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Die USA errichten Handels- und Exportbarrieren um Drohnen und Roboter, während China dank seiner Skalierungsvorteile diese Hürden umgehen kann. Diese Regulierungspolitik schwächt die Wettbewerbsposition US-amerikanischer Hersteller, da Chinas Produktionsumfang die Wirkung der Beschränkungen reduziert. Die Folge sind anhaltende Marktunsicherheiten und eine verstärkte Eigenfertigung Chinas in diesen Schlüsseltechnologien."
     }
   ],
   "digest_log": [
