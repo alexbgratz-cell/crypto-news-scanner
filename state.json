@@ -1,14 +1,5 @@
 {
   "seen": {
-    "8a63dd0f-bb9a-59a7-8ac4-dff3f173a076": "2026-08-24T21:01:25Z",
-    "https://cointelegraph.com/news/gemini-plans-to-distribute-crypto-prediction-markets-through-apex-brokerages": "2026-08-24T21:01:25Z",
-    "https://cointelegraph.com/news/bernstein-circle-usdc-growth-140-price-target": "2026-08-24T21:01:25Z",
-    "https://cointelegraph.com/news/coinbase-stand-crypto-advocacy-group-endorses-midterm-candidates": "2026-08-24T21:01:25Z",
-    "https://decrypt.co/?p=376396": "2026-08-24T21:01:25Z",
-    "https://decrypt.co/?p=376394": "2026-08-24T21:01:25Z",
-    "https://decrypt.co/?p=376393": "2026-08-24T21:01:25Z",
-    "https://openai.com/index/gpt-5-6-in-kiro": "2026-08-24T21:01:26Z",
-    "https://techcrunch.com/?p=3156061": "2026-08-24T21:01:27Z",
     "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations": "2026-08-24T22:01:31Z",
     "https://decrypt.co/?p=376416": "2026-08-24T22:01:31Z",
     "https://techcrunch.com/?p=3156185": "2026-08-24T22:01:32Z",
@@ -2564,25 +2555,11 @@
     "010fda64-ff93-55f3-8161-0fafdedd8731": "2026-08-31T20:19:10Z",
     "https://decrypt.co/?p=376985": "2026-08-31T20:19:10Z",
     "https://techcrunch.com/?p=3158932": "2026-08-31T20:19:11Z",
-    "https://cointelegraph.com/news/ireland-crypto-tax-advantaged-investment-accounts": "2026-08-31T20:34:11Z"
+    "https://cointelegraph.com/news/ireland-crypto-tax-advantaged-investment-accounts": "2026-08-31T20:34:11Z",
+    "https://decrypt.co/?p=376992": "2026-08-31T21:04:24Z",
+    "https://openai.com/index/gpt-5-6-in-kiro": "2026-08-31T21:04:24Z"
   },
   "pending": {
-    "https://cointelegraph.com/news/gemini-plans-to-distribute-crypto-prediction-markets-through-apex-brokerages": {
-      "id": "https://cointelegraph.com/news/gemini-plans-to-distribute-crypto-prediction-markets-through-apex-brokerages",
-      "title": "Gemini plans to distribute crypto prediction markets through Apex brokerages",
-      "url": "https://cointelegraph.com/news/gemini-plans-to-distribute-crypto-prediction-markets-through-apex-brokerages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-24T20:46:16Z"
-    },
-    "https://decrypt.co/?p=376396": {
-      "id": "https://decrypt.co/?p=376396",
-      "title": "AI Model Ox Alpha Is Free, Beats Claude Fable, and Nobody Knows Who Built It",
-      "url": "https://decrypt.co/376396/mysterious-ai-model-ox-alpha",
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-24T20:46:03Z"
-    },
     "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations": {
       "id": "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations",
       "title": "CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets",
@@ -2801,20 +2778,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=376760",
-      "title": "Google’s Android 17 Turns On New Privacy Feature—But Your Browsing Isn’t Fully Hidden",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-27T22:06:05Z",
-      "score": 3,
-      "category": "Other",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Google hat mit Android 17 eine neue Datenschutzfunktion eingeführt, die das Surfen jedoch nicht vollständig verbirgt. Für Kryptomärkte hat diese Systemänderung keine direkte Relevanz, da sie keine Handels- oder Anlagebedingungen betrifft. Es sind keine Auswirkungen auf digitale Assets zu erwarten."
-    },
     {
       "id": "https://decrypt.co/?p=376755",
       "title": "Bitcoin Privacy Wallet Sparrow Issues Update After AI Flags Fixes",
@@ -6066,6 +6029,22 @@
       "instruments": [],
       "entities": [],
       "summary": "Die irische Regierung lässt Krypto-Anlagen aus den neuen steuerbegünstigten Investmentkonten aus. Dadurch entgehen Anlegern in Irland Steuervorteile bei Krypto-Investitionen, was die Attraktivität des Sektors dort mindert. Krypto bleibt in Irland steuerlich benachteiligt; unmittelbare Kursfolgen sind nicht zu erwarten."
+    },
+    {
+      "id": "https://decrypt.co/?p=376992",
+      "title": "Strive Adds $143 Million in Bitcoin as Treasury Firms Pile Back In",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-08-31T21:01:05Z",
+      "score": 8,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Strive hat eigenen Angaben zufolge 143 Millionen Dollar in Bitcoin investiert, während weitere Treasury-Firmen wieder in die Kryptowährung einsteigen. Die institutionelle Nachfrage steigt und dürfte den Bitcoin-Kurs stützen. Weitere Unternehmenszuflüsse sind zu erwarten, was das Marktumfeld für BTC positiv hält."
     }
   ],
   "digest_log": [
