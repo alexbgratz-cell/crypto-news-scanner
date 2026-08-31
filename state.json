@@ -2571,17 +2571,10 @@
     "https://decrypt.co/?p=376911": "2026-08-30T22:34:09Z",
     "https://decrypt.co/?p=376909": "2026-08-30T23:34:17Z",
     "https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest": "2026-08-30T23:49:15Z",
-    "https://techcrunch.com/?p=3157348": "2026-08-31T02:34:39Z"
+    "https://techcrunch.com/?p=3157348": "2026-08-31T02:34:39Z",
+    "https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million": "2026-08-31T03:34:13Z"
   },
   "pending": {
-    "https://www.marktechpost.com/?p=81837": {
-      "id": "https://www.marktechpost.com/?p=81837",
-      "title": "Scientific Data Analysis with LabPlot in Python: Signal Processing, Spectral Peak Fitting, Visualization, and Batch Automation",
-      "url": "https://www.marktechpost.com/2026/08/23/scientific-data-analysis-with-labplot-in-python-signal-processing-spectral-peak-fitting-visualization-and-batch-automation/",
-      "stream": "ai",
-      "source": "MarkTechPost",
-      "published": "2026-08-24T03:32:30Z"
-    },
     "7bf37c0d-c789-5613-a47f-3a8f0fac173e": {
       "id": "7bf37c0d-c789-5613-a47f-3a8f0fac173e",
       "title": "Bitcoin records largest weekly dollar gain in history; Strive CEO predicts ‘strongest’ cycle ever",
@@ -3224,24 +3217,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
-      "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
-      "url": null,
-      "stream": "ai",
-      "source": "AI - Ars Technica",
-      "published": "2026-08-26T11:10:49Z",
-      "score": 7,
-      "category": "Model Release & Capability",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "IBM"
-      ],
-      "summary": "IBM hat mit Granite 4.2 neue KI-Modelle veröffentlicht, die speziell für den Betrieb lokaler LLMs entwickelt wurden. Das stärkt IBMs Position im wachsenden Markt für lokale und datenschutzfreundliche KI und bietet Unternehmen eine Alternative zu Cloud-basierten Modellen. Die Veröffentlichung dürfte den Trend zu lokalen LLMs weiter vorantreiben und IBM als Anbieter relevanter machen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-26T12:02:17Z"
-    },
     {
       "id": "f9f3a944-7c34-5866-b356-d321e8ce7f02",
       "title": "SOL treasury firm DeFi Development launches real-time ‘State of Solana’ intelligence platform",
@@ -6479,6 +6454,20 @@
       "summary": "Die USA errichten Handels- und Exportbarrieren um Drohnen und Roboter, während China dank seiner Skalierungsvorteile diese Hürden umgehen kann. Diese Regulierungspolitik schwächt die Wettbewerbsposition US-amerikanischer Hersteller, da Chinas Produktionsumfang die Wirkung der Beschränkungen reduziert. Die Folge sind anhaltende Marktunsicherheiten und eine verstärkte Eigenfertigung Chinas in diesen Schlüsseltechnologien.",
       "delivered": "digest",
       "delivered_at": "2026-08-31T03:08:19Z"
+    },
+    {
+      "id": "https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million",
+      "title": "Cronos halts network after Tectonic exploit involving estimated $75M",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-31T03:25:48Z",
+      "score": 8,
+      "category": "Hack & Security",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Das Cronos-Netzwerk wurde nach einem Exploit der DeFi-Plattform Tectonic angehalten, mit einem geschätzten Schaden von 75 Millionen US-Dollar. Der Sicherheitsvorfall untergräbt das Vertrauen in die Cronos-Ökonomie und könnte zu Kapitalabflüssen aus der Plattform führen. Während das Team den Vorfall untersucht, sind anhaltende Netzwerkunterbrechungen und erhöhte Volatilität wahrscheinlich."
     }
   ],
   "digest_log": [
