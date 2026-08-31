@@ -6439,7 +6439,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "OpenClaw hat Version 2.0 veröffentlicht, die eine geführte Modell-Einrichtung, einen 575 ms schnellen Start der Control UI und eine Trust-Boundary pro Gateway mitbringt. Das Update macht die persönliche KI-Assistenten-Plattform zugänglicher und sicherer für Nutzer und Entwickler. Die Veröffentlichung stärkt die Wettbewerbsposition von OpenClaw im Bereich persönlicher KI-Agenten; eine weitere Adoption durch die Community ist wahrscheinlich."
+      "summary": "OpenClaw hat Version 2.0 veröffentlicht, die eine geführte Modell-Einrichtung, einen 575 ms schnellen Start der Control UI und eine Trust-Boundary pro Gateway mitbringt. Das Update macht die persönliche KI-Assistenten-Plattform zugänglicher und sicherer für Nutzer und Entwickler. Die Veröffentlichung stärkt die Wettbewerbsposition von OpenClaw im Bereich persönlicher KI-Agenten; eine weitere Adoption durch die Community ist wahrscheinlich.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T06:10:08Z"
     }
   ],
   "digest_log": [
@@ -6984,6 +6986,12 @@
       "at": "2026-08-31T03:08:19Z",
       "article_ids": [
         "https://techcrunch.com/?p=3157348"
+      ]
+    },
+    {
+      "at": "2026-08-31T06:10:08Z",
+      "article_ids": [
+        "https://www.marktechpost.com/?p=81971"
       ]
     }
   ],
