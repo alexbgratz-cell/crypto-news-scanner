@@ -2558,17 +2558,12 @@
     "https://cointelegraph.com/news/webull-canada-crypto-trading-coinbase": "2026-08-31T17:49:09Z",
     "https://techcrunch.com/?p=3158394": "2026-08-31T17:49:10Z",
     "https://decrypt.co/?p=376963": "2026-08-31T18:04:28Z",
-    "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/": "2026-08-31T18:04:36Z"
+    "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/": "2026-08-31T18:04:36Z",
+    "b81e1240-e532-5174-8b5c-418c24dfc253": "2026-08-31T18:19:29Z",
+    "a14f84ab-0e75-5ccf-b85e-49598f2975ad": "2026-08-31T18:19:29Z",
+    "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/": "2026-08-31T18:19:31Z"
   },
   "pending": {
-    "3194e8a8-39f2-565f-87ed-e9991bce142d": {
-      "id": "3194e8a8-39f2-565f-87ed-e9991bce142d",
-      "title": "Crypto exchange volumes double in five days as market activity rebounds",
-      "url": "https://www.theblock.co/news/markets/2026-08-24-crypto-exchange-volumes-double-in-five-days-as-market-activity-rebounds-412641",
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-24T18:07:20Z"
-    },
     "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base": {
       "id": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base",
       "title": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
@@ -2867,54 +2862,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/uk-government-crypto-millionaires-2025",
-      "title": "UK government reports 240 crypto millionaires in 2025",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-27T15:56:00Z",
-      "score": 5,
-      "category": "Other",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Die britische Regierung meldet für 2025 insgesamt 240 Krypto-Millionäre im Land. Die Zahl verdeutlicht das wachsende Vermögen privater Krypto-Anleger in Großbritannien und könnte die Debatte über Besteuerung und Regulierung anstoßen. Eine verstärkte regulatorische Aufmerksamkeit auf Krypto-Vermögen ist wahrscheinlich."
-    },
-    {
-      "id": "https://cointelegraph.com/news/ripple-prime-us-equities-delta-one",
-      "title": "Ripple Prime expands into US equity derivatives with Delta One business",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-27T13:54:22Z",
-      "score": 6,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Ripple Prime erweitert sein Angebot um US-Aktienderivate und startet ein Delta-One-Geschäft. Das stärkt Ripples Position im institutionellen Handel, da Krypto-Infrastruktur mit traditionellen Finanzprodukten kombiniert wird. Die Expansion dürfte das Interesse institutioneller Anleger an Ripples Ökosystem erhöhen; direkte Marktbewegungen sind daraus nicht abzuleiten.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T01:31:15Z"
-    },
-    {
-      "id": "https://cointelegraph.com/news/uk-boe-innovation-mandate-stablecoins",
-      "title": "Bank of England set for new innovation mandate covering stablecoins",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-27T12:51:59Z",
-      "score": 7,
-      "category": "Regulation",
-      "sentiment": "bullish",
-      "instruments": [
-        "USDT.D"
-      ],
-      "entities": [],
-      "summary": "Die Bank of England soll ein neues Innovationsmandat erhalten, das ausdrücklich auch Stablecoins abdeckt. Das schafft regulatorische Klarheit für Stablecoin-Anbieter und kann die Einführung digitaler Zahlungen im Vereinigten Königreich fördern. Eine positivere Regulierung dürfte das Vertrauen in Stablecoin-Projekte stärken und die Marktentwicklung in Großbritannien beeinflussen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T01:31:15Z"
-    },
     {
       "id": "https://cointelegraph.com/markets/bitcoin-faces-true-demand-test-above-83k-as-liquidity-thickens-glassnode",
       "title": "Bitcoin faces true demand test above $83K as liquidity thickens: Glassnode",
@@ -6135,6 +6082,52 @@
       "summary": "Hyperliquid führt Gespräche mit der Kraken-Muttergesellschaft, um Krypto-Perpetual-Handel für US-Trader anzubieten. Eine Partnerschaft würde den Zugang zu Krypto-Derivaten in den USA erweitern und potenziell zu höherem Handelsvolumen und mehr Liquidität führen. Die nächste Wegmarke ist eine endgültige Partnerschafts- oder Zulassungsentscheidung.",
       "delivered": "digest",
       "delivered_at": "2026-08-31T18:08:09Z"
+    },
+    {
+      "id": "b81e1240-e532-5174-8b5c-418c24dfc253",
+      "title": "Hyperliquid seeks US foothold through Kraken parent Payward in crypto perpetuals deal: Bloomberg",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-08-31T18:16:29Z",
+      "score": 6,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Hyperliquid strebt laut Bloomberg über die Muttergesellschaft von Kraken, Payward, einen US-Markteinstieg im Krypto-Perpetuals-Geschäft an. Der Schritt könnte die Marktposition von Hyperliquid in den USA stärken und den Wettbewerb bei Derivaten beeinflussen. Ob und wann die Expansion konkret wird, hängt von der finalen Vereinbarung mit Payward ab."
+    },
+    {
+      "id": "a14f84ab-0e75-5ccf-b85e-49598f2975ad",
+      "title": "OpenSea adds Solana NFT trading more than four years after initial beta",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-08-31T18:11:53Z",
+      "score": 7,
+      "category": "Tech Update",
+      "sentiment": "bullish",
+      "instruments": [
+        "SOLUSD"
+      ],
+      "entities": [],
+      "summary": "OpenSea hat den Handel mit Solana-NFTs mehr als vier Jahre nach der ersten Beta eingeführt. Die Integration erweitert den Zugang zu Solana-Assets und stärkt die Nachfrage und Liquidität im SOL-Ökosystem. Infolgedessen dürfte der SOL-Kurs von der erhöhten Marktpräsenz profitieren."
+    },
+    {
+      "id": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+      "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+      "url": null,
+      "stream": "ai",
+      "source": "AI - Ars Technica",
+      "published": "2026-08-31T18:10:45Z",
+      "score": 7,
+      "category": "Regulation & Policy",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [
+        "Anthropic"
+      ],
+      "summary": "Die Sony-Klage gegen Anthropic führt interne Chat-Nachrichten an, in denen Mitarbeiter die Piraterie-Plattform Z-Library loben. Der Vorwurf könnte das Training von KI-Modellen mit urheberrechtlich geschütztem Material betreffen und erhöht den rechtlichen Druck auf KI-Unternehmen. Der Fall dürfte sich zu einem wichtigen Präzedenzfall für Urheberrechtsfragen im KI-Training entwickeln."
     }
   ],
   "digest_log": [
