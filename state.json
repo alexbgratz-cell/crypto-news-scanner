@@ -1,14 +1,5 @@
 {
   "seen": {
-    "a0d693ae-2747-51b3-948a-ff701c496489": "2026-08-24T17:52:08Z",
-    "73957fc7-b904-5aae-9ea3-d81e0f25b35e": "2026-08-24T17:52:08Z",
-    "https://cointelegraph.com/news/strive-buys-1110-bitcoin-for-815m-holdings-top-21k-btc": "2026-08-24T17:52:08Z",
-    "https://cointelegraph.com/news/cryptocurrency-organizations-oppose-illinois-digital-asset-tax-court": "2026-08-24T17:52:08Z",
-    "https://decrypt.co/?p=376372": "2026-08-24T17:52:08Z",
-    "https://decrypt.co/?p=376349": "2026-08-24T17:52:08Z",
-    "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/": "2026-08-24T17:52:10Z",
-    "https://www.marktechpost.com/?p=81850": "2026-08-24T17:52:11Z",
-    "https://www.marktechpost.com/?p=81846": "2026-08-24T17:52:11Z",
     "3194e8a8-39f2-565f-87ed-e9991bce142d": "2026-08-24T19:19:43Z",
     "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base": "2026-08-24T19:19:43Z",
     "https://cointelegraph.com/markets/bitcoin-price-hits-80k-as-24-hour-crypto-short-liquidations-pass-m": "2026-08-24T19:19:43Z",
@@ -2565,17 +2556,11 @@
     "https://decrypt.co/?p=376960": "2026-08-31T17:04:19Z",
     "https://decrypt.co/?p=376936": "2026-08-31T17:19:13Z",
     "https://cointelegraph.com/news/webull-canada-crypto-trading-coinbase": "2026-08-31T17:49:09Z",
-    "https://techcrunch.com/?p=3158394": "2026-08-31T17:49:10Z"
+    "https://techcrunch.com/?p=3158394": "2026-08-31T17:49:10Z",
+    "https://decrypt.co/?p=376963": "2026-08-31T18:04:28Z",
+    "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/": "2026-08-31T18:04:36Z"
   },
   "pending": {
-    "https://decrypt.co/?p=376372": {
-      "id": "https://decrypt.co/?p=376372",
-      "title": "Zcash Hits Eight-Year High as Futures Bets Nearly Double",
-      "url": "https://decrypt.co/376372/zcash-eight-year-high-price-futures-bets",
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-24T17:50:35Z"
-    },
     "3194e8a8-39f2-565f-87ed-e9991bce142d": {
       "id": "3194e8a8-39f2-565f-87ed-e9991bce142d",
       "title": "Crypto exchange volumes double in five days as market activity rebounds",
@@ -2599,14 +2584,6 @@
       "stream": "crypto",
       "source": "Decrypt",
       "published": "2026-08-24T18:30:27Z"
-    },
-    "https://techcrunch.com/?p=3155931": {
-      "id": "https://techcrunch.com/?p=3155931",
-      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-24T18:03:55Z"
     },
     "8a63dd0f-bb9a-59a7-8ac4-dff3f173a076": {
       "id": "8a63dd0f-bb9a-59a7-8ac4-dff3f173a076",
@@ -2890,24 +2867,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/markets/bitcoin-miner-stocks-rally-crypto-demand-ai-hpc",
-      "title": "Bitcoin’s 23% rally sends beaten-down miners soaring past AI stocks",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-27T16:04:15Z",
-      "score": 6,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "Bitcoin ist um 23 % gestiegen und hat zuvor stark gefallene Miner-Aktien beflügelt, die nun besser abschneiden als KI-Aktien. Dies signalisiert wieder wachsendes Risikointeresse im Kryptosektor und stärkt die Wahrnehmung von Bitcoin als renditestarkem Anlagewert. Die Rally dürfte die positive Marktstimmung weiter stützen und die Aufmerksamkeit verstärkt auf den Mining-Sektor lenken.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T01:31:15Z"
-    },
     {
       "id": "https://cointelegraph.com/news/uk-government-crypto-millionaires-2025",
       "title": "UK government reports 240 crypto millionaires in 2025",
@@ -6156,6 +6115,20 @@
       ],
       "entities": [],
       "summary": "Webull weitet sein Kryptoangebot durch eine Zusammenarbeit mit Coinbase auf Kanada aus. Kanadische Anleger erhalten damit einen weiteren regulierten Zugang zum Handel mit Kryptowährungen, was die Adoption stärkt und Coinbase als Infrastruktur-Anbieter begünstigt. Eine höhere Handelsaktivität über Coinbase und eine leicht positive Marktstimmung für die wichtigsten Kryptowährungen sind wahrscheinlich."
+    },
+    {
+      "id": "https://decrypt.co/?p=376963",
+      "title": "Hyperliquid in Talks With Kraken Parent to Bring Crypto Perps to US Traders",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-08-31T17:54:15Z",
+      "score": 6,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Hyperliquid führt Gespräche mit der Kraken-Muttergesellschaft, um Krypto-Perpetual-Handel für US-Trader anzubieten. Eine Partnerschaft würde den Zugang zu Krypto-Derivaten in den USA erweitern und potenziell zu höherem Handelsvolumen und mehr Liquidität führen. Die nächste Wegmarke ist eine endgültige Partnerschafts- oder Zulassungsentscheidung."
     }
   ],
   "digest_log": [
