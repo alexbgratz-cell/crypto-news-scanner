@@ -2561,7 +2561,8 @@
     "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/": "2026-08-31T18:04:36Z",
     "b81e1240-e532-5174-8b5c-418c24dfc253": "2026-08-31T18:19:29Z",
     "a14f84ab-0e75-5ccf-b85e-49598f2975ad": "2026-08-31T18:19:29Z",
-    "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/": "2026-08-31T18:19:31Z"
+    "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/": "2026-08-31T18:19:31Z",
+    "https://www.technologyreview.com/?p=1143180": "2026-08-31T18:34:20Z"
   },
   "pending": {
     "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base": {
@@ -2571,14 +2572,6 @@
       "stream": "crypto",
       "source": "Cointelegraph.com News",
       "published": "2026-08-24T19:11:48Z"
-    },
-    "https://decrypt.co/?p=376375": {
-      "id": "https://decrypt.co/?p=376375",
-      "title": "Hyperliquid Hits Record High as $1.2 Billion Token Unlock Looms",
-      "url": "https://decrypt.co/376375/hypeliquid-price-record-high-token-unlock",
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-24T18:30:27Z"
     },
     "8a63dd0f-bb9a-59a7-8ac4-dff3f173a076": {
       "id": "8a63dd0f-bb9a-59a7-8ac4-dff3f173a076",
@@ -2862,22 +2855,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/markets/bitcoin-faces-true-demand-test-above-83k-as-liquidity-thickens-glassnode",
-      "title": "Bitcoin faces true demand test above $83K as liquidity thickens: Glassnode",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-27T10:34:12Z",
-      "score": 5,
-      "category": "Other",
-      "sentiment": "neutral",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "Glassnode berichtet, dass Bitcoin oberhalb von 83.000 USD einem echten Nachfragetest gegenübersteht, während die Marktliquidität zunimmt. Die Marktstruktur zeigt, dass die Nachfrage entscheidend dafür ist, ob die jüngste Kursbewegung Bestand hat. Erhöhte Volatilität ist wahrscheinlich, da der Bereich um 83.000 USD zur entscheidenden Wegmarke wird."
-    },
     {
       "id": "https://cointelegraph.com/news/bitfinex-securities-record-50-million-tokenized-nickel-project",
       "title": "Bitfinex Securities completes record $50M tokenized capital raise",
@@ -6128,6 +6105,23 @@
         "Anthropic"
       ],
       "summary": "Die Sony-Klage gegen Anthropic führt interne Chat-Nachrichten an, in denen Mitarbeiter die Piraterie-Plattform Z-Library loben. Der Vorwurf könnte das Training von KI-Modellen mit urheberrechtlich geschütztem Material betreffen und erhöht den rechtlichen Druck auf KI-Unternehmen. Der Fall dürfte sich zu einem wichtigen Präzedenzfall für Urheberrechtsfragen im KI-Training entwickeln."
+    },
+    {
+      "id": "https://www.technologyreview.com/?p=1143180",
+      "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+      "url": null,
+      "stream": "ai",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "published": "2026-08-31T18:00:00Z",
+      "score": 5,
+      "category": "Safety & Risk",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [
+        "OpenAI",
+        "Hugging Face"
+      ],
+      "summary": "Ein Hack bei Hugging Face könnte laut MIT Technology Review auf kulturelle Probleme bei OpenAI hindeuten. Der Vorfall betrifft das Vertrauen in die Sicherheitskultur von KI-Unternehmen und deren Infrastruktur. Eine erhöhte Aufmerksamkeit für Sicherheitspraktiken bei KI-Plattformen ist die Folge."
     }
   ],
   "digest_log": [
