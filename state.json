@@ -2557,7 +2557,8 @@
     "https://decrypt.co/?p=376999": "2026-08-31T21:49:26Z",
     "e2743cd4-5315-5138-acbf-a2439dc2cd16": "2026-08-31T22:34:16Z",
     "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/": "2026-08-31T22:34:17Z",
-    "https://openai.com/index/polimill": "2026-08-31T23:34:09Z"
+    "https://openai.com/index/polimill": "2026-08-31T23:34:09Z",
+    "https://www.marktechpost.com/?p=81987": "2026-08-31T23:49:19Z"
   },
   "pending": {
     "a9ccb866-8703-5f7b-9d3b-76c0b50d1687": {
@@ -2730,22 +2731,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=376737",
-      "title": "Bitcoin Eyes Major Resistance as Jackson Hole Kicks Off With Unusual Fed Agenda",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-27T17:36:04Z",
-      "score": 5,
-      "category": "Macro",
-      "sentiment": "neutral",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "Das Jackson-Hole-Symposium der US-Notenbank beginnt mit einer ungewöhnlichen Tagesordnung, während Bitcoin sich einem wichtigen Widerstand nähert. Die Anleger warten auf Hinweise zur Geldpolitik, die Risikoanlagen wie Bitcoin direkt beeinflussen können. Erhöhte Volatilität ist wahrscheinlich, die Richtung hängt von den Fed-Signalen ab."
-    },
     {
       "id": "https://decrypt.co/?p=376725",
       "title": "Why Nvidia’s Acquisition of Hugging Face Would Reshape Open-Source AI",
@@ -6006,6 +5991,20 @@
         "Polimill"
       ],
       "summary": "Polimill baut Japans nächste Generation öffentlicher KI-Infrastruktur auf, unterstützt durch OpenAI. Die Infrastruktur erweitert die Rechenkapazitäten für öffentliche KI-Dienste in Japan und stärkt damit die regionale KI-Versorgung. Die Partnerschaft dürfte OpenAIs Präsenz in Japan festigen und weitere Infrastrukturprojekte in der Region begünstigen."
+    },
+    {
+      "id": "https://www.marktechpost.com/?p=81987",
+      "title": "Keenable AI Open-Sources NEEDLE: A Live Search Benchmark That Rebuilds Its Query Set Every Hour",
+      "url": null,
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-08-31T23:43:26Z",
+      "score": 5,
+      "category": "Research & Open Source",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Keenable AI hat NEEDLE als Open-Source-Benchmark veröffentlicht, der sein Query-Set stündlich neu aufbaut. Damit können Such- und KI-Modelle unter realen, dynamischen Bedingungen getestet werden, was Entwickler betrifft, die aktuelle Informationen benötigen. Dies dürfte die Bewertung von Suchsystemen zukünftig stärker auf Aktualität ausrichten."
     }
   ],
   "digest_log": [
