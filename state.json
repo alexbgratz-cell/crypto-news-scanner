@@ -6044,7 +6044,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "Hyperliquid strebt laut Bloomberg über die Muttergesellschaft von Kraken, Payward, einen US-Markteinstieg im Krypto-Perpetuals-Geschäft an. Der Schritt könnte die Marktposition von Hyperliquid in den USA stärken und den Wettbewerb bei Derivaten beeinflussen. Ob und wann die Expansion konkret wird, hängt von der finalen Vereinbarung mit Payward ab."
+      "summary": "Hyperliquid strebt laut Bloomberg über die Muttergesellschaft von Kraken, Payward, einen US-Markteinstieg im Krypto-Perpetuals-Geschäft an. Der Schritt könnte die Marktposition von Hyperliquid in den USA stärken und den Wettbewerb bei Derivaten beeinflussen. Ob und wann die Expansion konkret wird, hängt von der finalen Vereinbarung mit Payward ab.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T19:08:09Z"
     },
     {
       "id": "a14f84ab-0e75-5ccf-b85e-49598f2975ad",
@@ -6060,7 +6062,9 @@
         "SOLUSD"
       ],
       "entities": [],
-      "summary": "OpenSea hat den Handel mit Solana-NFTs mehr als vier Jahre nach der ersten Beta eingeführt. Die Integration erweitert den Zugang zu Solana-Assets und stärkt die Nachfrage und Liquidität im SOL-Ökosystem. Infolgedessen dürfte der SOL-Kurs von der erhöhten Marktpräsenz profitieren."
+      "summary": "OpenSea hat den Handel mit Solana-NFTs mehr als vier Jahre nach der ersten Beta eingeführt. Die Integration erweitert den Zugang zu Solana-Assets und stärkt die Nachfrage und Liquidität im SOL-Ökosystem. Infolgedessen dürfte der SOL-Kurs von der erhöhten Marktpräsenz profitieren.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T19:08:09Z"
     },
     {
       "id": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
@@ -6076,7 +6080,9 @@
       "entities": [
         "Anthropic"
       ],
-      "summary": "Die Sony-Klage gegen Anthropic führt interne Chat-Nachrichten an, in denen Mitarbeiter die Piraterie-Plattform Z-Library loben. Der Vorwurf könnte das Training von KI-Modellen mit urheberrechtlich geschütztem Material betreffen und erhöht den rechtlichen Druck auf KI-Unternehmen. Der Fall dürfte sich zu einem wichtigen Präzedenzfall für Urheberrechtsfragen im KI-Training entwickeln."
+      "summary": "Die Sony-Klage gegen Anthropic führt interne Chat-Nachrichten an, in denen Mitarbeiter die Piraterie-Plattform Z-Library loben. Der Vorwurf könnte das Training von KI-Modellen mit urheberrechtlich geschütztem Material betreffen und erhöht den rechtlichen Druck auf KI-Unternehmen. Der Fall dürfte sich zu einem wichtigen Präzedenzfall für Urheberrechtsfragen im KI-Training entwickeln.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T19:08:09Z"
     },
     {
       "id": "https://www.technologyreview.com/?p=1143180",
@@ -6125,7 +6131,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "Das Startup Blue Voice, gegründet von einem Harvard-Law-Abbrecher, hat 6 Millionen US-Dollar eingesammelt, um einen KI-Assistenten für Polizisten nach dem Vorbild von Harvey zu entwickeln. Die Finanzierung zeigt, dass Investoren zunehmend vertikale KI-Lösungen für den öffentlichen Sektor unterstützen. Unmittelbare Auswirkungen auf große KI-Unternehmen sind nicht zu erwarten, die nächste Wegmarke ist die Produktentwicklung von Blue Voice."
+      "summary": "Das Startup Blue Voice, gegründet von einem Harvard-Law-Abbrecher, hat 6 Millionen US-Dollar eingesammelt, um einen KI-Assistenten für Polizisten nach dem Vorbild von Harvey zu entwickeln. Die Finanzierung zeigt, dass Investoren zunehmend vertikale KI-Lösungen für den öffentlichen Sektor unterstützen. Unmittelbare Auswirkungen auf große KI-Unternehmen sind nicht zu erwarten, die nächste Wegmarke ist die Produktentwicklung von Blue Voice.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T19:08:09Z"
     }
   ],
   "digest_log": [
@@ -6735,6 +6743,15 @@
         "https://decrypt.co/?p=376936",
         "https://cointelegraph.com/news/webull-canada-crypto-trading-coinbase",
         "https://decrypt.co/?p=376963"
+      ]
+    },
+    {
+      "at": "2026-08-31T19:08:09Z",
+      "article_ids": [
+        "a14f84ab-0e75-5ccf-b85e-49598f2975ad",
+        "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+        "b81e1240-e532-5174-8b5c-418c24dfc253",
+        "https://techcrunch.com/?p=3158889"
       ]
     }
   ],
