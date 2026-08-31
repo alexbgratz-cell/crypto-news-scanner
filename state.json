@@ -2562,7 +2562,9 @@
     "b81e1240-e532-5174-8b5c-418c24dfc253": "2026-08-31T18:19:29Z",
     "a14f84ab-0e75-5ccf-b85e-49598f2975ad": "2026-08-31T18:19:29Z",
     "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/": "2026-08-31T18:19:31Z",
-    "https://www.technologyreview.com/?p=1143180": "2026-08-31T18:34:20Z"
+    "https://www.technologyreview.com/?p=1143180": "2026-08-31T18:34:20Z",
+    "https://decrypt.co/?p=376971": "2026-08-31T18:49:11Z",
+    "https://techcrunch.com/?p=3158889": "2026-08-31T18:49:12Z"
   },
   "pending": {
     "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base": {
@@ -2855,36 +2857,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/bitfinex-securities-record-50-million-tokenized-nickel-project",
-      "title": "Bitfinex Securities completes record $50M tokenized capital raise",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-27T10:00:00Z",
-      "score": 6,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Bitfinex Securities hat eine Rekord-Kapitalerhöhung über 50 Mio. USD mit tokenisierten Wertpapieren für ein Nickelprojekt abgeschlossen. Das Ereignis zeigt wachsendes institutionelles Interesse an tokenisierten Realwelt-Assets und stärkt die Akzeptanz blockchain-basierter Kapitalmärkte. Der Erfolg dürfte weitere tokenisierte Emissionen im Rohstoffbereich nach sich ziehen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T01:31:15Z"
-    },
-    {
-      "id": "https://cointelegraph.com/news/bithumb-wins-suits-mistakenly-credited-bitcoin",
-      "title": "Bithumb wins 2 suits over mistaken Bitcoin credits: Report",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-27T09:26:17Z",
-      "score": 5,
-      "category": "Regulation",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Die südkoreanische Kryptobörse Bithumb hat einem Bericht zufolge zwei Gerichtsverfahren um irrtümlich gutgeschriebene Bitcoin gewonnen. Der Ausgang stärkt die rechtliche Position von Börsen bei fehlerhaften Gutschriften und dürfte das Klagerisiko für Bithumb verringern. Größere Marktbewegungen sind dadurch jedoch nicht zu erwarten."
-    },
     {
       "id": "https://cointelegraph.com/news/core-lightning-vulnerabilities-node-security-update",
       "title": "Core Lightning confirms multiple vulnerabilities, prepares security update",
@@ -6122,6 +6094,38 @@
         "Hugging Face"
       ],
       "summary": "Ein Hack bei Hugging Face könnte laut MIT Technology Review auf kulturelle Probleme bei OpenAI hindeuten. Der Vorfall betrifft das Vertrauen in die Sicherheitskultur von KI-Unternehmen und deren Infrastruktur. Eine erhöhte Aufmerksamkeit für Sicherheitspraktiken bei KI-Plattformen ist die Folge."
+    },
+    {
+      "id": "https://decrypt.co/?p=376971",
+      "title": "Russia's Sberbank Sees $46 Billion in Crypto Trading, Plans Ethereum and USDT-Backed Loans",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-08-31T18:46:04Z",
+      "score": 8,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [
+        "ETHUSD",
+        "BTCUSD",
+        "USDT.D"
+      ],
+      "entities": [],
+      "summary": "Sberbank meldet 46 Mrd. US-Dollar Handelsvolumen in Krypto und plant Kredite, die mit Ethereum und USDT besichert sind. Die Pläne der größten russischen Bank signalisieren wachsende institutionelle Akzeptanz und stärken die Nachfrage nach ETH und Stablecoins. Eine erhöhte institutionelle Aktivität und Kursunterstützung für Ethereum sind wahrscheinlich."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3158889",
+      "title": "Harvard Law dropout raises $6M for Blue Voice to build a “Harvey for police officers”",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-31T18:35:11Z",
+      "score": 6,
+      "category": "Business & Funding",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Das Startup Blue Voice, gegründet von einem Harvard-Law-Abbrecher, hat 6 Millionen US-Dollar eingesammelt, um einen KI-Assistenten für Polizisten nach dem Vorbild von Harvey zu entwickeln. Die Finanzierung zeigt, dass Investoren zunehmend vertikale KI-Lösungen für den öffentlichen Sektor unterstützen. Unmittelbare Auswirkungen auf große KI-Unternehmen sind nicht zu erwarten, die nächste Wegmarke ist die Produktentwicklung von Blue Voice."
     }
   ],
   "digest_log": [
