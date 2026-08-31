@@ -6004,7 +6004,9 @@
       "entities": [
         "GOOGL"
       ],
-      "summary": "Google AI stellt TimesFM-3 vor, ein 330-Millionen-Parameter-Foundation-Modell für multivariate Zeitreihenprognosen mit Zero-Shot-Fähigkeiten. Das Modell stärkt Googles KI-Angebot und dürfte Anwendungen in Finanzen, Supply Chain und Wissenschaft verbessern. Dadurch erhöht sich der Wettbewerbsdruck auf andere Forecasting-Anbieter, während GOOGL seine Position im KI-Bereich weiter ausbaut."
+      "summary": "Google AI stellt TimesFM-3 vor, ein 330-Millionen-Parameter-Foundation-Modell für multivariate Zeitreihenprognosen mit Zero-Shot-Fähigkeiten. Das Modell stärkt Googles KI-Angebot und dürfte Anwendungen in Finanzen, Supply Chain und Wissenschaft verbessern. Dadurch erhöht sich der Wettbewerbsdruck auf andere Forecasting-Anbieter, während GOOGL seine Position im KI-Bereich weiter ausbaut.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T22:08:08Z"
     },
     {
       "id": "https://decrypt.co/?p=376999",
@@ -6018,7 +6020,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Texas stoppt die öffentliche Finanzierung des Überwachungsprogramms von Flock, nachdem der Unmut in der Bevölkerung gewachsen ist. Der Schritt schwächt den Anbieter von Überwachungstechnik und signalisiert eine wachsende Ablehnung staatlicher Überwachung. Für die Branche steigt das Risiko weiterer Kürzungen und regulatorischer Einschränkungen."
+      "summary": "Texas stoppt die öffentliche Finanzierung des Überwachungsprogramms von Flock, nachdem der Unmut in der Bevölkerung gewachsen ist. Der Schritt schwächt den Anbieter von Überwachungstechnik und signalisiert eine wachsende Ablehnung staatlicher Überwachung. Für die Branche steigt das Risiko weiterer Kürzungen und regulatorischer Einschränkungen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T22:08:08Z"
     }
   ],
   "digest_log": [
@@ -6652,6 +6656,13 @@
         "010fda64-ff93-55f3-8161-0fafdedd8731",
         "https://cointelegraph.com/news/ireland-crypto-tax-advantaged-investment-accounts",
         "https://techcrunch.com/?p=3158932"
+      ]
+    },
+    {
+      "at": "2026-08-31T22:08:08Z",
+      "article_ids": [
+        "https://www.marktechpost.com/?p=81981",
+        "https://decrypt.co/?p=376999"
       ]
     }
   ],
