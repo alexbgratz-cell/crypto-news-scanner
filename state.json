@@ -2571,7 +2571,8 @@
     "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/": "2026-08-31T10:19:16Z",
     "https://www.technologyreview.com/?p=1141740": "2026-08-31T10:49:12Z",
     "6a832bd4364359700ebc52b3": "2026-08-31T10:49:12Z",
-    "https://cointelegraph.com/markets/markets-pivot-to-september-fed-rate-hike-five-things-to-know-in-bitcoin-this-week": "2026-08-31T11:04:22Z"
+    "https://cointelegraph.com/markets/markets-pivot-to-september-fed-rate-hike-five-things-to-know-in-bitcoin-this-week": "2026-08-31T11:04:22Z",
+    "https://decrypt.co/?p=376916": "2026-08-31T11:19:46Z"
   },
   "pending": {
     "https://cointelegraph.com/news/sbi-fasset-round-1b-valuation": {
@@ -3120,22 +3121,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=376580",
-      "title": "Morning Minute: LayerZero Announces ATLAS as New Settlement Engine",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-26T11:50:27Z",
-      "score": 6,
-      "category": "Tech Update",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "LayerZero kündigt ATLAS als neue Settlement-Engine an. Die Ankündigung betrifft die Cross-Chain-Infrastruktur und könnte Abwicklungsprozesse über verschiedene Blockchains hinweg verändern. Kurzfristig ist mit keiner großen Marktbewegung zu rechnen, entscheidend sind weitere technische Details und die tatsächliche Implementierung.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-26T16:37:01Z"
-    },
     {
       "id": "https://huggingface.co/blog/train-multi-vector-encoder",
       "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
@@ -6368,6 +6353,20 @@
       "summary": "Die Märkte richten sich in der neuen Woche auf eine mögliche Zinserhöhung der Fed im September aus, wie der Wochenausblick für Bitcoin zeigt. Ein Zinsschritt würde Risikoanlagen wie Bitcoin belasten, da der Dollar tendenziell steigt und die Liquidität knapper wird. Erhöhte Volatilität an den Kryptomärkten und ein festerer Dollar sind daher wahrscheinlich.",
       "delivered": "digest",
       "delivered_at": "2026-08-31T11:08:14Z"
+    },
+    {
+      "id": "https://decrypt.co/?p=376916",
+      "title": "Ireland Bars Crypto From State Savings Scheme Targeting $203B in Deposits",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-08-31T11:10:44Z",
+      "score": 7,
+      "category": "Regulation",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Irland schließt Kryptowährungen aus seinem staatlichen Sparprogramm aus, das auf Einlagen von 203 Mrd. Dollar abzielt. Damit verliert die Krypto-Branche einen staatlich geförderten Zugang zu Sparern, während sich die regulatorische Haltung verschärft. Die Folge ist ein dauerhaft erschwerter Vertrieb von Krypto-Produkten über staatliche Sparvehikel in Irland."
     }
   ],
   "digest_log": [
