@@ -2563,7 +2563,9 @@
     "https://cointelegraph.com/news/telegram-gram-wallet-launch-wallet-in-telegram-walt-rebrand": "2026-08-31T16:49:14Z",
     "https://cointelegraph.com/markets/bitcoin-begins-volatile-monthly-close-as-us-bond-yields-eye-new-20-year-high": "2026-08-31T17:04:19Z",
     "https://decrypt.co/?p=376960": "2026-08-31T17:04:19Z",
-    "https://decrypt.co/?p=376936": "2026-08-31T17:19:13Z"
+    "https://decrypt.co/?p=376936": "2026-08-31T17:19:13Z",
+    "https://cointelegraph.com/news/webull-canada-crypto-trading-coinbase": "2026-08-31T17:49:09Z",
+    "https://techcrunch.com/?p=3158394": "2026-08-31T17:49:10Z"
   },
   "pending": {
     "https://decrypt.co/?p=376372": {
@@ -2589,14 +2591,6 @@
       "stream": "crypto",
       "source": "Cointelegraph.com News",
       "published": "2026-08-24T19:11:48Z"
-    },
-    "https://cointelegraph.com/markets/bitcoin-price-hits-80k-as-24-hour-crypto-short-liquidations-pass-m": {
-      "id": "https://cointelegraph.com/markets/bitcoin-price-hits-80k-as-24-hour-crypto-short-liquidations-pass-m",
-      "title": "Bitcoin price hits $80K as 24-hour crypto short liquidations pass $220M",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-hits-80k-as-24-hour-crypto-short-liquidations-pass-m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-24T17:48:44Z"
     },
     "https://decrypt.co/?p=376375": {
       "id": "https://decrypt.co/?p=376375",
@@ -2896,22 +2890,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/charles-schwab-to-add-solana-avalanche-and-chainlink-to-crypto-platform",
-      "title": "Charles Schwab adda Solana, Avalanche and Chainlink to nascent crypto platform",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-27T16:13:10Z",
-      "score": 9,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [
-        "SOLUSD"
-      ],
-      "entities": [],
-      "summary": "Charles Schwab kündigt an, Solana, Avalanche und Chainlink auf seiner Krypto-Plattform anzubieten. Der Schritt eines großen traditionellen Brokers signalisiert wachsende institutionelle Akzeptanz für diese Altcoins und stärkt die Nachfrageperspektive. Erhöhte Handelsvolumina und Kursbewegungen bei SOL, AVAX und LINK sind die erwartbare Folge."
-    },
     {
       "id": "https://cointelegraph.com/markets/bitcoin-miner-stocks-rally-crypto-demand-ai-hpc",
       "title": "Bitcoin’s 23% rally sends beaten-down miners soaring past AI stocks",
@@ -6161,6 +6139,23 @@
       ],
       "entities": [],
       "summary": "Ehemalige SEC- und CFTC-Beamte fordern eine leichtere Regulierung, um Krypto-Perpetual-Handel an Land zu bringen. Dies könnte den Handel mit Krypto-Derivaten in den USA erleichtern und die Marktliquidität erhöhen. Erwartet wird eine positive Reaktion des Kryptomarktes, insbesondere bei Bitcoin und Ethereum."
+    },
+    {
+      "id": "https://cointelegraph.com/news/webull-canada-crypto-trading-coinbase",
+      "title": "Webull expands crypto trading into Canada through Coinbase collaboration",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-31T17:28:19Z",
+      "score": 6,
+      "category": "Tech Update",
+      "sentiment": "bullish",
+      "instruments": [
+        "BTCUSD",
+        "ETHUSD"
+      ],
+      "entities": [],
+      "summary": "Webull weitet sein Kryptoangebot durch eine Zusammenarbeit mit Coinbase auf Kanada aus. Kanadische Anleger erhalten damit einen weiteren regulierten Zugang zum Handel mit Kryptowährungen, was die Adoption stärkt und Coinbase als Infrastruktur-Anbieter begünstigt. Eine höhere Handelsaktivität über Coinbase und eine leicht positive Marktstimmung für die wichtigsten Kryptowährungen sind wahrscheinlich."
     }
   ],
   "digest_log": [
