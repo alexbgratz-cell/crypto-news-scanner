@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.marktechpost.com/?p=81837": "2026-08-24T03:36:32Z",
     "7bf37c0d-c789-5613-a47f-3a8f0fac173e": "2026-08-24T05:55:47Z",
     "https://cointelegraph.com/news/pakistan-crypto-licensing-portal-september-5-deadline": "2026-08-24T05:55:48Z",
     "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit": "2026-08-24T05:55:48Z",
@@ -2572,33 +2571,10 @@
     "https://decrypt.co/?p=376909": "2026-08-30T23:34:17Z",
     "https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest": "2026-08-30T23:49:15Z",
     "https://techcrunch.com/?p=3157348": "2026-08-31T02:34:39Z",
-    "https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million": "2026-08-31T03:34:13Z"
+    "https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million": "2026-08-31T03:34:13Z",
+    "https://www.marktechpost.com/?p=81971": "2026-08-31T05:19:14Z"
   },
   "pending": {
-    "7bf37c0d-c789-5613-a47f-3a8f0fac173e": {
-      "id": "7bf37c0d-c789-5613-a47f-3a8f0fac173e",
-      "title": "Bitcoin records largest weekly dollar gain in history; Strive CEO predicts ‘strongest’ cycle ever",
-      "url": "https://www.theblock.co/news/markets/2026-08-23-bitcoin-record-weekly-dollar-gain-412547",
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-24T03:52:31Z"
-    },
-    "https://cointelegraph.com/news/pakistan-crypto-licensing-portal-september-5-deadline": {
-      "id": "https://cointelegraph.com/news/pakistan-crypto-licensing-portal-september-5-deadline",
-      "title": "Pakistan opens crypto licensing portal, sets Sept. 5 deadline for existing firms",
-      "url": "https://cointelegraph.com/news/pakistan-crypto-licensing-portal-september-5-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-24T05:17:57Z"
-    },
-    "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit": {
-      "id": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit",
-      "title": "Term Finance loses estimated $8.5M in vault governance exploit",
-      "url": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-24T03:59:29Z"
-    },
     "https://cointelegraph.com/news/banks-regulators-quantum-resistant-crypto-pilot": {
       "id": "https://cointelegraph.com/news/banks-regulators-quantum-resistant-crypto-pilot",
       "title": "Banks, regulators join quantum-resistant crypto transfer pilot",
@@ -3217,24 +3193,6 @@
     }
   },
   "articles": [
-    {
-      "id": "f9f3a944-7c34-5866-b356-d321e8ce7f02",
-      "title": "SOL treasury firm DeFi Development launches real-time ‘State of Solana’ intelligence platform",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-26T14:07:21Z",
-      "score": 7,
-      "category": "Tech Update",
-      "sentiment": "bullish",
-      "instruments": [
-        "SOLUSD"
-      ],
-      "entities": [],
-      "summary": "Die Solana-Treasury-Firma DeFi Development hat eine Echtzeit-Intelligence-Plattform namens „State of Solana“ gestartet. Die Plattform erhöht die Transparenz im Solana-Ökosystem und verbessert die Datenlage für Marktteilnehmer. Dies dürfte die Aufmerksamkeit auf Solana stärken und sich positiv auf SOLUSD auswirken.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-26T16:37:01Z"
-    },
     {
       "id": "https://cointelegraph.com/magazine/the-sec-wants-to-bring-back-icos-theres-a-catch",
       "title": "SEC’s proposed crypto rules probably won’t spark new ICO boom",
@@ -6468,6 +6426,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Das Cronos-Netzwerk wurde nach einem Exploit der DeFi-Plattform Tectonic angehalten, mit einem geschätzten Schaden von 75 Millionen US-Dollar. Der Sicherheitsvorfall untergräbt das Vertrauen in die Cronos-Ökonomie und könnte zu Kapitalabflüssen aus der Plattform führen. Während das Team den Vorfall untersucht, sind anhaltende Netzwerkunterbrechungen und erhöhte Volatilität wahrscheinlich."
+    },
+    {
+      "id": "https://www.marktechpost.com/?p=81971",
+      "title": "OpenClaw Releases OpenClaw 2.0: Guided Model Setup, 575 ms Control UI Startup, and One Trust Boundary Per Gateway",
+      "url": null,
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-08-31T05:04:10Z",
+      "score": 6,
+      "category": "Model Release & Capability",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "OpenClaw hat Version 2.0 veröffentlicht, die eine geführte Modell-Einrichtung, einen 575 ms schnellen Start der Control UI und eine Trust-Boundary pro Gateway mitbringt. Das Update macht die persönliche KI-Assistenten-Plattform zugänglicher und sicherer für Nutzer und Entwickler. Die Veröffentlichung stärkt die Wettbewerbsposition von OpenClaw im Bereich persönlicher KI-Agenten; eine weitere Adoption durch die Community ist wahrscheinlich."
     }
   ],
   "digest_log": [
