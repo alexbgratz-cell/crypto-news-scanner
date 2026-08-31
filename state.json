@@ -2564,17 +2564,10 @@
     "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/": "2026-08-31T18:19:31Z",
     "https://www.technologyreview.com/?p=1143180": "2026-08-31T18:34:20Z",
     "https://decrypt.co/?p=376971": "2026-08-31T18:49:11Z",
-    "https://techcrunch.com/?p=3158889": "2026-08-31T18:49:12Z"
+    "https://techcrunch.com/?p=3158889": "2026-08-31T18:49:12Z",
+    "https://techcrunch.com/?p=3158959": "2026-08-31T19:19:22Z"
   },
   "pending": {
-    "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base": {
-      "id": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base",
-      "title": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
-      "url": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-24T19:11:48Z"
-    },
     "8a63dd0f-bb9a-59a7-8ac4-dff3f173a076": {
       "id": "8a63dd0f-bb9a-59a7-8ac4-dff3f173a076",
       "title": "US escalates Iran pressure with sanctions on crypto, aviation, shipping and gold as part of ‘economic D-Day’",
@@ -2598,14 +2591,6 @@
       "stream": "crypto",
       "source": "Cointelegraph.com News",
       "published": "2026-08-24T20:00:39Z"
-    },
-    "https://cointelegraph.com/news/coinbase-stand-crypto-advocacy-group-endorses-midterm-candidates": {
-      "id": "https://cointelegraph.com/news/coinbase-stand-crypto-advocacy-group-endorses-midterm-candidates",
-      "title": "Coinbase-affiliated advocacy group endorses candidates for US midterms",
-      "url": "https://cointelegraph.com/news/coinbase-stand-crypto-advocacy-group-endorses-midterm-candidates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-24T19:18:06Z"
     },
     "https://decrypt.co/?p=376396": {
       "id": "https://decrypt.co/?p=376396",
@@ -2857,24 +2842,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/core-lightning-vulnerabilities-node-security-update",
-      "title": "Core Lightning confirms multiple vulnerabilities, prepares security update",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-27T08:05:44Z",
-      "score": 6,
-      "category": "Hack & Security",
-      "sentiment": "bearish",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "Core Lightning bestätigt mehrere Schwachstellen und kündigt ein Sicherheitsupdate an. Betreiber von Lightning-Nodes sind direkt betroffen, da die Schwachstellen das Risiko für verwaltete Gelder und die Netzwerkstabilität erhöhen. Die nächste Konsequenz ist die zeitnahe Veröffentlichung und Einspielung des Updates durch die Node-Betreiber.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T01:31:15Z"
-    },
     {
       "id": "https://cointelegraph.com/markets/bitcoin-etf-inflows-slow-232-million-btc-under-80k",
       "title": "Bitcoin ETF inflows slow to $232M as BTC holds under $80K",
@@ -6134,6 +6101,22 @@
       "summary": "Das Startup Blue Voice, gegründet von einem Harvard-Law-Abbrecher, hat 6 Millionen US-Dollar eingesammelt, um einen KI-Assistenten für Polizisten nach dem Vorbild von Harvey zu entwickeln. Die Finanzierung zeigt, dass Investoren zunehmend vertikale KI-Lösungen für den öffentlichen Sektor unterstützen. Unmittelbare Auswirkungen auf große KI-Unternehmen sind nicht zu erwarten, die nächste Wegmarke ist die Produktentwicklung von Blue Voice.",
       "delivered": "digest",
       "delivered_at": "2026-08-31T19:08:09Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3158959",
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-08-31T19:16:59Z",
+      "score": 6,
+      "category": "Regulation & Policy",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [
+        "META"
+      ],
+      "summary": "Instagram führt neue Beschränkungen für KI-Profile ein, die nicht als solche gekennzeichnet sind. Das stärkt Transparenz und Verbraucherschutz und betrifft Meta als Plattformbetreiber sowie Anbieter KI-gestützter Profile. Strengere Kennzeichnungspflichten dürften die Folge sein; Meta muss die Regeln auf seiner Plattform umsetzen."
     }
   ],
   "digest_log": [
