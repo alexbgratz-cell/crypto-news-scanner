@@ -2557,7 +2557,9 @@
     "https://decrypt.co/?p=376923": "2026-08-31T12:49:17Z",
     "https://cointelegraph.com/news/strategy-buys-370m-bitcoin-first-acquisition-june": "2026-08-31T13:04:28Z",
     "https://techcrunch.com/?p=3158688": "2026-08-31T13:04:29Z",
-    "114e906b-b803-50c5-917c-a30ad78d5493": "2026-08-31T13:19:18Z"
+    "114e906b-b803-50c5-917c-a30ad78d5493": "2026-08-31T13:19:18Z",
+    "https://cointelegraph.com/magazine/mystery-surrounds-why-an-og-burned-1m-in-bitcoin": "2026-08-31T13:34:21Z",
+    "https://cointelegraph.com/news/japanese-regulator-tax-exemption-trust-type-stablecoins-2027": "2026-08-31T13:34:21Z"
   },
   "pending": {
     "630297fc-830e-5d3a-8909-acd26001b666": {
@@ -2575,14 +2577,6 @@
       "stream": "crypto",
       "source": "Cointelegraph.com News",
       "published": "2026-08-24T14:00:51Z"
-    },
-    "https://cointelegraph.com/magazine/bitget-ceo-isnt-buying-the-bitcoin-rally-waiting-for-50k": {
-      "id": "https://cointelegraph.com/magazine/bitget-ceo-isnt-buying-the-bitcoin-rally-waiting-for-50k",
-      "title": "Bitget CEO isn’t buying the Bitcoin rally — She’s waiting for $50K",
-      "url": "https://cointelegraph.com/magazine/bitget-ceo-isnt-buying-the-bitcoin-rally-waiting-for-50k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-24T13:30:00Z"
     },
     "https://techcrunch.com/?p=3155919": {
       "id": "https://techcrunch.com/?p=3155919",
@@ -3034,36 +3028,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3156706",
-      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-26T11:00:00Z",
-      "score": 6,
-      "category": "Business & Funding",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Runable hat laut TechCrunch 21 Mio. USD eingesammelt, um KI-Agenten auszubauen, die Unternehmen nicht nur aufbauen, sondern auch weiterentwickeln sollen. Die Finanzierung stärkt die Erwartung, dass KI-Agenten zunehmend operative Aufgaben in jungen Unternehmen übernehmen und so Marktchancen entstehen. Die nächste Wegmarke ist die Produktentwicklung und Skalierung der Agenten-Lösung von Runable.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-26T16:37:01Z"
-    },
-    {
-      "id": "48b50db9-f997-52e6-8470-2649c7267bde",
-      "title": "UAE ‘spy sheikh’ takes 49% stake in Trump family’s bank venture: WSJ",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-27T23:02:03Z",
-      "score": 5,
-      "category": "Other",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Laut WSJ erwirbt ein als „Spy Sheikh“ bezeichneter Investor aus den VAE 49 Prozent am Bankprojekt der Trump-Familie. Das Ereignis betrifft ein traditionelles Finanzvorhaben und hat keine direkte Verbindung zum Kryptomarkt. Eine unmittelbare Reaktion der Kryptomärkte ist unwahrscheinlich; mögliche Folgen wären regulatorische oder mediale Diskussionen."
-    },
     {
       "id": "c92cd467-c3b7-5425-a19a-ca01ec3480c1",
       "title": "Polish Olympic Committee president detained in Zondacrypto bribery probe",
@@ -6292,6 +6256,38 @@
       ],
       "entities": [],
       "summary": "Strategy hat weitere 4.603 Bitcoin für 369,7 Millionen US-Dollar gekauft und den Bestand damit auf 845.050 BTC erhöht. Der erneute Grosskauf eines institutionellen Akteurs signalisiert anhaltende Nachfrage und stützt das Marktumfeld für Bitcoin. Diese Käufe dürften den Bitcoin-Kurs weiter positiv beeinflussen und das Vertrauen institutioneller Anleger festigen."
+    },
+    {
+      "id": "https://cointelegraph.com/magazine/mystery-surrounds-why-an-og-burned-1m-in-bitcoin",
+      "title": "Mystery surrounds why an OG burned $1M in Bitcoin",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-31T13:30:00Z",
+      "score": 5,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Ein früher Bitcoin-Nutzer hat Bitcoins im Wert von etwa 1 Million US-Dollar an eine unbrauchbare Adresse geschickt und damit faktisch verbrannt; der Grund bleibt unklar. Die Menge ist im Verhältnis zum Markt gering, daher ist die direkte Wirkung auf den Bitcoin-Preis minimal. Kurzfristig ist keine nennenswerte Preisanpassung zu erwarten, die Geschichte dürfte höchstens für Aufmerksamkeit in der Community sorgen."
+    },
+    {
+      "id": "https://cointelegraph.com/news/japanese-regulator-tax-exemption-trust-type-stablecoins-2027",
+      "title": "Japanese regulator requests tax filing exemption for trust-type stablecoins in 2027 reform",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-31T13:20:05Z",
+      "score": 7,
+      "category": "Regulation",
+      "sentiment": "bullish",
+      "instruments": [
+        "USDT.D"
+      ],
+      "entities": [],
+      "summary": "Die japanische Finanzaufsicht fordert im Rahmen der Steuerreform 2027 eine Befreiung von der Steuererklärungspflicht für Trust-Typ-Stablecoins. Dies würde die regulatorische Unsicherheit für Stablecoin-Emittenten in Japan verringern und die Akzeptanz institutioneller Anleger fördern. Eine solche Erleichterung könnte die Nachfrage nach regulierten Stablecoins stützen und den Marktanteil entsprechender Anbieter erhöhen."
     }
   ],
   "digest_log": [
