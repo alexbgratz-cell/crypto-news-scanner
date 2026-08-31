@@ -2560,7 +2560,9 @@
     "https://decrypt.co/?p=376935": "2026-08-31T15:49:22Z",
     "https://techcrunch.com/?p=3158701": "2026-08-31T16:19:29Z",
     "https://www.technologyreview.com/?p=1142630": "2026-08-31T16:19:30Z",
-    "https://cointelegraph.com/news/telegram-gram-wallet-launch-wallet-in-telegram-walt-rebrand": "2026-08-31T16:49:14Z"
+    "https://cointelegraph.com/news/telegram-gram-wallet-launch-wallet-in-telegram-walt-rebrand": "2026-08-31T16:49:14Z",
+    "https://cointelegraph.com/markets/bitcoin-begins-volatile-monthly-close-as-us-bond-yields-eye-new-20-year-high": "2026-08-31T17:04:19Z",
+    "https://decrypt.co/?p=376960": "2026-08-31T17:04:19Z"
   },
   "pending": {
     "https://decrypt.co/?p=376372": {
@@ -2901,40 +2903,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/mirae-asset-lays-out-crypto-stablecoin-and-tokenization-plans",
-      "title": "Mirae Asset lays out crypto, stablecoin, tokenization plans for Digital X",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-27T19:00:00Z",
-      "score": 6,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Der Vermögensverwalter Mirae Asset hat Pläne für seine Plattform Digital X vorgestellt, die Krypto, Stablecoins und Tokenisierung umfassen. Der Schritt eines großen institutionellen Anbieters signalisiert wachsendes institutionelles Interesse und könnte die Nachfrage nach digitalen Assets stützen. Die nächste Wegmarke ist die konkrete Umsetzung der angekündigten Pläne.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T01:31:15Z"
-    },
-    {
-      "id": "https://cointelegraph.com/markets/zcash-bitcoin-network-effects-grayscale-privacy",
-      "title": "Grayscale says Zcash can challenge Bitcoin’s network effects as privacy demand grows",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-27T18:51:02Z",
-      "score": 6,
-      "category": "Other",
-      "sentiment": "neutral",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "Grayscale Research sieht in Zcash eine mögliche Herausforderung für die Netzwerkeffekte von Bitcoin, da die Nachfrage nach Privatsphäre zunimmt. Der Bericht könnte Privacy-Coins wie Zcash mehr Aufmerksamkeit verschaffen und die Debatte über Bitcoins Rolle als Wertaufbewahrungsmittel anstoßen. Kurzfristig dürfte die Marktbewegung bei Bitcoin begrenzt bleiben, während Zcash als Privacy-Asset stärker wahrgenommen wird.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T01:31:15Z"
-    },
     {
       "id": "https://cointelegraph.com/markets/bitcoin-eyes-81k-as-nvidia-earnings-beat-boosts-risk-assets",
       "title": "Bitcoin eyes $81K as Nvidia earnings beat boosts risk assets",
@@ -6161,6 +6129,41 @@
       "instruments": [],
       "entities": [],
       "summary": "Die Wallet in Telegram wird in Walt umbenannt, während zeitgleich die Gram Wallet debütiert. Für den Kryptomarkt hat die reine Marken- und Produktänderung zunächst keine direkte Preiswirkung. Eine konkrete Kursreaktion ist nicht zu erwarten; erste Auswirkungen dürften sich bei Nutzern der Wallet zeigen."
+    },
+    {
+      "id": "https://cointelegraph.com/markets/bitcoin-begins-volatile-monthly-close-as-us-bond-yields-eye-new-20-year-high",
+      "title": "Bitcoin begins volatile monthly close as US bond yields eye new 20-year high",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-31T16:38:51Z",
+      "score": 6,
+      "category": "Macro",
+      "sentiment": "bearish",
+      "instruments": [
+        "BTCUSD",
+        "US10Y"
+      ],
+      "entities": [],
+      "summary": "Bitcoin startet in einen volatilen Monatsabschluss, während US-Anleiherenditen auf ein neues 20-Jahres-Hoch zusteuern. Steigende Renditen erhöhen den Druck auf risikoreiche Anlagen wie Bitcoin und belasten die Stimmung am Kryptomarkt. Der Monatsabschluss dürfte daher von erhöhter Kursschwankung geprägt sein."
+    },
+    {
+      "id": "https://decrypt.co/?p=376960",
+      "title": "Bitcoin Holds Steady as US Strikes on Iran Rattle Stocks and Lift Oil",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-08-31T16:55:46Z",
+      "score": 6,
+      "category": "Macro",
+      "sentiment": "neutral",
+      "instruments": [
+        "BTCUSD",
+        "DXY",
+        "NDX"
+      ],
+      "entities": [],
+      "summary": "US-Luftangriffe auf den Iran verunsichern die Aktienmärkte und treiben den Ölpreis, während Bitcoin stabil bleibt. Geopolitische Spannungen erhöhen die Risikoaversion, was riskante Anlagen wie Aktien unter Druck setzt, aber Bitcoin zeigt relative Stärke. Eine anhaltende Eskalation könnte die Volatilität an den Märkten verstärken und die Risikobereitschaft weiter dämpfen."
     }
   ],
   "digest_log": [
