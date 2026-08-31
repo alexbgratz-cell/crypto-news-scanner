@@ -6114,7 +6114,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "Clipto nutzt KI, um Terabyte an Videomaterial durchsuchbar zu machen, und wird laut TechCrunch inzwischen mit 250 Millionen US-Dollar bewertet. Die Bewertung zeigt wachsendes Investoreninteresse an KI-gestützter Videoanalyse und -suche. Damit dürfte das Unternehmen im KI-Video-Segment weiter an Sichtbarkeit gewinnen."
+      "summary": "Clipto nutzt KI, um Terabyte an Videomaterial durchsuchbar zu machen, und wird laut TechCrunch inzwischen mit 250 Millionen US-Dollar bewertet. Die Bewertung zeigt wachsendes Investoreninteresse an KI-gestützter Videoanalyse und -suche. Damit dürfte das Unternehmen im KI-Video-Segment weiter an Sichtbarkeit gewinnen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T17:08:00Z"
     },
     {
       "id": "https://cointelegraph.com/news/telegram-gram-wallet-launch-wallet-in-telegram-walt-rebrand",
@@ -6145,7 +6147,9 @@
         "US10Y"
       ],
       "entities": [],
-      "summary": "Bitcoin startet in einen volatilen Monatsabschluss, während US-Anleiherenditen auf ein neues 20-Jahres-Hoch zusteuern. Steigende Renditen erhöhen den Druck auf risikoreiche Anlagen wie Bitcoin und belasten die Stimmung am Kryptomarkt. Der Monatsabschluss dürfte daher von erhöhter Kursschwankung geprägt sein."
+      "summary": "Bitcoin startet in einen volatilen Monatsabschluss, während US-Anleiherenditen auf ein neues 20-Jahres-Hoch zusteuern. Steigende Renditen erhöhen den Druck auf risikoreiche Anlagen wie Bitcoin und belasten die Stimmung am Kryptomarkt. Der Monatsabschluss dürfte daher von erhöhter Kursschwankung geprägt sein.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T17:08:00Z"
     },
     {
       "id": "https://decrypt.co/?p=376960",
@@ -6163,7 +6167,9 @@
         "NDX"
       ],
       "entities": [],
-      "summary": "US-Luftangriffe auf den Iran verunsichern die Aktienmärkte und treiben den Ölpreis, während Bitcoin stabil bleibt. Geopolitische Spannungen erhöhen die Risikoaversion, was riskante Anlagen wie Aktien unter Druck setzt, aber Bitcoin zeigt relative Stärke. Eine anhaltende Eskalation könnte die Volatilität an den Märkten verstärken und die Risikobereitschaft weiter dämpfen."
+      "summary": "US-Luftangriffe auf den Iran verunsichern die Aktienmärkte und treiben den Ölpreis, während Bitcoin stabil bleibt. Geopolitische Spannungen erhöhen die Risikoaversion, was riskante Anlagen wie Aktien unter Druck setzt, aber Bitcoin zeigt relative Stärke. Eine anhaltende Eskalation könnte die Volatilität an den Märkten verstärken und die Risikobereitschaft weiter dämpfen.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T17:08:00Z"
     }
   ],
   "digest_log": [
@@ -6757,6 +6763,14 @@
         "60b8b1ac-e5f2-5cbb-a83f-d78495d069a5",
         "https://cointelegraph.com/news/russian-crypto-trading-bring-46b-regulated-exchanges-legalization",
         "6677574c-0e7e-5d24-90e6-f311ae3a5dea"
+      ]
+    },
+    {
+      "at": "2026-08-31T17:08:00Z",
+      "article_ids": [
+        "https://techcrunch.com/?p=3158701",
+        "https://cointelegraph.com/markets/bitcoin-begins-volatile-monthly-close-as-us-bond-yields-eye-new-20-year-high",
+        "https://decrypt.co/?p=376960"
       ]
     }
   ],
