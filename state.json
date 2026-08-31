@@ -2559,17 +2559,11 @@
     "https://techcrunch.com/?p=3158688": "2026-08-31T13:04:29Z",
     "114e906b-b803-50c5-917c-a30ad78d5493": "2026-08-31T13:19:18Z",
     "https://cointelegraph.com/magazine/mystery-surrounds-why-an-og-burned-1m-in-bitcoin": "2026-08-31T13:34:21Z",
-    "https://cointelegraph.com/news/japanese-regulator-tax-exemption-trust-type-stablecoins-2027": "2026-08-31T13:34:21Z"
+    "https://cointelegraph.com/news/japanese-regulator-tax-exemption-trust-type-stablecoins-2027": "2026-08-31T13:34:21Z",
+    "https://cointelegraph.com/news/mutiny-metaplanet-moves-4800-btc-worth-377m-to-coinbase": "2026-08-31T13:49:30Z",
+    "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/": "2026-08-31T13:49:32Z"
   },
   "pending": {
-    "630297fc-830e-5d3a-8909-acd26001b666": {
-      "id": "630297fc-830e-5d3a-8909-acd26001b666",
-      "title": "‘Upside move in ETH was overdue,’ Tom Lee says as Bitmine buys another 32,447 ether",
-      "url": "https://www.theblock.co/news/business/2026-08-24-upside-move-eth-was-overdue-tom-lee-says-bitmine-buys-more-ether-412589",
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-24T13:36:31Z"
-    },
     "https://cointelegraph.com/news/zondacrypto-ceo-seeks-leniency-testimony-report": {
       "id": "https://cointelegraph.com/news/zondacrypto-ceo-seeks-leniency-testimony-report",
       "title": "Zondacrypto boss seeks leniency for testimony on political ties: Report",
@@ -2577,14 +2571,6 @@
       "stream": "crypto",
       "source": "Cointelegraph.com News",
       "published": "2026-08-24T14:00:51Z"
-    },
-    "https://techcrunch.com/?p=3155919": {
-      "id": "https://techcrunch.com/?p=3155919",
-      "title": "Hugging Face reportedly in talks to be acquired for $13B",
-      "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-24T13:47:26Z"
     },
     "245a63ca-9dac-58b1-a1db-dcf3afb1384e": {
       "id": "245a63ca-9dac-58b1-a1db-dcf3afb1384e",
@@ -3028,36 +3014,6 @@
     }
   },
   "articles": [
-    {
-      "id": "c92cd467-c3b7-5425-a19a-ca01ec3480c1",
-      "title": "Polish Olympic Committee president detained in Zondacrypto bribery probe",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-27T18:23:53Z",
-      "score": 6,
-      "category": "Regulation",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Der Präsident des Polnischen Olympischen Komitees wurde im Rahmen eines Bestechungsverdachts im Zusammenhang mit der Krypto-Börse Zondacrypto festgenommen. Der Fall belastet das Ansehen von Kryptounternehmen in Polen und könnte die regulatorische Aufmerksamkeit gegenüber dem Sektor erhöhen. Direkte Kursauswirkungen sind unwahrscheinlich, jedoch ist mit weiteren Ermittlungen und negativer Berichterstattung zu rechnen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T01:31:15Z"
-    },
-    {
-      "id": "dcb94b7f-d24b-547b-bb01-8a88432581d0",
-      "title": "Ethena Foundation proposes fee switch for ENA token buybacks among other updates",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-27T17:35:33Z",
-      "score": 5,
-      "category": "Tech Update",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Die Ethena Foundation schlägt einen Fee Switch vor, der Einnahmen für ENA-Token-Rückkäufe verwenden soll, begleitet von weiteren Updates. Für ENA-Inhaber wäre das ein positives Signal, da Rückkäufe das Angebot reduzieren und den Kurs stützen könnten. Die Entscheidung der Community über den Vorschlag dürfte die künftige Entwicklung des ENA-Tokens und des Ethena-Ökosystems maßgeblich beeinflussen."
-    },
     {
       "id": "6b8cc9d8-ae56-582c-bdd5-b66864f35b8b",
       "title": "DeFi Development Corp resumes Solana purchases, acquiring nearly 20,000 SOL",
@@ -6288,6 +6244,38 @@
       ],
       "entities": [],
       "summary": "Die japanische Finanzaufsicht fordert im Rahmen der Steuerreform 2027 eine Befreiung von der Steuererklärungspflicht für Trust-Typ-Stablecoins. Dies würde die regulatorische Unsicherheit für Stablecoin-Emittenten in Japan verringern und die Akzeptanz institutioneller Anleger fördern. Eine solche Erleichterung könnte die Nachfrage nach regulierten Stablecoins stützen und den Marktanteil entsprechender Anbieter erhöhen."
+    },
+    {
+      "id": "https://cointelegraph.com/news/mutiny-metaplanet-moves-4800-btc-worth-377m-to-coinbase",
+      "title": "Mutiny? Metaplanet moves 4,800 BTC worth $377M to Coinbase",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-08-31T13:15:12Z",
+      "score": 8,
+      "category": "Other",
+      "sentiment": "bearish",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Metaplanet hat 4.800 BTC im Wert von rund 377 Mio. US-Dollar an die Börse Coinbase transferiert. Der Schritt wird als mögliche Verkaufsvorbereitung gewertet und belastet die Bitcoin-Stimmung, da das Unternehmen bislang als Langzeithalter galt. Eine erhöhte Volatilität und kurzfristiger Abgabedruck am BTC-Kurs sind wahrscheinlich."
+    },
+    {
+      "id": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
+      "title": "ChatGTP and Reddit now face EU's toughest online safety rules",
+      "url": null,
+      "stream": "ai",
+      "source": "AI - Ars Technica",
+      "published": "2026-08-31T13:41:40Z",
+      "score": 7,
+      "category": "Regulation & Policy",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [
+        "OpenAI"
+      ],
+      "summary": "Die EU unterwirft ChatGPT und Reddit künftig ihren strengsten Online-Sicherheitsregeln. Die Plattformen müssen strengere Auflagen zu Moderation, Transparenz und Risikomanagement erfüllen, was ihre Betriebs- und Compliance-Kosten erhöht. Es drohen verschärfte Aufsicht und mögliche Bußgelder; die nächste Wegmarke sind die konkreten Umsetzungsfristen der EU."
     }
   ],
   "digest_log": [
