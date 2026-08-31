@@ -6097,7 +6097,9 @@
         "ETH"
       ],
       "entities": [],
-      "summary": "Ehemalige SEC- und CFTC-Beamte fordern eine leichtere Regulierung, um Krypto-Perpetual-Handel an Land zu bringen. Dies könnte den Handel mit Krypto-Derivaten in den USA erleichtern und die Marktliquidität erhöhen. Erwartet wird eine positive Reaktion des Kryptomarktes, insbesondere bei Bitcoin und Ethereum."
+      "summary": "Ehemalige SEC- und CFTC-Beamte fordern eine leichtere Regulierung, um Krypto-Perpetual-Handel an Land zu bringen. Dies könnte den Handel mit Krypto-Derivaten in den USA erleichtern und die Marktliquidität erhöhen. Erwartet wird eine positive Reaktion des Kryptomarktes, insbesondere bei Bitcoin und Ethereum.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T18:08:09Z"
     },
     {
       "id": "https://cointelegraph.com/news/webull-canada-crypto-trading-coinbase",
@@ -6114,7 +6116,9 @@
         "ETHUSD"
       ],
       "entities": [],
-      "summary": "Webull weitet sein Kryptoangebot durch eine Zusammenarbeit mit Coinbase auf Kanada aus. Kanadische Anleger erhalten damit einen weiteren regulierten Zugang zum Handel mit Kryptowährungen, was die Adoption stärkt und Coinbase als Infrastruktur-Anbieter begünstigt. Eine höhere Handelsaktivität über Coinbase und eine leicht positive Marktstimmung für die wichtigsten Kryptowährungen sind wahrscheinlich."
+      "summary": "Webull weitet sein Kryptoangebot durch eine Zusammenarbeit mit Coinbase auf Kanada aus. Kanadische Anleger erhalten damit einen weiteren regulierten Zugang zum Handel mit Kryptowährungen, was die Adoption stärkt und Coinbase als Infrastruktur-Anbieter begünstigt. Eine höhere Handelsaktivität über Coinbase und eine leicht positive Marktstimmung für die wichtigsten Kryptowährungen sind wahrscheinlich.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T18:08:09Z"
     },
     {
       "id": "https://decrypt.co/?p=376963",
@@ -6128,7 +6132,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Hyperliquid führt Gespräche mit der Kraken-Muttergesellschaft, um Krypto-Perpetual-Handel für US-Trader anzubieten. Eine Partnerschaft würde den Zugang zu Krypto-Derivaten in den USA erweitern und potenziell zu höherem Handelsvolumen und mehr Liquidität führen. Die nächste Wegmarke ist eine endgültige Partnerschafts- oder Zulassungsentscheidung."
+      "summary": "Hyperliquid führt Gespräche mit der Kraken-Muttergesellschaft, um Krypto-Perpetual-Handel für US-Trader anzubieten. Eine Partnerschaft würde den Zugang zu Krypto-Derivaten in den USA erweitern und potenziell zu höherem Handelsvolumen und mehr Liquidität führen. Die nächste Wegmarke ist eine endgültige Partnerschafts- oder Zulassungsentscheidung.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T18:08:09Z"
     }
   ],
   "digest_log": [
@@ -6730,6 +6736,14 @@
         "https://techcrunch.com/?p=3158701",
         "https://cointelegraph.com/markets/bitcoin-begins-volatile-monthly-close-as-us-bond-yields-eye-new-20-year-high",
         "https://decrypt.co/?p=376960"
+      ]
+    },
+    {
+      "at": "2026-08-31T18:08:09Z",
+      "article_ids": [
+        "https://decrypt.co/?p=376936",
+        "https://cointelegraph.com/news/webull-canada-crypto-trading-coinbase",
+        "https://decrypt.co/?p=376963"
       ]
     }
   ],
