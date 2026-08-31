@@ -6365,7 +6365,9 @@
         "US10Y"
       ],
       "entities": [],
-      "summary": "Die Märkte richten sich in der neuen Woche auf eine mögliche Zinserhöhung der Fed im September aus, wie der Wochenausblick für Bitcoin zeigt. Ein Zinsschritt würde Risikoanlagen wie Bitcoin belasten, da der Dollar tendenziell steigt und die Liquidität knapper wird. Erhöhte Volatilität an den Kryptomärkten und ein festerer Dollar sind daher wahrscheinlich."
+      "summary": "Die Märkte richten sich in der neuen Woche auf eine mögliche Zinserhöhung der Fed im September aus, wie der Wochenausblick für Bitcoin zeigt. Ein Zinsschritt würde Risikoanlagen wie Bitcoin belasten, da der Dollar tendenziell steigt und die Liquidität knapper wird. Erhöhte Volatilität an den Kryptomärkten und ein festerer Dollar sind daher wahrscheinlich.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T11:08:14Z"
     }
   ],
   "digest_log": [
@@ -6922,6 +6924,12 @@
       "at": "2026-08-31T09:08:16Z",
       "article_ids": [
         "9544007b-cb6d-56e5-bdc0-a5cd437c13f9"
+      ]
+    },
+    {
+      "at": "2026-08-31T11:08:14Z",
+      "article_ids": [
+        "https://cointelegraph.com/markets/markets-pivot-to-september-fed-rate-hike-five-things-to-know-in-bitcoin-this-week"
       ]
     }
   ],
