@@ -1,46 +1,46 @@
 {
-  "ts": "2026-08-31T07:02:36.290054Z",
+  "ts": "2026-08-31T13:32:24.322380Z",
   "instrument": "ALL",
-  "text": "**Kernaussage:** Der Gesamtmarkt handelt leicht schwächer: BTC liegt um 78.100 USD, ETH und SOL geben deutlicher nach, die Angst-Gier-Skala fällt von 69 auf 62.\n\n**Was es bedeutet:** Moderate Verluste bei Krypto und US-Indizes bei niedrigem VIX von 14,5 signalisieren Vorsicht, aber keinen Panikmodus. BTC-Dominanz steigt, ETH/BTC fällt – Kapital tendiert defensiv zu Bitcoin. Die ETF-Meldung beendet die neuntägige BTC-Zuflussserie, während Ethereum-Fonds weiter Zuflüsse verbuchen. Der Cronos-Exploit belastet das DeFi-Sentiment; die Marktstruktur wirkt insgesamt fragil.\n\n**Zu beachten:** Entscheidend sind die nächsten Bitcoin-ETF-Zuflussdaten: Bleiben sie aus, bleibt BTC anfällig; ein erneuter Zufluss würde das Sentiment stabilisieren.",
+  "text": "**Kernaussage**  \nDer Kryptomarkt zeigt sich stabil: BTC notiert leicht über 78.000 USD, ETH und SOL haben sich zuletzt erholt, die Dominanz von BTC ist leicht gesunken – ein Zeichen für etwas breitere Marktteilnahme.\n\n**Was es bedeutet**  \nDie Stimmung bleibt konstruktiv, aber nicht überschwänglich: Der Fear-and-Greed-Index steht bei 62 (Greed) und ist binnen 24 Stunden gefallen. Makro-Daten (DXY 118, US10Y 4,67 %) sind unverändert und üben keinen akuten Druck auf. Institutionelle Käufe wie der von Strategy stützen das Umfeld; Sicherheitsvorfälle im DeFi-Bereich dämpfen jedoch die Risikobereitschaft. Eine leichte Kapitalrotation hin zu ETH ist sichtbar.\n\n**Zu beachten**  \nOb BTC die Marke um 78.000 USD halten kann. Zudem: Der Rückgang beim F&G-Index und die Hacks im DeFi-Sektor sind die wichtigsten mittelfristigen Warnsignale.",
   "numbers": [
     {
       "sym": "BTCUSD",
-      "value": 78079,
-      "change": -0.26,
+      "value": 78037,
+      "change": -0.78,
       "label": "",
       "group": "Direkte Korrelation"
     },
     {
       "sym": "ETHUSD",
-      "value": 2442.44,
-      "change": -0.69,
+      "value": 2452.6,
+      "change": -0.42,
       "label": "",
       "group": "Direkte Korrelation"
     },
     {
       "sym": "SOLUSD",
-      "value": 102.76,
-      "change": -2.22,
+      "value": 102.83,
+      "change": -3.02,
       "label": "",
       "group": "Direkte Korrelation"
     },
     {
       "sym": "ETHBTC",
-      "value": 0.031282,
-      "change": -0.43,
+      "value": 0.031429,
+      "change": 0.36,
       "label": "",
       "group": "Kapitalrotation"
     },
     {
       "sym": "BTC.D",
-      "value": 59.65,
+      "value": 59.13,
       "change": null,
       "label": "",
       "group": "Liquidität & Sentiment"
     },
     {
       "sym": "USDT.D",
-      "value": 6.98,
+      "value": 6.92,
       "change": null,
       "label": "",
       "group": "Liquidität & Sentiment"
@@ -54,14 +54,14 @@
     },
     {
       "sym": "MEMPOOL",
-      "value": 82969.0,
+      "value": 81885.0,
       "change": null,
       "label": "",
       "group": "On-Chain"
     },
     {
       "sym": "MO30",
-      "value": 22.57,
+      "value": 22.51,
       "change": null,
       "label": "",
       "group": "On-Chain"
