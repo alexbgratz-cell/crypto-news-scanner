@@ -6421,7 +6421,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Laut einem Bericht prognostiziert die größte russische Bank ein Handelsvolumen von 46 Milliarden Dollar im ersten Jahr des Krypto-Exchange-Tradings unter den neuen Regeln. Der Schritt schafft einen regulären Rahmen für Kryptohandel in Russland und dürfte institutionelles Interesse und Marktliquidität erhöhen. Bei Umsetzung ist eine deutlich steigende Handelsaktivität an russischen Krypto-Börsen zu erwarten."
+      "summary": "Laut einem Bericht prognostiziert die größte russische Bank ein Handelsvolumen von 46 Milliarden Dollar im ersten Jahr des Krypto-Exchange-Tradings unter den neuen Regeln. Der Schritt schafft einen regulären Rahmen für Kryptohandel in Russland und dürfte institutionelles Interesse und Marktliquidität erhöhen. Bei Umsetzung ist eine deutlich steigende Handelsaktivität an russischen Krypto-Börsen zu erwarten.",
+      "delivered": "digest",
+      "delivered_at": "2026-08-31T09:08:16Z"
     }
   ],
   "digest_log": [
@@ -6972,6 +6974,12 @@
       "at": "2026-08-31T06:10:08Z",
       "article_ids": [
         "https://www.marktechpost.com/?p=81971"
+      ]
+    },
+    {
+      "at": "2026-08-31T09:08:16Z",
+      "article_ids": [
+        "9544007b-cb6d-56e5-bdc0-a5cd437c13f9"
       ]
     }
   ],
