@@ -2558,17 +2558,10 @@
     "https://cointelegraph.com/news/ireland-crypto-tax-advantaged-investment-accounts": "2026-08-31T20:34:11Z",
     "https://decrypt.co/?p=376992": "2026-08-31T21:04:24Z",
     "https://openai.com/index/gpt-5-6-in-kiro": "2026-08-31T21:04:24Z",
-    "https://www.marktechpost.com/?p=81981": "2026-08-31T21:34:35Z"
+    "https://www.marktechpost.com/?p=81981": "2026-08-31T21:34:35Z",
+    "https://decrypt.co/?p=376999": "2026-08-31T21:49:26Z"
   },
   "pending": {
-    "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/": {
-      "id": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-      "stream": "ai",
-      "source": "AI - Ars Technica",
-      "published": "2026-08-24T21:45:53Z"
-    },
     "https://decrypt.co/?p=376415": {
       "id": "https://decrypt.co/?p=376415",
       "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
@@ -2755,24 +2748,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=376757",
-      "title": "Red Flag? OpenAI's Agentic ChatGPT Work Signs Into Your Accounts Without You",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-27T21:00:57Z",
-      "score": 6,
-      "category": "Safety & Risk",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [
-        "OpenAI"
-      ],
-      "summary": "OpenAI's agentic ChatGPT Work kann sich offenbar ohne aktives Zutun des Nutzers in dessen Konten einloggen, was als Sicherheitsrisiko diskutiert wird. Das betrifft Unternehmen und Nutzer, die autonome KI-Agenten einsetzen, und könnte das Vertrauen in solche Funktionen schwächen. In der Folge sind strengere Sicherheitskontrollen und eine kritischere öffentliche Debatte über autonome KI-Zugriffe wahrscheinlich.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T01:31:15Z"
-    },
     {
       "id": "https://decrypt.co/?p=376752",
       "title": "$6.4 Billion in Bitcoin Options Expire Tomorrow—Here's What It Means",
@@ -6030,6 +6005,20 @@
         "GOOGL"
       ],
       "summary": "Google AI stellt TimesFM-3 vor, ein 330-Millionen-Parameter-Foundation-Modell für multivariate Zeitreihenprognosen mit Zero-Shot-Fähigkeiten. Das Modell stärkt Googles KI-Angebot und dürfte Anwendungen in Finanzen, Supply Chain und Wissenschaft verbessern. Dadurch erhöht sich der Wettbewerbsdruck auf andere Forecasting-Anbieter, während GOOGL seine Position im KI-Bereich weiter ausbaut."
+    },
+    {
+      "id": "https://decrypt.co/?p=376999",
+      "title": "As Public Fury Mounts, Texas Pulls the Plug on Flock Surveillance Funding",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-08-31T21:46:04Z",
+      "score": 6,
+      "category": "Regulation & Policy",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Texas stoppt die öffentliche Finanzierung des Überwachungsprogramms von Flock, nachdem der Unmut in der Bevölkerung gewachsen ist. Der Schritt schwächt den Anbieter von Überwachungstechnik und signalisiert eine wachsende Ablehnung staatlicher Überwachung. Für die Branche steigt das Risiko weiterer Kürzungen und regulatorischer Einschränkungen."
     }
   ],
   "digest_log": [
