@@ -2557,17 +2557,10 @@
     "https://techcrunch.com/?p=3159449": "2026-09-01T00:37:29Z",
     "https://huggingface.co/blog/gradio-workflow-guide": "2026-09-01T03:40:25Z",
     "https://www.marktechpost.com/?p=81990": "2026-09-01T03:40:27Z",
-    "c3ffc3bf-c2e4-5b73-8c77-f6068567df4f": "2026-09-01T03:51:38Z"
+    "c3ffc3bf-c2e4-5b73-8c77-f6068567df4f": "2026-09-01T03:51:38Z",
+    "https://cointelegraph.com/news/thailand-sec-retail-overseas-crypto-derivatives": "2026-09-01T04:07:39Z"
   },
   "pending": {
-    "https://cointelegraph.com/news/bnb-chain-pasteur-hard-fork-bridge-security": {
-      "id": "https://cointelegraph.com/news/bnb-chain-pasteur-hard-fork-bridge-security",
-      "title": "BNB Chain activates Pasteur hard fork to strengthen bridge security",
-      "url": "https://cointelegraph.com/news/bnb-chain-pasteur-hard-fork-bridge-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-25T03:56:29Z"
-    },
     "dad4af39-3413-5914-b2d8-a9cf478c28fd": {
       "id": "dad4af39-3413-5914-b2d8-a9cf478c28fd",
       "title": "Bitcoin holds above $80,000 backed by ETF flows; bull market case ‘early but optimistic,’ analyst says",
@@ -2690,24 +2683,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=376706",
-      "title": "Solana Is Having Its Best Month Since 2024—With a Historic Governance Vote on Deck",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-27T15:12:18Z",
-      "score": 6,
-      "category": "Tech Update",
-      "sentiment": "bullish",
-      "instruments": [
-        "SOLUSD"
-      ],
-      "entities": [],
-      "summary": "Solana verzeichnet laut Decrypt seinen besten Monat seit 2024, während eine historische Governance-Abstimmung ansteht. Die positive Preisentwicklung stärkt das Marktvertrauen in SOL; der Ausgang der Abstimmung könnte die weitere Richtung des Netzwerks mitbestimmen. Die Abstimmung ist die nächste entscheidende Wegmarke; erhöhte Volatilität bei SOL ist wahrscheinlich.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T01:31:15Z"
-    },
     {
       "id": "https://decrypt.co/?p=376690",
       "title": "Flock CEO Asks Americans to 'Compromise' on Privacy as Camera Backlash Grows",
@@ -5963,6 +5938,23 @@
       ],
       "entities": [],
       "summary": "DeFi Development Corp schlägt eine Kapitalerhöhung über 20 Millionen US-Dollar in Vorzugsaktien vor, um weitere SOL-Token zu kaufen. Dies signalisiert institutionelles Interesse und zusätzliche Nachfrage nach SOL, was den Markt positiv stimmen dürfte. Bei erfolgreicher Umsetzung könnte der SOL-Kurs kurzfristig weiter gestützt werden."
+    },
+    {
+      "id": "https://cointelegraph.com/news/thailand-sec-retail-overseas-crypto-derivatives",
+      "title": "Thailand SEC proposes retail access to regulated overseas crypto derivatives",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-01T03:49:00Z",
+      "score": 7,
+      "category": "Regulation",
+      "sentiment": "bullish",
+      "instruments": [
+        "BTCUSD",
+        "ETHUSD"
+      ],
+      "entities": [],
+      "summary": "Thailands SEC schlägt vor, Privatanlegern den Zugang zu regulierten Krypto-Derivaten im Ausland zu ermöglichen. Dies dürfte das Marktangebot erweitern und die Teilnahme institutioneller Anleger fördern. Die Entscheidung über die Regelung wird in Thailand erwartet und könnte die Attraktivität als Krypto-Standort stärken."
     }
   ],
   "digest_log": [
