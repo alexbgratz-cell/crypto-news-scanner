@@ -2557,7 +2557,9 @@
     "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/": "2026-09-01T14:26:32Z",
     "https://decrypt.co/?p=377032": "2026-09-01T14:41:23Z",
     "6a9582ab4bec28bfced5a370": "2026-09-01T14:56:39Z",
-    "https://huggingface.co/blog/webgpu-kernels": "2026-09-01T15:09:55Z"
+    "https://huggingface.co/blog/webgpu-kernels": "2026-09-01T15:09:55Z",
+    "https://cointelegraph.com/markets/bitcoin-remains-flat-as-global-bond-bear-market-rages-on": "2026-09-01T15:44:17Z",
+    "https://techcrunch.com/?p=3159557": "2026-09-01T15:44:18Z"
   },
   "pending": {
     "8e729437-e9c7-554a-b0ab-ada4ae318bec": {
@@ -2578,34 +2580,6 @@
     }
   },
   "articles": [
-    {
-      "id": "6a8c7de0dd042d49c2d1d203",
-      "title": "Submit Your Questions: The Great Data Center Backlash",
-      "url": null,
-      "stream": "ai",
-      "source": "Feed: Artificial Intelligence Latest",
-      "published": "2026-08-27T11:00:00Z",
-      "score": 4,
-      "category": "Society & Work",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Der Artikel kündigt lediglich an, dass Leser Fragen zum Thema „Great Data Center Backlash“ einreichen können. Es werden keine konkreten Ereignisse, Zahlen oder beteiligten Unternehmen genannt. Eine unmittelbare Branchenwirkung oder konkrete Konsequenz ist aus dieser Ankündigung nicht abzuleiten."
-    },
-    {
-      "id": "6a8bc9f7f95e178519083246",
-      "title": "Stop Touching Your Keyboard. Use This AI-Powered Microphone Instead",
-      "url": null,
-      "stream": "ai",
-      "source": "Feed: Artificial Intelligence Latest",
-      "published": "2026-08-27T10:30:00Z",
-      "score": 4,
-      "category": "Hardware & Infrastructure",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Der Artikel bewirbt ein KI-gestütztes Mikrofon als Alternative zur Tastatur, nennt aber keine technischen Details oder Hersteller. Es handelt sich um reine Produktwerbung ohne belastbare Informationen zu Markt oder Technologie. Ein nennenswerter Einfluss auf die KI-Industrie ist daraus nicht abzuleiten."
-    },
     {
       "id": "6a8c6c2fff427bf214570441",
       "title": "The UK Power Grid Has a Phantom Data Center Problem",
@@ -5844,6 +5818,37 @@
       "summary": "Hugging Face stellt mit @huggingface/kernels eine Bibliothek mit über 200 WebGPU-Kerneln für lokale KI-Anwendungen vor. Dadurch wird KI-Inferenz direkt im Browser möglich, was Daten lokal hält und die Abhängigkeit von Cloud-Anbietern verringert. Die Folge ist eine stärkere Verbreitung von On-Device-KI in Webbrowsern, während rechenzentrumsbasierte Inferenzdienste unter Druck geraten.",
       "delivered": "digest",
       "delivered_at": "2026-09-01T15:22:01Z"
+    },
+    {
+      "id": "https://cointelegraph.com/markets/bitcoin-remains-flat-as-global-bond-bear-market-rages-on",
+      "title": "Bitcoin stays flat as global bond bear market rages on, pushing JGB to high",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-01T15:34:00Z",
+      "score": 6,
+      "category": "Macro",
+      "sentiment": "neutral",
+      "instruments": [
+        "BTCUSD",
+        "US10Y"
+      ],
+      "entities": [],
+      "summary": "Bitcoin bleibt weitgehend unverändert, während der globale Anleihen-Bärenmarkt anhält und japanische Staatsanleihen neue Höchststände erreichen. Steigende Renditen weltweit erhöhen den Druck auf risikoreiche Anlagen, belasten Bitcoin derzeit aber offenbar nicht direkt. Die weitere Entwicklung der Anleiherenditen dürfte der entscheidende Faktor für die Kursrichtung von Bitcoin bleiben."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3159557",
+      "title": "Fambot introduces an ‘AI chief of staff’ for families",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-01T15:10:58Z",
+      "score": 6,
+      "category": "Business & Funding",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Fambot stellt einen KI-gestützten Assistenten für Familien vor, der alltägliche Aufgaben organisieren soll. Das Produkt ist ein weiteres Beispiel für die zunehmende Integration von KI in den Privatbereich, ohne jedoch die großen KI-Unternehmen direkt zu betreffen. Eine unmittelbare Branchenwirkung ist daher nicht zu erwarten; entscheidend wird die Nutzerakzeptanz in den kommenden Monaten."
     }
   ],
   "digest_log": [
