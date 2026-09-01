@@ -2555,17 +2555,10 @@
     "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes": "2026-09-01T10:08:05Z",
     "https://cointelegraph.com/news/singapore-weighs-foreign-regulated-stablecoins-mas-framework": "2026-09-01T10:08:05Z",
     "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia": "2026-09-01T10:08:05Z",
-    "https://www.technologyreview.com/?p=1141907": "2026-09-01T10:08:06Z"
+    "https://www.technologyreview.com/?p=1141907": "2026-09-01T10:08:06Z",
+    "76a74f4f-91d5-504f-9a94-e0942e5bde38": "2026-09-01T10:43:35Z"
   },
   "pending": {
-    "https://cointelegraph.com/news/thailand-bitcoin-ether-etfs-draft-rules": {
-      "id": "https://cointelegraph.com/news/thailand-bitcoin-ether-etfs-draft-rules",
-      "title": "Thailand moves closer to Bitcoin, Ether ETFs with draft rules",
-      "url": "https://cointelegraph.com/news/thailand-bitcoin-ether-etfs-draft-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-25T10:20:14Z"
-    },
     "8e729437-e9c7-554a-b0ab-ada4ae318bec": {
       "id": "8e729437-e9c7-554a-b0ab-ada4ae318bec",
       "title": "South Korea’s Shinhan to use Visa’s stablecoin platform for ‘future finance’ initiatives",
@@ -2584,24 +2577,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-      "title": "Piloting the world's first double-blind AI evaluations",
-      "url": null,
-      "stream": "ai",
-      "source": "Google DeepMind News",
-      "published": "2026-08-27T12:59:16Z",
-      "score": 6,
-      "category": "Safety & Risk",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [
-        "GOOGL"
-      ],
-      "summary": "Google DeepMind startet ein Pilotprojekt für die weltweit ersten doppelblinden KI-Evaluierungen. Die Methode soll Verzerrungen in KI-Bewertungen reduzieren und könnte damit die Glaubwürdigkeit von Sicherheits- und Leistungstests branchenweit erhöhen. Der Ausgang des Piloten dürfte die künftigen Standards für KI-Evaluierungen mitprägen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T01:31:15Z"
-    },
     {
       "id": "https://techcrunch.com/?p=3147648",
       "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
@@ -5857,6 +5832,20 @@
       "summary": "Die MAS prüft, ob ausländische, bereits regulierte Stablecoins in Singapur anerkannt werden sollen. Eine solche Anerkennung würde ausländischen Emittenten den Zugang zum Singapur-Markt erleichtern und den Wettbewerb im Stablecoin-Segment erhöhen. Eine Entscheidung der MAS dürfte die künftige Nutzung und Verbreitung von Stablecoins in der Region spürbar prägen.",
       "delivered": "digest",
       "delivered_at": "2026-09-01T10:16:03Z"
+    },
+    {
+      "id": "76a74f4f-91d5-504f-9a94-e0942e5bde38",
+      "title": "Binance adds options on 1,000 US stocks and ETFs as monthly TradFi perpetual volume hits $433 billion",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-09-01T10:33:52Z",
+      "score": 7,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Binance erweitert sein Angebot um Optionen auf 1.000 US-Aktien und ETFs; das monatliche Volumen mit TradFi-Perpetuals erreicht 433 Milliarden Dollar. Der Schritt unterstreicht die wachsende institutionelle Nachfrage nach derivativen Produkten und stärkt Binances Position als Schnittstelle zwischen traditionellem Finanzwesen und Krypto. Die Ausweitung dürfte die Handelsaktivität auf der Plattform erhöhen, ein direkter Kurseffekt auf Krypto-Assets ist aber nicht unmittelbar zu erwarten."
     }
   ],
   "digest_log": [
