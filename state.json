@@ -5735,7 +5735,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Die britische Kriminalitätsbehörde hat im Rahmen einer Untersuchung 13,5 Millionen Dollar im Zusammenhang mit Sorare eingefroren, einer Krypto-Fantasy-Fußballplattform und Premier-League-Sponsor. Die Maßnahme erhöht den regulatorischen Druck auf Krypto- und NFT-Unternehmen und erzeugt Unsicherheit für deren Partnerschaften. Eine Belastung für Sorares Geschäftsbetrieb und Sponsoring-Verträge ist wahrscheinlich."
+      "summary": "Die britische Kriminalitätsbehörde hat im Rahmen einer Untersuchung 13,5 Millionen Dollar im Zusammenhang mit Sorare eingefroren, einer Krypto-Fantasy-Fußballplattform und Premier-League-Sponsor. Die Maßnahme erhöht den regulatorischen Druck auf Krypto- und NFT-Unternehmen und erzeugt Unsicherheit für deren Partnerschaften. Eine Belastung für Sorares Geschäftsbetrieb und Sponsoring-Verträge ist wahrscheinlich.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T21:14:50Z"
     },
     {
       "id": "https://openai.com/index/path-to-astra",
@@ -5782,7 +5784,9 @@
       "entities": [
         "Anthropic"
       ],
-      "summary": "Anthropic hat Claude Fable 5.1 und Claude Mythos 5.1 veröffentlicht; die Modelle erreichen 52,6 % im Terminal-Bench-Science und senken die Kosten für Cache Reads um 75 %. Die gleichzeitige Verbesserung von Leistung und Kosten stärkt Anthropics Position im Wettbewerb um KI-Modelle. Dadurch werden Claude-APIs für langlaufende, kontextreiche Anwendungen deutlich günstiger und attraktiver."
+      "summary": "Anthropic hat Claude Fable 5.1 und Claude Mythos 5.1 veröffentlicht; die Modelle erreichen 52,6 % im Terminal-Bench-Science und senken die Kosten für Cache Reads um 75 %. Die gleichzeitige Verbesserung von Leistung und Kosten stärkt Anthropics Position im Wettbewerb um KI-Modelle. Dadurch werden Claude-APIs für langlaufende, kontextreiche Anwendungen deutlich günstiger und attraktiver.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T21:14:50Z"
     },
     {
       "id": "https://cointelegraph.com/news/binance-adds-options-on-1000-us-stocks-and-etfs-in-tradfi-expansion",
@@ -5796,7 +5800,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "Die Kryptobörse Binance erweitert ihr Angebot um Optionen auf etwa 1.000 US-Aktien und ETFs. Damit drängt Binance stärker ins traditionelle Finanzgeschäft und könnte neue Nutzer auf die Plattform ziehen, ohne die Kryptomärkte direkt zu bewegen. Die konkrete Einführung und die regulatorische Umsetzung stehen noch aus."
+      "summary": "Die Kryptobörse Binance erweitert ihr Angebot um Optionen auf etwa 1.000 US-Aktien und ETFs. Damit drängt Binance stärker ins traditionelle Finanzgeschäft und könnte neue Nutzer auf die Plattform ziehen, ohne die Kryptomärkte direkt zu bewegen. Die konkrete Einführung und die regulatorische Umsetzung stehen noch aus.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T21:14:50Z"
     },
     {
       "id": "https://decrypt.co/?p=377126",
@@ -5842,7 +5848,9 @@
       "entities": [
         "OpenAI"
       ],
-      "summary": "OpenAI kündigt sein Modell Astra an, das laut Bericht sehr gut darin ist, in Computersysteme einzudringen. Diese Fähigkeit könnte Sicherheitsbedenken verstärken und Debatten über Risiken und Regulierung von KI-Modellen anheizen. Erhöhte Aufmerksamkeit für Sicherheitstests und Governance ist die wahrscheinliche Folge."
+      "summary": "OpenAI kündigt sein Modell Astra an, das laut Bericht sehr gut darin ist, in Computersysteme einzudringen. Diese Fähigkeit könnte Sicherheitsbedenken verstärken und Debatten über Risiken und Regulierung von KI-Modellen anheizen. Erhöhte Aufmerksamkeit für Sicherheitstests und Governance ist die wahrscheinliche Folge.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T21:14:50Z"
     },
     {
       "id": "https://techcrunch.com/?p=3159905",
@@ -5858,7 +5866,9 @@
       "entities": [
         "GOOGL"
       ],
-      "summary": "Google kündigt ein Android-Update an, das Funktionen gegen Reisekrankheit, Verbesserungen zur Barrierefreiheit und weitere Neuerungen enthält. Für die Tech-Branche ist das eine breite Produktpflege, kein KI-Durchbruch; vor allem Nutzer mit Einschränkungen profitieren. Eine größere Marktreaktion ist nicht zu erwarten; relevant ist die offizielle Ausrollung des Updates."
+      "summary": "Google kündigt ein Android-Update an, das Funktionen gegen Reisekrankheit, Verbesserungen zur Barrierefreiheit und weitere Neuerungen enthält. Für die Tech-Branche ist das eine breite Produktpflege, kein KI-Durchbruch; vor allem Nutzer mit Einschränkungen profitieren. Eine größere Marktreaktion ist nicht zu erwarten; relevant ist die offizielle Ausrollung des Updates.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T21:14:50Z"
     }
   ],
   "digest_log": [
@@ -6624,6 +6634,16 @@
         "https://techcrunch.com/?p=3159842",
         "6a95c50b1ed47ec1f88c0129",
         "501ce343-2138-52e9-bf27-057b87c519a2"
+      ]
+    },
+    {
+      "at": "2026-09-01T21:14:50Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/uk-crime-agency-froze-premier-league-crypto-partner-sorare",
+        "https://www.marktechpost.com/?p=82022",
+        "https://cointelegraph.com/news/binance-adds-options-on-1000-us-stocks-and-etfs-in-tradfi-expansion",
+        "https://techcrunch.com/?p=3159895",
+        "https://techcrunch.com/?p=3159905"
       ]
     }
   ],
