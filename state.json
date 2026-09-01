@@ -2554,7 +2554,8 @@
     "1de6ac6c-43e3-521f-90b1-4e76b0192cd9": "2026-09-01T14:26:30Z",
     "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing": "2026-09-01T14:26:31Z",
     "https://huggingface.co/blog/pwc-search": "2026-09-01T14:26:31Z",
-    "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/": "2026-09-01T14:26:32Z"
+    "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/": "2026-09-01T14:26:32Z",
+    "https://decrypt.co/?p=377032": "2026-09-01T14:41:23Z"
   },
   "pending": {
     "8e729437-e9c7-554a-b0ab-ada4ae318bec": {
@@ -2575,20 +2576,6 @@
     }
   },
   "articles": [
-    {
-      "id": "6a8c94bfdc189f02e9641b90",
-      "title": "A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend",
-      "url": null,
-      "stream": "ai",
-      "source": "Feed: Artificial Intelligence Latest",
-      "published": "2026-08-27T18:12:17Z",
-      "score": 5,
-      "category": "Safety & Risk",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Ein Polizist in Georgia nutzte die Überwachungstechnologie Flock, um seine Ex-Partnerin und deren Freundin zu verfolgen. Der Vorfall zeigt Missbrauchsrisiken automatisierter Überwachung und belastet das Vertrauen in solche Systeme. Es ist mit strengeren Regeln und mehr Kontrolle beim Einsatz der Technologie zu rechnen."
-    },
     {
       "id": "6a905af1535e42598157d7c3",
       "title": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
@@ -5843,6 +5830,20 @@
       ],
       "entities": [],
       "summary": "Laut The Block bewegen sich Bitcoin und Gold zunehmend synchron, da der sogenannte Debasement-Trade neue Dynamik gewinnt. Das signalisiert wachsende Nachfrage nach knappen Vermögenswerten als Schutz vor Kaufkraftverlust des Dollar und stützt damit die Marktstimmung für Bitcoin. Die Korrelation dürfte sich fortsetzen, solange die geldpolitische Lockerung anhält."
+    },
+    {
+      "id": "https://decrypt.co/?p=377032",
+      "title": "Gal Gadot Defends AI Use in Bitcoin Film: 'Work With It or Be Out of the Game'",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-01T14:39:55Z",
+      "score": 4,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Gal Gadot verteidigt den Einsatz von Künstlicher Intelligenz in einem Bitcoin-Film und sagt, man müsse mit der Technologie arbeiten oder „aus dem Spiel“ sein. Die Aussage ist eine persönliche Meinung ohne direkten Bezug zu Kursen, Regulierung oder Marktdaten. Daher ist keine unmittelbare Marktbewegung für Krypto-Assets zu erwarten."
     }
   ],
   "digest_log": [
