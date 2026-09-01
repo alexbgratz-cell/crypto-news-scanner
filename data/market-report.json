@@ -1,46 +1,46 @@
 {
-  "ts": "2026-09-01T13:36:23.804858Z",
+  "ts": "2026-09-01T20:04:34.951105Z",
   "instrument": "ALL",
-  "text": "**Kernaussage**  \nDer Gesamtmarkt handelt seitwärts: BTC liegt bei rund 77.700 USD, Altcoins und Aktienindizes geben minimal nach – eine abwartende Konsolidierung ohne klare Richtung.\n\n**Was es bedeutet**  \nDie engen 24h-Bewegungen bei BTC, ETH und SOL signalisieren keine ausgeprägte Risikoaversion. Der Fear & Greed Index bleibt mit 69 im Greed-Bereich und steigt um 7 Punkte, während BTC.D mit 59,1 stabil bleibt. Makro belastet leicht: DXY und US10Y steigen, VIX fällt – insgesamt moderater Druck. Die Nachrichtenlage ist gemischt: institutionelle Käufe (Saylor) und Tokenisierungs-Ausbau treffen auf regulatorische und Sicherheitsrisiken (Lazarus-Transfer, UK-Ermittlungen).\n\n**Zu beachten**  \nDie wichtigste Marke ist der Bereich um 77.000 USD bei BTC: Unterschreitet er ihn nachhaltig, könnte die Konsolidierung kippen; die ansteigenden Anleiherenditen (US10Y bei 4,73 %) sind dabei der stärkste externe Risikofaktor.",
+  "text": "**Kernaussage:** Der Gesamtmarkt korrigiert: BTC fällt auf rund 77.300 USD (-2,2 %), ETH und SOL verlieren stärker, begleitet von fallenden Tech-Indizes und steigendem VIX.\n\n**Was es bedeutet:** Der Rückgang von Aktien und Krypto weist auf moderates Risiko-Off hin; steigende Renditen und höhere Volatilität setzen riskante Anlagen unter Druck. Die BTC-Dominanz bleibt stabil bei 59 %, ETH/BTC fällt nur leicht – keine Rotation, sondern ein synchroner Rückgang. Der Fear-and-Greed-Index bleibt mit 69 im Greed-Bereich; das Sentiment ist also noch nicht gekippt. Positive Meldungen etwa zu Blockchain-Regeln verpuffen vorderhand.\n\n**Zu beachten:** Entscheidend ist, ob sich BTC oberhalb der runden Marke von 77.000 USD stabilisiert. Hält sie, deutet das auf Konsolidierung; fällt sie, dürfte der Druck auf Altcoins weiter zunehmen.",
   "numbers": [
     {
       "sym": "BTCUSD",
-      "value": 77759,
-      "change": -0.33,
+      "value": 77257,
+      "change": -2.2,
       "label": "",
       "group": "Direkte Korrelation"
     },
     {
       "sym": "ETHUSD",
-      "value": 2439.72,
-      "change": -0.48,
+      "value": 2415.26,
+      "change": -2.66,
       "label": "",
       "group": "Direkte Korrelation"
     },
     {
       "sym": "SOLUSD",
-      "value": 101.8,
-      "change": -0.89,
+      "value": 99.82,
+      "change": -3.77,
       "label": "",
       "group": "Direkte Korrelation"
     },
     {
       "sym": "ETHBTC",
-      "value": 0.031375,
-      "change": -0.15,
+      "value": 0.031263,
+      "change": -0.47,
       "label": "",
       "group": "Kapitalrotation"
     },
     {
       "sym": "BTC.D",
-      "value": 59.09,
+      "value": 59.08,
       "change": null,
       "label": "",
       "group": "Liquidität & Sentiment"
     },
     {
       "sym": "USDT.D",
-      "value": 6.94,
+      "value": 6.98,
       "change": null,
       "label": "",
       "group": "Liquidität & Sentiment"
@@ -54,14 +54,14 @@
     },
     {
       "sym": "MEMPOOL",
-      "value": 86885.0,
+      "value": 91412.0,
       "change": null,
       "label": "",
       "group": "On-Chain"
     },
     {
       "sym": "MO30",
-      "value": 21.72,
+      "value": 20.94,
       "change": null,
       "label": "",
       "group": "On-Chain"
@@ -75,15 +75,15 @@
     },
     {
       "sym": "NDX",
-      "value": 29456.97,
-      "change": 0.08,
+      "value": 29089.22,
+      "change": -1.25,
       "label": "",
       "group": "TradFi/Makro"
     },
     {
       "sym": "VIX",
-      "value": 14.43,
-      "change": -0.55,
+      "value": 14.92,
+      "change": 3.4,
       "label": "",
       "group": "TradFi/Makro"
     },
