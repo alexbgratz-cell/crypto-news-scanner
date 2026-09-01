@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://cointelegraph.com/news/thailand-bitcoin-ether-etfs-draft-rules": "2026-08-25T10:53:47Z",
-    "https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution": "2026-08-25T10:53:47Z",
-    "https://decrypt.co/?p=376427": "2026-08-25T10:53:47Z",
-    "https://decrypt.co/?p=376424": "2026-08-25T10:53:47Z",
-    "https://cointelegraph.com/markets/bitcoin-rsi-bullish-divergence-draws-2022-comparisons-as-analysis-weighs-new-price-trend": "2026-08-25T11:04:55Z",
     "907a737d-4d0f-5800-ae0c-b74e4f1b6f85": "2026-08-25T14:08:22Z",
     "https://cointelegraph.com/news/arcus-tokenized-perp-positions-robinhood-chain": "2026-08-25T14:08:22Z",
     "https://cointelegraph.com/features/hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox": "2026-08-25T14:08:22Z",
@@ -2556,7 +2551,8 @@
     "https://cointelegraph.com/news/singapore-weighs-foreign-regulated-stablecoins-mas-framework": "2026-09-01T10:08:05Z",
     "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia": "2026-09-01T10:08:05Z",
     "https://www.technologyreview.com/?p=1141907": "2026-09-01T10:08:06Z",
-    "76a74f4f-91d5-504f-9a94-e0942e5bde38": "2026-09-01T10:43:35Z"
+    "76a74f4f-91d5-504f-9a94-e0942e5bde38": "2026-09-01T10:43:35Z",
+    "https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks": "2026-09-01T11:07:39Z"
   },
   "pending": {
     "8e729437-e9c7-554a-b0ab-ada4ae318bec": {
@@ -2577,23 +2573,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3147648",
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-27T23:16:45Z",
-      "score": 5,
-      "category": "Business & Funding",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [
-        "Anthropic",
-        "OpenAI"
-      ],
-      "summary": "Anthropic und OpenAI nehmen an der AI-Stage der TechCrunch Disrupt 2026 teil. Die Teilnahme unterstreicht die Bedeutung der Konferenz für die KI-Branche, liefert aber keine neuen Produkt- oder Geschäftsinformationen. Eine unmittelbare Marktbewegung ist daher nicht zu erwarten; die Veranstaltung dürfte vor allem als Plattform für künftige Ankündigungen dienen."
-    },
     {
       "id": "https://techcrunch.com/?p=3158012",
       "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
@@ -5846,6 +5825,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Binance erweitert sein Angebot um Optionen auf 1.000 US-Aktien und ETFs; das monatliche Volumen mit TradFi-Perpetuals erreicht 433 Milliarden Dollar. Der Schritt unterstreicht die wachsende institutionelle Nachfrage nach derivativen Produkten und stärkt Binances Position als Schnittstelle zwischen traditionellem Finanzwesen und Krypto. Die Ausweitung dürfte die Handelsaktivität auf der Plattform erhöhen, ein direkter Kurseffekt auf Krypto-Assets ist aber nicht unmittelbar zu erwarten."
+    },
+    {
+      "id": "https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks",
+      "title": "London Stock Exchange partners with Kraken parent for tokenized UK stocks: FT",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-01T10:56:41Z",
+      "score": 6,
+      "category": "Tech Update",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Die Londoner Börse geht laut FT eine Partnerschaft mit dem Mutterkonzern von Kraken ein, um tokenisierte britische Aktien anzubieten. Diese institutionelle Zusammenarbeit könnte die Akzeptanz Blockchain-basierter Wertpapiere fördern und das Vertrauen in Krypto-Handelsinfrastruktur stärken. Dieser Schritt dürfte weitere traditionelle Börsen ermutigen, ähnliche tokenisierte Produkte einzuführen und die Nachfrage nach Krypto-Dienstleistungen erhöhen."
     }
   ],
   "digest_log": [
