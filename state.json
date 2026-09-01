@@ -2552,7 +2552,9 @@
     "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia": "2026-09-01T10:08:05Z",
     "https://www.technologyreview.com/?p=1141907": "2026-09-01T10:08:06Z",
     "76a74f4f-91d5-504f-9a94-e0942e5bde38": "2026-09-01T10:43:35Z",
-    "https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks": "2026-09-01T11:07:39Z"
+    "https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks": "2026-09-01T11:07:39Z",
+    "258218ee-d36f-5488-86ba-4eefafdb8d64": "2026-09-01T11:38:10Z",
+    "https://decrypt.co/?p=377010": "2026-09-01T11:38:10Z"
   },
   "pending": {
     "8e729437-e9c7-554a-b0ab-ada4ae318bec": {
@@ -2573,44 +2575,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3158012",
-      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-27T19:52:52Z",
-      "score": 6,
-      "category": "Business & Funding",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [
-        "GOOGL"
-      ],
-      "summary": "Barret Zoph, Mitgründer von Thinking Machines, der vor seinem Wechsel zu OpenAI dort ausschied, ist nun bei Google. Der Wechsel stärkt Googles KI-Forschungsteam und zeigt den intensiven Wettbewerb um Top-Talente zwischen führenden KI-Laboren. Googles KI-Entwicklung könnte dadurch beschleunigt werden, obwohl konkrete Produktfolgen noch offen sind.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T01:31:15Z"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3157852",
-      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-27T17:43:24Z",
-      "score": 7,
-      "category": "Safety & Risk",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [
-        "OpenAI",
-        "Anthropic",
-        "Google"
-      ],
-      "summary": "OpenAI, Anthropic, Google und mehr als 100 weitere Unternehmen fordern gemeinsam Maßnahmen zum Schutz vor einer unkontrollierten KI. Der Vorstoß erhöht den regulatorischen Druck auf die gesamte KI-Branche und könnte strengere Sicherheitsstandards nach sich ziehen. In der Folge sind politische Debatten und neue Sicherheitsauflagen für große KI-Entwickler wahrscheinlich.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T01:31:15Z"
-    },
     {
       "id": "https://techcrunch.com/?p=3157691",
       "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
@@ -5843,6 +5807,38 @@
       "summary": "Die Londoner Börse geht laut FT eine Partnerschaft mit dem Mutterkonzern von Kraken ein, um tokenisierte britische Aktien anzubieten. Diese institutionelle Zusammenarbeit könnte die Akzeptanz Blockchain-basierter Wertpapiere fördern und das Vertrauen in Krypto-Handelsinfrastruktur stärken. Dieser Schritt dürfte weitere traditionelle Börsen ermutigen, ähnliche tokenisierte Produkte einzuführen und die Nachfrage nach Krypto-Dienstleistungen erhöhen.",
       "delivered": "digest",
       "delivered_at": "2026-09-01T11:14:37Z"
+    },
+    {
+      "id": "258218ee-d36f-5488-86ba-4eefafdb8d64",
+      "title": "Bitcoin defies oil price spike and rising Fed hike bets after best August since 2017",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-09-01T11:33:23Z",
+      "score": 6,
+      "category": "Macro",
+      "sentiment": "bullish",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Bitcoin trotzt einem Ölpreisanstieg und steigenden Fed-Zinserhöhungs-Wetten und verbucht den besten August seit 2017. Das deutet auf eine robuste Nachfrage trotz makroökonomischer Gegenwinde hin und stützt den Krypto-Markt. Die nächste Wegmarke dürfte die kommende Fed-Entscheidung sein."
+    },
+    {
+      "id": "https://decrypt.co/?p=377010",
+      "title": "Saylor Urges MSCI to Drop 'Discriminatory' Rule That Would Delete Strategy",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-01T11:28:45Z",
+      "score": 7,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Michael Saylor fordert MSCI auf, eine als diskriminierend bezeichnete Regel zu streichen, die Strategy aus dem Index entfernen würde. Ein Ausschluss würde die Nachfrage nach Strategy-Aktien dämpfen und den mit großen Bitcoin-Beständen verbundenen Unternehmenswert belasten. Die MSCI-Entscheidung dürfte daher direkt auf den Kurs von Strategy und den Bitcoin-Markt ausstrahlen."
     }
   ],
   "digest_log": [
