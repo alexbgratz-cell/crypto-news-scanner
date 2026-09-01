@@ -2560,7 +2560,9 @@
     "https://decrypt.co/?p=377014": "2026-09-01T12:31:23Z",
     "https://decrypt.co/?p=377015": "2026-09-01T12:31:23Z",
     "https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise": "2026-09-01T13:08:05Z",
-    "https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck": "2026-09-01T13:25:51Z"
+    "https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck": "2026-09-01T13:25:51Z",
+    "2016443c-1bf1-5a19-9786-378f62634a99": "2026-09-01T13:39:41Z",
+    "https://cointelegraph.com/magazine/does-bitcoins-rally-mean-we-havent-wasted-our-lives-in-crypto": "2026-09-01T13:39:42Z"
   },
   "pending": {
     "8e729437-e9c7-554a-b0ab-ada4ae318bec": {
@@ -2581,37 +2583,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3157522",
-      "title": "Nvidia closes in on Hugging Face acquisition",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-27T06:32:51Z",
-      "score": 8,
-      "category": "Business & Funding",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "NVDA",
-        "Hugging Face"
-      ],
-      "summary": "Nvidia steht kurz vor der Übernahme von Hugging Face. Der Schritt stärkt Nvidias Position im KI-Ökosystem und betrifft Entwickler sowie KI-Unternehmen, die Hugging Face als zentrale Plattform nutzen. Die Transaktion dürfte den Wettbewerb im KI-Bereich weiter verschärfen."
-    },
-    {
-      "id": "4kSKkAv49UJ4Wk7hUrj0zk",
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "url": null,
-      "stream": "ai",
-      "source": "AI | VentureBeat",
-      "published": "2026-08-27T14:01:00Z",
-      "score": 4,
-      "category": "Safety & Risk",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Ein Meinungsbeitrag von VentureBeat argumentiert, dass das größte Risiko von Enterprise-KI nicht in autonomen Agenten liegt, sondern in der Komplexität zwischen ihnen. Für Unternehmen bedeutet das höhere Integrations- und Koordinationsrisiken bei Agenten-Systemen in der Produktion. In der Branche dürfte die Debatte über Orchestrierung und Governance solcher Systeme an Bedeutung gewinnen."
-    },
     {
       "id": "2G8SplXx1SzxILJIjU6KQx",
       "title": "When agents act on their own, governance has to live in the data layer",
@@ -5843,6 +5814,36 @@
       "instruments": [],
       "entities": [],
       "summary": "Ripple und die japanische Börse Coincheck haben in Asien neue Partnerschaften im Bereich der Verwahrung digitaler Vermögenswerte angekündigt. Diese Infrastrukturgeschäfte stärken das Vertrauen institutioneller Anleger in den Kryptomarkt und könnten die Akzeptanz von Krypto-Assets in der Region fördern. Die konkreten Auswirkungen auf Bitcoin und Ethereum sind zunächst begrenzt; weitere institutionelle Partnerschaften bleiben die nächste relevante Entwicklung."
+    },
+    {
+      "id": "2016443c-1bf1-5a19-9786-378f62634a99",
+      "title": "Silhouette debuts RFQ trading for xStocks on Hyperliquid",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-09-01T13:30:00Z",
+      "score": 6,
+      "category": "Tech Update",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Silhouette bringt RFQ-Handel für xStocks auf Hyperliquid an den Start. Das erweitert das Produktangebot auf der Plattform und stärkt den Handel mit tokenisierten Aktien im Krypto-Bereich. In der Folge könnte das Handelsvolumen auf Hyperliquid zunehmen."
+    },
+    {
+      "id": "https://cointelegraph.com/magazine/does-bitcoins-rally-mean-we-havent-wasted-our-lives-in-crypto",
+      "title": "Does the Bitcoin rally mean we haven’t wasted our lives in crypto?",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-01T13:30:00Z",
+      "score": 4,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Cointelegraph Magazine veröffentlicht einen Meinungsbeitrag darüber, ob der jüngste Bitcoin-Anstieg die Jahre der Beschäftigung mit Krypto rechtfertigt. Der Artikel ist eine reflektierende Kolumne ohne neue Fakten, Zahlen oder Marktentscheidungen. Es sind keine direkten Marktauswirkungen zu erwarten, die nächste relevante Entwicklung bleibt die weitere Kursentwicklung von Bitcoin."
     }
   ],
   "digest_log": [
