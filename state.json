@@ -5725,7 +5725,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "Die US-Börsenaufsicht SEC will ihre Transfer-Agent-Regeln aus den 1970er-Jahren an das Blockchain-Zeitalter anpassen. Damit reagiert sie auf veränderte Marktstrukturen und schafft potenziell mehr regulatorische Klarheit für digitale Wertpapiere. Die konkreten Folgen hängen vom Regelungsentwurf und dem weiteren Verfahren ab."
+      "summary": "Die US-Börsenaufsicht SEC will ihre Transfer-Agent-Regeln aus den 1970er-Jahren an das Blockchain-Zeitalter anpassen. Damit reagiert sie auf veränderte Marktstrukturen und schafft potenziell mehr regulatorische Klarheit für digitale Wertpapiere. Die konkreten Folgen hängen vom Regelungsentwurf und dem weiteren Verfahren ab.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T18:18:05Z"
     },
     {
       "id": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
@@ -5758,7 +5760,9 @@
         "OpenAI",
         "Epic"
       ],
-      "summary": "OpenAI hat ChatGPT Health um eine Epic-Integration erweitert, mit der Kliniker Patientendaten direkt importieren können. Die Anbindung erleichtert den KI-Einsatz im klinischen Alltag und stärkt OpenAIs Position im Gesundheitsmarkt. Die Integration dürfte die Verbreitung von KI-Assistenten in Krankenhäusern beschleunigen und ChatGPT Health für weitere Anbieter relevanter machen."
+      "summary": "OpenAI hat ChatGPT Health um eine Epic-Integration erweitert, mit der Kliniker Patientendaten direkt importieren können. Die Anbindung erleichtert den KI-Einsatz im klinischen Alltag und stärkt OpenAIs Position im Gesundheitsmarkt. Die Integration dürfte die Verbreitung von KI-Assistenten in Krankenhäusern beschleunigen und ChatGPT Health für weitere Anbieter relevanter machen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T18:18:05Z"
     },
     {
       "id": "https://openai.com/index/ai-native-company-workflows",
@@ -5788,7 +5792,9 @@
       "entities": [
         "OpenAI"
       ],
-      "summary": "OpenAI hat angekündigt, dass Gesundheitsorganisationen nun elektronische Patientenakten (EHR) und weitere Branchendaten direkt an ChatGPT anbinden können. Damit erweitert OpenAI seine Plattform in einen regulierten, datensensiblen Bereich und stärkt seine Position im Enterprise-Markt Gesundheitswesen. Die Folge dürfte eine schnellere Integration von KI in klinische Arbeitsabläufe und wachsender Wettbewerbsdruck im Gesundheitssektor sein."
+      "summary": "OpenAI hat angekündigt, dass Gesundheitsorganisationen nun elektronische Patientenakten (EHR) und weitere Branchendaten direkt an ChatGPT anbinden können. Damit erweitert OpenAI seine Plattform in einen regulierten, datensensiblen Bereich und stärkt seine Position im Enterprise-Markt Gesundheitswesen. Die Folge dürfte eine schnellere Integration von KI in klinische Arbeitsabläufe und wachsender Wettbewerbsdruck im Gesundheitssektor sein.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T18:18:05Z"
     },
     {
       "id": "https://techcrunch.com/?p=3159727",
@@ -5804,7 +5810,9 @@
       "entities": [
         "GOOGL"
       ],
-      "summary": "Google stellt ein KI-gestütztes Designtool vor, das als Antwort auf Canva positioniert ist und bei dem Nutzer per Prompt statt klassischem Design arbeiten. Das Tool stärkt Googles Angebot im KI-Produktbereich und erhöht den Wettbewerbsdruck auf etablierte Design-Plattformen. Eine breite Markteinführung und die Nutzerakzeptanz werden über den konkreten Markteinfluss entscheiden."
+      "summary": "Google stellt ein KI-gestütztes Designtool vor, das als Antwort auf Canva positioniert ist und bei dem Nutzer per Prompt statt klassischem Design arbeiten. Das Tool stärkt Googles Angebot im KI-Produktbereich und erhöht den Wettbewerbsdruck auf etablierte Design-Plattformen. Eine breite Markteinführung und die Nutzerakzeptanz werden über den konkreten Markteinfluss entscheiden.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T18:18:05Z"
     },
     {
       "id": "https://cointelegraph.com/news/sec-proposes-transfer-agent-overhaul-as-securities-move-onchain",
@@ -5818,7 +5826,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Die SEC hat einen umfassenden Vorschlag zur Modernisierung jahrzehntealter Transferagent-Regeln vorgelegt, der ausdrücklich Blockchain-Technologie berücksichtigt. Der Schritt signalisiert regulatorische Öffnung gegenüber tokenisierten Wertpapieren und könnte die Abwicklung von Wertpapieren auf Distributed-Ledger-Basis erleichtern. Falls die Regeln final verabschiedet werden, dürften Emittenten und Marktinfrastrukturen mehr Rechtssicherheit für Onchain-Wertpapiere erhalten."
+      "summary": "Die SEC hat einen umfassenden Vorschlag zur Modernisierung jahrzehntealter Transferagent-Regeln vorgelegt, der ausdrücklich Blockchain-Technologie berücksichtigt. Der Schritt signalisiert regulatorische Öffnung gegenüber tokenisierten Wertpapieren und könnte die Abwicklung von Wertpapieren auf Distributed-Ledger-Basis erleichtern. Falls die Regeln final verabschiedet werden, dürften Emittenten und Marktinfrastrukturen mehr Rechtssicherheit für Onchain-Wertpapiere erhalten.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T18:18:05Z"
     },
     {
       "id": "https://cointelegraph.com/news/kalshi-bans-politicians-insider-trading-bets-manipulation",
@@ -5848,7 +5858,9 @@
         "SOLUSD"
       ],
       "entities": [],
-      "summary": "Die Solana Treasury DeFi Development Corp erwägt eine Kapitalerhöhung von 20 Millionen Dollar, um weitere SOL zu kaufen. Dadurch könnte zusätzliche Nachfrage nach SOL entstehen und den Kurs stützen. Sollte die Erhöhung umgesetzt werden, dürfte sich das Kaufinteresse an SOL weiter verstärken."
+      "summary": "Die Solana Treasury DeFi Development Corp erwägt eine Kapitalerhöhung von 20 Millionen Dollar, um weitere SOL zu kaufen. Dadurch könnte zusätzliche Nachfrage nach SOL entstehen und den Kurs stützen. Sollte die Erhöhung umgesetzt werden, dürfte sich das Kaufinteresse an SOL weiter verstärken.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T18:18:05Z"
     }
   ],
   "digest_log": [
@@ -6588,6 +6600,17 @@
       "article_ids": [
         "https://cointelegraph.com/news/21-financial-institutions-g7-stablecoin-venture",
         "https://techcrunch.com/?p=3159706"
+      ]
+    },
+    {
+      "at": "2026-09-01T18:18:05Z",
+      "article_ids": [
+        "36862779-86a7-5574-8c4a-cbec4f309a34",
+        "https://techcrunch.com/?p=3159727",
+        "https://cointelegraph.com/news/sec-proposes-transfer-agent-overhaul-as-securities-move-onchain",
+        "https://decrypt.co/?p=377068",
+        "https://techcrunch.com/?p=3159529",
+        "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
       ]
     }
   ],
