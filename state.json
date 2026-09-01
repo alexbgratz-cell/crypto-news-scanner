@@ -5790,7 +5790,9 @@
         "BTCUSD"
       ],
       "entities": [],
-      "summary": "Bitcoin trotzt einem Ölpreisanstieg und steigenden Fed-Zinserhöhungs-Wetten und verbucht den besten August seit 2017. Das deutet auf eine robuste Nachfrage trotz makroökonomischer Gegenwinde hin und stützt den Krypto-Markt. Die nächste Wegmarke dürfte die kommende Fed-Entscheidung sein."
+      "summary": "Bitcoin trotzt einem Ölpreisanstieg und steigenden Fed-Zinserhöhungs-Wetten und verbucht den besten August seit 2017. Das deutet auf eine robuste Nachfrage trotz makroökonomischer Gegenwinde hin und stützt den Krypto-Markt. Die nächste Wegmarke dürfte die kommende Fed-Entscheidung sein.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T12:20:29Z"
     },
     {
       "id": "https://decrypt.co/?p=377010",
@@ -5806,7 +5808,9 @@
         "BTCUSD"
       ],
       "entities": [],
-      "summary": "Michael Saylor fordert MSCI auf, eine als diskriminierend bezeichnete Regel zu streichen, die Strategy aus dem Index entfernen würde. Ein Ausschluss würde die Nachfrage nach Strategy-Aktien dämpfen und den mit großen Bitcoin-Beständen verbundenen Unternehmenswert belasten. Die MSCI-Entscheidung dürfte daher direkt auf den Kurs von Strategy und den Bitcoin-Markt ausstrahlen."
+      "summary": "Michael Saylor fordert MSCI auf, eine als diskriminierend bezeichnete Regel zu streichen, die Strategy aus dem Index entfernen würde. Ein Ausschluss würde die Nachfrage nach Strategy-Aktien dämpfen und den mit großen Bitcoin-Beständen verbundenen Unternehmenswert belasten. Die MSCI-Entscheidung dürfte daher direkt auf den Kurs von Strategy und den Bitcoin-Markt ausstrahlen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T12:20:29Z"
     },
     {
       "id": "3188a1ce-663c-5579-a553-8d0cbd773a6c",
@@ -5820,7 +5824,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Ethena hat die Zahlungs-App Ethena Pay auf Avalanche veröffentlicht, die bis zu 6 % Rendite und 10 % Cashback bietet. Die Integration könnte die Nutzung von Ethenas Stablecoin erhöhen und Avalanche als DeFi-Standort stärken. Die nächste Folge dürfte eine höhere Aktivität und Liquidität im Avalanche-Netzwerk sein."
+      "summary": "Ethena hat die Zahlungs-App Ethena Pay auf Avalanche veröffentlicht, die bis zu 6 % Rendite und 10 % Cashback bietet. Die Integration könnte die Nutzung von Ethenas Stablecoin erhöhen und Avalanche als DeFi-Standort stärken. Die nächste Folge dürfte eine höhere Aktivität und Liquidität im Avalanche-Netzwerk sein.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T12:20:29Z"
     },
     {
       "id": "https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid",
@@ -6528,6 +6534,14 @@
       "article_ids": [
         "76a74f4f-91d5-504f-9a94-e0942e5bde38",
         "https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks"
+      ]
+    },
+    {
+      "at": "2026-09-01T12:20:29Z",
+      "article_ids": [
+        "https://decrypt.co/?p=377010",
+        "258218ee-d36f-5488-86ba-4eefafdb8d64",
+        "3188a1ce-663c-5579-a553-8d0cbd773a6c"
       ]
     }
   ],
