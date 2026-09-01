@@ -5802,7 +5802,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Robinhood Wallet und Fomo ermöglichen den Kauf von Memecoins per Kreditkarte und umgehen damit offenbar die Krypto-Regeln der Kartenanbieter. Diese Praxis könnte Regulierungsbehörden auf den Plan rufen und zu verstärkten Kontrollen führen. In der Folge drohen neue Compliance-Anforderungen für Krypto-Börsen und Wallet-Anbieter."
+      "summary": "Robinhood Wallet und Fomo ermöglichen den Kauf von Memecoins per Kreditkarte und umgehen damit offenbar die Krypto-Regeln der Kartenanbieter. Diese Praxis könnte Regulierungsbehörden auf den Plan rufen und zu verstärkten Kontrollen führen. In der Folge drohen neue Compliance-Anforderungen für Krypto-Börsen und Wallet-Anbieter.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T20:15:29Z"
     },
     {
       "id": "https://decrypt.co/?p=377078",
@@ -5818,7 +5820,9 @@
       "entities": [
         "Anthropic"
       ],
-      "summary": "Anthropic hat Claude Fable 5.1 veröffentlicht, das seinen Vorgänger bei einem wichtigen Benchmark mehr als verdoppelt. Damit erhöht sich der Wettbewerbsdruck auf konkurrierende KI-Labore wie OpenAI. Erste Reaktionen von Markt und Branche werden erwartet; weitere Modellankündigungen sind wahrscheinlich."
+      "summary": "Anthropic hat Claude Fable 5.1 veröffentlicht, das seinen Vorgänger bei einem wichtigen Benchmark mehr als verdoppelt. Damit erhöht sich der Wettbewerbsdruck auf konkurrierende KI-Labore wie OpenAI. Erste Reaktionen von Markt und Branche werden erwartet; weitere Modellankündigungen sind wahrscheinlich.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T20:15:29Z"
     },
     {
       "id": "https://techcrunch.com/?p=3159842",
@@ -5834,7 +5838,9 @@
       "entities": [
         "Anthropic"
       ],
-      "summary": "Anthropic hat mit Fable ein neues KI-Modell veröffentlicht, das günstiger und weniger restriktiv ist als bisherige Releases. Dadurch sinken die Nutzungskosten für Entwickler und die Einsatzmöglichkeiten erweitern sich, was Anthropics Wettbewerbsposition stärkt. Eine verstärkte Nutzung und Preisanpassungen bei Wettbewerbern sind wahrscheinlich."
+      "summary": "Anthropic hat mit Fable ein neues KI-Modell veröffentlicht, das günstiger und weniger restriktiv ist als bisherige Releases. Dadurch sinken die Nutzungskosten für Entwickler und die Einsatzmöglichkeiten erweitern sich, was Anthropics Wettbewerbsposition stärkt. Eine verstärkte Nutzung und Preisanpassungen bei Wettbewerbern sind wahrscheinlich.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T20:15:29Z"
     },
     {
       "id": "https://decrypt.co/?p=377099",
@@ -5864,7 +5870,9 @@
       "entities": [
         "OpenAI"
       ],
-      "summary": "OpenAI steht kurz davor, sein erstes KI-Modell mit als kritisch eingestuften Cyber-Fähigkeiten zu veröffentlichen. Das Modell könnte die Sicherheitsbranche verändern und zugleich neue Risiken im Umgang mit KI-gestützten Angriffen aufwerfen. Die Veröffentlichung dürfte die Konkurrenz im KI-Markt weiter verschärfen."
+      "summary": "OpenAI steht kurz davor, sein erstes KI-Modell mit als kritisch eingestuften Cyber-Fähigkeiten zu veröffentlichen. Das Modell könnte die Sicherheitsbranche verändern und zugleich neue Risiken im Umgang mit KI-gestützten Angriffen aufwerfen. Die Veröffentlichung dürfte die Konkurrenz im KI-Markt weiter verschärfen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T20:15:29Z"
     }
   ],
   "digest_log": [
@@ -6621,6 +6629,15 @@
       "at": "2026-09-01T19:13:36Z",
       "article_ids": [
         "1a69070a-065f-51a5-a5e9-b0af49fde78a"
+      ]
+    },
+    {
+      "at": "2026-09-01T20:15:29Z",
+      "article_ids": [
+        "https://decrypt.co/?p=377078",
+        "https://techcrunch.com/?p=3159842",
+        "6a95c50b1ed47ec1f88c0129",
+        "501ce343-2138-52e9-bf27-057b87c519a2"
       ]
     }
   ],
