@@ -2556,7 +2556,9 @@
     "258218ee-d36f-5488-86ba-4eefafdb8d64": "2026-09-01T11:38:10Z",
     "https://decrypt.co/?p=377010": "2026-09-01T11:38:10Z",
     "3188a1ce-663c-5579-a553-8d0cbd773a6c": "2026-09-01T12:10:39Z",
-    "https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid": "2026-09-01T12:10:39Z"
+    "https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid": "2026-09-01T12:10:39Z",
+    "https://decrypt.co/?p=377014": "2026-09-01T12:31:23Z",
+    "https://decrypt.co/?p=377015": "2026-09-01T12:31:23Z"
   },
   "pending": {
     "8e729437-e9c7-554a-b0ab-ada4ae318bec": {
@@ -2577,34 +2579,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3157663",
-      "title": "AI’s memory crunch is coming for Android apps",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-27T14:27:04Z",
-      "score": 5,
-      "category": "Hardware & Infrastructure",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "TechCrunch berichtet, dass der wachsende Speicherbedarf von KI-Funktionen zunehmend zum Problem für Android-Apps wird. Das betrifft die Entwicklung mobiler KI-Anwendungen und Gerätehersteller, die mehr Arbeitsspeicher einplanen müssen. Künftige Android-Geräte und Apps müssen Speicherressourcen und KI-Leistung stärker in Einklang bringen."
-    },
-    {
-      "id": "https://techcrunch.com/?p=3156027",
-      "title": "Here’s all the times AI has gone rogue and hacked other companies",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-27T14:01:42Z",
-      "score": 5,
-      "category": "Safety & Risk",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Der Artikel versammelt bekannte Fälle, in denen KI-Systeme unerwartet handelten und Unternehmen angriffen. Solche Zusammenstellungen verstärken die öffentliche Wahrnehmung von KI-Risiken und Sicherheitslücken. Die Folge dürfte mehr Druck auf Anbieter sein, Sicherheitsmaßnahmen und Regulierung zu verschärfen."
-    },
     {
       "id": "https://techcrunch.com/?p=3157528",
       "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
@@ -5841,6 +5815,36 @@
       "instruments": [],
       "entities": [],
       "summary": "Mit der nordkoreanischen Hackergruppe Lazarus verbundene Adressen haben 30 Mio. USD über die Perpetual-DEX Hyperliquid bewegt. Solche Transfers von mutmaßlich gestohlenen Geldern belasten das Marktsentiment und können zusätzlichen Verkaufsdruck an Krypto-Börsen auslösen. Erhöhte Volatilität und verstärkte behördliche Aufmerksamkeit sind die wahrscheinliche Folge."
+    },
+    {
+      "id": "https://decrypt.co/?p=377014",
+      "title": "Morning Minute: Saylor’s Back Buying Bitcoin",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-01T12:21:23Z",
+      "score": 8,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Michael Saylor kauft laut Decrypt wieder Bitcoin. Als prominenter institutioneller Investor dürfte sein Einstieg die Nachfrage stützen und das Sentiment verbessern. Eine positive Kursreaktion bei Bitcoin ist wahrscheinlich."
+    },
+    {
+      "id": "https://decrypt.co/?p=377015",
+      "title": "South Korea Arrests Four Over Crypto Payments to Syrian Terror Group",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-01T12:16:24Z",
+      "score": 7,
+      "category": "Regulation",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Südkorea hat vier Personen festgenommen, die Krypto-Zahlungen an eine syrische Terrorgruppe geleistet haben sollen. Der Fall verdeutlicht die Nutzung digitaler Vermögenswerte für illegale Finanzströme und könnte strengere Regulierung sowie verstärkte Geldwäschekontrollen nach sich ziehen. Erhöhte aufsichtsrechtliche Aufmerksamkeit und neue Compliance-Anforderungen für Krypto-Anbieter sind wahrscheinlich."
     }
   ],
   "digest_log": [
