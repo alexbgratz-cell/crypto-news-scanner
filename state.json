@@ -2559,7 +2559,8 @@
     "https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid": "2026-09-01T12:10:39Z",
     "https://decrypt.co/?p=377014": "2026-09-01T12:31:23Z",
     "https://decrypt.co/?p=377015": "2026-09-01T12:31:23Z",
-    "https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise": "2026-09-01T13:08:05Z"
+    "https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise": "2026-09-01T13:08:05Z",
+    "https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck": "2026-09-01T13:25:51Z"
   },
   "pending": {
     "8e729437-e9c7-554a-b0ab-ada4ae318bec": {
@@ -2580,24 +2581,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3157523",
-      "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-27T11:35:59Z",
-      "score": 6,
-      "category": "Business & Funding",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [
-        "OpenAI"
-      ],
-      "summary": "OpenAI führt in Indien auf den kostenlosen und Go-Stufen von ChatGPT Werbung ein. Der Schritt verändert die Monetarisierung des KI-Assistenten und betrifft Millionen Nutzer im wichtigen Wachstumsmarkt, während Wettbewerber ihre Strategien überdenken dürften. Die Einführung in Indien dürfte richtungsweisend für die weitere Werbestrategie von OpenAI sein.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T01:31:15Z"
-    },
     {
       "id": "https://techcrunch.com/?p=3157522",
       "title": "Nvidia closes in on Hugging Face acquisition",
@@ -5846,6 +5829,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Das Unternehmen Kast hat nach einer Finanzierungsrunde über 80 Millionen US-Dollar eine Stablecoin-basierte Geschäftsplattform für Unternehmen gestartet. Der Schritt stärkt die Nutzung von Stablecoins im Firmenkundengeschäft und die Nachfrage nach digitalen Zahlungsinfrastruktur. Die Plattform könnte die Akzeptanz von Stablecoins bei Unternehmen weiter vorantreiben; kurzfristig sind keine direkten Bewegungen an den großen Kryptopaaren zu erwarten."
+    },
+    {
+      "id": "https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck",
+      "title": "Asia sees digital asset custody infrastructure deals from Ripple, Coincheck",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-01T13:13:05Z",
+      "score": 6,
+      "category": "Tech Update",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Ripple und die japanische Börse Coincheck haben in Asien neue Partnerschaften im Bereich der Verwahrung digitaler Vermögenswerte angekündigt. Diese Infrastrukturgeschäfte stärken das Vertrauen institutioneller Anleger in den Kryptomarkt und könnten die Akzeptanz von Krypto-Assets in der Region fördern. Die konkreten Auswirkungen auf Bitcoin und Ethereum sind zunächst begrenzt; weitere institutionelle Partnerschaften bleiben die nächste relevante Entwicklung."
     }
   ],
   "digest_log": [
