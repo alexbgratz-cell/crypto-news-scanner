@@ -2558,7 +2558,8 @@
     "3188a1ce-663c-5579-a553-8d0cbd773a6c": "2026-09-01T12:10:39Z",
     "https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid": "2026-09-01T12:10:39Z",
     "https://decrypt.co/?p=377014": "2026-09-01T12:31:23Z",
-    "https://decrypt.co/?p=377015": "2026-09-01T12:31:23Z"
+    "https://decrypt.co/?p=377015": "2026-09-01T12:31:23Z",
+    "https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise": "2026-09-01T13:08:05Z"
   },
   "pending": {
     "8e729437-e9c7-554a-b0ab-ada4ae318bec": {
@@ -2579,22 +2580,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3157528",
-      "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-27T13:00:00Z",
-      "score": 6,
-      "category": "Hardware & Infrastructure",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Plaud stellt neue Ohrhörer vor, deren Ladecase eine integrierte eSIM enthält und so Gespräche mit KI-Agenten ermöglicht. Das Produkt macht KI-Assistenten mobiler und stärkt die Verbreitung tragbarer KI-Hardware im Alltag. Dadurch dürfte die Nachfrage nach vernetzten KI-Wearables und entsprechenden Mobilfunkdiensten weiter zunehmen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T01:31:15Z"
-    },
     {
       "id": "https://techcrunch.com/?p=3157523",
       "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
@@ -5845,6 +5830,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Südkorea hat vier Personen festgenommen, die Krypto-Zahlungen an eine syrische Terrorgruppe geleistet haben sollen. Der Fall verdeutlicht die Nutzung digitaler Vermögenswerte für illegale Finanzströme und könnte strengere Regulierung sowie verstärkte Geldwäschekontrollen nach sich ziehen. Erhöhte aufsichtsrechtliche Aufmerksamkeit und neue Compliance-Anforderungen für Krypto-Anbieter sind wahrscheinlich."
+    },
+    {
+      "id": "https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise",
+      "title": "Kast launches stablecoin-powered business platform after $80M raise",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-01T13:00:00Z",
+      "score": 5,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Das Unternehmen Kast hat nach einer Finanzierungsrunde über 80 Millionen US-Dollar eine Stablecoin-basierte Geschäftsplattform für Unternehmen gestartet. Der Schritt stärkt die Nutzung von Stablecoins im Firmenkundengeschäft und die Nachfrage nach digitalen Zahlungsinfrastruktur. Die Plattform könnte die Akzeptanz von Stablecoins bei Unternehmen weiter vorantreiben; kurzfristig sind keine direkten Bewegungen an den großen Kryptopaaren zu erwarten."
     }
   ],
   "digest_log": [
