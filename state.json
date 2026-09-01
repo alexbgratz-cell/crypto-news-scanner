@@ -5829,7 +5829,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Südkorea hat vier Personen festgenommen, die Krypto-Zahlungen an eine syrische Terrorgruppe geleistet haben sollen. Der Fall verdeutlicht die Nutzung digitaler Vermögenswerte für illegale Finanzströme und könnte strengere Regulierung sowie verstärkte Geldwäschekontrollen nach sich ziehen. Erhöhte aufsichtsrechtliche Aufmerksamkeit und neue Compliance-Anforderungen für Krypto-Anbieter sind wahrscheinlich."
+      "summary": "Südkorea hat vier Personen festgenommen, die Krypto-Zahlungen an eine syrische Terrorgruppe geleistet haben sollen. Der Fall verdeutlicht die Nutzung digitaler Vermögenswerte für illegale Finanzströme und könnte strengere Regulierung sowie verstärkte Geldwäschekontrollen nach sich ziehen. Erhöhte aufsichtsrechtliche Aufmerksamkeit und neue Compliance-Anforderungen für Krypto-Anbieter sind wahrscheinlich.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T13:15:32Z"
     },
     {
       "id": "https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise",
@@ -6545,6 +6547,12 @@
         "https://decrypt.co/?p=377010",
         "258218ee-d36f-5488-86ba-4eefafdb8d64",
         "3188a1ce-663c-5579-a553-8d0cbd773a6c"
+      ]
+    },
+    {
+      "at": "2026-09-01T13:15:32Z",
+      "article_ids": [
+        "https://decrypt.co/?p=377015"
       ]
     }
   ],
