@@ -5849,7 +5849,9 @@
         "SOLUSD"
       ],
       "entities": [],
-      "summary": "Krypto-Treasury-Unternehmen haben laut The Block eine Marktkapitalisierung von 340 Milliarden US-Dollar erreicht, während Altcoin-DATs besser abschneiden. Dies deutet auf wachsende institutionelle Nachfrage und Kapitalzuflüsse in digitale Assets hin, was den gesamten Kryptomarkt stützt. Die positive Entwicklung dürfte Altcoins wie Ethereum und Solana zusätzlichen Auftrieb verleihen."
+      "summary": "Krypto-Treasury-Unternehmen haben laut The Block eine Marktkapitalisierung von 340 Milliarden US-Dollar erreicht, während Altcoin-DATs besser abschneiden. Dies deutet auf wachsende institutionelle Nachfrage und Kapitalzuflüsse in digitale Assets hin, was den gesamten Kryptomarkt stützt. Die positive Entwicklung dürfte Altcoins wie Ethereum und Solana zusätzlichen Auftrieb verleihen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T19:13:36Z"
     },
     {
       "id": "https://decrypt.co/?p=377052",
@@ -6616,6 +6618,12 @@
         "https://decrypt.co/?p=377068",
         "https://techcrunch.com/?p=3159529",
         "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
+      ]
+    },
+    {
+      "at": "2026-09-01T19:13:36Z",
+      "article_ids": [
+        "1a69070a-065f-51a5-a5e9-b0af49fde78a"
       ]
     }
   ],
