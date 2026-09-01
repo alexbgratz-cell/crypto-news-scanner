@@ -5944,7 +5944,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Ark Invest hat Aktien von Jack Dorseys Block Inc im Wert von rund 37 Millionen US-Dollar erworben. Die Großinvestition signalisiert institutionelles Interesse an einem bitcoin-nahen Zahlungsunternehmen und stärkt das Narrativ wachsender Krypto-Adoption. Unmittelbare Auswirkungen auf Krypto-Kurse sind begrenzt, eine leicht positive Stimmung ist jedoch wahrscheinlich."
+      "summary": "Ark Invest hat Aktien von Jack Dorseys Block Inc im Wert von rund 37 Millionen US-Dollar erworben. Die Großinvestition signalisiert institutionelles Interesse an einem bitcoin-nahen Zahlungsunternehmen und stärkt das Narrativ wachsender Krypto-Adoption. Unmittelbare Auswirkungen auf Krypto-Kurse sind begrenzt, eine leicht positive Stimmung ist jedoch wahrscheinlich.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T05:14:26Z"
     },
     {
       "id": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-inflow-rebound",
@@ -6620,6 +6622,12 @@
       "article_ids": [
         "https://www.marktechpost.com/?p=81990",
         "https://cointelegraph.com/news/thailand-sec-retail-overseas-crypto-derivatives"
+      ]
+    },
+    {
+      "at": "2026-09-01T05:14:26Z",
+      "article_ids": [
+        "0d03f024-a1b7-57d6-a290-fda139686772"
       ]
     }
   ],
