@@ -5800,7 +5800,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "Ripple und die japanische Börse Coincheck haben in Asien neue Partnerschaften im Bereich der Verwahrung digitaler Vermögenswerte angekündigt. Diese Infrastrukturgeschäfte stärken das Vertrauen institutioneller Anleger in den Kryptomarkt und könnten die Akzeptanz von Krypto-Assets in der Region fördern. Die konkreten Auswirkungen auf Bitcoin und Ethereum sind zunächst begrenzt; weitere institutionelle Partnerschaften bleiben die nächste relevante Entwicklung."
+      "summary": "Ripple und die japanische Börse Coincheck haben in Asien neue Partnerschaften im Bereich der Verwahrung digitaler Vermögenswerte angekündigt. Diese Infrastrukturgeschäfte stärken das Vertrauen institutioneller Anleger in den Kryptomarkt und könnten die Akzeptanz von Krypto-Assets in der Region fördern. Die konkreten Auswirkungen auf Bitcoin und Ethereum sind zunächst begrenzt; weitere institutionelle Partnerschaften bleiben die nächste relevante Entwicklung.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T14:15:46Z"
     },
     {
       "id": "2016443c-1bf1-5a19-9786-378f62634a99",
@@ -5814,7 +5816,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Silhouette bringt RFQ-Handel für xStocks auf Hyperliquid an den Start. Das erweitert das Produktangebot auf der Plattform und stärkt den Handel mit tokenisierten Aktien im Krypto-Bereich. In der Folge könnte das Handelsvolumen auf Hyperliquid zunehmen."
+      "summary": "Silhouette bringt RFQ-Handel für xStocks auf Hyperliquid an den Start. Das erweitert das Produktangebot auf der Plattform und stärkt den Handel mit tokenisierten Aktien im Krypto-Bereich. In der Folge könnte das Handelsvolumen auf Hyperliquid zunehmen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T14:15:46Z"
     },
     {
       "id": "https://cointelegraph.com/magazine/does-bitcoins-rally-mean-we-havent-wasted-our-lives-in-crypto",
@@ -6552,6 +6556,13 @@
       "at": "2026-09-01T13:15:32Z",
       "article_ids": [
         "https://decrypt.co/?p=377015"
+      ]
+    },
+    {
+      "at": "2026-09-01T14:15:46Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck",
+        "2016443c-1bf1-5a19-9786-378f62634a99"
       ]
     }
   ],
