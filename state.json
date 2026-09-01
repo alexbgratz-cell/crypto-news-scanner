@@ -2558,7 +2558,8 @@
     "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety": "2026-09-01T05:24:27Z",
     "cd091845-bf29-589d-89b5-33d38fac3c81": "2026-09-01T07:08:03Z",
     "https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round": "2026-09-01T08:08:53Z",
-    "b329dd21-9688-55fd-a4ab-04bbf715842e": "2026-09-01T09:40:36Z"
+    "b329dd21-9688-55fd-a4ab-04bbf715842e": "2026-09-01T09:40:36Z",
+    "https://decrypt.co/?p=377006": "2026-09-01T09:53:25Z"
   },
   "pending": {
     "https://cointelegraph.com/news/thailand-bitcoin-ether-etfs-draft-rules": {
@@ -2587,24 +2588,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://openai.com/index/expanding-our-presence-in-brazil",
-      "title": "Expanding OpenAI’s presence in Brazil",
-      "url": null,
-      "stream": "ai",
-      "source": "OpenAI News",
-      "published": "2026-08-27T03:00:00Z",
-      "score": 6,
-      "category": "Business & Funding",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "OpenAI"
-      ],
-      "summary": "OpenAI kündigt an, seine Präsenz in Brasilien auszubauen. Das stärkt die Marktposition des Unternehmens in Lateinamerika und verschärft den Wettbewerb mit lokalen und internationalen KI-Anbietern. In Brasilien dürften dadurch künftig weitere Partnerschaften und lokal angepasste Angebote entstehen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T01:31:15Z"
-    },
     {
       "id": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
       "title": "3 new ways to plan and book travel in Search",
@@ -5860,6 +5843,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Die Kraken-Muttergesellschaft Payward will 100 an der Londoner Börse notierte Aktien tokenisieren und plant dafür einen 24-Stunden-Handel an der LSE. Das stärkt die Nutzung von Blockchain-Infrastruktur für klassische Finanzwerte und erhöht die institutionelle Akzeptanz tokenisierter Assets. Als Nächstes zählt die konkrete Umsetzung des Handelsangebots; gelingt sie, dürfte der Markt für tokenisierte Wertpapiere weiter an Dynamik gewinnen."
+    },
+    {
+      "id": "https://decrypt.co/?p=377006",
+      "title": "UK's National Crime Agency Freezes $13.6M of Premier League Money in Sorare Probe: Report",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-01T09:46:27Z",
+      "score": 7,
+      "category": "Regulation",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Die britische National Crime Agency hat im Rahmen einer Untersuchung zu Sorare 13,6 Mio. USD an Premier-League-Geldern eingefroren. Die Maßnahme signalisiert verschärfte regulatorische Prüfung von NFT-Fantasy-Plattformen und belastet die Stimmung in der Krypto-/NFT-Branche. Weitere behördliche Schritte oder Auflagen sind wahrscheinlich; kurzfristig ist mit erhöhter Vorsicht bei NFT-bezogenen Projekten zu rechnen."
     }
   ],
   "digest_log": [
