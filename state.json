@@ -5819,7 +5819,9 @@
         "USDT.D"
       ],
       "entities": [],
-      "summary": "BofA, Citi und Goldman Sachs gehören zu 21 Instituten, die einen eigenen Stablecoin planen. Dies stärkt die institutionelle Akzeptanz von Krypto und setzt Tether und andere Stablecoin-Emittenten unter Wettbewerbsdruck. Der Marktanteil von Tether (USDT.D) könnte sinken, weitere Banken könnten ähnliche Initiativen ankündigen."
+      "summary": "BofA, Citi und Goldman Sachs gehören zu 21 Instituten, die einen eigenen Stablecoin planen. Dies stärkt die institutionelle Akzeptanz von Krypto und setzt Tether und andere Stablecoin-Emittenten unter Wettbewerbsdruck. Der Marktanteil von Tether (USDT.D) könnte sinken, weitere Banken könnten ähnliche Initiativen ankündigen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T17:14:44Z"
     },
     {
       "id": "https://techcrunch.com/?p=3159706",
@@ -5833,7 +5835,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "Das von Sequoia unterstützte Startup Empirik ist mit 21 Mio. US-Dollar gestartet, um IT-Ausfälle vorherzusagen. Die Finanzierung unterstreicht das wachsende Interesse an KI-gestützter Zuverlässigkeit und Observability. Dadurch dürfte die Produktentwicklung beschleunigt werden und der Wettbewerb in diesem Bereich zunehmen."
+      "summary": "Das von Sequoia unterstützte Startup Empirik ist mit 21 Mio. US-Dollar gestartet, um IT-Ausfälle vorherzusagen. Die Finanzierung unterstreicht das wachsende Interesse an KI-gestützter Zuverlässigkeit und Observability. Dadurch dürfte die Produktentwicklung beschleunigt werden und der Wettbewerb in diesem Bereich zunehmen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T17:14:44Z"
     },
     {
       "id": "https://www.marktechpost.com/?p=82009",
@@ -6580,6 +6584,13 @@
         "https://techcrunch.com/?p=3159557",
         "https://cointelegraph.com/news/ethena-launches-usde-powered-money-app-across-48-countries",
         "https://techcrunch.com/?p=3159543"
+      ]
+    },
+    {
+      "at": "2026-09-01T17:14:44Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/21-financial-institutions-g7-stablecoin-venture",
+        "https://techcrunch.com/?p=3159706"
       ]
     }
   ],
