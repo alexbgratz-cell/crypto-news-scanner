@@ -2558,7 +2558,8 @@
     "e2743cd4-5315-5138-acbf-a2439dc2cd16": "2026-08-31T22:34:16Z",
     "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/": "2026-08-31T22:34:17Z",
     "https://openai.com/index/polimill": "2026-08-31T23:34:09Z",
-    "https://www.marktechpost.com/?p=81987": "2026-08-31T23:49:19Z"
+    "https://www.marktechpost.com/?p=81987": "2026-08-31T23:49:19Z",
+    "https://techcrunch.com/?p=3159449": "2026-09-01T00:37:29Z"
   },
   "pending": {
     "a9ccb866-8703-5f7b-9d3b-76c0b50d1687": {
@@ -2576,22 +2577,6 @@
       "stream": "crypto",
       "source": "Cointelegraph.com News",
       "published": "2026-08-25T02:03:55Z"
-    },
-    "https://huggingface.co/blog/gradio-workflow-guide": {
-      "id": "https://huggingface.co/blog/gradio-workflow-guide",
-      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-      "url": "https://huggingface.co/blog/gradio-workflow-guide",
-      "stream": "ai",
-      "source": "Hugging Face - Blog",
-      "published": "2026-08-25T00:00:00Z"
-    },
-    "https://techcrunch.com/?p=3156230": {
-      "id": "https://techcrunch.com/?p=3156230",
-      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-      "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-25T00:23:12Z"
     },
     "https://cointelegraph.com/news/bnb-chain-pasteur-hard-fork-bridge-security": {
       "id": "https://cointelegraph.com/news/bnb-chain-pasteur-hard-fork-bridge-security",
@@ -2673,14 +2658,6 @@
       "source": "Decrypt",
       "published": "2026-08-25T09:30:27Z"
     },
-    "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia": {
-      "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-      "stream": "ai",
-      "source": "OpenAI News",
-      "published": "2026-08-25T00:00:00Z"
-    },
     "https://www.technologyreview.com/?p=1141907": {
       "id": "https://www.technologyreview.com/?p=1141907",
       "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
@@ -2731,24 +2708,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=376725",
-      "title": "Why Nvidia’s Acquisition of Hugging Face Would Reshape Open-Source AI",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-27T17:09:32Z",
-      "score": 6,
-      "category": "Business & Funding",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [
-        "NVDA"
-      ],
-      "summary": "Ein Bericht von Decrypt analysiert die mögliche Übernahme von Hugging Face durch Nvidia und deren Folgen für Open-Source-KI. Sollte der Deal zustande kommen, würde Nvidia seine Kontrolle über das KI-Ökosystem ausbauen, während Hugging Face seine neutrale Plattform-Rolle verlieren könnte. Die nächste Wegmarke ist eine offizielle Bestätigung durch eines der beiden Unternehmen; bis dahin bleibt die Bewertung des Deals spekulativ.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T01:31:15Z"
-    },
     {
       "id": "https://decrypt.co/?p=376717",
       "title": "Bitcoin Could Overtake Gold in the Next Bull Run: Binance Founder CZ",
@@ -6007,6 +5966,23 @@
       "instruments": [],
       "entities": [],
       "summary": "Keenable AI hat NEEDLE als Open-Source-Benchmark veröffentlicht, der sein Query-Set stündlich neu aufbaut. Damit können Such- und KI-Modelle unter realen, dynamischen Bedingungen getestet werden, was Entwickler betrifft, die aktuelle Informationen benötigen. Dies dürfte die Bewertung von Suchsystemen zukünftig stärker auf Aktualität ausrichten."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3159449",
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-01T00:13:00Z",
+      "score": 5,
+      "category": "Safety & Risk",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [
+        "OpenAI",
+        "Apple"
+      ],
+      "summary": "Apple hat vor Gericht belastende Beweise gegen einen ehemaligen Mitarbeiter vorgelegt, der Firmendaten gestohlen und an OpenAI weitergegeben haben soll. Der Fall betrifft den Schutz geistigen Eigentums in der KI-Branche und rückt die Datenweitergabe zwischen Tech-Konzernen und KI-Unternehmen in ein kritisches Licht. Es drohen strafrechtliche und zivilrechtliche Konsequenzen für den Beschuldigten sowie eine verstärkte öffentliche Debatte über Vertraulichkeit bei KI-Partnerschaften."
     }
   ],
   "digest_log": [
