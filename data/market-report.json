@@ -1,39 +1,39 @@
 {
-  "ts": "2026-08-31T20:03:15.989860Z",
+  "ts": "2026-09-01T07:04:18.894045Z",
   "instrument": "ALL",
-  "text": "Kernaussage: Der Kryptomarkt zeigt sich seitwärts: BTC liegt bei 78.993 USD nahezu unverändert, ETH und SOL sind im 24h-Vergleich leicht schwächer; die 12h-Tendenz ist positiv.\n\nWas es bedeutet: Institutionelle Kaufmeldungen und ETF-Zuflüsse stützen das Sentiment, lösen aber keine breite Rallye aus. Der Fear-&-Greed-Index steht bei 62 (Greed), nach 7 Punkten Rückgang. VIX und Aktienmärkte signalisieren moderate Risikobereitschaft. ETHBTC steigt leicht, der BTC.D sinkt – eine vorsichtige Rotation in Altcoins ist erkennbar, wird aber durch die 24h-Schwäche von ETH und SOL relativiert. Der weiterhin erhöhte DXY (118) und die US10Y bei 4,67 % bilden makroökonomischen Druck.\n\nZu beachten: Wichtigster Indikator ist die steigende Rendite der 10-jährigen US-Staatsanleihen bei 4,67 %; weiterer Zinsdruck könnte Liquidität aus Risikoassets binden.",
+  "text": "Kernaussage: Der Kryptomarkt handelt seitwärts mit fester Tendenz: BTC bei rund 78.800 USD, ETH und SOL leicht im Plus; der Angst-und-Gier-Index steigt auf 69 und signalisiert Gier.\n\nWas es bedeutet: Das Sentiment bleibt konstruktiv, aber ohne Euphorie. Tagesgewinne und institutionelle Zuflüsse stützen; die 12h-Trends sind nahezu flach. Makro steigt der Dollar (DXY 118,75), auch die Rendite US10Y legt auf 4,73 % zu, während der VIX niedrig bleibt. Das spricht für moderaten Risk-on-Modus, jedoch mit wachsendem makroökonomischem Druck als potenziellem Gegenwind.\n\nZu beachten: Die Reaktion von BTC im Bereich um 78.800 USD, falls Renditen und Dollar weiter steigen. Ein nachhaltiger Bruch nach unten könnte das aktuell positive Marktgefühl rasch eintrüben.",
   "numbers": [
     {
       "sym": "BTCUSD",
-      "value": 78993,
-      "change": 0.24,
+      "value": 78782,
+      "change": 0.88,
       "label": "",
       "group": "Direkte Korrelation"
     },
     {
       "sym": "ETHUSD",
-      "value": 2481.0,
-      "change": -0.77,
+      "value": 2473.89,
+      "change": 1.35,
       "label": "",
       "group": "Direkte Korrelation"
     },
     {
       "sym": "SOLUSD",
-      "value": 103.71,
-      "change": -1.85,
+      "value": 103.64,
+      "change": 0.86,
       "label": "",
       "group": "Direkte Korrelation"
     },
     {
       "sym": "ETHBTC",
-      "value": 0.031408,
-      "change": -1.01,
+      "value": 0.031402,
+      "change": 0.47,
       "label": "",
       "group": "Kapitalrotation"
     },
     {
       "sym": "BTC.D",
-      "value": 59.22,
+      "value": 59.19,
       "change": null,
       "label": "",
       "group": "Liquidität & Sentiment"
@@ -47,36 +47,36 @@
     },
     {
       "sym": "F&G",
-      "value": 62.0,
-      "change": -7.0,
+      "value": 69.0,
+      "change": 7.0,
       "label": "Greed",
       "group": "Liquidität & Sentiment"
     },
     {
       "sym": "MEMPOOL",
-      "value": 79970.0,
+      "value": 80609.0,
       "change": null,
       "label": "",
       "group": "On-Chain"
     },
     {
       "sym": "MO30",
-      "value": 23.97,
+      "value": 23.33,
       "change": null,
       "label": "",
       "group": "On-Chain"
     },
     {
       "sym": "DXY",
-      "value": 118.06,
-      "change": -0.16,
+      "value": 118.75,
+      "change": 0.33,
       "label": "",
       "group": "TradFi/Makro"
     },
     {
       "sym": "NDX",
-      "value": 29408.97,
-      "change": -0.08,
+      "value": 29456.97,
+      "change": 0.08,
       "label": "",
       "group": "TradFi/Makro"
     },
@@ -89,15 +89,15 @@
     },
     {
       "sym": "US10Y",
-      "value": 4.67,
-      "change": 0.21,
+      "value": 4.73,
+      "change": 1.28,
       "label": "",
       "group": "TradFi/Makro"
     },
     {
       "sym": "SPX",
-      "value": 7711.76,
-      "change": -0.25,
+      "value": 7686.14,
+      "change": -0.33,
       "label": "",
       "group": "TradFi/Makro"
     }
