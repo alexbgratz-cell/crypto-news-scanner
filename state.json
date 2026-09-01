@@ -2562,7 +2562,8 @@
     "https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise": "2026-09-01T13:08:05Z",
     "https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck": "2026-09-01T13:25:51Z",
     "2016443c-1bf1-5a19-9786-378f62634a99": "2026-09-01T13:39:41Z",
-    "https://cointelegraph.com/magazine/does-bitcoins-rally-mean-we-havent-wasted-our-lives-in-crypto": "2026-09-01T13:39:42Z"
+    "https://cointelegraph.com/magazine/does-bitcoins-rally-mean-we-havent-wasted-our-lives-in-crypto": "2026-09-01T13:39:42Z",
+    "https://cointelegraph.com/news/fake-claude-desktop-app-spreads-crypto-stealing-malware": "2026-09-01T14:07:59Z"
   },
   "pending": {
     "8e729437-e9c7-554a-b0ab-ada4ae318bec": {
@@ -2583,20 +2584,6 @@
     }
   },
   "articles": [
-    {
-      "id": "2G8SplXx1SzxILJIjU6KQx",
-      "title": "When agents act on their own, governance has to live in the data layer",
-      "url": null,
-      "stream": "ai",
-      "source": "AI | VentureBeat",
-      "published": "2026-08-27T12:01:00Z",
-      "score": 4,
-      "category": "Safety & Risk",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "VentureBeat diskutiert, dass autonome KI-Agenten Governance direkt in der Datenschicht benötigen, statt nur auf Richtlinienebene. Für Unternehmen, die Agents einsetzen, bedeutet das höhere Anforderungen an Datenzugriff und Kontrolle. Die Folge ist ein wachsender Bedarf an Data-Governance- und Infrastrukturlösungen."
-    },
     {
       "id": "6a8f461323e3ef4f03be5d75",
       "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
@@ -5844,6 +5831,20 @@
       ],
       "entities": [],
       "summary": "Cointelegraph Magazine veröffentlicht einen Meinungsbeitrag darüber, ob der jüngste Bitcoin-Anstieg die Jahre der Beschäftigung mit Krypto rechtfertigt. Der Artikel ist eine reflektierende Kolumne ohne neue Fakten, Zahlen oder Marktentscheidungen. Es sind keine direkten Marktauswirkungen zu erwarten, die nächste relevante Entwicklung bleibt die weitere Kursentwicklung von Bitcoin."
+    },
+    {
+      "id": "https://cointelegraph.com/news/fake-claude-desktop-app-spreads-crypto-stealing-malware",
+      "title": "Fake Claude desktop app spreads crypto-stealing malware",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-01T13:56:16Z",
+      "score": 8,
+      "category": "Hack & Security",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Eine gefälschte Claude-Desktop-App verbreitet Malware, die Krypto-Guthaben von Nutzern stehlen kann. Die Bedrohung betrifft Anwender, die die App installieren, da Zugangsdaten zu Wallets abgegriffen werden können und Vertrauen in Krypto-Tools Schaden nimmt. In der Folge ist mit erhöhten Sicherheitswarnungen und vorsichtigerem Nutzerverhalten bei Krypto-Anwendungen zu rechnen."
     }
   ],
   "digest_log": [
