@@ -1,18 +1,5 @@
 {
   "seen": {
-    "907a737d-4d0f-5800-ae0c-b74e4f1b6f85": "2026-08-25T14:08:22Z",
-    "https://cointelegraph.com/news/arcus-tokenized-perp-positions-robinhood-chain": "2026-08-25T14:08:22Z",
-    "https://cointelegraph.com/features/hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox": "2026-08-25T14:08:22Z",
-    "https://cointelegraph.com/news/chainalysis-operation-lighthouse-flags-7700-crypto-accounts": "2026-08-25T14:08:22Z",
-    "https://cointelegraph.com/news/india-tokenized-bonds-digital-rupee": "2026-08-25T14:08:22Z",
-    "https://cointelegraph.com/news/shipyard-winds-down-ipfs-protocol-labs-funding": "2026-08-25T14:08:22Z",
-    "https://decrypt.co/?p=376420": "2026-08-25T14:08:22Z",
-    "https://decrypt.co/?p=376429": "2026-08-25T14:08:22Z",
-    "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing": "2026-08-25T14:08:23Z",
-    "https://huggingface.co/blog/pwc-search": "2026-08-25T14:08:23Z",
-    "https://techcrunch.com/?p=3156161": "2026-08-25T14:08:23Z",
-    "https://techcrunch.com/?p=3156075": "2026-08-25T14:08:23Z",
-    "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/": "2026-08-25T14:08:24Z",
     "bf1f6f47-b998-5186-9818-6d13b2fcf2a6": "2026-08-25T16:17:45Z",
     "d852ffe5-9230-5aaf-948d-17e5add6954f": "2026-08-25T16:17:45Z",
     "e678b361-07f9-5e5a-aebf-f2b9ad3fec68": "2026-08-25T16:17:45Z",
@@ -2563,7 +2550,11 @@
     "https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck": "2026-09-01T13:25:51Z",
     "2016443c-1bf1-5a19-9786-378f62634a99": "2026-09-01T13:39:41Z",
     "https://cointelegraph.com/magazine/does-bitcoins-rally-mean-we-havent-wasted-our-lives-in-crypto": "2026-09-01T13:39:42Z",
-    "https://cointelegraph.com/news/fake-claude-desktop-app-spreads-crypto-stealing-malware": "2026-09-01T14:07:59Z"
+    "https://cointelegraph.com/news/fake-claude-desktop-app-spreads-crypto-stealing-malware": "2026-09-01T14:07:59Z",
+    "1de6ac6c-43e3-521f-90b1-4e76b0192cd9": "2026-09-01T14:26:30Z",
+    "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing": "2026-09-01T14:26:31Z",
+    "https://huggingface.co/blog/pwc-search": "2026-09-01T14:26:31Z",
+    "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/": "2026-09-01T14:26:32Z"
   },
   "pending": {
     "8e729437-e9c7-554a-b0ab-ada4ae318bec": {
@@ -2584,20 +2575,6 @@
     }
   },
   "articles": [
-    {
-      "id": "6a8f461323e3ef4f03be5d75",
-      "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
-      "url": null,
-      "stream": "ai",
-      "source": "Feed: Artificial Intelligence Latest",
-      "published": "2026-08-27T21:08:34Z",
-      "score": 4,
-      "category": "Safety & Risk",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Der Artikel spekuliert, ob KI-Agenten, die Systeme hacken, die USA und China zu einer Zusammenarbeit bewegen könnten. Es handelt sich um eine meinungsbasierte Analyse ohne konkrete Ereignisse oder belastbare Fakten, daher ist die direkte Branchenwirkung gering. Kurzfristig sind keine Marktreaktionen zu erwarten; die Debatte um KI-Sicherheit bleibt jedoch ein relevantes Thema."
-    },
     {
       "id": "6a8c94bfdc189f02e9641b90",
       "title": "A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend",
@@ -5849,6 +5826,23 @@
       "instruments": [],
       "entities": [],
       "summary": "Eine gefälschte Claude-Desktop-App verbreitet Malware, die Krypto-Guthaben von Nutzern stehlen kann. Die Bedrohung betrifft Anwender, die die App installieren, da Zugangsdaten zu Wallets abgegriffen werden können und Vertrauen in Krypto-Tools Schaden nimmt. In der Folge ist mit erhöhten Sicherheitswarnungen und vorsichtigerem Nutzerverhalten bei Krypto-Anwendungen zu rechnen."
+    },
+    {
+      "id": "1de6ac6c-43e3-521f-90b1-4e76b0192cd9",
+      "title": "Bitcoin and gold move in lockstep as debasement trade gains more steam",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-09-01T14:26:02Z",
+      "score": 6,
+      "category": "Macro",
+      "sentiment": "bullish",
+      "instruments": [
+        "BTCUSD",
+        "DXY"
+      ],
+      "entities": [],
+      "summary": "Laut The Block bewegen sich Bitcoin und Gold zunehmend synchron, da der sogenannte Debasement-Trade neue Dynamik gewinnt. Das signalisiert wachsende Nachfrage nach knappen Vermögenswerten als Schutz vor Kaufkraftverlust des Dollar und stützt damit die Marktstimmung für Bitcoin. Die Korrelation dürfte sich fortsetzen, solange die geldpolitische Lockerung anhält."
     }
   ],
   "digest_log": [
