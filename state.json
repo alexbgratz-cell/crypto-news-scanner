@@ -2569,7 +2569,9 @@
     "https://decrypt.co/?p=377078": "2026-09-01T19:34:59Z",
     "https://techcrunch.com/?p=3159842": "2026-09-01T19:49:48Z",
     "https://decrypt.co/?p=377099": "2026-09-01T20:08:28Z",
-    "6a95c50b1ed47ec1f88c0129": "2026-09-01T20:08:29Z"
+    "6a95c50b1ed47ec1f88c0129": "2026-09-01T20:08:29Z",
+    "https://cointelegraph.com/news/uk-crime-agency-froze-premier-league-crypto-partner-sorare": "2026-09-01T20:24:28Z",
+    "https://openai.com/index/path-to-astra": "2026-09-01T20:24:29Z"
   },
   "pending": {
     "8e729437-e9c7-554a-b0ab-ada4ae318bec": {
@@ -2590,43 +2592,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/markets/bitcoin-dips-fed-warsh-dismisses-recent-low-inflation-prints",
-      "title": "Bitcoin dips to $78.4K as Fed’s Warsh downplays softer inflation prints",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-28T15:31:25Z",
-      "score": 6,
-      "category": "Macro",
-      "sentiment": "bearish",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "Bitcoin fällt auf 78.400 US-Dollar, nachdem Fed-Vertreter Warsh die zuletzt schwächeren Inflationsdaten als wenig aussagekräftig einstuft. Die Markterwartung an baldige Zinssenkungen wird dadurch gedämpft, was riskante Anlagen wie Bitcoin belastet. Der weitere Kursverlauf hängt nun von der nächsten Fed-Kommunikation beziehungsweise den kommenden Inflationsdaten ab.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T22:07:50Z"
-    },
-    {
-      "id": "https://cointelegraph.com/news/crypto-biz-bitcoin-rally-crypto-stocks-circle-strategy-solana",
-      "title": "Crypto Biz: Bitcoin pumps, Wall Street does the paperwork",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-28T14:53:40Z",
-      "score": 6,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [
-        "BTCUSD",
-        "SOLUSD"
-      ],
-      "entities": [],
-      "summary": "Der wöchentliche Crypto-Biz-Bericht von Cointelegraph behandelt den jüngsten Bitcoin-Anstieg sowie die zunehmende Wall-Street-Aktivität rund um Kryptoaktien, Circle, Strategy und Solana. Die Meldungen deuten auf ein wachsendes institutionelles Interesse an digitalen Assets hin, was die Nachfrage nach Bitcoin und Solana stützt. Für die betroffenen Kryptowährungen sind weitere Kursgewinne wahrscheinlich.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T22:07:50Z"
-    },
     {
       "id": "https://cointelegraph.com/magazine/who-is-legally-liable-when-an-ai-agent-goes-rogue",
       "title": "Who is legally liable when an AI agent goes rogue?",
@@ -5873,6 +5838,34 @@
       "summary": "OpenAI steht kurz davor, sein erstes KI-Modell mit als kritisch eingestuften Cyber-Fähigkeiten zu veröffentlichen. Das Modell könnte die Sicherheitsbranche verändern und zugleich neue Risiken im Umgang mit KI-gestützten Angriffen aufwerfen. Die Veröffentlichung dürfte die Konkurrenz im KI-Markt weiter verschärfen.",
       "delivered": "digest",
       "delivered_at": "2026-09-01T20:15:29Z"
+    },
+    {
+      "id": "https://cointelegraph.com/news/uk-crime-agency-froze-premier-league-crypto-partner-sorare",
+      "title": "UK crime agency froze $13.5M amid probe into Premier League crypto sponsor",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-01T20:14:12Z",
+      "score": 7,
+      "category": "Regulation",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Die britische Kriminalitätsbehörde hat im Rahmen einer Untersuchung 13,5 Millionen Dollar im Zusammenhang mit Sorare eingefroren, einer Krypto-Fantasy-Fußballplattform und Premier-League-Sponsor. Die Maßnahme erhöht den regulatorischen Druck auf Krypto- und NFT-Unternehmen und erzeugt Unsicherheit für deren Partnerschaften. Eine Belastung für Sorares Geschäftsbetrieb und Sponsoring-Verträge ist wahrscheinlich."
+    },
+    {
+      "id": "https://openai.com/index/path-to-astra",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "url": null,
+      "stream": "ai",
+      "source": "OpenAI News",
+      "published": "2026-09-01T13:00:00Z",
+      "score": 5,
+      "category": "Safety & Risk",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "OpenAI hat einen Beitrag mit dem Titel „Path to Astra\" veröffentlicht, der kritische Fähigkeiten und Schutzmaßnahmen für künftige KI-Systeme behandelt. Der Beitrag unterstreicht den Anspruch, Sicherheit bei der Weiterentwicklung von Modellen in den Vordergrund zu stellen, was Vertrauen in verantwortungsvolle KI-Entwicklung schaffen könnte. Konkrete Marktbewegungen oder neue Produktdetails sind aus dem Artikel allein nicht abzuleiten."
     }
   ],
   "digest_log": [
