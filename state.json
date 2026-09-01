@@ -5847,7 +5847,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Decrypt berichtet, dass OpenClaw 2.0 verfügbar ist und erläutert die Änderungen, die zweimonatige Entwicklungszeit sowie den Vergleich mit Hermes. Das Release erweitert das Angebot offener KI-Modelle und erhöht den Wettbewerbsdruck im Bereich agentischer KI. Der Vergleich mit Hermes dürfte die Wahrnehmung des Modells in den nächsten Wochen maßgeblich prägen."
+      "summary": "Decrypt berichtet, dass OpenClaw 2.0 verfügbar ist und erläutert die Änderungen, die zweimonatige Entwicklungszeit sowie den Vergleich mit Hermes. Das Release erweitert das Angebot offener KI-Modelle und erhöht den Wettbewerbsdruck im Bereich agentischer KI. Der Vergleich mit Hermes dürfte die Wahrnehmung des Modells in den nächsten Wochen maßgeblich prägen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T23:12:40Z"
     },
     {
       "id": "https://techcrunch.com/?p=3159934",
@@ -5861,7 +5863,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "AfterQuery soll laut einem Bericht Y Combinators schnellstes Einhorn aller Zeiten sein und wird nun mit 3,2 Mrd. US-Dollar bewertet. Die hohe Bewertung zeigt anhaltend starke Investorennachfrage nach KI-gestützten SaaS-Lösungen und verbessert die Finanzierungsperspektiven ähnlicher Start-ups. Für AfterQuery dürfte die Runde die Basis für eine weitere Expansion und spätere Folgefinanzierungen sein."
+      "summary": "AfterQuery soll laut einem Bericht Y Combinators schnellstes Einhorn aller Zeiten sein und wird nun mit 3,2 Mrd. US-Dollar bewertet. Die hohe Bewertung zeigt anhaltend starke Investorennachfrage nach KI-gestützten SaaS-Lösungen und verbessert die Finanzierungsperspektiven ähnlicher Start-ups. Für AfterQuery dürfte die Runde die Basis für eine weitere Expansion und spätere Folgefinanzierungen sein.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T23:12:40Z"
     }
   ],
   "digest_log": [
@@ -6637,6 +6641,13 @@
         "https://cointelegraph.com/news/binance-adds-options-on-1000-us-stocks-and-etfs-in-tradfi-expansion",
         "https://techcrunch.com/?p=3159895",
         "https://techcrunch.com/?p=3159905"
+      ]
+    },
+    {
+      "at": "2026-09-01T23:12:40Z",
+      "article_ids": [
+        "https://decrypt.co/?p=377135",
+        "https://techcrunch.com/?p=3159934"
       ]
     }
   ],
