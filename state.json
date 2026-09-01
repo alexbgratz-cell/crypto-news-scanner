@@ -2555,7 +2555,8 @@
     "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing": "2026-09-01T14:26:31Z",
     "https://huggingface.co/blog/pwc-search": "2026-09-01T14:26:31Z",
     "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/": "2026-09-01T14:26:32Z",
-    "https://decrypt.co/?p=377032": "2026-09-01T14:41:23Z"
+    "https://decrypt.co/?p=377032": "2026-09-01T14:41:23Z",
+    "6a9582ab4bec28bfced5a370": "2026-09-01T14:56:39Z"
   },
   "pending": {
     "8e729437-e9c7-554a-b0ab-ada4ae318bec": {
@@ -2576,22 +2577,6 @@
     }
   },
   "articles": [
-    {
-      "id": "6a905af1535e42598157d7c3",
-      "title": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
-      "url": null,
-      "stream": "ai",
-      "source": "Feed: Artificial Intelligence Latest",
-      "published": "2026-08-27T18:06:52Z",
-      "score": 5,
-      "category": "Safety & Risk",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [
-        "Anthropic"
-      ],
-      "summary": "Anthropic hat dargelegt, wie KI-Agenten sicher in der physischen Welt navigieren sollten. Die Leitlinien betreffen Sicherheits- und Kontrollmechanismen für reale Einsätze von Agenten. Es ist mit weiteren Debatten und möglichen Standards für solche Systeme zu rechnen."
-    },
     {
       "id": "6a9036a19145af0a9bfdaad4",
       "title": "OpenAI Is Developing a ‘Persistent’ AI Agent",
@@ -5844,6 +5829,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Gal Gadot verteidigt den Einsatz von Künstlicher Intelligenz in einem Bitcoin-Film und sagt, man müsse mit der Technologie arbeiten oder „aus dem Spiel“ sein. Die Aussage ist eine persönliche Meinung ohne direkten Bezug zu Kursen, Regulierung oder Marktdaten. Daher ist keine unmittelbare Marktbewegung für Krypto-Assets zu erwarten."
+    },
+    {
+      "id": "6a9582ab4bec28bfced5a370",
+      "title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
+      "url": null,
+      "stream": "ai",
+      "source": "Feed: Artificial Intelligence Latest",
+      "published": "2026-09-01T14:40:00Z",
+      "score": 2,
+      "category": "Business & Funding",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Sonos hat eine Reihe neuer Audio-Produkte angekündigt, darunter Sonos Ace Ultra, Beam Ultra, die Plattform Sonos Fabric und eine neue App. Die Ankündigung betrifft Unterhaltungselektronik und enthält keine erkennbaren Kern-KI-Technologien, daher ist die Relevanz für die KI-Branche gering. Für KI-Unternehmen und -Investoren ist keine nennenswerte Marktbewegung zu erwarten."
     }
   ],
   "digest_log": [
