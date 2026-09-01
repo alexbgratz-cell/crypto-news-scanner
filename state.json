@@ -2567,7 +2567,9 @@
     "https://decrypt.co/?p=377126": "2026-09-01T21:07:34Z",
     "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/": "2026-09-01T21:07:35Z",
     "https://techcrunch.com/?p=3159895": "2026-09-01T21:07:36Z",
-    "https://techcrunch.com/?p=3159905": "2026-09-01T21:07:36Z"
+    "https://techcrunch.com/?p=3159905": "2026-09-01T21:07:36Z",
+    "https://cointelegraph.com/news/crypto-pac-protect-progress-spending-massachusetts-primary": "2026-09-01T21:37:13Z",
+    "https://decrypt.co/?p=377128": "2026-09-01T21:37:13Z"
   },
   "pending": {
     "8e729437-e9c7-554a-b0ab-ada4ae318bec": {
@@ -2588,40 +2590,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/onekey-transaction-replacement-attack-old-version-ledger",
-      "title": "OneKey reproduces transaction replacement attack on outdated Ledger Ethereum app",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-28T08:21:16Z",
-      "score": 7,
-      "category": "Hack & Security",
-      "sentiment": "bearish",
-      "instruments": [
-        "ETHUSD"
-      ],
-      "entities": [],
-      "summary": "OneKey hat einen Transaktions-Ersetzungsangriff auf eine veraltete Version der Ledger-Ethereum-App reproduziert. Betroffen sind Nutzer, die ihr Gerät nicht aktualisiert haben; Angreifer könnten dadurch Transaktionen manipulieren. Die Konsequenz ist ein erhöhtes Risiko für betroffene Ledger-Anwender, das nur durch ein sofortiges Update der App vermieden werden kann.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T22:07:50Z"
-    },
-    {
-      "id": "https://cointelegraph.com/news/visa-dunamu-stablecoin-payments-ai-commerce",
-      "title": "Visa works with Upbit parent on stablecoin payments, AI commerce",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-28T07:41:15Z",
-      "score": 6,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Visa arbeitet mit Dunamu, der Muttergesellschaft der Börse Upbit, an Stablecoin-Zahlungen und KI-Commerce zusammen. Die Partnerschaft bringt Stablecoins näher an den regulären Zahlungsverkehr und stärkt die Akzeptanz von Krypto-Zahlungsinfrastruktur. Weitere ähnliche Kooperationen im Zahlungssektor sind wahrscheinlich.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T22:07:50Z"
-    },
     {
       "id": "https://cointelegraph.com/news/the-sandbox-compensation-sand-bridge-exploit",
       "title": "The Sandbox pledges 1:1 repayment after $700K bridge exploit",
@@ -5869,6 +5837,36 @@
       "summary": "Google kündigt ein Android-Update an, das Funktionen gegen Reisekrankheit, Verbesserungen zur Barrierefreiheit und weitere Neuerungen enthält. Für die Tech-Branche ist das eine breite Produktpflege, kein KI-Durchbruch; vor allem Nutzer mit Einschränkungen profitieren. Eine größere Marktreaktion ist nicht zu erwarten; relevant ist die offizielle Ausrollung des Updates.",
       "delivered": "digest",
       "delivered_at": "2026-09-01T21:14:50Z"
+    },
+    {
+      "id": "https://cointelegraph.com/news/crypto-pac-protect-progress-spending-massachusetts-primary",
+      "title": "Crypto-backed PAC scales back ad spending in Massachusetts primary",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-01T21:25:27Z",
+      "score": 5,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Ein krypto-unterstütztes Political Action Committee (PAC) reduziert seine Werbeausgaben im Vorwahlkampf in Massachusetts. Damit sinkt der kurzfristige politische Einfluss der Krypto-Industrie auf diesen Wahlkampf, ohne dass ein konkreter Markt- oder Regulierungsimpuls erkennbar ist. Eine direkte Marktreaktion ist daher kurzfristig nicht zu erwarten."
+    },
+    {
+      "id": "https://decrypt.co/?p=377128",
+      "title": "Nvidia Invests $3.5 Billion in MediaTek to Expand Beyond GPUs",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-01T21:31:04Z",
+      "score": 8,
+      "category": "Business & Funding",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "NVDA"
+      ],
+      "summary": "Nvidia investiert 3,5 Milliarden US-Dollar in MediaTek, um sein Geschäft über GPUs hinaus auszubauen. Die Investition stärkt Nvidias Position im Halbleiter- und Chipdesign-Markt und wirkt sich direkt auf den NDX-Riesen Nvidia aus. Für die Nvidia-Aktie und den Halbleitersektor sind dadurch positive Marktreaktionen wahrscheinlich."
     }
   ],
   "digest_log": [
