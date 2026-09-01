@@ -5952,7 +5952,9 @@
       "entities": [
         "OpenAI"
       ],
-      "summary": "OpenAI unterstützt einen kalifornischen Gesetzesentwurf, der die Sicherheit von KI für Jugendliche verbessern soll. Die Unterstützung signalisiert eine wachsende Bereitschaft der Branche, verbindliche Schutzmaßnahmen im Jugendschutz mitzugestalten. Die nächste Wegmarke ist der weitere Gesetzgebungsprozess in Kalifornien und mögliche konkrete Anforderungen an KI-Anbieter."
+      "summary": "OpenAI unterstützt einen kalifornischen Gesetzesentwurf, der die Sicherheit von KI für Jugendliche verbessern soll. Die Unterstützung signalisiert eine wachsende Bereitschaft der Branche, verbindliche Schutzmaßnahmen im Jugendschutz mitzugestalten. Die nächste Wegmarke ist der weitere Gesetzgebungsprozess in Kalifornien und mögliche konkrete Anforderungen an KI-Anbieter.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T06:20:07Z"
     }
   ],
   "digest_log": [
@@ -6618,6 +6620,12 @@
       "at": "2026-09-01T05:14:26Z",
       "article_ids": [
         "0d03f024-a1b7-57d6-a290-fda139686772"
+      ]
+    },
+    {
+      "at": "2026-09-01T06:20:07Z",
+      "article_ids": [
+        "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety"
       ]
     }
   ],
