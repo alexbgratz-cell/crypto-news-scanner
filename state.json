@@ -2560,7 +2560,10 @@
     "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/": "2026-09-01T16:29:40Z",
     "https://cointelegraph.com/news/21-financial-institutions-g7-stablecoin-venture": "2026-09-01T16:51:20Z",
     "https://techcrunch.com/?p=3159706": "2026-09-01T16:51:35Z",
-    "https://www.marktechpost.com/?p=82009": "2026-09-01T16:51:37Z"
+    "https://www.marktechpost.com/?p=82009": "2026-09-01T16:51:37Z",
+    "36862779-86a7-5574-8c4a-cbec4f309a34": "2026-09-01T17:24:20Z",
+    "https://deepmind.google/blog/introducing-agentic-video-in-gemini/": "2026-09-01T17:24:21Z",
+    "https://techcrunch.com/?p=3159529": "2026-09-01T17:24:21Z"
   },
   "pending": {
     "8e729437-e9c7-554a-b0ab-ada4ae318bec": {
@@ -2581,54 +2584,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://www.marktechpost.com/?p=81896",
-      "title": "From In-Silico to Wet-Lab: Evaluating AI Protein Design Performance",
-      "url": null,
-      "stream": "ai",
-      "source": "MarkTechPost",
-      "published": "2026-08-27T15:36:29Z",
-      "score": 5,
-      "category": "Research & Open Source",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Der Artikel befasst sich mit der Bewertung von KI-Proteindesign-Leistungen vom In-Silico- bis zum Nasslabor-Ansatz. Die Ergebnisse sind für die KI-Forschung und Biotech-Anwendungen relevant, da sie die praktische Zuverlässigkeit solcher Modelle einschätzen. Konkrete Marktauswirkungen oder nächste Entscheidungen werden in der Überschrift nicht genannt."
-    },
-    {
-      "id": "https://www.marktechpost.com/?p=81891",
-      "title": "Google Research Introduces GlucoFM: A 0.72M-Parameter Dual-Stream Foundation Model for Continuous Glucose Monitoring",
-      "url": null,
-      "stream": "ai",
-      "source": "MarkTechPost",
-      "published": "2026-08-27T04:13:44Z",
-      "score": 7,
-      "category": "Model Release & Capability",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [
-        "GOOGL"
-      ],
-      "summary": "Google Research stellt GlucoFM vor, ein Foundation-Modell mit 0,72 Millionen Parametern und Dual-Stream-Architektur für die kontinuierliche Glukoseüberwachung. Das Modell könnte die Auswertung von Glukosedaten verbessern und personalisierte Behandlungen im Diabetesbereich unterstützen. Googles Position im Bereich spezialisierter Gesundheits-KI wird dadurch weiter gestärkt.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T01:31:15Z"
-    },
-    {
-      "id": "678faf53-e4b8-53c9-a14f-2a84ca90628d",
-      "title": "Ninth Circuit deals blow to Kalshi in Nevada sports betting fight, challenging CFTC’s exclusive jurisdiction claim",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-28T19:50:48Z",
-      "score": 7,
-      "category": "Regulation",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Ein Bundesberufungsgericht hat Kalshi im Rechtsstreit um Sportwetten in Nevada eine Niederlage zugefügt und die Behauptung einer ausschließlichen CFTC-Zuständigkeit infrage gestellt. Die Entscheidung erhöht die regulatorische Unsicherheit für Vorhersagemärkte und ähnliche regulierte Plattformen. Weitere gerichtliche oder aufsichtsrechtliche Schritte dürften die Reichweite der CFTC-Zuständigkeit neu justieren.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T22:07:50Z"
-    },
     {
       "id": "e0c77003-f0bd-5c77-bf28-5a9fdce9e33e",
       "title": "Bitwise fund is first Solana ETF to hit $1 billion AUM",
@@ -5852,6 +5807,53 @@
       "instruments": [],
       "entities": [],
       "summary": "Forscher von Princeton, Ant Group und Stanford stellen AQuA vor, ein zweiteiliges agentisches Framework zur autonomen Faktorentdeckung und Modellentwicklung in der quantitativen Finanzwelt. Das Framework könnte die Effizienz bei der Entwicklung von Handelsmodellen erhöhen, betrifft aber vorerst nur die Forschung. Eine direkte Marktwirkung ist nicht erkennbar, weitere technische Details oder Benchmarks stehen noch aus."
+    },
+    {
+      "id": "36862779-86a7-5574-8c4a-cbec4f309a34",
+      "title": "SEC seeks to update its 1970s-era transfer agent rules for the blockchain age",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-09-01T17:16:01Z",
+      "score": 7,
+      "category": "Regulation",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Die US-Börsenaufsicht SEC will ihre Transfer-Agent-Regeln aus den 1970er-Jahren an das Blockchain-Zeitalter anpassen. Damit reagiert sie auf veränderte Marktstrukturen und schafft potenziell mehr regulatorische Klarheit für digitale Wertpapiere. Die konkreten Folgen hängen vom Regelungsentwurf und dem weiteren Verfahren ab."
+    },
+    {
+      "id": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "title": "Introducing agentic video understanding with Gemini",
+      "url": null,
+      "stream": "ai",
+      "source": "Google DeepMind News",
+      "published": "2026-09-01T17:08:51Z",
+      "score": 8,
+      "category": "Model Release & Capability",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "GOOGL"
+      ],
+      "summary": "Google DeepMind stellt agentisches Video-Verständnis für Gemini vor, das Videos eigenständig analysieren und verstehen kann. Das erweitert Googles KI-Angebot um eine multimodale Kernfähigkeit und verschärft den Wettbewerb mit anderen KI-Labors. Die Funktion wird voraussichtlich in Gemini-Produkte integriert und könnte die Nutzung von Video-KI deutlich erhöhen."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3159529",
+      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-01T17:00:00Z",
+      "score": 6,
+      "category": "Business & Funding",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "OpenAI",
+        "Epic"
+      ],
+      "summary": "OpenAI hat ChatGPT Health um eine Epic-Integration erweitert, mit der Kliniker Patientendaten direkt importieren können. Die Anbindung erleichtert den KI-Einsatz im klinischen Alltag und stärkt OpenAIs Position im Gesundheitsmarkt. Die Integration dürfte die Verbreitung von KI-Assistenten in Krankenhäusern beschleunigen und ChatGPT Health für weitere Anbieter relevanter machen."
     }
   ],
   "digest_log": [
