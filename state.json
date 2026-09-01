@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://cointelegraph.com/news/strategy-financing-risk-not-bitcoin-sales": "2026-08-25T17:55:14Z",
-    "https://cointelegraph.com/news/bitwise-launches-self-custodied-tokenized-stock-portfolios-with-coinbase": "2026-08-25T17:55:14Z",
-    "https://decrypt.co/?p=376489": "2026-08-25T17:55:14Z",
-    "https://decrypt.co/?p=376446": "2026-08-25T17:55:14Z",
-    "https://decrypt.co/?p=376445": "2026-08-25T17:55:14Z",
-    "https://openai.com/index/introducing-admin-plugin": "2026-08-25T17:55:14Z",
-    "https://techcrunch.com/?p=3156630": "2026-08-25T17:55:16Z",
-    "https://www.marktechpost.com/?p=81857": "2026-08-25T17:55:17Z",
     "2dcf03f3-0397-5145-bad2-c2a0cf48604a": "2026-08-25T20:59:59Z",
     "https://cointelegraph.com/news/world-liberty-financial-launches-usd1-natively-on-canton-network": "2026-08-25T20:59:59Z",
     "https://cointelegraph.com/markets/bitcoin-enters-initial-phase-of-new-bull-market-but-83k-remains-key-cryptoquant": "2026-08-25T20:59:59Z",
@@ -2566,7 +2558,11 @@
     "https://techcrunch.com/?p=3159529": "2026-09-01T17:24:21Z",
     "https://openai.com/index/ai-native-company-workflows": "2026-09-01T17:36:20Z",
     "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources": "2026-09-01T17:36:20Z",
-    "https://techcrunch.com/?p=3159727": "2026-09-01T17:36:21Z"
+    "https://techcrunch.com/?p=3159727": "2026-09-01T17:36:21Z",
+    "https://cointelegraph.com/news/sec-proposes-transfer-agent-overhaul-as-securities-move-onchain": "2026-09-01T18:09:27Z",
+    "https://cointelegraph.com/news/kalshi-bans-politicians-insider-trading-bets-manipulation": "2026-09-01T18:09:27Z",
+    "https://decrypt.co/?p=377068": "2026-09-01T18:09:27Z",
+    "https://openai.com/index/introducing-admin-plugin": "2026-09-01T18:09:27Z"
   },
   "pending": {
     "8e729437-e9c7-554a-b0ab-ada4ae318bec": {
@@ -2587,52 +2583,6 @@
     }
   },
   "articles": [
-    {
-      "id": "c1e26c36-ea39-54b5-b90e-69d84d911d00",
-      "title": "IREN’s $25 billion-$30 billion AI buildout may have ‘spooked’ investors, Bernstein says",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-28T12:57:52Z",
-      "score": 6,
-      "category": "Other",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Bernstein zufolge haben IRENs geplante Investitionen von 25 bis 30 Milliarden US-Dollar in den KI-Ausbau Anleger verschreckt. Die hohen Kapitalausgaben könnten die Bilanz des Bitcoin-Miners belasten und negativ auf den Aktienkurs wirken. IREN dürfte daher zunächst unter Abgabedruck bleiben, bis weitere Finanzierungsdetails vorliegen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T22:07:50Z"
-    },
-    {
-      "id": "39c8120b-2d77-500a-8aba-e2cd7e82eecd",
-      "title": "Investors at least $4.7 billion underwater across Trump crypto ventures, Public Citizen says",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-28T11:26:02Z",
-      "score": 5,
-      "category": "Other",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Ein Bericht von Public Citizen zeigt, dass Anleger bei Trump-nahen Krypto-Projekten mindestens 4,7 Milliarden Dollar Verluste erlitten haben. Das belastet die Stimmung im Markt und könnte das Vertrauen in politisch verbundene Meme-Coins schwächen. Eine unmittelbare Auswirkung auf große Kryptowährungen ist nicht zu erwarten, die Skepsis gegenüber solchen Initiativen dürfte jedoch zunehmen."
-    },
-    {
-      "id": "ac0893a0-b39a-55dd-b16c-a72d0ed046aa",
-      "title": "Circle strikes Chelsea front-of-shirt sponsorship deal featuring USDC",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-28T11:00:00Z",
-      "score": 6,
-      "category": "Other",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Circle hat einen Sponsoringvertrag mit dem FC Chelsea für die Trikotvorderseite geschlossen, bei dem die Stablecoin USDC im Mittelpunkt steht. Der Deal erhöht die Sichtbarkeit von USDC bei einem globalen Sportpublikum und stärkt die Wahrnehmung von Stablecoins im Mainstream. Eine direkte Marktbewegung großer Kryptowährungen ist daraus jedoch nicht abzuleiten.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T22:07:50Z"
-    },
     {
       "id": "bc5c575e-a468-55b8-bcf6-bfaa878692ac",
       "title": "Latest annual UK tax data shows 240 people reported more than £1 million in crypto capital gains",
@@ -5855,6 +5805,50 @@
         "GOOGL"
       ],
       "summary": "Google stellt ein KI-gestütztes Designtool vor, das als Antwort auf Canva positioniert ist und bei dem Nutzer per Prompt statt klassischem Design arbeiten. Das Tool stärkt Googles Angebot im KI-Produktbereich und erhöht den Wettbewerbsdruck auf etablierte Design-Plattformen. Eine breite Markteinführung und die Nutzerakzeptanz werden über den konkreten Markteinfluss entscheiden."
+    },
+    {
+      "id": "https://cointelegraph.com/news/sec-proposes-transfer-agent-overhaul-as-securities-move-onchain",
+      "title": "SEC proposes broad update to decades-old transfer agent rules with blockchain nod",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-01T17:52:51Z",
+      "score": 7,
+      "category": "Regulation",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Die SEC hat einen umfassenden Vorschlag zur Modernisierung jahrzehntealter Transferagent-Regeln vorgelegt, der ausdrücklich Blockchain-Technologie berücksichtigt. Der Schritt signalisiert regulatorische Öffnung gegenüber tokenisierten Wertpapieren und könnte die Abwicklung von Wertpapieren auf Distributed-Ledger-Basis erleichtern. Falls die Regeln final verabschiedet werden, dürften Emittenten und Marktinfrastrukturen mehr Rechtssicherheit für Onchain-Wertpapiere erhalten."
+    },
+    {
+      "id": "https://cointelegraph.com/news/kalshi-bans-politicians-insider-trading-bets-manipulation",
+      "title": "Kalshi issues first lifetime ban for Republican politician over insider bets",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-01T17:39:48Z",
+      "score": 5,
+      "category": "Regulation",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Die US-Wettplattform Kalshi hat erstmals einen republikanischen Politiker lebenslang gesperrt, weil er mit Insiderwissen Wetten platziert hat. Dieser Präzedenzfall erhöht den Druck auf Vorhersagemärkte wie Polymarket, klare Regeln gegen Insiderhandel durchzusetzen. Strengere Compliance-Auflagen und weitere Sanktionen in der Branche sind wahrscheinlich."
+    },
+    {
+      "id": "https://decrypt.co/?p=377068",
+      "title": "Solana Treasury DeFi Development Corp Eyes $20 Million Raise to Buy More SOL",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-01T18:03:47Z",
+      "score": 7,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [
+        "SOLUSD"
+      ],
+      "entities": [],
+      "summary": "Die Solana Treasury DeFi Development Corp erwägt eine Kapitalerhöhung von 20 Millionen Dollar, um weitere SOL zu kaufen. Dadurch könnte zusätzliche Nachfrage nach SOL entstehen und den Kurs stützen. Sollte die Erhöhung umgesetzt werden, dürfte sich das Kaufinteresse an SOL weiter verstärken."
     }
   ],
   "digest_log": [
