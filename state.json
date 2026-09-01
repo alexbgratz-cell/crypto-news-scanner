@@ -2571,7 +2571,9 @@
     "https://decrypt.co/?p=377099": "2026-09-01T20:08:28Z",
     "6a95c50b1ed47ec1f88c0129": "2026-09-01T20:08:29Z",
     "https://cointelegraph.com/news/uk-crime-agency-froze-premier-league-crypto-partner-sorare": "2026-09-01T20:24:28Z",
-    "https://openai.com/index/path-to-astra": "2026-09-01T20:24:29Z"
+    "https://openai.com/index/path-to-astra": "2026-09-01T20:24:29Z",
+    "https://decrypt.co/?p=377100": "2026-09-01T20:37:49Z",
+    "https://www.marktechpost.com/?p=82022": "2026-09-01T20:37:51Z"
   },
   "pending": {
     "8e729437-e9c7-554a-b0ab-ada4ae318bec": {
@@ -2592,36 +2594,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/magazine/who-is-legally-liable-when-an-ai-agent-goes-rogue",
-      "title": "Who is legally liable when an AI agent goes rogue?",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-28T13:30:00Z",
-      "score": 5,
-      "category": "Regulation & Policy",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Der Artikel untersucht die Frage der rechtlichen Haftung, wenn ein KI-Agent eigenmächtig Schaden verursacht. Für Anbieter und Betreiber autonomer KI-Systeme entsteht dadurch erhebliche Rechtsunsicherheit, da die bestehenden Regelungen nicht eindeutig zuordenbar sind. Eine klärende Entscheidung durch Gerichte oder Regulierungsbehörden wird damit zur zentralen Weichenstellung für die Branche."
-    },
-    {
-      "id": "https://cointelegraph.com/news/polish-olympic-chief-charged-zondacrypto-probe",
-      "title": "Polish Olympic chief charged in Zondacrypto probe, justice minister says",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-28T13:16:37Z",
-      "score": 7,
-      "category": "Regulation",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Der polnische Olympia-Chef ist im Zusammenhang mit einer Untersuchung um die Kryptobörse Zondacrypto angeklagt worden, wie der Justizminister mitteilte. Die Anklage erhöht den rechtlichen und reputativen Druck auf Zondacrypto und belastet die Stimmung im Kryptomarkt. Mit weiterer Eskalation und erhöhter Volatilität rund um das Verfahren ist zu rechnen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T22:07:50Z"
-    },
     {
       "id": "https://cointelegraph.com/news/california-bill-ban-memecoin-issuance-public-officials",
       "title": "California Senate passes bill to ban memecoin issuance by public officials",
@@ -5866,6 +5838,39 @@
       "instruments": [],
       "entities": [],
       "summary": "OpenAI hat einen Beitrag mit dem Titel „Path to Astra\" veröffentlicht, der kritische Fähigkeiten und Schutzmaßnahmen für künftige KI-Systeme behandelt. Der Beitrag unterstreicht den Anspruch, Sicherheit bei der Weiterentwicklung von Modellen in den Vordergrund zu stellen, was Vertrauen in verantwortungsvolle KI-Entwicklung schaffen könnte. Konkrete Marktbewegungen oder neue Produktdetails sind aus dem Artikel allein nicht abzuleiten."
+    },
+    {
+      "id": "https://decrypt.co/?p=377100",
+      "title": "What Is 'Red September'? Bitcoin's Curse, and Why Wall Street Has the Same One",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-01T20:31:05Z",
+      "score": 5,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [
+        "BTCUSD",
+        "NDX"
+      ],
+      "entities": [],
+      "summary": "Decrypt erklärt in einem Beitrag das saisonale Muster „Red September“ für Bitcoin und verweist auf ähnliche Schwächephasen an der Wall Street. Die Darstellung kann Anleger verunsichern und zu defensiver Positionierung führen, obwohl kein konkretes Ereignis vorliegt. Konkrete Kursziele oder Entscheidungen nennt der Artikel nicht; unmittelbare Marktbewegungen sind daraus nicht abzuleiten."
+    },
+    {
+      "id": "https://www.marktechpost.com/?p=82022",
+      "title": "Anthropic Releases Claude Fable 5.1 and Claude Mythos 5.1: 52.6% on Terminal-Bench-Science and 75% Cheaper Cache Reads",
+      "url": null,
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-09-01T20:30:21Z",
+      "score": 7,
+      "category": "Model Release & Capability",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "Anthropic"
+      ],
+      "summary": "Anthropic hat Claude Fable 5.1 und Claude Mythos 5.1 veröffentlicht; die Modelle erreichen 52,6 % im Terminal-Bench-Science und senken die Kosten für Cache Reads um 75 %. Die gleichzeitige Verbesserung von Leistung und Kosten stärkt Anthropics Position im Wettbewerb um KI-Modelle. Dadurch werden Claude-APIs für langlaufende, kontextreiche Anwendungen deutlich günstiger und attraktiver."
     }
   ],
   "digest_log": [
