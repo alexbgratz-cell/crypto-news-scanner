@@ -5802,7 +5802,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Die Kraken-Muttergesellschaft Payward will 100 an der Londoner Börse notierte Aktien tokenisieren und plant dafür einen 24-Stunden-Handel an der LSE. Das stärkt die Nutzung von Blockchain-Infrastruktur für klassische Finanzwerte und erhöht die institutionelle Akzeptanz tokenisierter Assets. Als Nächstes zählt die konkrete Umsetzung des Handelsangebots; gelingt sie, dürfte der Markt für tokenisierte Wertpapiere weiter an Dynamik gewinnen."
+      "summary": "Die Kraken-Muttergesellschaft Payward will 100 an der Londoner Börse notierte Aktien tokenisieren und plant dafür einen 24-Stunden-Handel an der LSE. Das stärkt die Nutzung von Blockchain-Infrastruktur für klassische Finanzwerte und erhöht die institutionelle Akzeptanz tokenisierter Assets. Als Nächstes zählt die konkrete Umsetzung des Handelsangebots; gelingt sie, dürfte der Markt für tokenisierte Wertpapiere weiter an Dynamik gewinnen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T10:16:03Z"
     },
     {
       "id": "https://decrypt.co/?p=377006",
@@ -5816,7 +5818,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Die britische National Crime Agency hat im Rahmen einer Untersuchung zu Sorare 13,6 Mio. USD an Premier-League-Geldern eingefroren. Die Maßnahme signalisiert verschärfte regulatorische Prüfung von NFT-Fantasy-Plattformen und belastet die Stimmung in der Krypto-/NFT-Branche. Weitere behördliche Schritte oder Auflagen sind wahrscheinlich; kurzfristig ist mit erhöhter Vorsicht bei NFT-bezogenen Projekten zu rechnen."
+      "summary": "Die britische National Crime Agency hat im Rahmen einer Untersuchung zu Sorare 13,6 Mio. USD an Premier-League-Geldern eingefroren. Die Maßnahme signalisiert verschärfte regulatorische Prüfung von NFT-Fantasy-Plattformen und belastet die Stimmung in der Krypto-/NFT-Branche. Weitere behördliche Schritte oder Auflagen sind wahrscheinlich; kurzfristig ist mit erhöhter Vorsicht bei NFT-bezogenen Projekten zu rechnen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T10:16:03Z"
     },
     {
       "id": "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes",
@@ -5832,7 +5836,9 @@
         "BTCUSD"
       ],
       "entities": [],
-      "summary": "Bitfinex Securities listet tokenisierte Schuldverschreibungen, die mit Strategy und Metaplanet verbunden sind. Das erweitert den regulierten Zugang zu Bitcoin-Exposure und stärkt die institutionelle Nachfrage nach BTC-Proxys. Bei erfolgreicher Handelsaufnahme dürfte die Nachfrage nach den verbundenen Bitcoin-Treasury-Werten steigen."
+      "summary": "Bitfinex Securities listet tokenisierte Schuldverschreibungen, die mit Strategy und Metaplanet verbunden sind. Das erweitert den regulierten Zugang zu Bitcoin-Exposure und stärkt die institutionelle Nachfrage nach BTC-Proxys. Bei erfolgreicher Handelsaufnahme dürfte die Nachfrage nach den verbundenen Bitcoin-Treasury-Werten steigen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T10:16:03Z"
     },
     {
       "id": "https://cointelegraph.com/news/singapore-weighs-foreign-regulated-stablecoins-mas-framework",
@@ -5848,7 +5854,9 @@
         "USDT.D"
       ],
       "entities": [],
-      "summary": "Die MAS prüft, ob ausländische, bereits regulierte Stablecoins in Singapur anerkannt werden sollen. Eine solche Anerkennung würde ausländischen Emittenten den Zugang zum Singapur-Markt erleichtern und den Wettbewerb im Stablecoin-Segment erhöhen. Eine Entscheidung der MAS dürfte die künftige Nutzung und Verbreitung von Stablecoins in der Region spürbar prägen."
+      "summary": "Die MAS prüft, ob ausländische, bereits regulierte Stablecoins in Singapur anerkannt werden sollen. Eine solche Anerkennung würde ausländischen Emittenten den Zugang zum Singapur-Markt erleichtern und den Wettbewerb im Stablecoin-Segment erhöhen. Eine Entscheidung der MAS dürfte die künftige Nutzung und Verbreitung von Stablecoins in der Region spürbar prägen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T10:16:03Z"
     }
   ],
   "digest_log": [
@@ -6526,6 +6534,15 @@
       "at": "2026-09-01T08:17:22Z",
       "article_ids": [
         "https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round"
+      ]
+    },
+    {
+      "at": "2026-09-01T10:16:03Z",
+      "article_ids": [
+        "b329dd21-9688-55fd-a4ab-04bbf715842e",
+        "https://decrypt.co/?p=377006",
+        "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes",
+        "https://cointelegraph.com/news/singapore-weighs-foreign-regulated-stablecoins-mas-framework"
       ]
     }
   ],
