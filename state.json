@@ -2566,7 +2566,8 @@
     "1a69070a-065f-51a5-a5e9-b0af49fde78a": "2026-09-01T18:28:45Z",
     "https://decrypt.co/?p=377052": "2026-09-01T18:28:45Z",
     "501ce343-2138-52e9-bf27-057b87c519a2": "2026-09-01T19:34:59Z",
-    "https://decrypt.co/?p=377078": "2026-09-01T19:34:59Z"
+    "https://decrypt.co/?p=377078": "2026-09-01T19:34:59Z",
+    "https://techcrunch.com/?p=3159842": "2026-09-01T19:49:48Z"
   },
   "pending": {
     "8e729437-e9c7-554a-b0ab-ada4ae318bec": {
@@ -2587,24 +2588,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/solana-validators-approve-proposal-to-accelerate-sol-disinflation",
-      "title": "Solana validators approve proposal to accelerate SOL disinflation",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-28T19:53:12Z",
-      "score": 7,
-      "category": "Tech Update",
-      "sentiment": "bullish",
-      "instruments": [
-        "SOLUSD"
-      ],
-      "entities": [],
-      "summary": "Solana-Validatoren haben einen Vorschlag zur beschleunigten Senkung der SOL-Inflation genehmigt. Das reduziert das künftige Angebotswachstum von SOL und könnte die relative Nachfrage stützen. Eine positive Marktreaktion für SOLUSD ist wahrscheinlich, sobald die Umsetzung im Netzwerk fortschreitet.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T22:07:50Z"
-    },
     {
       "id": "https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals",
       "title": "Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs",
@@ -5864,6 +5847,22 @@
         "Anthropic"
       ],
       "summary": "Anthropic hat Claude Fable 5.1 veröffentlicht, das seinen Vorgänger bei einem wichtigen Benchmark mehr als verdoppelt. Damit erhöht sich der Wettbewerbsdruck auf konkurrierende KI-Labore wie OpenAI. Erste Reaktionen von Markt und Branche werden erwartet; weitere Modellankündigungen sind wahrscheinlich."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3159842",
+      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-01T19:39:22Z",
+      "score": 7,
+      "category": "Model Release & Capability",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "Anthropic"
+      ],
+      "summary": "Anthropic hat mit Fable ein neues KI-Modell veröffentlicht, das günstiger und weniger restriktiv ist als bisherige Releases. Dadurch sinken die Nutzungskosten für Entwickler und die Einsatzmöglichkeiten erweitern sich, was Anthropics Wettbewerbsposition stärkt. Eine verstärkte Nutzung und Preisanpassungen bei Wettbewerbern sind wahrscheinlich."
     }
   ],
   "digest_log": [
