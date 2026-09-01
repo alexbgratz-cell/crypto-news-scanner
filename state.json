@@ -2569,7 +2569,8 @@
     "https://techcrunch.com/?p=3159895": "2026-09-01T21:07:36Z",
     "https://techcrunch.com/?p=3159905": "2026-09-01T21:07:36Z",
     "https://cointelegraph.com/news/crypto-pac-protect-progress-spending-massachusetts-primary": "2026-09-01T21:37:13Z",
-    "https://decrypt.co/?p=377128": "2026-09-01T21:37:13Z"
+    "https://decrypt.co/?p=377128": "2026-09-01T21:37:13Z",
+    "https://huggingface.co/blog/allenai/benchmirt": "2026-09-01T21:49:35Z"
   },
   "pending": {
     "8e729437-e9c7-554a-b0ab-ada4ae318bec": {
@@ -2590,20 +2591,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/the-sandbox-compensation-sand-bridge-exploit",
-      "title": "The Sandbox pledges 1:1 repayment after $700K bridge exploit",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-28T05:40:48Z",
-      "score": 8,
-      "category": "Hack & Security",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Die Sandbox kündigt nach einem Bridge-Exploit mit einem Schaden von rund 700.000 Dollar eine 1:1-Entschädigung der betroffenen Nutzer an. Der Vorfall belastet das Vertrauen in die Sicherheit von Cross-Chain-Brücken und könnte den zugehörigen Token kurzfristig unter Druck setzen. Die volle Rückzahlung dürfte die unmittelbaren Verluste begrenzen, eine erhöhte Volatilität bleibt jedoch wahrscheinlich."
-    },
     {
       "id": "https://cointelegraph.com/news/abu-dhabi-royal-trump-world-liberty-crypto-bank-wsj",
       "title": "Abu Dhabi royal backs 49% stake in Trump-linked crypto bank venture: WSJ",
@@ -5867,6 +5854,20 @@
         "NVDA"
       ],
       "summary": "Nvidia investiert 3,5 Milliarden US-Dollar in MediaTek, um sein Geschäft über GPUs hinaus auszubauen. Die Investition stärkt Nvidias Position im Halbleiter- und Chipdesign-Markt und wirkt sich direkt auf den NDX-Riesen Nvidia aus. Für die Nvidia-Aktie und den Halbleitersektor sind dadurch positive Marktreaktionen wahrscheinlich."
+    },
+    {
+      "id": "https://huggingface.co/blog/allenai/benchmirt",
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "url": null,
+      "stream": "ai",
+      "source": "Hugging Face - Blog",
+      "published": "2026-09-01T21:39:07Z",
+      "score": 5,
+      "category": "Research & Open Source",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "AllenAI veröffentlicht BenchMIRT, eine Analyse dazu, was LLM-Benchmarks tatsächlich messen und wo ihre Aussagekraft Grenzen hat. Die Ergebnisse sind für die Branche relevant, weil Benchmark-Ergebnisse maßgeblich über Modellvergleiche und Einschätzungen zur Leistungsfähigkeit entscheiden. Künftige Modellbewertungen könnten dadurch differenzierter interpretiert werden."
     }
   ],
   "digest_log": [
