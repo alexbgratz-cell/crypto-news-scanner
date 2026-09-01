@@ -2554,7 +2554,9 @@
     "76a74f4f-91d5-504f-9a94-e0942e5bde38": "2026-09-01T10:43:35Z",
     "https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks": "2026-09-01T11:07:39Z",
     "258218ee-d36f-5488-86ba-4eefafdb8d64": "2026-09-01T11:38:10Z",
-    "https://decrypt.co/?p=377010": "2026-09-01T11:38:10Z"
+    "https://decrypt.co/?p=377010": "2026-09-01T11:38:10Z",
+    "3188a1ce-663c-5579-a553-8d0cbd773a6c": "2026-09-01T12:10:39Z",
+    "https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid": "2026-09-01T12:10:39Z"
   },
   "pending": {
     "8e729437-e9c7-554a-b0ab-ada4ae318bec": {
@@ -2575,40 +2577,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3157691",
-      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-27T16:00:00Z",
-      "score": 7,
-      "category": "Business & Funding",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "GOOGL"
-      ],
-      "summary": "Google erweitert seinen KI-Modus um Funktionen zur Flugpreisverfolgung und Hotelbuchung. Das ist eine direkte Produktintegration in den KI-Assistenten und stärkt Googles Position im Reise- und Buchungsbereich. Der Ausbau dürfte den Wettbewerbsdruck auf spezialisierte Buchungsplattformen erhöhen und Googles Ökosystem weiter ausbauen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T01:31:15Z"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3157743",
-      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-27T14:56:52Z",
-      "score": 6,
-      "category": "Business & Funding",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Hugging Face bringt mit Microduck einen quelloffenen Entenroboter für 399 US-Dollar auf den Markt. Das Produkt erweitert das KI-Angebot des Unternehmens um physische Hardware und spricht vor allem Entwickler und Maker an. Größere Marktbewegungen sind dadurch nicht zu erwarten, der Fokus liegt auf Community-Wahrnehmung.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T01:31:15Z"
-    },
     {
       "id": "https://techcrunch.com/?p=3157663",
       "title": "AI’s memory crunch is coming for Android apps",
@@ -5839,6 +5807,34 @@
       ],
       "entities": [],
       "summary": "Michael Saylor fordert MSCI auf, eine als diskriminierend bezeichnete Regel zu streichen, die Strategy aus dem Index entfernen würde. Ein Ausschluss würde die Nachfrage nach Strategy-Aktien dämpfen und den mit großen Bitcoin-Beständen verbundenen Unternehmenswert belasten. Die MSCI-Entscheidung dürfte daher direkt auf den Kurs von Strategy und den Bitcoin-Markt ausstrahlen."
+    },
+    {
+      "id": "3188a1ce-663c-5579-a553-8d0cbd773a6c",
+      "title": "Ethena launches Ethena Pay app on Avalanche, offering up to 6% yield and 10% cashback",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-09-01T12:00:02Z",
+      "score": 6,
+      "category": "Tech Update",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Ethena hat die Zahlungs-App Ethena Pay auf Avalanche veröffentlicht, die bis zu 6 % Rendite und 10 % Cashback bietet. Die Integration könnte die Nutzung von Ethenas Stablecoin erhöhen und Avalanche als DeFi-Standort stärken. Die nächste Folge dürfte eine höhere Aktivität und Liquidität im Avalanche-Netzwerk sein."
+    },
+    {
+      "id": "https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid",
+      "title": "Lazarus Group-linked addresses move $30M through Hyperliquid",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-01T12:01:08Z",
+      "score": 8,
+      "category": "Hack & Security",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Mit der nordkoreanischen Hackergruppe Lazarus verbundene Adressen haben 30 Mio. USD über die Perpetual-DEX Hyperliquid bewegt. Solche Transfers von mutmaßlich gestohlenen Geldern belasten das Marktsentiment und können zusätzlichen Verkaufsdruck an Krypto-Börsen auslösen. Erhöhte Volatilität und verstärkte behördliche Aufmerksamkeit sind die wahrscheinliche Folge."
     }
   ],
   "digest_log": [
