@@ -5824,7 +5824,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Binance erweitert sein Angebot um Optionen auf 1.000 US-Aktien und ETFs; das monatliche Volumen mit TradFi-Perpetuals erreicht 433 Milliarden Dollar. Der Schritt unterstreicht die wachsende institutionelle Nachfrage nach derivativen Produkten und stärkt Binances Position als Schnittstelle zwischen traditionellem Finanzwesen und Krypto. Die Ausweitung dürfte die Handelsaktivität auf der Plattform erhöhen, ein direkter Kurseffekt auf Krypto-Assets ist aber nicht unmittelbar zu erwarten."
+      "summary": "Binance erweitert sein Angebot um Optionen auf 1.000 US-Aktien und ETFs; das monatliche Volumen mit TradFi-Perpetuals erreicht 433 Milliarden Dollar. Der Schritt unterstreicht die wachsende institutionelle Nachfrage nach derivativen Produkten und stärkt Binances Position als Schnittstelle zwischen traditionellem Finanzwesen und Krypto. Die Ausweitung dürfte die Handelsaktivität auf der Plattform erhöhen, ein direkter Kurseffekt auf Krypto-Assets ist aber nicht unmittelbar zu erwarten.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T11:14:37Z"
     },
     {
       "id": "https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks",
@@ -5838,7 +5840,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Die Londoner Börse geht laut FT eine Partnerschaft mit dem Mutterkonzern von Kraken ein, um tokenisierte britische Aktien anzubieten. Diese institutionelle Zusammenarbeit könnte die Akzeptanz Blockchain-basierter Wertpapiere fördern und das Vertrauen in Krypto-Handelsinfrastruktur stärken. Dieser Schritt dürfte weitere traditionelle Börsen ermutigen, ähnliche tokenisierte Produkte einzuführen und die Nachfrage nach Krypto-Dienstleistungen erhöhen."
+      "summary": "Die Londoner Börse geht laut FT eine Partnerschaft mit dem Mutterkonzern von Kraken ein, um tokenisierte britische Aktien anzubieten. Diese institutionelle Zusammenarbeit könnte die Akzeptanz Blockchain-basierter Wertpapiere fördern und das Vertrauen in Krypto-Handelsinfrastruktur stärken. Dieser Schritt dürfte weitere traditionelle Börsen ermutigen, ähnliche tokenisierte Produkte einzuführen und die Nachfrage nach Krypto-Dienstleistungen erhöhen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T11:14:37Z"
     }
   ],
   "digest_log": [
@@ -6525,6 +6529,13 @@
         "https://decrypt.co/?p=377006",
         "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes",
         "https://cointelegraph.com/news/singapore-weighs-foreign-regulated-stablecoins-mas-framework"
+      ]
+    },
+    {
+      "at": "2026-09-01T11:14:37Z",
+      "article_ids": [
+        "76a74f4f-91d5-504f-9a94-e0942e5bde38",
+        "https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks"
       ]
     }
   ],
