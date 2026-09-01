@@ -5898,7 +5898,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Einem Bericht zufolge führt der mit Donald Trump Jr. verbundene Fonds 1789 Capital eine Finanzierungsrunde über 1 Mrd. USD für die Prognoseplattform Polymarket an. Die Runde signalisiert wachsendes institutionelles Interesse an krypto-gestützten Prognosemärkten und stärkt die Wahrnehmung des Krypto-Ökosystems. Die Kapitalspritze dürfte Polymarkets Expansion beschleunigen und die Bedeutung dieser Märkte weiter erhöhen."
+      "summary": "Einem Bericht zufolge führt der mit Donald Trump Jr. verbundene Fonds 1789 Capital eine Finanzierungsrunde über 1 Mrd. USD für die Prognoseplattform Polymarket an. Die Runde signalisiert wachsendes institutionelles Interesse an krypto-gestützten Prognosemärkten und stärkt die Wahrnehmung des Krypto-Ökosystems. Die Kapitalspritze dürfte Polymarkets Expansion beschleunigen und die Bedeutung dieser Märkte weiter erhöhen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T08:17:22Z"
     }
   ],
   "digest_log": [
@@ -6570,6 +6572,12 @@
       "at": "2026-09-01T06:20:07Z",
       "article_ids": [
         "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety"
+      ]
+    },
+    {
+      "at": "2026-09-01T08:17:22Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round"
       ]
     }
   ],
