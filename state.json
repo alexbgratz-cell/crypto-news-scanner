@@ -2567,7 +2567,9 @@
     "https://decrypt.co/?p=377052": "2026-09-01T18:28:45Z",
     "501ce343-2138-52e9-bf27-057b87c519a2": "2026-09-01T19:34:59Z",
     "https://decrypt.co/?p=377078": "2026-09-01T19:34:59Z",
-    "https://techcrunch.com/?p=3159842": "2026-09-01T19:49:48Z"
+    "https://techcrunch.com/?p=3159842": "2026-09-01T19:49:48Z",
+    "https://decrypt.co/?p=377099": "2026-09-01T20:08:28Z",
+    "6a95c50b1ed47ec1f88c0129": "2026-09-01T20:08:29Z"
   },
   "pending": {
     "8e729437-e9c7-554a-b0ab-ada4ae318bec": {
@@ -2588,36 +2590,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals",
-      "title": "Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-28T17:46:12Z",
-      "score": 8,
-      "category": "Regulation",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Der FC Chelsea hat nach einer Warnung der britischen Finanzaufsicht FCA an Fußballclubs einen Stablecoin-Sponsor angekündigt. Die Warnung erhöht den regulatorischen Druck auf Krypto-Partnerschaften im Sport, während der Chelsea-Deal zugleich für weitere Stablecoin-Adoption im Mainstream sorgt. In der Folge dürften Clubs Sponsorenverträge mit Krypto-Firmen zurückhaltender prüfen, und der Markt reagiert mit gemischten Signalen."
-    },
-    {
-      "id": "https://cointelegraph.com/news/bullish-provides-usdai-100m-stablecoin-facility-gpu-backed-loans",
-      "title": "Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-28T16:17:09Z",
-      "score": 6,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Die Kryptobörse Bullish stellt der Stablecoin-Plattform USD.AI eine 100-Millionen-Dollar-Fazilität für GPU-besicherte Kredite bereit. Damit erhalten KI-Rechenzentren und GPU-Betreiber neue Finanzierungsquellen, was die Nutzung von Stablecoins im Krypto-Ökosystem ausweitet. Die Fazilität dürfte die Kreditvergabe für GPU-Kapazität ankurbeln und die Nachfrage nach Stablecoin-basierten Finanzprodukten erhöhen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T22:07:50Z"
-    },
     {
       "id": "https://cointelegraph.com/markets/bitcoin-dips-fed-warsh-dismisses-recent-low-inflation-prints",
       "title": "Bitcoin dips to $78.4K as Fed’s Warsh downplays softer inflation prints",
@@ -5863,6 +5835,36 @@
         "Anthropic"
       ],
       "summary": "Anthropic hat mit Fable ein neues KI-Modell veröffentlicht, das günstiger und weniger restriktiv ist als bisherige Releases. Dadurch sinken die Nutzungskosten für Entwickler und die Einsatzmöglichkeiten erweitern sich, was Anthropics Wettbewerbsposition stärkt. Eine verstärkte Nutzung und Preisanpassungen bei Wettbewerbern sind wahrscheinlich."
+    },
+    {
+      "id": "https://decrypt.co/?p=377099",
+      "title": "Dropbox Security Breach: Hackers Access Accounts Through Authentication Flaw",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-01T20:01:05Z",
+      "score": 5,
+      "category": "Hack & Security",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Dropbox hat eine Sicherheitslücke erlitten, über die Angreifer Nutzerkonten durch einen Authentifizierungsfehler zugreifen konnten. Der Vorfall betrifft nicht direkt den Kryptomarkt, verstärkt aber Bedenken über die Sicherheit zentraler Cloud-Dienste. Erwartbar bleibt die unmittelbare Wirkung auf Krypto-Kurse gering, die Diskussion über sichere Verwahrung digitaler Werte könnte jedoch zunehmen."
+    },
+    {
+      "id": "6a95c50b1ed47ec1f88c0129",
+      "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+      "url": null,
+      "stream": "ai",
+      "source": "Feed: Artificial Intelligence Latest",
+      "published": "2026-09-01T20:00:00Z",
+      "score": 7,
+      "category": "Model Release & Capability",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "OpenAI"
+      ],
+      "summary": "OpenAI steht kurz davor, sein erstes KI-Modell mit als kritisch eingestuften Cyber-Fähigkeiten zu veröffentlichen. Das Modell könnte die Sicherheitsbranche verändern und zugleich neue Risiken im Umgang mit KI-gestützten Angriffen aufwerfen. Die Veröffentlichung dürfte die Konkurrenz im KI-Markt weiter verschärfen."
     }
   ],
   "digest_log": [
