@@ -5797,7 +5797,9 @@
         "DXY"
       ],
       "entities": [],
-      "summary": "Laut The Block bewegen sich Bitcoin und Gold zunehmend synchron, da der sogenannte Debasement-Trade neue Dynamik gewinnt. Das signalisiert wachsende Nachfrage nach knappen Vermögenswerten als Schutz vor Kaufkraftverlust des Dollar und stützt damit die Marktstimmung für Bitcoin. Die Korrelation dürfte sich fortsetzen, solange die geldpolitische Lockerung anhält."
+      "summary": "Laut The Block bewegen sich Bitcoin und Gold zunehmend synchron, da der sogenannte Debasement-Trade neue Dynamik gewinnt. Das signalisiert wachsende Nachfrage nach knappen Vermögenswerten als Schutz vor Kaufkraftverlust des Dollar und stützt damit die Marktstimmung für Bitcoin. Die Korrelation dürfte sich fortsetzen, solange die geldpolitische Lockerung anhält.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T15:22:01Z"
     },
     {
       "id": "https://decrypt.co/?p=377032",
@@ -5839,7 +5841,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Hugging Face stellt mit @huggingface/kernels eine Bibliothek mit über 200 WebGPU-Kerneln für lokale KI-Anwendungen vor. Dadurch wird KI-Inferenz direkt im Browser möglich, was Daten lokal hält und die Abhängigkeit von Cloud-Anbietern verringert. Die Folge ist eine stärkere Verbreitung von On-Device-KI in Webbrowsern, während rechenzentrumsbasierte Inferenzdienste unter Druck geraten."
+      "summary": "Hugging Face stellt mit @huggingface/kernels eine Bibliothek mit über 200 WebGPU-Kerneln für lokale KI-Anwendungen vor. Dadurch wird KI-Inferenz direkt im Browser möglich, was Daten lokal hält und die Abhängigkeit von Cloud-Anbietern verringert. Die Folge ist eine stärkere Verbreitung von On-Device-KI in Webbrowsern, während rechenzentrumsbasierte Inferenzdienste unter Druck geraten.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T15:22:01Z"
     }
   ],
   "digest_log": [
@@ -6554,6 +6558,13 @@
       "article_ids": [
         "https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck",
         "2016443c-1bf1-5a19-9786-378f62634a99"
+      ]
+    },
+    {
+      "at": "2026-09-01T15:22:01Z",
+      "article_ids": [
+        "1de6ac6c-43e3-521f-90b1-4e76b0192cd9",
+        "https://huggingface.co/blog/webgpu-kernels"
       ]
     }
   ],
