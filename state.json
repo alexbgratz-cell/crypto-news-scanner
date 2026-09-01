@@ -5990,7 +5990,9 @@
         "OpenAI",
         "Polimill"
       ],
-      "summary": "Polimill baut Japans nächste Generation öffentlicher KI-Infrastruktur auf, unterstützt durch OpenAI. Die Infrastruktur erweitert die Rechenkapazitäten für öffentliche KI-Dienste in Japan und stärkt damit die regionale KI-Versorgung. Die Partnerschaft dürfte OpenAIs Präsenz in Japan festigen und weitere Infrastrukturprojekte in der Region begünstigen."
+      "summary": "Polimill baut Japans nächste Generation öffentlicher KI-Infrastruktur auf, unterstützt durch OpenAI. Die Infrastruktur erweitert die Rechenkapazitäten für öffentliche KI-Dienste in Japan und stärkt damit die regionale KI-Versorgung. Die Partnerschaft dürfte OpenAIs Präsenz in Japan festigen und weitere Infrastrukturprojekte in der Region begünstigen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T00:24:35Z"
     },
     {
       "id": "https://www.marktechpost.com/?p=81987",
@@ -6651,6 +6653,12 @@
       "at": "2026-08-31T23:08:04Z",
       "article_ids": [
         "e2743cd4-5315-5138-acbf-a2439dc2cd16"
+      ]
+    },
+    {
+      "at": "2026-09-01T00:24:35Z",
+      "article_ids": [
+        "https://openai.com/index/polimill"
       ]
     }
   ],
