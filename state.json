@@ -2556,7 +2556,8 @@
     "https://huggingface.co/blog/pwc-search": "2026-09-01T14:26:31Z",
     "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/": "2026-09-01T14:26:32Z",
     "https://decrypt.co/?p=377032": "2026-09-01T14:41:23Z",
-    "6a9582ab4bec28bfced5a370": "2026-09-01T14:56:39Z"
+    "6a9582ab4bec28bfced5a370": "2026-09-01T14:56:39Z",
+    "https://huggingface.co/blog/webgpu-kernels": "2026-09-01T15:09:55Z"
   },
   "pending": {
     "8e729437-e9c7-554a-b0ab-ada4ae318bec": {
@@ -2577,24 +2578,6 @@
     }
   },
   "articles": [
-    {
-      "id": "6a9036a19145af0a9bfdaad4",
-      "title": "OpenAI Is Developing a ‘Persistent’ AI Agent",
-      "url": null,
-      "stream": "ai",
-      "source": "Feed: Artificial Intelligence Latest",
-      "published": "2026-08-27T16:52:42Z",
-      "score": 6,
-      "category": "Model Release & Capability",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "OpenAI"
-      ],
-      "summary": "OpenAI entwickelt einen 'persistenten' KI-Agenten, der Aufgaben über längere Zeiträume selbstständig verfolgen soll. Das deutet auf einen Fortschritt bei autonomen KI-Workflows hin und erhöht den Wettbewerbsdruck auf Anbieter von KI-Assistenten. Erwartet wird, dass die Entwicklung den Markt für agentenfähige KI-Modelle weiter belebt.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T01:31:15Z"
-    },
     {
       "id": "6a8c7de0dd042d49c2d1d203",
       "title": "Submit Your Questions: The Great Data Center Backlash",
@@ -5843,6 +5826,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Sonos hat eine Reihe neuer Audio-Produkte angekündigt, darunter Sonos Ace Ultra, Beam Ultra, die Plattform Sonos Fabric und eine neue App. Die Ankündigung betrifft Unterhaltungselektronik und enthält keine erkennbaren Kern-KI-Technologien, daher ist die Relevanz für die KI-Branche gering. Für KI-Unternehmen und -Investoren ist keine nennenswerte Marktbewegung zu erwarten."
+    },
+    {
+      "id": "https://huggingface.co/blog/webgpu-kernels",
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "url": null,
+      "stream": "ai",
+      "source": "Hugging Face - Blog",
+      "published": "2026-09-01T00:00:00Z",
+      "score": 6,
+      "category": "Hardware & Infrastructure",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Hugging Face stellt mit @huggingface/kernels eine Bibliothek mit über 200 WebGPU-Kerneln für lokale KI-Anwendungen vor. Dadurch wird KI-Inferenz direkt im Browser möglich, was Daten lokal hält und die Abhängigkeit von Cloud-Anbietern verringert. Die Folge ist eine stärkere Verbreitung von On-Device-KI in Webbrowsern, während rechenzentrumsbasierte Inferenzdienste unter Druck geraten."
     }
   ],
   "digest_log": [
