@@ -1,13 +1,5 @@
 {
   "seen": {
-    "3c145cc7-ca84-5add-a617-5f075eefd3fb": "2026-08-25T09:59:48Z",
-    "https://cointelegraph.com/news/coldcard-hack-galaxy-btc-lost-87-unmoved": "2026-08-25T09:59:48Z",
-    "https://cointelegraph.com/news/business-owner-280-years-24m-crypto-ponzi-scheme": "2026-08-25T09:59:48Z",
-    "https://decrypt.co/?p=376422": "2026-08-25T09:59:48Z",
-    "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia": "2026-08-25T09:59:48Z",
-    "https://www.technologyreview.com/?p=1141907": "2026-08-25T09:59:50Z",
-    "6a832aea4b5ce895652e6c3f": "2026-08-25T09:59:50Z",
-    "6a8bcbcc05bb0e7bdcba3ae7": "2026-08-25T09:59:50Z",
     "https://cointelegraph.com/news/thailand-bitcoin-ether-etfs-draft-rules": "2026-08-25T10:53:47Z",
     "https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution": "2026-08-25T10:53:47Z",
     "https://decrypt.co/?p=376427": "2026-08-25T10:53:47Z",
@@ -2559,7 +2551,11 @@
     "cd091845-bf29-589d-89b5-33d38fac3c81": "2026-09-01T07:08:03Z",
     "https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round": "2026-09-01T08:08:53Z",
     "b329dd21-9688-55fd-a4ab-04bbf715842e": "2026-09-01T09:40:36Z",
-    "https://decrypt.co/?p=377006": "2026-09-01T09:53:25Z"
+    "https://decrypt.co/?p=377006": "2026-09-01T09:53:25Z",
+    "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes": "2026-09-01T10:08:05Z",
+    "https://cointelegraph.com/news/singapore-weighs-foreign-regulated-stablecoins-mas-framework": "2026-09-01T10:08:05Z",
+    "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia": "2026-09-01T10:08:05Z",
+    "https://www.technologyreview.com/?p=1141907": "2026-09-01T10:08:06Z"
   },
   "pending": {
     "https://cointelegraph.com/news/thailand-bitcoin-ether-etfs-draft-rules": {
@@ -2588,42 +2584,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-      "title": "3 new ways to plan and book travel in Search",
-      "url": null,
-      "stream": "ai",
-      "source": "AI",
-      "published": "2026-08-27T16:00:00Z",
-      "score": 7,
-      "category": "Business & Funding",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "GOOGL"
-      ],
-      "summary": "Google kündigt drei neue KI-gestützte Funktionen zur Reiseplanung und -buchung in der Suche an. Damit erweitert das Unternehmen seine KI-Produktintegration und stärkt die Bindung an die Google-Suche. Die wachsende Nutzung des Suchassistenten dürfte sich positiv auf Googles Werbegeschäft und auf GOOGL auswirken.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T01:31:15Z"
-    },
-    {
-      "id": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-      "title": "Gemini Omni 1.1 Flash lets you build with more control",
-      "url": null,
-      "stream": "ai",
-      "source": "Google DeepMind News",
-      "published": "2026-08-27T16:11:32Z",
-      "score": 7,
-      "category": "Model Release & Capability",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "GOOGL"
-      ],
-      "summary": "Google DeepMind hat Gemini Omni 1.1 Flash vorgestellt, ein Modell-Update mit mehr Kontrollmöglichkeiten für Entwickler. Das Update stärkt Googles Position im KI-Modellmarkt und gibt Entwicklern ein flexibleres Werkzeug für eigene Anwendungen. Eine zunehmende Nutzung der Gemini-APIs ist wahrscheinlich; der Wettbewerb um KI-Entwickler bleibt damit hoch.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T01:31:15Z"
-    },
     {
       "id": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
       "title": "Piloting the world's first double-blind AI evaluations",
@@ -5857,6 +5817,38 @@
       "instruments": [],
       "entities": [],
       "summary": "Die britische National Crime Agency hat im Rahmen einer Untersuchung zu Sorare 13,6 Mio. USD an Premier-League-Geldern eingefroren. Die Maßnahme signalisiert verschärfte regulatorische Prüfung von NFT-Fantasy-Plattformen und belastet die Stimmung in der Krypto-/NFT-Branche. Weitere behördliche Schritte oder Auflagen sind wahrscheinlich; kurzfristig ist mit erhöhter Vorsicht bei NFT-bezogenen Projekten zu rechnen."
+    },
+    {
+      "id": "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes",
+      "title": "Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-01T10:00:00Z",
+      "score": 7,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Bitfinex Securities listet tokenisierte Schuldverschreibungen, die mit Strategy und Metaplanet verbunden sind. Das erweitert den regulierten Zugang zu Bitcoin-Exposure und stärkt die institutionelle Nachfrage nach BTC-Proxys. Bei erfolgreicher Handelsaufnahme dürfte die Nachfrage nach den verbundenen Bitcoin-Treasury-Werten steigen."
+    },
+    {
+      "id": "https://cointelegraph.com/news/singapore-weighs-foreign-regulated-stablecoins-mas-framework",
+      "title": "Singapore weighs recognizing some foreign-issued stablecoins",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-01T09:55:11Z",
+      "score": 6,
+      "category": "Regulation",
+      "sentiment": "bullish",
+      "instruments": [
+        "USDT.D"
+      ],
+      "entities": [],
+      "summary": "Die MAS prüft, ob ausländische, bereits regulierte Stablecoins in Singapur anerkannt werden sollen. Eine solche Anerkennung würde ausländischen Emittenten den Zugang zum Singapur-Markt erleichtern und den Wettbewerb im Stablecoin-Segment erhöhen. Eine Entscheidung der MAS dürfte die künftige Nutzung und Verbreitung von Stablecoins in der Region spürbar prägen."
     }
   ],
   "digest_log": [
