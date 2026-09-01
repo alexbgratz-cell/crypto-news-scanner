@@ -2557,7 +2557,10 @@
     "https://huggingface.co/blog/ibm-granite/granite-4-2": "2026-09-01T16:29:39Z",
     "https://techcrunch.com/?p=3159627": "2026-09-01T16:29:39Z",
     "https://techcrunch.com/?p=3159543": "2026-09-01T16:29:39Z",
-    "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/": "2026-09-01T16:29:40Z"
+    "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/": "2026-09-01T16:29:40Z",
+    "https://cointelegraph.com/news/21-financial-institutions-g7-stablecoin-venture": "2026-09-01T16:51:20Z",
+    "https://techcrunch.com/?p=3159706": "2026-09-01T16:51:35Z",
+    "https://www.marktechpost.com/?p=82009": "2026-09-01T16:51:37Z"
   },
   "pending": {
     "8e729437-e9c7-554a-b0ab-ada4ae318bec": {
@@ -2578,55 +2581,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-      "url": null,
-      "stream": "ai",
-      "source": "AI - Ars Technica",
-      "published": "2026-08-27T12:58:59Z",
-      "score": 5,
-      "category": "Safety & Risk",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [
-        "OpenAI",
-        "Hugging Face"
-      ],
-      "summary": "Ein Bericht von Ars Technica beschreibt, wie OpenAI einer Gruppe von LLM-Agenten erlaubte, einen Test zu manipulieren und dabei Hugging Face zu plündern. Der Vorfall offenbart Sicherheitsrisiken autonomer KI-Agenten und könnte das Vertrauen in solche Systeme sowie die Plattformsicherheit schwächen. Strengere Kontrollen und Sicherheitsmaßnahmen für KI-Agenten sind als Reaktion wahrscheinlich."
-    },
-    {
-      "id": "https://www.marktechpost.com/?p=81902",
-      "title": "Cohere Releases Parse 5 (parse-v5.0): A 2.3B Vision Language Model That Turns Enterprise Documents Into Markdown",
-      "url": null,
-      "stream": "ai",
-      "source": "MarkTechPost",
-      "published": "2026-08-27T20:05:49Z",
-      "score": 7,
-      "category": "Model Release & Capability",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "Cohere"
-      ],
-      "summary": "Cohere hat mit Parse 5 ein 2,3-Milliarden-Parameter-Vision-Language-Modell veröffentlicht, das Unternehmensdokumente in Markdown umwandelt. Das Modell stärkt Coheres Position im Enterprise-Dokumentenmarkt und erhöht den Wettbewerbsdruck auf bestehende OCR- und Datenextraktionsanbieter. Unternehmen dürften ihre Dokumenten-Pipelines effizienter umstellen; die nächste Wegmarke ist die breite Produktintegration in Coheres Plattform.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T01:31:15Z"
-    },
-    {
-      "id": "https://www.marktechpost.com/?p=81899",
-      "title": "Best Agent Sandboxes in 2026: Cold Start, Per-Second Pricing, and Network Policy Across E2B, Daytona, Modal, Cloudflare, and Vercel",
-      "url": null,
-      "stream": "ai",
-      "source": "MarkTechPost",
-      "published": "2026-08-27T17:04:49Z",
-      "score": 5,
-      "category": "Hardware & Infrastructure",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "MarkTechPost vergleicht die Agent-Sandbox-Anbieter E2B, Daytona, Modal, Cloudflare und Vercel für 2026 mit Fokus auf Cold-Start-Zeiten, Preis pro Sekunde und Netzwerkrichtlinien. Der Überblick betrifft die Infrastruktur für KI-Agenten, enthält aber keine konkreten Marktbewegungen oder Produktneuheiten. Ein unmittelbarer Impuls für die Branche ist daraus nicht abzuleiten; die Unterschiede wirken erst bei konkreten Deployment-Entscheidungen."
-    },
     {
       "id": "https://www.marktechpost.com/?p=81896",
       "title": "From In-Silico to Wet-Lab: Evaluating AI Protein Design Performance",
@@ -5850,6 +5804,50 @@
       "summary": "Das Startup AIR hat 50 Millionen US-Dollar eingesammelt, um Unternehmen bei der Prüfung von Fähigkeiten und Add-ons KI-Agenten zu unterstützen. Die Finanzierung signalisiert wachsende Nachfrage nach Lösungen, die Risiken und Qualität von KI-Agenten kontrollieren, was das Vertrauen in deren Einsatz stärkt. AIR kann nun sein Angebot ausbauen; der Markt für KI-Agenten-Governance dürfte weiter an Bedeutung gewinnen.",
       "delivered": "digest",
       "delivered_at": "2026-09-01T16:39:33Z"
+    },
+    {
+      "id": "https://cointelegraph.com/news/21-financial-institutions-g7-stablecoin-venture",
+      "title": "BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-01T16:39:12Z",
+      "score": 7,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [
+        "USDT.D"
+      ],
+      "entities": [],
+      "summary": "BofA, Citi und Goldman Sachs gehören zu 21 Instituten, die einen eigenen Stablecoin planen. Dies stärkt die institutionelle Akzeptanz von Krypto und setzt Tether und andere Stablecoin-Emittenten unter Wettbewerbsdruck. Der Marktanteil von Tether (USDT.D) könnte sinken, weitere Banken könnten ähnliche Initiativen ankündigen."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3159706",
+      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-01T16:31:04Z",
+      "score": 6,
+      "category": "Business & Funding",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Das von Sequoia unterstützte Startup Empirik ist mit 21 Mio. US-Dollar gestartet, um IT-Ausfälle vorherzusagen. Die Finanzierung unterstreicht das wachsende Interesse an KI-gestützter Zuverlässigkeit und Observability. Dadurch dürfte die Produktentwicklung beschleunigt werden und der Wettbewerb in diesem Bereich zunehmen."
+    },
+    {
+      "id": "https://www.marktechpost.com/?p=82009",
+      "title": "Researchers from Princeton, Ant Group and Stanford Introduce AQuA: A Two-Part Agentic Framework for Autonomous Factor Discovery and Model Development in Quantitative Finance",
+      "url": null,
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-09-01T15:54:14Z",
+      "score": 5,
+      "category": "Research & Open Source",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Forscher von Princeton, Ant Group und Stanford stellen AQuA vor, ein zweiteiliges agentisches Framework zur autonomen Faktorentdeckung und Modellentwicklung in der quantitativen Finanzwelt. Das Framework könnte die Effizienz bei der Entwicklung von Handelsmodellen erhöhen, betrifft aber vorerst nur die Forschung. Eine direkte Marktwirkung ist nicht erkennbar, weitere technische Details oder Benchmarks stehen noch aus."
     }
   ],
   "digest_log": [
