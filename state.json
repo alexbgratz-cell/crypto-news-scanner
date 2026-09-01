@@ -5921,7 +5921,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Gradium AI hat ein neues Standard-TTS-Modell veröffentlicht, das eine Pass-Rate von 81,0 % bei schwierigen Fällen und eine Time-to-First-Audio von 216 ms erreicht. Die Kombination aus hoher Genauigkeit und geringer Latenz stärkt die Position des Unternehmens bei Echtzeit-Sprachsynthese und erhöht den Wettbewerbsdruck auf etablierte Anbieter. Eine schnellere Verbreitung latenzoptimierter TTS-Lösungen in Produkten ist daher wahrscheinlich."
+      "summary": "Gradium AI hat ein neues Standard-TTS-Modell veröffentlicht, das eine Pass-Rate von 81,0 % bei schwierigen Fällen und eine Time-to-First-Audio von 216 ms erreicht. Die Kombination aus hoher Genauigkeit und geringer Latenz stärkt die Position des Unternehmens bei Echtzeit-Sprachsynthese und erhöht den Wettbewerbsdruck auf etablierte Anbieter. Eine schnellere Verbreitung latenzoptimierter TTS-Lösungen in Produkten ist daher wahrscheinlich.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T04:14:57Z"
     },
     {
       "id": "c3ffc3bf-c2e4-5b73-8c77-f6068567df4f",
@@ -5954,7 +5956,9 @@
         "ETHUSD"
       ],
       "entities": [],
-      "summary": "Thailands SEC schlägt vor, Privatanlegern den Zugang zu regulierten Krypto-Derivaten im Ausland zu ermöglichen. Dies dürfte das Marktangebot erweitern und die Teilnahme institutioneller Anleger fördern. Die Entscheidung über die Regelung wird in Thailand erwartet und könnte die Attraktivität als Krypto-Standort stärken."
+      "summary": "Thailands SEC schlägt vor, Privatanlegern den Zugang zu regulierten Krypto-Derivaten im Ausland zu ermöglichen. Dies dürfte das Marktangebot erweitern und die Teilnahme institutioneller Anleger fördern. Die Entscheidung über die Regelung wird in Thailand erwartet und könnte die Attraktivität als Krypto-Standort stärken.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-01T04:14:57Z"
     }
   ],
   "digest_log": [
@@ -6607,6 +6611,13 @@
       "at": "2026-09-01T00:24:35Z",
       "article_ids": [
         "https://openai.com/index/polimill"
+      ]
+    },
+    {
+      "at": "2026-09-01T04:14:57Z",
+      "article_ids": [
+        "https://www.marktechpost.com/?p=81990",
+        "https://cointelegraph.com/news/thailand-sec-retail-overseas-crypto-derivatives"
       ]
     }
   ],
