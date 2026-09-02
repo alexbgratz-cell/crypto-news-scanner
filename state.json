@@ -1,12 +1,5 @@
 {
   "seen": {
-    "6e36d64f-803c-5319-b8b4-eeeb18305dfe": "2026-08-26T08:03:42Z",
-    "8083a4b2-8b9c-544c-ae7f-ed12d4d346dd": "2026-08-26T08:03:42Z",
-    "https://cointelegraph.com/news/roman-storm-retrial-delayed-april-2027": "2026-08-26T08:03:42Z",
-    "https://cointelegraph.com/news/bitcoin-etf-august-inflows-surge-past-3-billion": "2026-08-26T08:03:42Z",
-    "https://www.technologyreview.com/?p=1142946": "2026-08-26T08:03:44Z",
-    "https://www.marktechpost.com/?p=81869": "2026-08-26T08:03:44Z",
-    "https://www.marktechpost.com/?p=81866": "2026-08-26T08:03:44Z",
     "afef2fa1-397f-53a2-a178-c4bf84410c2b": "2026-08-26T10:08:36Z",
     "8e729437-e9c7-554a-b0ab-ada4ae318bec": "2026-08-26T10:08:36Z",
     "https://cointelegraph.com/news/revolut-eurr-euro-stablecoin-europe-rollout": "2026-08-26T10:08:36Z",
@@ -2571,7 +2564,9 @@
     "https://www.marktechpost.com/?p=82026": "2026-09-02T05:27:56Z",
     "https://www.marktechpost.com/?p=82029": "2026-09-02T05:42:12Z",
     "https://cointelegraph.com/news/hyperliquid-strategies-equity-facility-2-5-billion": "2026-09-02T05:52:03Z",
-    "https://www.marktechpost.com/?p=82033": "2026-09-02T07:51:15Z"
+    "https://www.marktechpost.com/?p=82033": "2026-09-02T07:51:15Z",
+    "https://cointelegraph.com/markets/bitcoin-etf-best-month-2026-btc-up-25-august": "2026-09-02T08:27:03Z",
+    "https://www.technologyreview.com/?p=1142946": "2026-09-02T08:27:04Z"
   },
   "pending": {
     "8e729437-e9c7-554a-b0ab-ada4ae318bec": {
@@ -2584,24 +2579,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=376813",
-      "title": "Bitcoin Traders Watch Fed Chair Warsh for Clues—And Get Nothing",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-28T15:14:11Z",
-      "score": 6,
-      "category": "Macro",
-      "sentiment": "neutral",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "Bitcoin-Händler haben die Aussagen von Fed-Chef Warsh verfolgt, erhielten jedoch keinerlei Hinweise auf den künftigen Zinskurs. Die geldpolitische Unsicherheit bleibt damit bestehen, was die Risikobereitschaft an den Kryptomärkten dämpfen könnte. Eine klare Marktreaktion bleibt aus, bis konkrete Signale der Notenbank vorliegen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T22:07:50Z"
-    },
     {
       "id": "https://decrypt.co/?p=376810",
       "title": "Ethereum ETFs Take $226M in a Day, Almost Matching Bitcoin's Haul",
@@ -5855,6 +5832,22 @@
       "summary": "Anthropic hat Enterprise Frontier Safeguards (EFS) vorgestellt, die Zero-Data-Retention-Privacy und Cross-Session-Misuse-Erkennung bieten. Die Funktionen adressieren Datenschutz- und Sicherheitsanforderungen von Unternehmen und stärken Anthropics Position im Enterprise-Wettbewerb. Die Einführung dürfte die Nachfrage nach Anthropic-API-Diensten in regulierten Branchen erhöhen.",
       "delivered": "digest",
       "delivered_at": "2026-09-02T08:17:09Z"
+    },
+    {
+      "id": "https://cointelegraph.com/markets/bitcoin-etf-best-month-2026-btc-up-25-august",
+      "title": "Bitcoin ETFs notch best month of 2026 as BTC gains 25% in August",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-02T07:59:43Z",
+      "score": 6,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Bitcoin-ETFs verzeichnen den besten Monat 2026, BTC steigt im August um 25%. Die starke ETF-Nachfrage signalisiert institutionelles Interesse und treibt den Bitcoin-Preis. Erwartete weitere Kursgewinne und erhöhte Marktaktivität, da Anleger optimistisch bleiben."
     }
   ],
   "digest_log": [
