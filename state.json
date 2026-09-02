@@ -2556,7 +2556,9 @@
     "https://cointelegraph.com/news/thai-sue-tether-freezing-61m-pig-butchering-case": "2026-09-02T12:31:58Z",
     "a3e34082-08e6-57c2-99f1-5b8475a14604": "2026-09-02T13:08:09Z",
     "https://cointelegraph.com/news/hashkey-dtcc-first-asian-crypto-service-provider": "2026-09-02T13:26:48Z",
-    "https://cointelegraph.com/magazine/btc-will-hit-1m-by-2030-but-arthur-hayes-is-buying-eth-instead": "2026-09-02T13:41:14Z"
+    "https://cointelegraph.com/magazine/btc-will-hit-1m-by-2030-but-arthur-hayes-is-buying-eth-instead": "2026-09-02T13:41:14Z",
+    "https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident": "2026-09-02T13:52:37Z",
+    "https://huggingface.co/blog/ibm-research/real-time-intelligence": "2026-09-02T13:52:38Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2569,43 +2571,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
-      "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
-      "url": null,
-      "stream": "ai",
-      "source": "AI - Ars Technica",
-      "published": "2026-08-28T15:42:24Z",
-      "score": 6,
-      "category": "Safety & Risk",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [
-        "META"
-      ],
-      "summary": "Meta passt seine KI-Brille an, um nicht einvernehmliche Aufnahmen teilweise zu blockieren, die Datenschutzrisiken bleiben aber bestehen. Der Schritt soll der wachsenden Kritik an heimlichen Aufnahmen entgegenwirken, bietet jedoch keinen vollständigen Schutz für Umstehende. Es ist mit weiterer öffentlicher Debatte über Aufnahmetechnik und mögliche Regulierung zu rechnen, während Meta die Bedenken adressieren muss.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T22:07:50Z"
-    },
-    {
-      "id": "https://www.marktechpost.com/?p=81938",
-      "title": "GLM-5.3-Flash vs Qwen3.8-Flash-Next: Two Chinese AI Labs Independently Converge on the Same Model Architecture",
-      "url": null,
-      "stream": "ai",
-      "source": "MarkTechPost",
-      "published": "2026-08-28T19:12:21Z",
-      "score": 7,
-      "category": "Model Release & Capability",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [
-        "Zhipu AI",
-        "Alibaba"
-      ],
-      "summary": "Zwei chinesische KI-Labore, Zhipu AI (GLM-5.3-Flash) und Alibaba (Qwen3.8-Flash-Next), haben unabhängig voneinander dieselbe Modellarchitektur entwickelt. Das deutet auf einen wachsenden technologischen Konsens hin und verstärkt den Wettbewerb bei effizienten Flash-Modellen. Die nächste Wegmarke ist die offizielle Verfügbarkeit beider Modelle; weitere Architektur-Angleichungen in der Branche sind wahrscheinlich.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T22:07:50Z"
-    },
     {
       "id": "https://www.marktechpost.com/?p=81925",
       "title": "Vercel AI Open-Sources vgpu: A TypeScript WebGPU Library for AI Agent Shaders",
@@ -5837,6 +5802,34 @@
       ],
       "entities": [],
       "summary": "Arthur Hayes prognostiziert, dass Bitcoin bis 2030 eine Million Dollar erreichen wird, sagt aber zugleich, dass er stattdessen Ethereum kauft. Die Aussage dürfte die Nachfrage nach Ethereum stützen, während Bitcoin langfristig positiv bewertet bleibt. Konkrete Kursziele oder Termine für Ethereum nennt der Artikel nicht; die Marktreaktion bleibt vorerst spekulativ."
+    },
+    {
+      "id": "https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident",
+      "title": "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-02T13:40:03Z",
+      "score": 8,
+      "category": "Hack & Security",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Das Sui-DeFi-Protokoll Full Sail kündigt an, seinen Betrieb nach dem Switchboard-Vorfall einzustellen. Der Vorfall erschüttert das Vertrauen in DeFi-Anwendungen im Sui-Ökosystem und zwingt Nutzer, Liquidität und Dienste zu verlagern. Mittelabflüsse aus dem Protokoll und erhöhte Volatilität im Sui-Umfeld sind wahrscheinlich."
+    },
+    {
+      "id": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "url": null,
+      "stream": "ai",
+      "source": "Hugging Face - Blog",
+      "published": "2026-09-02T13:49:14Z",
+      "score": 6,
+      "category": "Business & Funding",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "IBM hat seine Zeitreihenmodelle auf Confluent integriert, um Echtzeit-Intelligenz zu ermöglichen. Diese Integration erlaubt es, Vorhersagen direkt auf Streaming-Daten anzuwenden, was die Entscheidungsfindung in Echtzeit verbessert. Die Partnerschaft dürfte die Nachfrage nach KI-gestützter Echtzeit-Analytik erhöhen und weitere Integrationen von KI-Modellen in Datenplattformen fördern."
     }
   ],
   "digest_log": [
