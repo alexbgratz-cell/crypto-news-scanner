@@ -5771,7 +5771,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Hashkey ist laut Meldung der erste asiatische Krypto-Dienstleister, der in eine Arbeitsgruppe der US-Abwicklungsgesellschaft DTCC aufgenommen wurde. Die Teilnahme signalisiert eine engere Anbindung von Kryptounternehmen an die etablierte Finanzinfrastruktur und kann das Vertrauen institutioneller Anleger in digitale Vermögenswerte erhöhen. Die Arbeit an Standardisierungsprozessen dürfte die Einbindung von Krypto-Assets in traditionelle Clearing-Abläufe vorantreiben und dem Sektor insgesamt zugutekommen."
+      "summary": "Hashkey ist laut Meldung der erste asiatische Krypto-Dienstleister, der in eine Arbeitsgruppe der US-Abwicklungsgesellschaft DTCC aufgenommen wurde. Die Teilnahme signalisiert eine engere Anbindung von Kryptounternehmen an die etablierte Finanzinfrastruktur und kann das Vertrauen institutioneller Anleger in digitale Vermögenswerte erhöhen. Die Arbeit an Standardisierungsprozessen dürfte die Einbindung von Krypto-Assets in traditionelle Clearing-Abläufe vorantreiben und dem Sektor insgesamt zugutekommen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T14:15:58Z"
     },
     {
       "id": "https://cointelegraph.com/magazine/btc-will-hit-1m-by-2030-but-arthur-hayes-is-buying-eth-instead",
@@ -5816,7 +5818,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "IBM hat seine Zeitreihenmodelle auf Confluent integriert, um Echtzeit-Intelligenz zu ermöglichen. Diese Integration erlaubt es, Vorhersagen direkt auf Streaming-Daten anzuwenden, was die Entscheidungsfindung in Echtzeit verbessert. Die Partnerschaft dürfte die Nachfrage nach KI-gestützter Echtzeit-Analytik erhöhen und weitere Integrationen von KI-Modellen in Datenplattformen fördern."
+      "summary": "IBM hat seine Zeitreihenmodelle auf Confluent integriert, um Echtzeit-Intelligenz zu ermöglichen. Diese Integration erlaubt es, Vorhersagen direkt auf Streaming-Daten anzuwenden, was die Entscheidungsfindung in Echtzeit verbessert. Die Partnerschaft dürfte die Nachfrage nach KI-gestützter Echtzeit-Analytik erhöhen und weitere Integrationen von KI-Modellen in Datenplattformen fördern.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T14:15:58Z"
     },
     {
       "id": "https://techcrunch.com/?p=3159700",
@@ -5830,7 +5834,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Adobe hat das indische Marktanalyse-Startup Rilo übernommen. Die Akquisition stärkt Adobes KI-gestützte Daten- und Analysefähigkeiten im Unternehmensbereich und erhöht den Wettbewerbsdruck auf etablierte Anbieter. Finanzielle Details wurden nicht genannt; die Integration von Rilos Technologie dürfte künftige Adobe-Produkte beschleunigen."
+      "summary": "Adobe hat das indische Marktanalyse-Startup Rilo übernommen. Die Akquisition stärkt Adobes KI-gestützte Daten- und Analysefähigkeiten im Unternehmensbereich und erhöht den Wettbewerbsdruck auf etablierte Anbieter. Finanzielle Details wurden nicht genannt; die Integration von Rilos Technologie dürfte künftige Adobe-Produkte beschleunigen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T14:15:58Z"
     }
   ],
   "digest_log": [
@@ -6674,6 +6680,14 @@
       "article_ids": [
         "https://cointelegraph.com/news/thai-sue-tether-freezing-61m-pig-butchering-case",
         "a3e34082-08e6-57c2-99f1-5b8475a14604"
+      ]
+    },
+    {
+      "at": "2026-09-02T14:15:58Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/hashkey-dtcc-first-asian-crypto-service-provider",
+        "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+        "https://techcrunch.com/?p=3159700"
       ]
     }
   ],
