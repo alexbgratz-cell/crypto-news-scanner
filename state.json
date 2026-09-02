@@ -5823,7 +5823,9 @@
         "ETHUSD"
       ],
       "entities": [],
-      "summary": "Die Krypto-Industrie fordert die SEC auf, keine pauschalen Beschränkungen für neuartige ETFs einzuführen. Solche Einschränkungen könnten den institutionellen Zugang und die Nachfrage nach Krypto-ETFs dämpfen, weshalb die Branche auf regulatorische Klarheit drängt. Die künftige SEC-Entscheidung dürfte die weitere Entwicklung von Krypto-ETFs und die Marktstimmung maßgeblich beeinflussen."
+      "summary": "Die Krypto-Industrie fordert die SEC auf, keine pauschalen Beschränkungen für neuartige ETFs einzuführen. Solche Einschränkungen könnten den institutionellen Zugang und die Nachfrage nach Krypto-ETFs dämpfen, weshalb die Branche auf regulatorische Klarheit drängt. Die künftige SEC-Entscheidung dürfte die weitere Entwicklung von Krypto-ETFs und die Marktstimmung maßgeblich beeinflussen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T10:17:03Z"
     },
     {
       "id": "6a8cb79d3e6cf87b84dc7a7d",
@@ -6652,6 +6654,12 @@
       "at": "2026-09-02T09:16:03Z",
       "article_ids": [
         "https://cointelegraph.com/markets/bitcoin-etf-best-month-2026-btc-up-25-august"
+      ]
+    },
+    {
+      "at": "2026-09-02T10:17:03Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/crypto-industry-sec-novel-etf-restrictions"
       ]
     }
   ],
