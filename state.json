@@ -2553,7 +2553,8 @@
     "2CUHNkdUg4dnjDFiMtJJQ": "2026-09-02T12:10:27Z",
     "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/": "2026-09-02T12:10:27Z",
     "1b1ea4a9-4939-59f8-a026-7b516815f882": "2026-09-02T12:31:58Z",
-    "https://cointelegraph.com/news/thai-sue-tether-freezing-61m-pig-butchering-case": "2026-09-02T12:31:58Z"
+    "https://cointelegraph.com/news/thai-sue-tether-freezing-61m-pig-butchering-case": "2026-09-02T12:31:58Z",
+    "a3e34082-08e6-57c2-99f1-5b8475a14604": "2026-09-02T13:08:09Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2566,24 +2567,6 @@
     }
   },
   "articles": [
-    {
-      "id": "6a83230eadb8c867822be928",
-      "title": "Inside Meta’s Push to Put Robots to Work in Data Centers",
-      "url": null,
-      "stream": "ai",
-      "source": "Feed: Artificial Intelligence Latest",
-      "published": "2026-08-28T10:56:22Z",
-      "score": 7,
-      "category": "Hardware & Infrastructure",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "META"
-      ],
-      "summary": "Meta treibt einem Bericht zufolge den Einsatz von Robotern in seinen Rechenzentren voran. Das kann den Betrieb von KI-Infrastruktur effizienter machen und betrifft direkt Meta als eines der großen NDX-Unternehmen. Der Schritt dürfte die Automatisierung in KI-Rechenzentren weiter vorantreiben.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T22:07:50Z"
-    },
     {
       "id": "6a90f09b06c510ef6758e955",
       "title": "A Judge Has Blocked the Pentagon’s Attempt to Blacklist Anthropic",
@@ -5839,6 +5822,20 @@
       ],
       "entities": [],
       "summary": "Thailändische Geschäftsleute verklagen Tether, weil der Emittent 42 Mio. USD im Zusammenhang mit einem 61 Mio. USD schweren Pig-Butchering-Betrugsfall eingefroren hat. Der Rechtsstreit erhöht den regulatorischen Druck auf Tether und könnte das Vertrauen in die Stablecoin-Handhabung von Einfrierungen belasten. Der Ausgang des Verfahrens ist offen und könnte die künftige Praxis bei USDT-Einfrierungen prägen."
+    },
+    {
+      "id": "a3e34082-08e6-57c2-99f1-5b8475a14604",
+      "title": "Wyoming expands Chainlink partnership with onchain reserve verification for FRNT",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-09-02T13:05:03Z",
+      "score": 6,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Wyoming weitet seine Partnerschaft mit Chainlink aus und setzt Onchain-Reserveverifizierung für FRNT ein. Die Ausweitung zeigt, dass öffentliche Stellen zunehmend Blockchain-Orakel für Transparenz nutzen, was die institutionelle Akzeptanz von Krypto-Infrastruktur stärkt. Eine weitere Verbreitung staatlicher Onchain-Anwendungen und wachsende Nachfrage nach verifizierbaren Reserven sind die Folge."
     }
   ],
   "digest_log": [
