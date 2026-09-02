@@ -5818,7 +5818,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Core DAO kündigt einen Notfall-Hard-Fork an, nachdem Validatoren überschüssige Belohnungen erhalten haben. Der Vorfall könnte die Token-Wirtschaft der Core-Blockchain belasten, da unerwartete Belohnungen Angebot und Vertrauen beeinflussen. Die Umsetzung des Hard-Forks dürfte kurzfristig zu erhöhter Volatilität beim Core-Token führen."
+      "summary": "Core DAO kündigt einen Notfall-Hard-Fork an, nachdem Validatoren überschüssige Belohnungen erhalten haben. Der Vorfall könnte die Token-Wirtschaft der Core-Blockchain belasten, da unerwartete Belohnungen Angebot und Vertrauen beeinflussen. Die Umsetzung des Hard-Forks dürfte kurzfristig zu erhöhter Volatilität beim Core-Token führen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T05:13:56Z"
     },
     {
       "id": "d161bd8e-763f-51ed-a64f-e2f8e411766b",
@@ -5849,7 +5851,9 @@
         "ETHUSD"
       ],
       "entities": [],
-      "summary": "Die G20-Finanzminister haben sich verpflichtet, klare Wege für Innovation bei digitalen Vermögenswerten zu schaffen. Das Signal internationaler Koordination dürfte Regulierungsunsicherheit verringern und das Vertrauen in Krypto-Anlagen stärken. Die konkreten Vorschläge der G20 werden richtungsweisend für die Marktentwicklung sein."
+      "summary": "Die G20-Finanzminister haben sich verpflichtet, klare Wege für Innovation bei digitalen Vermögenswerten zu schaffen. Das Signal internationaler Koordination dürfte Regulierungsunsicherheit verringern und das Vertrauen in Krypto-Anlagen stärken. Die konkreten Vorschläge der G20 werden richtungsweisend für die Marktentwicklung sein.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T05:13:56Z"
     }
   ],
   "digest_log": [
@@ -6638,6 +6642,13 @@
       "at": "2026-09-02T04:17:26Z",
       "article_ids": [
         "b010167b-7510-5358-8846-90c8e36d745d"
+      ]
+    },
+    {
+      "at": "2026-09-02T05:13:56Z",
+      "article_ids": [
+        "4368414f-8ea1-5f59-8d31-03401dee29f9",
+        "https://cointelegraph.com/news/core-dao-emergency-hard-fork-excess-validator-rewards"
       ]
     }
   ],
