@@ -5853,7 +5853,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "US-Behörden arbeiten mit CrowdStrike zusammen, um Malware zu bekämpfen, die Krypto-Gelder stiehlt. Die Maßnahme zielt auf die Sicherheit von Krypto-Nutzern und betrifft vor allem Opfer von Wallet-Diebstählen, nicht direkt die Marktpreise. Konkrete Marktbewegungen sind daraus nicht abzuleiten; ein Erfolg könnte aber langfristig das Vertrauen in die Sicherheit von Kryptowährungen stärken."
+      "summary": "US-Behörden arbeiten mit CrowdStrike zusammen, um Malware zu bekämpfen, die Krypto-Gelder stiehlt. Die Maßnahme zielt auf die Sicherheit von Krypto-Nutzern und betrifft vor allem Opfer von Wallet-Diebstählen, nicht direkt die Marktpreise. Konkrete Marktbewegungen sind daraus nicht abzuleiten; ein Erfolg könnte aber langfristig das Vertrauen in die Sicherheit von Kryptowährungen stärken.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T22:15:11Z"
     },
     {
       "id": "https://decrypt.co/?p=377228",
@@ -6778,6 +6780,12 @@
       "at": "2026-09-02T21:14:34Z",
       "article_ids": [
         "https://cointelegraph.com/news/coinbase-launches-regulated-crypto-derivatives-in-canada"
+      ]
+    },
+    {
+      "at": "2026-09-02T22:15:11Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/us-officials-crowdstrike-malware-stealing-crypto"
       ]
     }
   ],
