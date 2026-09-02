@@ -5774,7 +5774,9 @@
       "entities": [
         "GOOGL"
       ],
-      "summary": "Google DeepMind kündigt proaktive Cyberabwehr für Regierungen und Unternehmen an. Der Vorstoß stärkt Googles Position im Markt für KI-gestützte Sicherheitslösungen und zielt auf wachsende Cyberbedrohungen. Das neue Angebot erweitert das Sicherheitsportfolio des Konzerns und verschärft den Wettbewerb in diesem Segment."
+      "summary": "Google DeepMind kündigt proaktive Cyberabwehr für Regierungen und Unternehmen an. Der Vorstoß stärkt Googles Position im Markt für KI-gestützte Sicherheitslösungen und zielt auf wachsende Cyberbedrohungen. Das neue Angebot erweitert das Sicherheitsportfolio des Konzerns und verschärft den Wettbewerb in diesem Segment.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T17:14:44Z"
     },
     {
       "id": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
@@ -5820,7 +5822,9 @@
         "BTCUSD"
       ],
       "entities": [],
-      "summary": "Der gemeldete Scheinbedarf für Bitcoin ist negativ geworden, während der Preis um die 77.000-Dollar-Marke kämpft. Das deutet auf schwache Kaufnachfrage hin und belastet die Marktstimmung. Erhöhter Verkaufsdruck und weitere Abwärtsbewegungen am Bitcoin-Markt sind möglich."
+      "summary": "Der gemeldete Scheinbedarf für Bitcoin ist negativ geworden, während der Preis um die 77.000-Dollar-Marke kämpft. Das deutet auf schwache Kaufnachfrage hin und belastet die Marktstimmung. Erhöhter Verkaufsdruck und weitere Abwärtsbewegungen am Bitcoin-Markt sind möglich.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T17:14:44Z"
     },
     {
       "id": "https://decrypt.co/?p=377180",
@@ -5836,7 +5840,9 @@
       "entities": [
         "OpenAI"
       ],
-      "summary": "Laut Decrypt ist OpenAIs Modell Astra das erste KI-Modell des Unternehmens mit \"kritischen\" Hacking-Fähigkeiten. Die Meldung verstärkt Sicherheitsbedenken in der KI-Branche und dürfte die Debatte über riskante Cyber-Fähigkeiten von Frontier-Modellen anheizen. Eine intensivere Prüfung durch Sicherheits- und Regulierungsinstanzen ist wahrscheinlich."
+      "summary": "Laut Decrypt ist OpenAIs Modell Astra das erste KI-Modell des Unternehmens mit \"kritischen\" Hacking-Fähigkeiten. Die Meldung verstärkt Sicherheitsbedenken in der KI-Branche und dürfte die Debatte über riskante Cyber-Fähigkeiten von Frontier-Modellen anheizen. Eine intensivere Prüfung durch Sicherheits- und Regulierungsinstanzen ist wahrscheinlich.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T17:14:44Z"
     }
   ],
   "digest_log": [
@@ -6705,6 +6711,14 @@
         "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
         "fd0ee299-5190-5599-89f6-08fdc4f84c61",
         "https://techcrunch.com/?p=3160084"
+      ]
+    },
+    {
+      "at": "2026-09-02T17:14:44Z",
+      "article_ids": [
+        "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+        "https://decrypt.co/?p=377180",
+        "https://cointelegraph.com/markets/bitcoins-apparent-demand-turns-negative-price-struggles-with-77k"
       ]
     }
   ],
