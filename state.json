@@ -5868,7 +5868,9 @@
         "USDT.D"
       ],
       "entities": [],
-      "summary": "Laut Decrypt planen 21 Banken, darunter Goldman Sachs und Bank of America, einen gemeinsamen Dollar-Stablecoin. Ein solcher Schritt würde die bestehende Stablecoin-Landschaft herausfordern und die institutionelle Akzeptanz von Krypto-Infrastruktur stärken. Die Marktanteile etablierter Stablecoins könnten dadurch unter Druck geraten."
+      "summary": "Laut Decrypt planen 21 Banken, darunter Goldman Sachs und Bank of America, einen gemeinsamen Dollar-Stablecoin. Ein solcher Schritt würde die bestehende Stablecoin-Landschaft herausfordern und die institutionelle Akzeptanz von Krypto-Infrastruktur stärken. Die Marktanteile etablierter Stablecoins könnten dadurch unter Druck geraten.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T20:15:49Z"
     }
   ],
   "digest_log": [
@@ -6763,6 +6765,12 @@
         "6a98445d5b3846267183e587",
         "https://cointelegraph.com/news/new-jersey-supreme-court-kalshi-prediction-markets-cftc",
         "https://www.marktechpost.com/?p=82046"
+      ]
+    },
+    {
+      "at": "2026-09-02T20:15:49Z",
+      "article_ids": [
+        "https://decrypt.co/?p=377216"
       ]
     }
   ],
