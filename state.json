@@ -5870,7 +5870,9 @@
         "ETHUSD"
       ],
       "entities": [],
-      "summary": "Coinbase startet regulierte Krypto-Derivate in Kanada und erweitert so sein Angebot in einem weiteren Rechtsraum. Der Schritt stärkt das institutionelle Vertrauen und die Zugänglichkeit derivativer Handelsprodukte für Krypto-Anleger. Dies dürfte die Nachfrage nach regulierten Krypto-Märkten weiter stützen und das Handelsumfeld nachhaltig verbessern."
+      "summary": "Coinbase startet regulierte Krypto-Derivate in Kanada und erweitert so sein Angebot in einem weiteren Rechtsraum. Der Schritt stärkt das institutionelle Vertrauen und die Zugänglichkeit derivativer Handelsprodukte für Krypto-Anleger. Dies dürfte die Nachfrage nach regulierten Krypto-Märkten weiter stützen und das Handelsumfeld nachhaltig verbessern.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T21:14:34Z"
     }
   ],
   "digest_log": [
@@ -6771,6 +6773,12 @@
       "at": "2026-09-02T20:15:49Z",
       "article_ids": [
         "https://decrypt.co/?p=377216"
+      ]
+    },
+    {
+      "at": "2026-09-02T21:14:34Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/coinbase-launches-regulated-crypto-derivatives-in-canada"
       ]
     }
   ],
