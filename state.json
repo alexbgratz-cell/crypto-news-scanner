@@ -2570,7 +2570,8 @@
     "4368414f-8ea1-5f59-8d31-03401dee29f9": "2026-09-02T04:52:02Z",
     "https://www.marktechpost.com/?p=82026": "2026-09-02T05:27:56Z",
     "https://www.marktechpost.com/?p=82029": "2026-09-02T05:42:12Z",
-    "https://cointelegraph.com/news/hyperliquid-strategies-equity-facility-2-5-billion": "2026-09-02T05:52:03Z"
+    "https://cointelegraph.com/news/hyperliquid-strategies-equity-facility-2-5-billion": "2026-09-02T05:52:03Z",
+    "https://www.marktechpost.com/?p=82033": "2026-09-02T07:51:15Z"
   },
   "pending": {
     "8e729437-e9c7-554a-b0ab-ada4ae318bec": {
@@ -2583,20 +2584,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=376816",
-      "title": "Bitcoin Miner IREN Shares Fall as AI Conversion Costs Mount",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-28T16:04:37Z",
-      "score": 5,
-      "category": "Other",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Die Aktie des Bitcoin-Miners IREN fällt, da die Kosten für die Umstellung auf KI-Infrastruktur steigen. Das belastet die Profitabilität des Unternehmens und erhöht den finanziellen Druck auf den Miner. Eine anhaltende Kursschwäche bei IREN ist wahrscheinlich."
-    },
     {
       "id": "https://decrypt.co/?p=376813",
       "title": "Bitcoin Traders Watch Fed Chair Warsh for Clues—And Get Nothing",
@@ -5852,6 +5839,20 @@
       "summary": "Hyperliquid Strategies hat seine Eigenkapital-Fazilität auf 2,5 Milliarden USD aufgestockt. Das stärkt den Finanzierungsspielraum und die institutionelle Glaubwürdigkeit des Hyperliquid-Ökosystems. Die Ankündigung dürfte die Stimmung für den HYPE-Token stützen, ohne größere Wirkung auf die Gesamtmarktindizes zu haben.",
       "delivered": "digest",
       "delivered_at": "2026-09-02T06:25:11Z"
+    },
+    {
+      "id": "https://www.marktechpost.com/?p=82033",
+      "title": "Anthropic Introduces Enterprise Frontier Safeguards (EFS): Zero-Data-Retention Privacy Plus Cross-Session Misuse Detection",
+      "url": null,
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-09-02T07:38:18Z",
+      "score": 6,
+      "category": "Safety & Risk",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Anthropic hat Enterprise Frontier Safeguards (EFS) vorgestellt, die Zero-Data-Retention-Privacy und Cross-Session-Misuse-Erkennung bieten. Die Funktionen adressieren Datenschutz- und Sicherheitsanforderungen von Unternehmen und stärken Anthropics Position im Enterprise-Wettbewerb. Die Einführung dürfte die Nachfrage nach Anthropic-API-Diensten in regulierten Branchen erhöhen."
     }
   ],
   "digest_log": [
