@@ -2582,7 +2582,8 @@
     "6a98445d5b3846267183e587": "2026-09-02T18:54:17Z",
     "https://cointelegraph.com/news/new-jersey-supreme-court-kalshi-prediction-markets-cftc": "2026-09-02T19:07:16Z",
     "https://decrypt.co/?p=377215": "2026-09-02T19:22:37Z",
-    "https://decrypt.co/?p=377216": "2026-09-02T20:08:22Z"
+    "https://decrypt.co/?p=377216": "2026-09-02T20:08:22Z",
+    "https://techcrunch.com/?p=3160225": "2026-09-02T20:25:47Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2603,24 +2604,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://www.marktechpost.com/?p=81962",
-      "title": "Google AI Introduces EnvHarness: A Programmable Layer That Turns Static Agent Environments Into Adaptive Training Worlds",
-      "url": null,
-      "stream": "ai",
-      "source": "MarkTechPost",
-      "published": "2026-08-30T20:23:46Z",
-      "score": 6,
-      "category": "Research & Open Source",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "GOOGL"
-      ],
-      "summary": "Google AI stellt EnvHarness vor, eine programmierbare Schicht, die statische Agentenumgebungen in adaptive Trainingswelten verwandelt. Das Tool könnte die Forschung an KI-Agenten beschleunigen und die Effizienz des Trainings verbessern, was vor allem Google/Alphabet zugutekommt. Die nächste Wegmarke ist die Verfügbarkeit und Validierung anhand konkreter Benchmarks.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-30T21:08:05Z"
-    },
     {
       "id": "https://decrypt.co/?p=376897",
       "title": "Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run",
@@ -5871,6 +5854,20 @@
       "summary": "Laut Decrypt planen 21 Banken, darunter Goldman Sachs und Bank of America, einen gemeinsamen Dollar-Stablecoin. Ein solcher Schritt würde die bestehende Stablecoin-Landschaft herausfordern und die institutionelle Akzeptanz von Krypto-Infrastruktur stärken. Die Marktanteile etablierter Stablecoins könnten dadurch unter Druck geraten.",
       "delivered": "digest",
       "delivered_at": "2026-09-02T20:15:49Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3160225",
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-02T20:19:14Z",
+      "score": 5,
+      "category": "Safety & Risk",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Eine neue Reasoning-Technik von OpenAI alarmiert KI-Sicherheitsexperten. Der Fall verdeutlicht Risiken moderner KI-Modelle und erhöht den Druck auf Anbieter und Regulierer. Strengere Sicherheitsauflagen und ein wachsender Fokus auf Modelltransparenz sind die wahrscheinliche Folge."
     }
   ],
   "digest_log": [
