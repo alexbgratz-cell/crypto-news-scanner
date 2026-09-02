@@ -2591,7 +2591,8 @@
     "https://decrypt.co/?p=377228": "2026-09-02T21:37:37Z",
     "https://techcrunch.com/?p=3149903": "2026-09-02T22:24:44Z",
     "https://decrypt.co/?p=377230": "2026-09-02T22:50:01Z",
-    "https://techcrunch.com/?p=3160290": "2026-09-02T22:50:03Z"
+    "https://techcrunch.com/?p=3160290": "2026-09-02T22:50:03Z",
+    "https://techcrunch.com/?p=3137969": "2026-09-02T23:07:07Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2612,22 +2613,6 @@
     }
   },
   "articles": [
-    {
-      "id": "9544007b-cb6d-56e5-bdc0-a5cd437c13f9",
-      "title": "Russia’s largest bank forecasts $46 billion in first-year crypto exchange trading under new rules: report",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-31T08:15:48Z",
-      "score": 7,
-      "category": "Regulation",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Laut einem Bericht prognostiziert die größte russische Bank ein Handelsvolumen von 46 Milliarden Dollar im ersten Jahr des Krypto-Exchange-Tradings unter den neuen Regeln. Der Schritt schafft einen regulären Rahmen für Kryptohandel in Russland und dürfte institutionelles Interesse und Marktliquidität erhöhen. Bei Umsetzung ist eine deutlich steigende Handelsaktivität an russischen Krypto-Börsen zu erwarten.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-31T09:08:16Z"
-    },
     {
       "id": "https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m",
       "title": "More Markets lending reserve drained for $9.3M: Blockaid",
@@ -5878,6 +5863,20 @@
         "Console"
       ],
       "summary": "Palo Alto Networks hat laut Quellen 500 Millionen Dollar für das von Thrive unterstützte Startup Console gezahlt. Die Akquisition stärkt die Sicherheits- und KI-Plattform des Unternehmens und verschärft den Wettbewerb im Cybersicherheitsmarkt. Die Integration von Console dürfte das Portfolio erweitern und die Marktposition von Palo Alto Networks festigen."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3137969",
+      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-02T23:01:00Z",
+      "score": 4,
+      "category": "Business & Funding",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "TechCrunch kündigt für den Disrupt 2026 eine Builders Stage an, die praktische Strategien zur Skalierung von Startups bieten soll. Die Ankündigung richtet sich vor allem an Gründer und Wachstumsteams und hat keine direkte Auswirkung auf die KI-Branche insgesamt. Zu erwarten ist lediglich Konferenz-Aufmerksamkeit für Scale-up-Themen, aber keine konkrete Marktreaktion."
     }
   ],
   "digest_log": [
