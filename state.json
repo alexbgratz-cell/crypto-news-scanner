@@ -2578,7 +2578,8 @@
     "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/": "2026-09-02T18:29:03Z",
     "https://www.marktechpost.com/?p=82046": "2026-09-02T18:29:04Z",
     "https://cointelegraph.com/news/wyoming-chainlink-onchain-reserves-of-state-issued-stable-token": "2026-09-02T18:43:24Z",
-    "https://decrypt.co/?p=377185": "2026-09-02T18:43:24Z"
+    "https://decrypt.co/?p=377185": "2026-09-02T18:43:24Z",
+    "6a98445d5b3846267183e587": "2026-09-02T18:54:17Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2599,22 +2600,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying",
-      "title": "Saylor signals Strategy is ‘Back’ to Bitcoin buying",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-30T17:59:00Z",
-      "score": 8,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "Michael Saylor signalisiert, dass Strategy wieder Bitcoin kauft. Großkäufe des Unternehmens erhöhen die Nachfrage und stärken die Marktstimmung für Bitcoin. Kurzfristig ist mit positivem Kaufdruck auf den BTC-Kurs zu rechnen."
-    },
     {
       "id": "ab4006e1-2fc8-5bcc-b064-fab72dcf09e5",
       "title": "Crypto.com-linked Cronos network halts after Tectonic exploit estimated at $75 million",
@@ -5857,6 +5842,20 @@
       ],
       "entities": [],
       "summary": "Der Artikel erörtert das sogenannte Bart-Simpson-Chartmuster und spekuliert über einen möglichen Flash Crash bei Bitcoin. Es handelt sich um eine technische Marktanalyse ohne konkrete Auslöser oder bestätigte Daten. Kurzfristig ist mit erhöhter Volatilität zu rechnen; ein tatsächlicher Absturz ist durch den Artikel allein nicht belegt."
+    },
+    {
+      "id": "6a98445d5b3846267183e587",
+      "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+      "url": null,
+      "stream": "ai",
+      "source": "Feed: Artificial Intelligence Latest",
+      "published": "2026-09-02T18:41:02Z",
+      "score": 7,
+      "category": "Regulation & Policy",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Die Trump-Administration stellt sich in der Urheberrechtsklage der New York Times auf die Seite von OpenAI. Das stärkt OpenAI im Rechtsstreit um Trainingsdaten und reduziert regulatorische Risiken für KI-Unternehmen. Der Ausgang des Verfahrens dürfte als Präzedenzfall für künftige KI-Urheberrechtsfälle gelten."
     }
   ],
   "digest_log": [
