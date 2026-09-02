@@ -2559,7 +2559,9 @@
     "https://cointelegraph.com/magazine/btc-will-hit-1m-by-2030-but-arthur-hayes-is-buying-eth-instead": "2026-09-02T13:41:14Z",
     "https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident": "2026-09-02T13:52:37Z",
     "https://huggingface.co/blog/ibm-research/real-time-intelligence": "2026-09-02T13:52:38Z",
-    "https://techcrunch.com/?p=3159700": "2026-09-02T14:08:40Z"
+    "https://techcrunch.com/?p=3159700": "2026-09-02T14:08:40Z",
+    "https://decrypt.co/?p=377162": "2026-09-02T14:26:00Z",
+    "https://www.technologyreview.com/?p=1142879": "2026-09-02T14:26:02Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2572,42 +2574,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://www.marktechpost.com/?p=81905",
-      "title": "Google AI Releases Gemini 3.5 Transcribe: A Speech-to-Text Model Reporting 2.6% Average WER Across 85+ Languages",
-      "url": null,
-      "stream": "ai",
-      "source": "MarkTechPost",
-      "published": "2026-08-28T05:00:38Z",
-      "score": 8,
-      "category": "Model Release & Capability",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "GOOGL"
-      ],
-      "summary": "Google hat Gemini 3.5 Transcribe vorgestellt, ein Spracherkennungsmodell mit durchschnittlich 2,6 % Wortfehlerrate über 85+ Sprachen. Das Modell stärkt Googles Position im wachsenden Markt für Speech-to-Text und könnte Konkurrenzprodukte unter Druck setzen. Unternehmen mit Transkriptionsanwendungen dürften die Technologie früh übernehmen, Googles Cloud-Angebote profitieren."
-    },
-    {
-      "id": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "url": null,
-      "stream": "ai",
-      "source": "OpenAI News",
-      "published": "2026-08-28T06:00:00Z",
-      "score": 7,
-      "category": "Business & Funding",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [
-        "OpenAI",
-        "Cursor",
-        "SpaceX"
-      ],
-      "summary": "OpenAI hat eine Entscheidung zu Cursor bekannt gegeben, nachdem SpaceX das KI-Code-Editing-Produkt übernommen hat. Die Ankündigung betrifft Entwickler und den Markt für KI-gestützte Codierungstools. Die konkreten Folgen für Zusammenarbeit und Verfügbarkeit von Cursor ergeben sich aus den Details der Entscheidung.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-29T02:08:24Z"
-    },
     {
       "id": "https://www.marktechpost.com/?p=81942",
       "title": "Hugging Face Unveils Microduck: A $399 Open-Source 25 cm Biped You Train with Reinforcement Learning",
@@ -5837,6 +5803,34 @@
       "summary": "Adobe hat das indische Marktanalyse-Startup Rilo übernommen. Die Akquisition stärkt Adobes KI-gestützte Daten- und Analysefähigkeiten im Unternehmensbereich und erhöht den Wettbewerbsdruck auf etablierte Anbieter. Finanzielle Details wurden nicht genannt; die Integration von Rilos Technologie dürfte künftige Adobe-Produkte beschleunigen.",
       "delivered": "digest",
       "delivered_at": "2026-09-02T14:15:58Z"
+    },
+    {
+      "id": "https://decrypt.co/?p=377162",
+      "title": "AI Billionaires Fund Ad Blitz as Data Center Opposition Hits 61%",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-02T14:16:44Z",
+      "score": 5,
+      "category": "Society & Work",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "KI-Milliardäre finanzieren eine Werbekampagne, während die Ablehnung von Rechenzentren in der Bevölkerung auf 61 Prozent gestiegen ist. Der wachsende öffentliche Widerstand gefährdet den Ausbau der KI-Infrastruktur und trifft damit Betreiber großer Cloud- und Rechenzentrumsprojekte. In der Folge sind verstärkte PR-Bemühungen und mögliche Verzögerungen bei neuen Standorten zu erwarten."
+    },
+    {
+      "id": "https://www.technologyreview.com/?p=1142879",
+      "title": "Facilitating AI integration with simplicity at scale",
+      "url": null,
+      "stream": "ai",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "published": "2026-09-02T14:00:00Z",
+      "score": 4,
+      "category": "Business & Funding",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Der Artikel beschreibt, wie KI-Integration durch Einfachheit auch in großem Umfang gelingen soll. Damit richtet er sich an Unternehmen, die KI-Prozesse ohne technische Komplexität ausrollen möchten. Konkrete Produkte, Zahlen oder Marktbewegungen werden nicht genannt, daher ist keine unmittelbare Branchenwirkung abzuleiten."
     }
   ],
   "digest_log": [
