@@ -5853,7 +5853,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Hyperliquid Strategies erhöht seine Equity-Fazilität von 1 auf 2,5 Milliarden US-Dollar. Der ausgeweitete Kapitalrahmen stärkt die Finanzbasis und signalisiert wachsendes institutionelles Interesse an Krypto-Infrastruktur. Die erhöhte Finanzkraft dürfte die Marktstellung von Hyperliquid festigen und positive Impulse für das Ökosystem geben."
+      "summary": "Hyperliquid Strategies erhöht seine Equity-Fazilität von 1 auf 2,5 Milliarden US-Dollar. Der ausgeweitete Kapitalrahmen stärkt die Finanzbasis und signalisiert wachsendes institutionelles Interesse an Krypto-Infrastruktur. Die erhöhte Finanzkraft dürfte die Marktstellung von Hyperliquid festigen und positive Impulse für das Ökosystem geben.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T04:17:26Z"
     }
   ],
   "digest_log": [
@@ -6636,6 +6638,12 @@
       "article_ids": [
         "https://decrypt.co/?p=377135",
         "https://techcrunch.com/?p=3159934"
+      ]
+    },
+    {
+      "at": "2026-09-02T04:17:26Z",
+      "article_ids": [
+        "b010167b-7510-5358-8846-90c8e36d745d"
       ]
     }
   ],
