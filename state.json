@@ -2579,7 +2579,8 @@
     "https://www.marktechpost.com/?p=82046": "2026-09-02T18:29:04Z",
     "https://cointelegraph.com/news/wyoming-chainlink-onchain-reserves-of-state-issued-stable-token": "2026-09-02T18:43:24Z",
     "https://decrypt.co/?p=377185": "2026-09-02T18:43:24Z",
-    "6a98445d5b3846267183e587": "2026-09-02T18:54:17Z"
+    "6a98445d5b3846267183e587": "2026-09-02T18:54:17Z",
+    "https://cointelegraph.com/news/new-jersey-supreme-court-kalshi-prediction-markets-cftc": "2026-09-02T19:07:16Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2600,20 +2601,6 @@
     }
   },
   "articles": [
-    {
-      "id": "ab4006e1-2fc8-5bcc-b064-fab72dcf09e5",
-      "title": "Crypto.com-linked Cronos network halts after Tectonic exploit estimated at $75 million",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-30T18:40:08Z",
-      "score": 8,
-      "category": "Hack & Security",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Der mit Crypto.com verbundene Cronos-Blockchain wurde nach einem Exploit des DeFi-Protokolls Tectonic angehalten; der Schaden wird auf etwa 75 Millionen Dollar geschätzt. Der Vorfall untergräbt das Vertrauen in die Sicherheit des Cronos-Ökosystems und dürfte kurzzeitig zu Kursverlusten bei betroffenen Token führen. In der Folge ist mit erhöhter Volatilität und verschärften Sicherheitsprüfungen im DeFi-Bereich zu rechnen."
-    },
     {
       "id": "https://decrypt.co/?p=376884",
       "title": "Strategy’s Bitcoin Is $2.8 Billion in Profit—Is Saylor Teeing Up a Buy?",
@@ -5856,6 +5843,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Die Trump-Administration stellt sich in der Urheberrechtsklage der New York Times auf die Seite von OpenAI. Das stärkt OpenAI im Rechtsstreit um Trainingsdaten und reduziert regulatorische Risiken für KI-Unternehmen. Der Ausgang des Verfahrens dürfte als Präzedenzfall für künftige KI-Urheberrechtsfälle gelten."
+    },
+    {
+      "id": "https://cointelegraph.com/news/new-jersey-supreme-court-kalshi-prediction-markets-cftc",
+      "title": "New Jersey officials petition US Supreme Court over prediction markets",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-02T18:55:41Z",
+      "score": 7,
+      "category": "Regulation",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Die Behörden von New Jersey haben den Obersten Gerichtshof der USA mit einer Petition zu Vorhersagemärkten angerufen. Das Verfahren betrifft die regulatorische Zuständigkeit der CFTC und belastet Plattformen wie Kalshi mit rechtlicher Unsicherheit. Entscheidend ist, wie das Gericht die Aufsicht über solche Märkte bewertet; ein restriktives Urteil würde das Segment spürbar treffen."
     }
   ],
   "digest_log": [
