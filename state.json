@@ -5824,7 +5824,9 @@
       "entities": [
         "AMZN"
       ],
-      "summary": "Amazon erweitert seinen Shopping-KI-Assistenten um eine Funktion, die Nutzer darüber informiert, ob eine Nachricht betrügerisch ist. Die Integration stärkt das Vertrauen in Amazons KI-Produkte und verbessert die Sicherheit im E-Commerce. Damit festigt Amazon seine Position im KI-gestützten Verbraucherschutz, was ähnliche Funktionen bei Wettbewerbern beschleunigen dürfte."
+      "summary": "Amazon erweitert seinen Shopping-KI-Assistenten um eine Funktion, die Nutzer darüber informiert, ob eine Nachricht betrügerisch ist. Die Integration stärkt das Vertrauen in Amazons KI-Produkte und verbessert die Sicherheit im E-Commerce. Damit festigt Amazon seine Position im KI-gestützten Verbraucherschutz, was ähnliche Funktionen bei Wettbewerbern beschleunigen dürfte.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T15:20:04Z"
     }
   ],
   "digest_log": [
@@ -6676,6 +6678,12 @@
         "https://cointelegraph.com/news/hashkey-dtcc-first-asian-crypto-service-provider",
         "https://huggingface.co/blog/ibm-research/real-time-intelligence",
         "https://techcrunch.com/?p=3159700"
+      ]
+    },
+    {
+      "at": "2026-09-02T15:20:04Z",
+      "article_ids": [
+        "https://techcrunch.com/?p=3160055"
       ]
     }
   ],
