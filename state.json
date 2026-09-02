@@ -5738,7 +5738,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Securitize und Socios kündigen eine Partnerschaft zur Tokenisierung von Eigenkapital in Profisportvereinen an. Die Kooperation fördert die Nutzung von Blockchain-Technologie für reale Vermögenswerte im Sportsektor. Eine steigende Nachfrage nach Security-Token-Plattformen wird erwartet."
+      "summary": "Securitize und Socios kündigen eine Partnerschaft zur Tokenisierung von Eigenkapital in Profisportvereinen an. Die Kooperation fördert die Nutzung von Blockchain-Technologie für reale Vermögenswerte im Sportsektor. Eine steigende Nachfrage nach Security-Token-Plattformen wird erwartet.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T18:19:18Z"
     },
     {
       "id": "https://techcrunch.com/?post_type=tc_video&p=3160054",
@@ -5782,7 +5784,9 @@
       "entities": [
         "OpenAI"
       ],
-      "summary": "Die US-Regierung unterstützt in einem Rechtsstreit die Position von OpenAI, dass das Training von LLMs mit urheberrechtlich geschütztem Material zulässig ist. Das stärkt KI-Unternehmen gegenüber Rechteinhabern und verringert das rechtliche Risiko für das Training großer Modelle branchenweit. Eine entsprechende Gerichtsentscheidung würde OpenAI und ähnlichen Anbietern mehr Rechtssicherheit geben; bis dahin bleibt die rechtliche Lage spannungsreich."
+      "summary": "Die US-Regierung unterstützt in einem Rechtsstreit die Position von OpenAI, dass das Training von LLMs mit urheberrechtlich geschütztem Material zulässig ist. Das stärkt KI-Unternehmen gegenüber Rechteinhabern und verringert das rechtliche Risiko für das Training großer Modelle branchenweit. Eine entsprechende Gerichtsentscheidung würde OpenAI und ähnlichen Anbietern mehr Rechtssicherheit geben; bis dahin bleibt die rechtliche Lage spannungsreich.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T18:19:18Z"
     },
     {
       "id": "https://www.marktechpost.com/?p=82040",
@@ -5829,7 +5833,9 @@
         "ETHUSD"
       ],
       "entities": [],
-      "summary": "Krypto-Verbände drängen die US-Börsenaufsicht SEC, für neuartige ETF-Produkte maßgeschneiderte Regeln zu schaffen. Ein klarer Rahmen würde Emittenten mehr Sicherheit geben und könnte die institutionelle Nachfrage nach Krypto-ETFs stützen. Da noch keine Entscheidung der SEC vorliegt, bleibt die regulatorische Unsicherheit bestehen."
+      "summary": "Krypto-Verbände drängen die US-Börsenaufsicht SEC, für neuartige ETF-Produkte maßgeschneiderte Regeln zu schaffen. Ein klarer Rahmen würde Emittenten mehr Sicherheit geben und könnte die institutionelle Nachfrage nach Krypto-ETFs stützen. Da noch keine Entscheidung der SEC vorliegt, bleibt die regulatorische Unsicherheit bestehen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T18:19:18Z"
     },
     {
       "id": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
@@ -6720,6 +6726,14 @@
         "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
         "https://decrypt.co/?p=377180",
         "https://cointelegraph.com/markets/bitcoins-apparent-demand-turns-negative-price-struggles-with-77k"
+      ]
+    },
+    {
+      "at": "2026-09-02T18:19:18Z",
+      "article_ids": [
+        "https://techcrunch.com/?p=3160050",
+        "ad038f9d-a0ba-58bf-9588-5d15c25b562f",
+        "https://decrypt.co/?p=377184"
       ]
     }
   ],
