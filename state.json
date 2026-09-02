@@ -5763,7 +5763,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "Das Sality-Botnet wurde nach acht Jahren zerschlagen; es hatte in dieser Zeit Bitcoin und Ethereum gestohlen. Der Eingriff beseitigt eine bekannte Quelle von Krypto-Diebstahl, ohne jedoch direkt die Marktlage zu verändern. Mittelfristig sinkt das Risiko weiterer Diebstähle durch diese Infrastruktur; unmittelbare Kursbewegungen sind nicht zu erwarten."
+      "summary": "Das Sality-Botnet wurde nach acht Jahren zerschlagen; es hatte in dieser Zeit Bitcoin und Ethereum gestohlen. Der Eingriff beseitigt eine bekannte Quelle von Krypto-Diebstahl, ohne jedoch direkt die Marktlage zu verändern. Mittelfristig sinkt das Risiko weiterer Diebstähle durch diese Infrastruktur; unmittelbare Kursbewegungen sind nicht zu erwarten.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T12:20:49Z"
     },
     {
       "id": "https://cointelegraph.com/news/remixpoint-dumps-altcoins-1506-btc-sole-crypto-bet",
@@ -5780,7 +5782,9 @@
         "BTC.D"
       ],
       "entities": [],
-      "summary": "Das japanische Unternehmen Remixpoint hat seine Altcoins verkauft und besitzt als einzige Kryptowährung nur noch 1.506 BTC. Die Entscheidung signalisiert institutionelles Vertrauen in Bitcoin und kann Altcoins zusätzlich belasten, weil ein weiterer Großanleger den Marktführer bevorzugt. Als Folge dürfte die Bitcoin-Dominanz gegenüber Altcoins weiter gestärkt werden."
+      "summary": "Das japanische Unternehmen Remixpoint hat seine Altcoins verkauft und besitzt als einzige Kryptowährung nur noch 1.506 BTC. Die Entscheidung signalisiert institutionelles Vertrauen in Bitcoin und kann Altcoins zusätzlich belasten, weil ein weiterer Großanleger den Marktführer bevorzugt. Als Folge dürfte die Bitcoin-Dominanz gegenüber Altcoins weiter gestärkt werden.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T12:20:49Z"
     },
     {
       "id": "https://cointelegraph.com/news/what-happened-in-crypto-today",
@@ -5826,7 +5830,9 @@
       "entities": [
         "OpenAI"
       ],
-      "summary": "OpenAI sieht sich mit 30 weiteren Klagen im Zusammenhang mit dem Schusswaffen-Vorfall in Tumbler Ridge konfrontiert. Die rechtlichen Schritte erhöhen den Druck auf OpenAI und die KI-Branche hinsichtlich der Verantwortung von KI-Modellen. Weitere juristische Auseinandersetzungen und mögliche regulatorische Folgen sind wahrscheinlich."
+      "summary": "OpenAI sieht sich mit 30 weiteren Klagen im Zusammenhang mit dem Schusswaffen-Vorfall in Tumbler Ridge konfrontiert. Die rechtlichen Schritte erhöhen den Druck auf OpenAI und die KI-Branche hinsichtlich der Verantwortung von KI-Modellen. Weitere juristische Auseinandersetzungen und mögliche regulatorische Folgen sind wahrscheinlich.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T12:20:49Z"
     }
   ],
   "digest_log": [
@@ -6655,6 +6661,14 @@
         "https://cointelegraph.com/news/thailand-crypto-travel-rule-self-custodial-wallet-checks",
         "https://decrypt.co/?p=377149",
         "fdd65c3f-44cb-5ece-8b11-c8107b3469fc"
+      ]
+    },
+    {
+      "at": "2026-09-02T12:20:49Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/remixpoint-dumps-altcoins-1506-btc-sole-crypto-bet",
+        "https://techcrunch.com/?p=3159950",
+        "https://decrypt.co/?p=377156"
       ]
     }
   ],
