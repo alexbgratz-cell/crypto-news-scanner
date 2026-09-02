@@ -2554,7 +2554,8 @@
     "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/": "2026-09-02T12:10:27Z",
     "1b1ea4a9-4939-59f8-a026-7b516815f882": "2026-09-02T12:31:58Z",
     "https://cointelegraph.com/news/thai-sue-tether-freezing-61m-pig-butchering-case": "2026-09-02T12:31:58Z",
-    "a3e34082-08e6-57c2-99f1-5b8475a14604": "2026-09-02T13:08:09Z"
+    "a3e34082-08e6-57c2-99f1-5b8475a14604": "2026-09-02T13:08:09Z",
+    "https://cointelegraph.com/news/hashkey-dtcc-first-asian-crypto-service-provider": "2026-09-02T13:26:48Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2567,24 +2568,6 @@
     }
   },
   "articles": [
-    {
-      "id": "6a90f09b06c510ef6758e955",
-      "title": "A Judge Has Blocked the Pentagon’s Attempt to Blacklist Anthropic",
-      "url": null,
-      "stream": "ai",
-      "source": "Feed: Artificial Intelligence Latest",
-      "published": "2026-08-28T03:04:14Z",
-      "score": 7,
-      "category": "Regulation & Policy",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "Anthropic"
-      ],
-      "summary": "Ein Gericht hat den Versuch des US-Verteidigungsministeriums blockiert, Anthropic auf eine schwarze Liste zu setzen. Dadurch bleiben Sanktionen und Auftragsbeschränkungen für das KI-Unternehmen vorerst aus, was seine Marktposition stärkt. Die Entscheidung schafft rechtliche Klarheit für Anthropic und könnte auch für andere KI-Firmen als Präzedenzfall wirken.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T22:07:50Z"
-    },
     {
       "id": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
       "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
@@ -5840,6 +5823,20 @@
       "summary": "Wyoming weitet seine Partnerschaft mit Chainlink aus und setzt Onchain-Reserveverifizierung für FRNT ein. Die Ausweitung zeigt, dass öffentliche Stellen zunehmend Blockchain-Orakel für Transparenz nutzen, was die institutionelle Akzeptanz von Krypto-Infrastruktur stärkt. Eine weitere Verbreitung staatlicher Onchain-Anwendungen und wachsende Nachfrage nach verifizierbaren Reserven sind die Folge.",
       "delivered": "digest",
       "delivered_at": "2026-09-02T13:16:06Z"
+    },
+    {
+      "id": "https://cointelegraph.com/news/hashkey-dtcc-first-asian-crypto-service-provider",
+      "title": "Hashkey joins DTCC working group as first Asian crypto service provider",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-02T13:11:25Z",
+      "score": 6,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Hashkey ist laut Meldung der erste asiatische Krypto-Dienstleister, der in eine Arbeitsgruppe der US-Abwicklungsgesellschaft DTCC aufgenommen wurde. Die Teilnahme signalisiert eine engere Anbindung von Kryptounternehmen an die etablierte Finanzinfrastruktur und kann das Vertrauen institutioneller Anleger in digitale Vermögenswerte erhöhen. Die Arbeit an Standardisierungsprozessen dürfte die Einbindung von Krypto-Assets in traditionelle Clearing-Abläufe vorantreiben und dem Sektor insgesamt zugutekommen."
     }
   ],
   "digest_log": [
