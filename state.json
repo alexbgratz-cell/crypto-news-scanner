@@ -5845,7 +5845,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Das FBI beschlagnahmte Kryptowährungen im Wert von 560.000 US-Dollar, die für die Hamas bestimmt waren, und übernahm die Kontrolle über Spenden-Websites. Die Aktion verdeutlicht verstärkte Strafverfolgung gegen illegale Krypto-Nutzung und dürfte den regulatorischen Druck auf Anbieter erhöhen. In der Folge ist mit strengeren Compliance-Anforderungen und erhöhter Marktaufmerksamkeit für Krypto-Transaktionen zu rechnen."
+      "summary": "Das FBI beschlagnahmte Kryptowährungen im Wert von 560.000 US-Dollar, die für die Hamas bestimmt waren, und übernahm die Kontrolle über Spenden-Websites. Die Aktion verdeutlicht verstärkte Strafverfolgung gegen illegale Krypto-Nutzung und dürfte den regulatorischen Druck auf Anbieter erhöhen. In der Folge ist mit strengeren Compliance-Anforderungen und erhöhter Marktaufmerksamkeit für Krypto-Transaktionen zu rechnen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T23:13:38Z"
     },
     {
       "id": "https://techcrunch.com/?p=3160290",
@@ -5862,7 +5864,9 @@
         "Palo Alto Networks",
         "Console"
       ],
-      "summary": "Palo Alto Networks hat laut Quellen 500 Millionen Dollar für das von Thrive unterstützte Startup Console gezahlt. Die Akquisition stärkt die Sicherheits- und KI-Plattform des Unternehmens und verschärft den Wettbewerb im Cybersicherheitsmarkt. Die Integration von Console dürfte das Portfolio erweitern und die Marktposition von Palo Alto Networks festigen."
+      "summary": "Palo Alto Networks hat laut Quellen 500 Millionen Dollar für das von Thrive unterstützte Startup Console gezahlt. Die Akquisition stärkt die Sicherheits- und KI-Plattform des Unternehmens und verschärft den Wettbewerb im Cybersicherheitsmarkt. Die Integration von Console dürfte das Portfolio erweitern und die Marktposition von Palo Alto Networks festigen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T23:13:38Z"
     },
     {
       "id": "https://techcrunch.com/?p=3137969",
@@ -6789,6 +6793,13 @@
       "at": "2026-09-02T22:15:11Z",
       "article_ids": [
         "https://cointelegraph.com/news/us-officials-crowdstrike-malware-stealing-crypto"
+      ]
+    },
+    {
+      "at": "2026-09-02T23:13:38Z",
+      "article_ids": [
+        "https://decrypt.co/?p=377230",
+        "https://techcrunch.com/?p=3160290"
       ]
     }
   ],
