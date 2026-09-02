@@ -5848,7 +5848,9 @@
         "BTCUSD"
       ],
       "entities": [],
-      "summary": "Bitcoin-ETFs verzeichnen den besten Monat 2026, BTC steigt im August um 25%. Die starke ETF-Nachfrage signalisiert institutionelles Interesse und treibt den Bitcoin-Preis. Erwartete weitere Kursgewinne und erhöhte Marktaktivität, da Anleger optimistisch bleiben."
+      "summary": "Bitcoin-ETFs verzeichnen den besten Monat 2026, BTC steigt im August um 25%. Die starke ETF-Nachfrage signalisiert institutionelles Interesse und treibt den Bitcoin-Preis. Erwartete weitere Kursgewinne und erhöhte Marktaktivität, da Anleger optimistisch bleiben.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T09:16:03Z"
     }
   ],
   "digest_log": [
@@ -6657,6 +6659,12 @@
       "at": "2026-09-02T08:17:09Z",
       "article_ids": [
         "https://www.marktechpost.com/?p=82033"
+      ]
+    },
+    {
+      "at": "2026-09-02T09:16:03Z",
+      "article_ids": [
+        "https://cointelegraph.com/markets/bitcoin-etf-best-month-2026-btc-up-25-august"
       ]
     }
   ],
