@@ -2580,7 +2580,8 @@
     "https://cointelegraph.com/news/wyoming-chainlink-onchain-reserves-of-state-issued-stable-token": "2026-09-02T18:43:24Z",
     "https://decrypt.co/?p=377185": "2026-09-02T18:43:24Z",
     "6a98445d5b3846267183e587": "2026-09-02T18:54:17Z",
-    "https://cointelegraph.com/news/new-jersey-supreme-court-kalshi-prediction-markets-cftc": "2026-09-02T19:07:16Z"
+    "https://cointelegraph.com/news/new-jersey-supreme-court-kalshi-prediction-markets-cftc": "2026-09-02T19:07:16Z",
+    "https://decrypt.co/?p=377215": "2026-09-02T19:22:37Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2601,22 +2602,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=376884",
-      "title": "Strategy’s Bitcoin Is $2.8 Billion in Profit—Is Saylor Teeing Up a Buy?",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-30T19:39:55Z",
-      "score": 5,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "Strategy hat laut Artikel rund 2,8 Milliarden Dollar unrealisierten Gewinn auf seinen Bitcoin-Beständen; es wird spekuliert, ob Michael Saylor weitere Käufe plant. Sollte ein neuer Kauf folgen, würde das zusätzliche institutionelle Nachfrage signalisieren und den Bitcoin-Kurs tendenziell stützen. Eine Bestätigung durch das Unternehmen wäre die nächste entscheidende Wegmarke; bis dahin bleibt die Einschätzung spekulativ."
-    },
     {
       "id": "37507202-9591-56f4-ab54-2e0f19014a8e",
       "title": "Kalshi becomes exclusive prediction market partner of US Open: report",
@@ -5867,6 +5852,22 @@
       "summary": "Die Behörden von New Jersey haben den Obersten Gerichtshof der USA mit einer Petition zu Vorhersagemärkten angerufen. Das Verfahren betrifft die regulatorische Zuständigkeit der CFTC und belastet Plattformen wie Kalshi mit rechtlicher Unsicherheit. Entscheidend ist, wie das Gericht die Aufsicht über solche Märkte bewertet; ein restriktives Urteil würde das Segment spürbar treffen.",
       "delivered": "digest",
       "delivered_at": "2026-09-02T19:13:30Z"
+    },
+    {
+      "id": "https://decrypt.co/?p=377215",
+      "title": "'The Right Trade': Strategy CEO Has No Regrets Selling Bitcoin at $60K Before Buying Back Higher",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-02T19:15:06Z",
+      "score": 4,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Der CEO von Strategy sagt, der Verkauf von Bitcoin bei 60.000 Dollar und der spätere Rückkauf zu einem höheren Preis seien „der richtige Trade“ gewesen; er habe keine Reue. Die Aussage zeigt, dass das Unternehmen weiterhin auf steigende Bitcoin-Kurse setzt und höhere Einstiegspreise akzeptiert. Konkrete Kursbewegungen löst die Aussage allein nicht aus; entscheidend für den Markt bleibt das weitere Kaufverhalten von Strategy."
     }
   ],
   "digest_log": [
