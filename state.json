@@ -2568,7 +2568,8 @@
     "ad038f9d-a0ba-58bf-9588-5d15c25b562f": "2026-09-02T17:24:01Z",
     "https://techcrunch.com/?post_type=tc_video&p=3160054": "2026-09-02T17:24:03Z",
     "https://techcrunch.com/?post_type=tc_podcast&p=3160051": "2026-09-02T17:24:03Z",
-    "https://techcrunch.com/?p=3160050": "2026-09-02T17:24:03Z"
+    "https://techcrunch.com/?p=3160050": "2026-09-02T17:24:03Z",
+    "https://www.marktechpost.com/?p=82040": "2026-09-02T17:36:39Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2589,22 +2590,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://www.marktechpost.com/?p=81955",
-      "title": "Meet ‘Code-as-World’: An Agentic Loop That Rewrites Real Videos Into Executable MuJoCo Physics Programs",
-      "url": null,
-      "stream": "ai",
-      "source": "MarkTechPost",
-      "published": "2026-08-30T01:35:02Z",
-      "score": 6,
-      "category": "Research & Open Source",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Ein Forschungsteam stellt 'Code-as-World' vor, einen agentischen Loop, der echte Videos in ausführbare MuJoCo-Physikprogramme übersetzt. Der Ansatz könnte Simulation und Robotiktraining beschleunigen, da physikalisch korrekte Umgebungen direkt aus Videodaten erzeugt werden. Konkrete Produktfolgen sind noch offen; ob sich die Methode in der Praxis bewährt, bleibt abzuwarten.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-30T02:08:07Z"
-    },
     {
       "id": "https://www.marktechpost.com/?p=81958",
       "title": "Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for AI Agents to Safely Operate Physical Devices",
@@ -5845,6 +5830,22 @@
         "OpenAI"
       ],
       "summary": "Die US-Regierung unterstützt in einem Rechtsstreit die Position von OpenAI, dass das Training von LLMs mit urheberrechtlich geschütztem Material zulässig ist. Das stärkt KI-Unternehmen gegenüber Rechteinhabern und verringert das rechtliche Risiko für das Training großer Modelle branchenweit. Eine entsprechende Gerichtsentscheidung würde OpenAI und ähnlichen Anbietern mehr Rechtssicherheit geben; bis dahin bleibt die rechtliche Lage spannungsreich."
+    },
+    {
+      "id": "https://www.marktechpost.com/?p=82040",
+      "title": "Google DeepMind Releases Gemini 3.8 Flash and Gemini 3.8 Flash Cyber: One Core Model, Two Access Envelopes",
+      "url": null,
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-09-02T17:20:24Z",
+      "score": 8,
+      "category": "Model Release & Capability",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "GOOGL"
+      ],
+      "summary": "Google DeepMind hat Gemini 3.8 Flash und Gemini 3.8 Flash Cyber veröffentlicht – ein Kernmodell mit zwei Zugriffsvarianten. Die Veröffentlichung stärkt Googles KI-Produktlinie und erhöht den Wettbewerbsdruck auf andere KI-Anbieter. Die Marktreaktion auf die neuen Modellzugänge ist die nächste Wegmarke; Alphabet dürfte davon direkt profitieren."
     }
   ],
   "digest_log": [
