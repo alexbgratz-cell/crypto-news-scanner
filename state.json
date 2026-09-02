@@ -1,21 +1,5 @@
 {
   "seen": {
-    "f9f3a944-7c34-5866-b356-d321e8ce7f02": "2026-08-26T14:26:14Z",
-    "https://cointelegraph.com/magazine/the-sec-wants-to-bring-back-icos-theres-a-catch": "2026-08-26T14:26:14Z",
-    "https://cointelegraph.com/news/students-crypto-classes-learn-social-media-okx": "2026-08-26T14:26:14Z",
-    "https://cointelegraph.com/markets/bernstein-predicts-bitcoin-reclaim-125000-year-end": "2026-08-26T14:26:14Z",
-    "https://cointelegraph.com/news/taurus-digital-asset-platforms-swift-blockchain-ledger": "2026-08-26T14:26:14Z",
-    "https://decrypt.co/?p=376590": "2026-08-26T14:26:14Z",
-    "https://decrypt.co/?p=376575": "2026-08-26T14:26:14Z",
-    "https://decrypt.co/?p=376580": "2026-08-26T14:26:14Z",
-    "https://openai.com/index/how-enterprises-put-ai-to-work": "2026-08-26T14:26:14Z",
-    "https://huggingface.co/blog/train-multi-vector-encoder": "2026-08-26T14:26:15Z",
-    "https://techcrunch.com/?p=3157083": "2026-08-26T14:26:16Z",
-    "https://techcrunch.com/?p=3155979": "2026-08-26T14:26:16Z",
-    "https://techcrunch.com/?p=3156754": "2026-08-26T14:26:16Z",
-    "https://techcrunch.com/?p=3157018": "2026-08-26T14:26:16Z",
-    "https://techcrunch.com/?p=3156546": "2026-08-26T14:26:16Z",
-    "https://techcrunch.com/?p=3156706": "2026-08-26T14:26:16Z",
     "48b50db9-f997-52e6-8470-2649c7267bde": "2026-08-28T00:57:06Z",
     "c92cd467-c3b7-5425-a19a-ca01ec3480c1": "2026-08-28T00:57:06Z",
     "dcb94b7f-d24b-547b-bb01-8a88432581d0": "2026-08-28T00:57:06Z",
@@ -2561,7 +2545,11 @@
     "https://huggingface.co/blog/ibm-research/real-time-intelligence": "2026-09-02T13:52:38Z",
     "https://techcrunch.com/?p=3159700": "2026-09-02T14:08:40Z",
     "https://decrypt.co/?p=377162": "2026-09-02T14:26:00Z",
-    "https://www.technologyreview.com/?p=1142879": "2026-09-02T14:26:02Z"
+    "https://www.technologyreview.com/?p=1142879": "2026-09-02T14:26:02Z",
+    "https://openai.com/index/how-enterprises-put-ai-to-work": "2026-09-02T15:13:09Z",
+    "https://huggingface.co/blog/train-multi-vector-encoder": "2026-09-02T15:13:10Z",
+    "https://techcrunch.com/?p=3160035": "2026-09-02T15:13:10Z",
+    "https://techcrunch.com/?p=3160055": "2026-09-02T15:13:10Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2571,27 +2559,17 @@
       "stream": "crypto",
       "source": "Decrypt",
       "published": "2026-09-02T09:06:22Z"
+    },
+    "https://techcrunch.com/?p=3160035": {
+      "id": "https://techcrunch.com/?p=3160035",
+      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+      "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-02T15:01:23Z"
     }
   },
   "articles": [
-    {
-      "id": "https://www.marktechpost.com/?p=81942",
-      "title": "Hugging Face Unveils Microduck: A $399 Open-Source 25 cm Biped You Train with Reinforcement Learning",
-      "url": null,
-      "stream": "ai",
-      "source": "MarkTechPost",
-      "published": "2026-08-29T05:25:16Z",
-      "score": 6,
-      "category": "Hardware & Infrastructure",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "Hugging Face"
-      ],
-      "summary": "Hugging Face stellt Microduck vor, einen 399 Dollar teuren, 25 Zentimeter großen zweibeinigen Open-Source-Roboter, der per Reinforcement Learning trainiert wird. Die Veröffentlichung senkt die Hürde für Robotik-Forschung, weil günstige Hardware und modernes Training kombiniert werden und mehr Labore experimentieren können. Das dürfte die Entwicklung humanoider Robotik beschleunigen, ähnliche Plattformen könnten folgen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-29T06:09:07Z"
-    },
     {
       "id": "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k",
       "title": "Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K",
@@ -5831,6 +5809,22 @@
       "instruments": [],
       "entities": [],
       "summary": "Der Artikel beschreibt, wie KI-Integration durch Einfachheit auch in großem Umfang gelingen soll. Damit richtet er sich an Unternehmen, die KI-Prozesse ohne technische Komplexität ausrollen möchten. Konkrete Produkte, Zahlen oder Marktbewegungen werden nicht genannt, daher ist keine unmittelbare Branchenwirkung abzuleiten."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3160055",
+      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-02T14:56:34Z",
+      "score": 7,
+      "category": "Business & Funding",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [
+        "AMZN"
+      ],
+      "summary": "Amazon erweitert seinen Shopping-KI-Assistenten um eine Funktion, die Nutzer darüber informiert, ob eine Nachricht betrügerisch ist. Die Integration stärkt das Vertrauen in Amazons KI-Produkte und verbessert die Sicherheit im E-Commerce. Damit festigt Amazon seine Position im KI-gestützten Verbraucherschutz, was ähnliche Funktionen bei Wettbewerbern beschleunigen dürfte."
     }
   ],
   "digest_log": [
