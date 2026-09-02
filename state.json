@@ -2594,7 +2594,8 @@
     "https://techcrunch.com/?p=3160290": "2026-09-02T22:50:03Z",
     "https://techcrunch.com/?p=3137969": "2026-09-02T23:07:07Z",
     "https://decrypt.co/?p=377231": "2026-09-02T23:22:34Z",
-    "https://openai.com/index/atv-big-air-tour": "2026-09-02T23:22:34Z"
+    "https://openai.com/index/atv-big-air-tour": "2026-09-02T23:22:34Z",
+    "https://decrypt.co/?p=377232": "2026-09-02T23:49:40Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2615,22 +2616,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
-      "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
-      "url": null,
-      "stream": "ai",
-      "source": "AI - Ars Technica",
-      "published": "2026-08-31T10:00:34Z",
-      "score": 5,
-      "category": "Society & Work",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [
-        "META"
-      ],
-      "summary": "Der Artikel beschreibt, wie die KI von Pocket Spielideen des Autors umsetzt und Meta nun die Ergebnisse kontrolliert. Das verdeutlicht, wie Plattformkonzerne zunehmend über KI-generierte kreative Inhalte bestimmen. Für Entwickler und Kreative wächst dadurch die Abhängigkeit von Meta."
-    },
     {
       "id": "6a832bd4364359700ebc52b3",
       "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
@@ -5883,6 +5868,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Die ATV Big Air Tour nutzt ChatGPT und reduziert damit einen dreitägigen Arbeitsaufwand auf drei Stunden. Das zeigt einen praktischen Nutzen von KI-Assistenten in der Eventbranche. Für die Branche bedeutet das eine mögliche Effizienzsteigerung, konkrete Marktfolgen sind jedoch nicht absehbar."
+    },
+    {
+      "id": "https://decrypt.co/?p=377232",
+      "title": "Anthropic Admits Security Failures Behind Claude Hacking Incidents",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-02T23:46:04Z",
+      "score": 6,
+      "category": "Safety & Risk",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Anthropic hat Sicherheitsmängel eingeräumt, die Hacking-Vorfälle rund um Claude ermöglicht haben. Das erschüttert das Vertrauen in die Absicherung kommerzieller KI-Systeme und könnte Unternehmen bei der Einführung solcher Modelle zögern lassen. Strengere Sicherheitsauflagen und unabhängige Prüfungen für KI-Anbieter sind als Konsequenz wahrscheinlich."
     }
   ],
   "digest_log": [
