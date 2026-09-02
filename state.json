@@ -2583,7 +2583,8 @@
     "https://cointelegraph.com/news/new-jersey-supreme-court-kalshi-prediction-markets-cftc": "2026-09-02T19:07:16Z",
     "https://decrypt.co/?p=377215": "2026-09-02T19:22:37Z",
     "https://decrypt.co/?p=377216": "2026-09-02T20:08:22Z",
-    "https://techcrunch.com/?p=3160225": "2026-09-02T20:25:47Z"
+    "https://techcrunch.com/?p=3160225": "2026-09-02T20:25:47Z",
+    "https://decrypt.co/?p=377225": "2026-09-02T20:51:01Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2604,23 +2605,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=376897",
-      "title": "Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-30T21:31:04Z",
-      "score": 8,
-      "category": "Other",
-      "sentiment": "neutral",
-      "instruments": [
-        "BTCUSD",
-        "ETHUSD"
-      ],
-      "entities": [],
-      "summary": "Bitcoin-ETFs beendeten ihre neuntägige Zuflussserie, während Ethereum-Fonds ihre Zufluss-Phase verlängerten. Das deutet auf eine kurzfristig abkühlende institutionelle Nachfrage nach Bitcoin hin, während Ethereum weiterhin Kapital anzieht. In der Folge dürfte BTCUSD unter leichtem Abgabedruck geraten, während ETHUSD gestützt bleibt; die nächsten ETF-Zuflussdaten sind die entscheidende Wegmarke."
-    },
     {
       "id": "https://www.marktechpost.com/?p=81967",
       "title": "Lowest-Latency Inference APIs for Voice and Realtime Agents: A Time to First Token TTFT-First Benchmark",
@@ -5868,6 +5852,22 @@
       "instruments": [],
       "entities": [],
       "summary": "Eine neue Reasoning-Technik von OpenAI alarmiert KI-Sicherheitsexperten. Der Fall verdeutlicht Risiken moderner KI-Modelle und erhöht den Druck auf Anbieter und Regulierer. Strengere Sicherheitsauflagen und ein wachsender Fokus auf Modelltransparenz sind die wahrscheinliche Folge."
+    },
+    {
+      "id": "https://decrypt.co/?p=377225",
+      "title": "Top Pentagon AI Official Sold Millions in Perplexity Stock, Disclosures Show",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-02T20:46:04Z",
+      "score": 5,
+      "category": "Regulation & Policy",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [
+        "Perplexity"
+      ],
+      "summary": "Ein ranghoher KI-Verantwortlicher des Pentagons hat laut Offenlegungen Aktien von Perplexity im Wert von Millionen Dollar verkauft. Der Fall rückt mögliche Interessenkonflikte zwischen staatlicher KI-Politik und privaten Beteiligungen in den Fokus, ohne das operative Geschäft von Perplexity unmittelbar zu betreffen. Eine direkte nennenswerte Marktreaktion ist daraus nicht abzuleiten."
     }
   ],
   "digest_log": [
