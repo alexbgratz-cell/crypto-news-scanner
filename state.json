@@ -2571,7 +2571,8 @@
     "https://techcrunch.com/?p=3160050": "2026-09-02T17:24:03Z",
     "https://www.marktechpost.com/?p=82040": "2026-09-02T17:36:39Z",
     "0f9ce58a-7f30-5b1c-990c-88f176a373fc": "2026-09-02T17:49:19Z",
-    "https://decrypt.co/?p=377184": "2026-09-02T17:49:19Z"
+    "https://decrypt.co/?p=377184": "2026-09-02T17:49:19Z",
+    "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/": "2026-09-02T18:09:32Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2592,24 +2593,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans",
-      "title": "Russia’s Sber eyes USDT loans, questions digital ruble demand",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-30T09:45:01Z",
-      "score": 6,
-      "category": "Tech Update",
-      "sentiment": "bullish",
-      "instruments": [
-        "USDT.D"
-      ],
-      "entities": [],
-      "summary": "Russlands größte Bank Sber erwägt, Kredite in USDT anzubieten, und stellt zugleich die Nachfrage nach dem digitalen Rubel infrage. Das signalisiert wachsende institutionelle Akzeptanz von Stablecoins in Russland und könnte die Nachfrage nach USDT erhöhen. Sollte der Plan bestätigt werden, dürften Stablecoin-bezogene Kennzahlen wie die USDT-Dominanz an Bedeutung gewinnen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-30T10:08:03Z"
-    },
     {
       "id": "6a8dc20a07538691fe0533d6",
       "title": "Why the Hottest New Wearables Want to Be Ignored",
@@ -5847,6 +5830,20 @@
       ],
       "entities": [],
       "summary": "Krypto-Verbände drängen die US-Börsenaufsicht SEC, für neuartige ETF-Produkte maßgeschneiderte Regeln zu schaffen. Ein klarer Rahmen würde Emittenten mehr Sicherheit geben und könnte die institutionelle Nachfrage nach Krypto-ETFs stützen. Da noch keine Entscheidung der SEC vorliegt, bleibt die regulatorische Unsicherheit bestehen."
+    },
+    {
+      "id": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
+      "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
+      "url": null,
+      "stream": "ai",
+      "source": "AI - Ars Technica",
+      "published": "2026-09-02T17:58:33Z",
+      "score": 5,
+      "category": "Regulation & Policy",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Ein Rechtsstreit könnte Trump zwingen, geheime Regeln offenzulegen, die US-Behörden für KI-Sicherheitstests verwenden. Die mögliche Offenlegung betrifft die staatliche Aufsicht und Rechenschaftspflicht bei KI-Sicherheitsprüfungen. Sollte das Gericht die Herausgabe anordnen, würden die zugrunde liegenden Regeln öffentlich einsehbar; eine Entscheidung steht noch aus."
     }
   ],
   "digest_log": [
