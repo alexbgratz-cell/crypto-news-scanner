@@ -5852,7 +5852,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "Anthropic hat Enterprise Frontier Safeguards (EFS) vorgestellt, die Zero-Data-Retention-Privacy und Cross-Session-Misuse-Erkennung bieten. Die Funktionen adressieren Datenschutz- und Sicherheitsanforderungen von Unternehmen und stärken Anthropics Position im Enterprise-Wettbewerb. Die Einführung dürfte die Nachfrage nach Anthropic-API-Diensten in regulierten Branchen erhöhen."
+      "summary": "Anthropic hat Enterprise Frontier Safeguards (EFS) vorgestellt, die Zero-Data-Retention-Privacy und Cross-Session-Misuse-Erkennung bieten. Die Funktionen adressieren Datenschutz- und Sicherheitsanforderungen von Unternehmen und stärken Anthropics Position im Enterprise-Wettbewerb. Die Einführung dürfte die Nachfrage nach Anthropic-API-Diensten in regulierten Branchen erhöhen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T08:17:09Z"
     }
   ],
   "digest_log": [
@@ -6655,6 +6657,12 @@
       "article_ids": [
         "https://www.marktechpost.com/?p=82026",
         "https://cointelegraph.com/news/hyperliquid-strategies-equity-facility-2-5-billion"
+      ]
+    },
+    {
+      "at": "2026-09-02T08:17:09Z",
+      "article_ids": [
+        "https://www.marktechpost.com/?p=82033"
       ]
     }
   ],
