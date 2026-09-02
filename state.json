@@ -5812,7 +5812,9 @@
         "US10Y"
       ],
       "entities": [],
-      "summary": "Bitcoin bewegt sich nahe 77.000 US-Dollar, während ein globaler Ausverkauf bei Anleihen die Widerstandsfähigkeit der jüngsten Rally testet. Steigende Anleiherenditen erhöhen den Druck auf risikoreiche Anlagen, wovon der zuvor stark gestiegene Kryptomarkt direkt betroffen ist. Sollte der Anleihen-Ausverkauf anhalten, dürfte Bitcoin kurzfristig unter Druck bleiben und die Marke von 77.000 Dollar als Unterstützung entscheidend sein."
+      "summary": "Bitcoin bewegt sich nahe 77.000 US-Dollar, während ein globaler Ausverkauf bei Anleihen die Widerstandsfähigkeit der jüngsten Rally testet. Steigende Anleiherenditen erhöhen den Druck auf risikoreiche Anlagen, wovon der zuvor stark gestiegene Kryptomarkt direkt betroffen ist. Sollte der Anleihen-Ausverkauf anhalten, dürfte Bitcoin kurzfristig unter Druck bleiben und die Marke von 77.000 Dollar als Unterstützung entscheidend sein.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T11:15:03Z"
     },
     {
       "id": "https://cointelegraph.com/news/thailand-crypto-travel-rule-self-custodial-wallet-checks",
@@ -5826,7 +5828,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "Thailand übernimmt die Travel Rule und führt damit Prüfungen für Self-Custody-Wallets ein. Börsen müssen zusätzliche Kunden- und Transaktionsdaten offenlegen, was die Compliance-Kosten erhöht. Die Umsetzung durch die Finanzinstitute ist die nächste entscheidende Phase."
+      "summary": "Thailand übernimmt die Travel Rule und führt damit Prüfungen für Self-Custody-Wallets ein. Börsen müssen zusätzliche Kunden- und Transaktionsdaten offenlegen, was die Compliance-Kosten erhöht. Die Umsetzung durch die Finanzinstitute ist die nächste entscheidende Phase.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T11:15:03Z"
     },
     {
       "id": "https://decrypt.co/?p=377149",
@@ -5840,7 +5844,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Die SEC schlägt die erste grundlegende Reform der Transferagenten-Regeln seit 40 Jahren vor und begründet dies unter anderem mit Tokenisierung. Dies könnte die regulatorische Behandlung tokenisierter Wertpapiere klären und betrifft Krypto-Börsen sowie Token-Emittenten direkt. Die nächste Wegmarke ist die öffentliche Kommentierungsphase der SEC; Marktteilnehmer sollten mit erhöhter regulatorischer Aufmerksamkeit rechnen."
+      "summary": "Die SEC schlägt die erste grundlegende Reform der Transferagenten-Regeln seit 40 Jahren vor und begründet dies unter anderem mit Tokenisierung. Dies könnte die regulatorische Behandlung tokenisierter Wertpapiere klären und betrifft Krypto-Börsen sowie Token-Emittenten direkt. Die nächste Wegmarke ist die öffentliche Kommentierungsphase der SEC; Marktteilnehmer sollten mit erhöhter regulatorischer Aufmerksamkeit rechnen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T11:15:03Z"
     }
   ],
   "digest_log": [
@@ -6661,6 +6667,14 @@
       "at": "2026-09-02T10:17:03Z",
       "article_ids": [
         "https://cointelegraph.com/news/crypto-industry-sec-novel-etf-restrictions"
+      ]
+    },
+    {
+      "at": "2026-09-02T11:15:03Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/thailand-crypto-travel-rule-self-custodial-wallet-checks",
+        "https://decrypt.co/?p=377149",
+        "fdd65c3f-44cb-5ece-8b11-c8107b3469fc"
       ]
     }
   ],
