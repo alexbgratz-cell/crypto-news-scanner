@@ -2592,7 +2592,9 @@
     "https://techcrunch.com/?p=3149903": "2026-09-02T22:24:44Z",
     "https://decrypt.co/?p=377230": "2026-09-02T22:50:01Z",
     "https://techcrunch.com/?p=3160290": "2026-09-02T22:50:03Z",
-    "https://techcrunch.com/?p=3137969": "2026-09-02T23:07:07Z"
+    "https://techcrunch.com/?p=3137969": "2026-09-02T23:07:07Z",
+    "https://decrypt.co/?p=377231": "2026-09-02T23:22:34Z",
+    "https://openai.com/index/atv-big-air-tour": "2026-09-02T23:22:34Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2613,34 +2615,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m",
-      "title": "More Markets lending reserve drained for $9.3M: Blockaid",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-31T08:57:10Z",
-      "score": 8,
-      "category": "Hack & Security",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Das Kreditprotokoll More Markets hat laut Sicherheitsfirma Blockaid einen Angriff erlitten, bei dem rund 9,3 Mio. USD aus Lending-Reserven abgezogen wurden. Der Vorfall verstärkt Sicherheitsbedenken im DeFi-Sektor und belastet kurzfristig das Vertrauen in Kreditprotokolle. Erhöhte Volatilität und genauere Prüfung ähnlicher Protokolle sind als Folge wahrscheinlich."
-    },
-    {
-      "id": "https://decrypt.co/?p=376913",
-      "title": "Crypto.com's Cronos Halts Entire Blockchain After $75M Tectonic Exploit",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-31T09:41:27Z",
-      "score": 8,
-      "category": "Hack & Security",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Crypto.coms Cronos hat die gesamte Blockchain angehalten, nachdem ein Exploit das Tectonic-Protokoll um 75 Millionen Dollar geschädigt hat. Der Vorfall erschüttert das Vertrauen in die Sicherheit des Cronos-Ökosystems und dürfte CRO und DeFi-Token belasten. Bis zur Behebung bleibt die Chain gestoppt; erhöhte Volatilität und Sicherheitsprüfungen sind wahrscheinlich."
-    },
     {
       "id": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
       "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
@@ -5881,6 +5855,34 @@
       "instruments": [],
       "entities": [],
       "summary": "TechCrunch kündigt für den Disrupt 2026 eine Builders Stage an, die praktische Strategien zur Skalierung von Startups bieten soll. Die Ankündigung richtet sich vor allem an Gründer und Wachstumsteams und hat keine direkte Auswirkung auf die KI-Branche insgesamt. Zu erwarten ist lediglich Konferenz-Aufmerksamkeit für Scale-up-Themen, aber keine konkrete Marktreaktion."
+    },
+    {
+      "id": "https://decrypt.co/?p=377231",
+      "title": "An AI Training Data Startup Just Became Y Combinator's Fastest-Ever Unicorn",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-02T23:16:04Z",
+      "score": 6,
+      "category": "Business & Funding",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Ein auf KI-Trainingsdaten spezialisiertes Startup hat als schnellstes Unternehmen in Y Combinators Geschichte den Unicorn-Status erreicht. Der Schritt zeigt, wie stark Kapital in die Datengrundlage für KI-Modelle fließt. Die hohe Bewertung dürfte den Wettbewerb und weitere Finanzierungsrunden in diesem Segment anheizen."
+    },
+    {
+      "id": "https://openai.com/index/atv-big-air-tour",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "url": null,
+      "stream": "ai",
+      "source": "OpenAI News",
+      "published": "2026-09-02T12:00:00Z",
+      "score": 5,
+      "category": "Business & Funding",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Die ATV Big Air Tour nutzt ChatGPT und reduziert damit einen dreitägigen Arbeitsaufwand auf drei Stunden. Das zeigt einen praktischen Nutzen von KI-Assistenten in der Eventbranche. Für die Branche bedeutet das eine mögliche Effizienzsteigerung, konkrete Marktfolgen sind jedoch nicht absehbar."
     }
   ],
   "digest_log": [
