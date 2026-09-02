@@ -5751,7 +5751,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "New Jersey hat den Obersten Gerichtshof der USA gebeten zu klären, welche Ebene die Regulierung von Sportwetten auf Vorhersagemärkten übernimmt. Die Unsicherheit über die Zuständigkeit von Bundes- und Landesbehörden belastet Anbieter von Vorhersagemärkten und könnte deren Geschäftsmodell je nach Ausgang einschränken oder ermöglichen. Eine Entscheidung des Supreme Court würde die regulatorische Landschaft grundlegend verändern; bis dahin bleibt die Rechtslage unklar."
+      "summary": "New Jersey hat den Obersten Gerichtshof der USA gebeten zu klären, welche Ebene die Regulierung von Sportwetten auf Vorhersagemärkten übernimmt. Die Unsicherheit über die Zuständigkeit von Bundes- und Landesbehörden belastet Anbieter von Vorhersagemärkten und könnte deren Geschäftsmodell je nach Ausgang einschränken oder ermöglichen. Eine Entscheidung des Supreme Court würde die regulatorische Landschaft grundlegend verändern; bis dahin bleibt die Rechtslage unklar.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T19:13:30Z"
     },
     {
       "id": "6a9583dc88d28650c32558cc",
@@ -5798,7 +5800,9 @@
         "OpenAI",
         "Anthropic"
       ],
-      "summary": "Switchyard ist eine neue Open-Source-Rust-Bibliothek, die als Proxy LLM-Anfragen zwischen OpenAI- und Anthropic-APIs routen und übersetzen kann. Das erleichtert Entwicklern den Einsatz mehrerer Modelle in einer Anwendung, ohne signifikante Auswirkungen auf die großen Anbieter. In der Branche dürfte dies vor allem die Werkzeugvielfalt erhöhen, aber keine unmittelbaren Marktbewegungen auslösen."
+      "summary": "Switchyard ist eine neue Open-Source-Rust-Bibliothek, die als Proxy LLM-Anfragen zwischen OpenAI- und Anthropic-APIs routen und übersetzen kann. Das erleichtert Entwicklern den Einsatz mehrerer Modelle in einer Anwendung, ohne signifikante Auswirkungen auf die großen Anbieter. In der Branche dürfte dies vor allem die Werkzeugvielfalt erhöhen, aber keine unmittelbaren Marktbewegungen auslösen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T19:13:30Z"
     },
     {
       "id": "https://cointelegraph.com/news/wyoming-chainlink-onchain-reserves-of-state-issued-stable-token",
@@ -5812,7 +5816,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Wyoming setzt Chainlink zur On-Chain-Reserve-Verifizierung ihres staatlich ausgegebenen Stablecoins ein. Das stärkt das Vertrauen in staatlich unterstützte Stablecoins und positioniert Chainlink als zentrale Infrastruktur für Transparenz. Die Einführung könnte die Akzeptanz solcher Stablecoin-Projekte und die Nachfrage nach Reserveprüfungen erhöhen."
+      "summary": "Wyoming setzt Chainlink zur On-Chain-Reserve-Verifizierung ihres staatlich ausgegebenen Stablecoins ein. Das stärkt das Vertrauen in staatlich unterstützte Stablecoins und positioniert Chainlink als zentrale Infrastruktur für Transparenz. Die Einführung könnte die Akzeptanz solcher Stablecoin-Projekte und die Nachfrage nach Reserveprüfungen erhöhen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T19:13:30Z"
     },
     {
       "id": "https://decrypt.co/?p=377185",
@@ -5842,7 +5848,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Die Trump-Administration stellt sich in der Urheberrechtsklage der New York Times auf die Seite von OpenAI. Das stärkt OpenAI im Rechtsstreit um Trainingsdaten und reduziert regulatorische Risiken für KI-Unternehmen. Der Ausgang des Verfahrens dürfte als Präzedenzfall für künftige KI-Urheberrechtsfälle gelten."
+      "summary": "Die Trump-Administration stellt sich in der Urheberrechtsklage der New York Times auf die Seite von OpenAI. Das stärkt OpenAI im Rechtsstreit um Trainingsdaten und reduziert regulatorische Risiken für KI-Unternehmen. Der Ausgang des Verfahrens dürfte als Präzedenzfall für künftige KI-Urheberrechtsfälle gelten.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T19:13:30Z"
     },
     {
       "id": "https://cointelegraph.com/news/new-jersey-supreme-court-kalshi-prediction-markets-cftc",
@@ -5856,7 +5864,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Die Behörden von New Jersey haben den Obersten Gerichtshof der USA mit einer Petition zu Vorhersagemärkten angerufen. Das Verfahren betrifft die regulatorische Zuständigkeit der CFTC und belastet Plattformen wie Kalshi mit rechtlicher Unsicherheit. Entscheidend ist, wie das Gericht die Aufsicht über solche Märkte bewertet; ein restriktives Urteil würde das Segment spürbar treffen."
+      "summary": "Die Behörden von New Jersey haben den Obersten Gerichtshof der USA mit einer Petition zu Vorhersagemärkten angerufen. Das Verfahren betrifft die regulatorische Zuständigkeit der CFTC und belastet Plattformen wie Kalshi mit rechtlicher Unsicherheit. Entscheidend ist, wie das Gericht die Aufsicht über solche Märkte bewertet; ein restriktives Urteil würde das Segment spürbar treffen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T19:13:30Z"
     }
   ],
   "digest_log": [
@@ -6741,6 +6751,16 @@
         "https://techcrunch.com/?p=3160050",
         "ad038f9d-a0ba-58bf-9588-5d15c25b562f",
         "https://decrypt.co/?p=377184"
+      ]
+    },
+    {
+      "at": "2026-09-02T19:13:30Z",
+      "article_ids": [
+        "6c91cdbd-2a6a-58c7-84e2-f2c333014dba",
+        "https://cointelegraph.com/news/wyoming-chainlink-onchain-reserves-of-state-issued-stable-token",
+        "6a98445d5b3846267183e587",
+        "https://cointelegraph.com/news/new-jersey-supreme-court-kalshi-prediction-markets-cftc",
+        "https://www.marktechpost.com/?p=82046"
       ]
     }
   ],
