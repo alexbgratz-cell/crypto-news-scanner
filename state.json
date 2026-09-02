@@ -1,28 +1,5 @@
 {
   "seen": {
-    "afef2fa1-397f-53a2-a178-c4bf84410c2b": "2026-08-26T10:08:36Z",
-    "8e729437-e9c7-554a-b0ab-ada4ae318bec": "2026-08-26T10:08:36Z",
-    "https://cointelegraph.com/news/revolut-eurr-euro-stablecoin-europe-rollout": "2026-08-26T10:08:36Z",
-    "https://openai.com/index/loveholidays": "2026-08-26T10:08:37Z",
-    "https://openai.com/index/chatgpt-ads-expands-across-europe": "2026-08-26T10:08:37Z",
-    "https://openai.com/index/strengthening-democratic-oversight-in-national-security": "2026-08-26T10:08:37Z",
-    "https://openai.com/index/partnering-with-codeai": "2026-08-26T10:08:37Z",
-    "https://openai.com/index/pacing-model-development-cyber-capabilities": "2026-08-26T10:08:37Z",
-    "https://openai.com/index/chatgpt-for-teens": "2026-08-26T10:08:37Z",
-    "https://openai.com/index/nvidia/chatgpt-work": "2026-08-26T10:08:37Z",
-    "https://openai.com/index/asana": "2026-08-26T10:08:37Z",
-    "https://huggingface.co/blog/ibm-research/altk-evolve-hmm": "2026-08-26T10:08:38Z",
-    "https://huggingface.co/blog/multi-vector-encoder": "2026-08-26T10:08:38Z",
-    "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2": "2026-08-26T10:08:38Z",
-    "https://www.technologyreview.com/?p=1141949": "2026-08-26T10:08:38Z",
-    "https://www.technologyreview.com/?p=1141952": "2026-08-26T10:08:38Z",
-    "https://www.technologyreview.com/?p=1142226": "2026-08-26T10:08:38Z",
-    "https://www.technologyreview.com/?p=1142188": "2026-08-26T10:08:38Z",
-    "6a7dd1a1171ea6971cf1d2c1": "2026-08-26T10:08:39Z",
-    "6a848674f787031f677590ed": "2026-08-26T10:08:39Z",
-    "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/": "2026-08-26T10:08:39Z",
-    "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/": "2026-08-26T10:08:39Z",
-    "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/": "2026-08-26T10:08:39Z",
     "6f435c06-8976-59cf-8ed6-168b55fba33f": "2026-08-26T11:50:45Z",
     "6fcd4ddb-b702-5d4b-8ce8-c8e29836fba2": "2026-08-26T11:50:45Z",
     "https://cointelegraph.com/markets/supply-absorption-key-question-as-bitcoin-fails-to-reclaim-80k-analysis": "2026-08-26T11:50:45Z",
@@ -2567,7 +2544,22 @@
     "https://www.marktechpost.com/?p=82033": "2026-09-02T07:51:15Z",
     "https://cointelegraph.com/markets/bitcoin-etf-best-month-2026-btc-up-25-august": "2026-09-02T08:27:03Z",
     "https://www.technologyreview.com/?p=1142946": "2026-09-02T08:27:04Z",
-    "https://decrypt.co/?p=377142": "2026-09-02T09:07:53Z"
+    "https://decrypt.co/?p=377142": "2026-09-02T09:07:53Z",
+    "https://cointelegraph.com/news/crypto-industry-sec-novel-etf-restrictions": "2026-09-02T10:08:45Z",
+    "https://openai.com/index/loveholidays": "2026-09-02T10:08:45Z",
+    "https://openai.com/index/chatgpt-ads-expands-across-europe": "2026-09-02T10:08:45Z",
+    "https://openai.com/index/strengthening-democratic-oversight-in-national-security": "2026-09-02T10:08:45Z",
+    "https://openai.com/index/partnering-with-codeai": "2026-09-02T10:08:45Z",
+    "https://openai.com/index/pacing-model-development-cyber-capabilities": "2026-09-02T10:08:45Z",
+    "https://openai.com/index/chatgpt-for-teens": "2026-09-02T10:08:45Z",
+    "https://openai.com/index/nvidia/chatgpt-work": "2026-09-02T10:08:45Z",
+    "https://openai.com/index/asana": "2026-09-02T10:08:45Z",
+    "https://huggingface.co/blog/ibm-research/altk-evolve-hmm": "2026-09-02T10:08:46Z",
+    "https://huggingface.co/blog/multi-vector-encoder": "2026-09-02T10:08:46Z",
+    "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2": "2026-09-02T10:08:46Z",
+    "https://www.technologyreview.com/?p=1141949": "2026-09-02T10:08:47Z",
+    "https://www.technologyreview.com/?p=1141952": "2026-09-02T10:08:47Z",
+    "6a8cb79d3e6cf87b84dc7a7d": "2026-09-02T10:08:47Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2580,42 +2572,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=376810",
-      "title": "Ethereum ETFs Take $226M in a Day, Almost Matching Bitcoin's Haul",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-28T14:17:21Z",
-      "score": 8,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [
-        "ETHUSD",
-        "ETHBTC",
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "Ethereum-ETFs verzeichneten an einem Tag Zuflüsse von 226 Mio. Dollar und lagen damit fast gleichauf mit Bitcoin-ETFs. Die starken Mittelzuflüsse signalisieren wachsendes institutionelles Interesse an Ethereum und stützen die Nachfrage nach ETH. Die erhöhte Nachfrage dürfte den ETH-Kurs und das ETHBTC-Verhältnis kurzfristig stützen."
-    },
-    {
-      "id": "https://decrypt.co/?p=376800",
-      "title": "Morning Minute: Solana Jumps with Network Inflation Set to Drop",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-28T12:13:35Z",
-      "score": 6,
-      "category": "Tech Update",
-      "sentiment": "bullish",
-      "instruments": [
-        "SOLUSD"
-      ],
-      "entities": [],
-      "summary": "Der Solana-Kurs springt, da die Netzwerkinflation gesenkt werden soll. Eine niedrigere Inflation verringert das Verkaufsangebot und stützt die SOL-Nachfrage. Der Markt dürfte dies positiv aufnehmen, was den SOL-Kurs kurzfristig weiter stützen könnte.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T22:07:50Z"
-    },
     {
       "id": "https://decrypt.co/?p=376797",
       "title": "UK Police Seize $1.4M in Bitcoin Traced to Shuttered Darknet Markets",
@@ -5851,6 +5807,37 @@
       "summary": "Bitcoin-ETFs verzeichnen den besten Monat 2026, BTC steigt im August um 25%. Die starke ETF-Nachfrage signalisiert institutionelles Interesse und treibt den Bitcoin-Preis. Erwartete weitere Kursgewinne und erhöhte Marktaktivität, da Anleger optimistisch bleiben.",
       "delivered": "digest",
       "delivered_at": "2026-09-02T09:16:03Z"
+    },
+    {
+      "id": "https://cointelegraph.com/news/crypto-industry-sec-novel-etf-restrictions",
+      "title": "Crypto industry urges SEC to avoid blanket novel ETF restrictions",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-02T09:48:49Z",
+      "score": 6,
+      "category": "Regulation",
+      "sentiment": "bullish",
+      "instruments": [
+        "BTCUSD",
+        "ETHUSD"
+      ],
+      "entities": [],
+      "summary": "Die Krypto-Industrie fordert die SEC auf, keine pauschalen Beschränkungen für neuartige ETFs einzuführen. Solche Einschränkungen könnten den institutionellen Zugang und die Nachfrage nach Krypto-ETFs dämpfen, weshalb die Branche auf regulatorische Klarheit drängt. Die künftige SEC-Entscheidung dürfte die weitere Entwicklung von Krypto-ETFs und die Marktstimmung maßgeblich beeinflussen."
+    },
+    {
+      "id": "6a8cb79d3e6cf87b84dc7a7d",
+      "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
+      "url": null,
+      "stream": "ai",
+      "source": "Feed: Artificial Intelligence Latest",
+      "published": "2026-09-02T10:00:00Z",
+      "score": 5,
+      "category": "Safety & Risk",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Ein Beitrag befasst sich mit Pangram, einem KI-Erkennungsdienst, der als Goldstandard gilt, und stellt die Frage, ob ihm vertraut werden kann. Die Diskussion betrifft Organisationen und Bildungseinrichtungen, die maschinell erzeugte Texte identifizieren wollen; Zweifel an der Zuverlässigkeit könnten die Nutzung solcher Dienste beeinflussen. Eine kritischere Bewertung von KI-Detektoren ist zu erwarten; Anwender müssen mit Fehlklassifikationen rechnen."
     }
   ],
   "digest_log": [
