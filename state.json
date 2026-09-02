@@ -2551,7 +2551,10 @@
     "https://techcrunch.com/?p=3160035": "2026-09-02T15:13:10Z",
     "https://techcrunch.com/?p=3160055": "2026-09-02T15:13:10Z",
     "334e6b23-3123-501c-a993-8b5d387fdd2d": "2026-09-02T15:32:15Z",
-    "https://decrypt.co/?p=377169": "2026-09-02T15:32:15Z"
+    "https://decrypt.co/?p=377169": "2026-09-02T15:32:15Z",
+    "https://cointelegraph.com/news/g20-members-clear-pathways-digital-asset-innovation": "2026-09-02T15:53:25Z",
+    "https://decrypt.co/?p=377171": "2026-09-02T15:53:25Z",
+    "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/": "2026-09-02T15:53:26Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2572,48 +2575,6 @@
     }
   },
   "articles": [
-    {
-      "id": "6a8f5fcd81a7b3cc4250388b",
-      "title": "How to Run a Chatbot on Your Own Computer",
-      "url": null,
-      "stream": "ai",
-      "source": "Feed: Artificial Intelligence Latest",
-      "published": "2026-08-29T10:00:00Z",
-      "score": 5,
-      "category": "Hardware & Infrastructure",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Der Artikel erklärt, wie man einen Chatbot lokal auf dem eigenen Computer betreibt. Lokale Ausführung reduziert die Abhängigkeit von Cloud-Diensten und spricht Datenschutz- sowie Kostenfragen an. Für die Branche bedeutet das eine zunehmende Dezentralisierung von KI-Anwendungen, unmittelbare Marktauswirkungen sind jedoch nicht absehbar."
-    },
-    {
-      "id": "6a91a28c803370e4d9cbd822",
-      "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
-      "url": null,
-      "stream": "ai",
-      "source": "Feed: Artificial Intelligence Latest",
-      "published": "2026-08-29T10:30:00Z",
-      "score": 4,
-      "category": "Safety & Risk",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Führende KI-Unternehmen warnen vor einer Cyber-Sicherheitskrise, die bereits in Monaten eintreten könne. Die Warnung erhöht den Risikodruck auf die gesamte KI-Branche und könnte Vertrauen sowie Investitionen belasten. In der Folge ist mit verstärkten Sicherheitsdebatten und möglichen regulatorischen Reaktionen zu rechnen."
-    },
-    {
-      "id": "https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash",
-      "title": "Trump-promoted brand touts GOLD before token collapse",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-29T10:53:41Z",
-      "score": 5,
-      "category": "Other",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Eine mit Trump verknüpfte Marke bewarb laut Cointelegraph den Token GOLD, bevor dieser kollabierte. Solche Vorfälle können das Vertrauen in kleinere Krypto-Projekte schwächen und regulatorische Aufmerksamkeit erhöhen. Eine direkte Kursreaktion bei den etablierten Hauptwerten ist jedoch unwahrscheinlich."
-    },
     {
       "id": "https://decrypt.co/?p=376864",
       "title": "BitGo Buys NYDIG's Institutional Trading Arm to Beef Up Derivatives and Financing",
@@ -5823,6 +5784,55 @@
       "instruments": [],
       "entities": [],
       "summary": "Norwegen will sogenannte „Pervert Glasses“ regulieren und erwägt ein Verbot von Gesichtserkennung. Die geplante Regulierung betrifft Anbieter KI-gestützter Gesichtserkennung und Smart Glasses, denen strengere Auflagen drohen. Hersteller müssen sich auf restriktivere Regeln in Norwegen und möglicherweise ähnliche Debatten in Europa einstellen."
+    },
+    {
+      "id": "https://cointelegraph.com/news/g20-members-clear-pathways-digital-asset-innovation",
+      "title": "G20 members tout ‘clear pathways’ for digital asset innovation",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-02T15:34:06Z",
+      "score": 6,
+      "category": "Regulation",
+      "sentiment": "bullish",
+      "instruments": [
+        "BTCUSD",
+        "ETHUSD"
+      ],
+      "entities": [],
+      "summary": "G20-Mitglieder betonen in einer gemeinsamen Erklärung „klare Wege“ für Innovation bei digitalen Vermögenswerten und signalisieren damit politische Unterstützung für den Sektor. Die Aussage dürfte das Vertrauen in Krypto-Märkte stärken und als positives regulatorisches Signal für globale Anleger wirken. Eine anhaltend freundliche Marktstimmung bei digitalen Vermögenswerten ist wahrscheinlich."
+    },
+    {
+      "id": "https://decrypt.co/?p=377171",
+      "title": "Tether Sued Over Alleged Unlawful Freeze of $42.4 Million in USDT",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-02T15:42:13Z",
+      "score": 7,
+      "category": "Regulation",
+      "sentiment": "bearish",
+      "instruments": [
+        "USDT.D"
+      ],
+      "entities": [],
+      "summary": "Tether wird wegen des angeblichen unrechtmäßigen Einfrierens von 42,4 Millionen US-Dollar in USDT verklagt. Der Rechtsstreit erhöht das regulatorische Risiko für den größten Stablecoin-Emittenten und könnte das Vertrauen in Tether belasten. Eine anhaltende Unsicherheit um USDT und den Stablecoin-Sektor ist wahrscheinlich."
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "url": null,
+      "stream": "ai",
+      "source": "AI",
+      "published": "2026-09-02T15:40:00Z",
+      "score": 6,
+      "category": "Safety & Risk",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [
+        "GOOGL"
+      ],
+      "summary": "Google hat ein Programm zur proaktiven Cyberabwehr für Regierungen und Unternehmen vorgestellt. Die Initiative stärkt Googles Sicherheitsangebot und richtet sich an Organisationen mit hohen Schutzanforderungen. Die Nachfrage nach entsprechenden Cyber-Sicherheitsdiensten dürfte dadurch weiter zunehmen."
     }
   ],
   "digest_log": [
