@@ -2589,7 +2589,9 @@
     "https://cointelegraph.com/news/coinbase-launches-regulated-crypto-derivatives-in-canada": "2026-09-02T21:07:16Z",
     "https://cointelegraph.com/news/us-officials-crowdstrike-malware-stealing-crypto": "2026-09-02T21:37:37Z",
     "https://decrypt.co/?p=377228": "2026-09-02T21:37:37Z",
-    "https://techcrunch.com/?p=3149903": "2026-09-02T22:24:44Z"
+    "https://techcrunch.com/?p=3149903": "2026-09-02T22:24:44Z",
+    "https://decrypt.co/?p=377230": "2026-09-02T22:50:01Z",
+    "https://techcrunch.com/?p=3160290": "2026-09-02T22:50:03Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2610,36 +2612,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million",
-      "title": "Cronos halts network after Tectonic exploit involving estimated $75M",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-31T03:25:48Z",
-      "score": 8,
-      "category": "Hack & Security",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Das Cronos-Netzwerk wurde nach einem Exploit der DeFi-Plattform Tectonic angehalten, mit einem geschätzten Schaden von 75 Millionen US-Dollar. Der Sicherheitsvorfall untergräbt das Vertrauen in die Cronos-Ökonomie und könnte zu Kapitalabflüssen aus der Plattform führen. Während das Team den Vorfall untersucht, sind anhaltende Netzwerkunterbrechungen und erhöhte Volatilität wahrscheinlich."
-    },
-    {
-      "id": "https://www.marktechpost.com/?p=81971",
-      "title": "OpenClaw Releases OpenClaw 2.0: Guided Model Setup, 575 ms Control UI Startup, and One Trust Boundary Per Gateway",
-      "url": null,
-      "stream": "ai",
-      "source": "MarkTechPost",
-      "published": "2026-08-31T05:04:10Z",
-      "score": 6,
-      "category": "Model Release & Capability",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "OpenClaw hat Version 2.0 veröffentlicht, die eine geführte Modell-Einrichtung, einen 575 ms schnellen Start der Control UI und eine Trust-Boundary pro Gateway mitbringt. Das Update macht die persönliche KI-Assistenten-Plattform zugänglicher und sicherer für Nutzer und Entwickler. Die Veröffentlichung stärkt die Wettbewerbsposition von OpenClaw im Bereich persönlicher KI-Agenten; eine weitere Adoption durch die Community ist wahrscheinlich.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-31T06:10:08Z"
-    },
     {
       "id": "9544007b-cb6d-56e5-bdc0-a5cd437c13f9",
       "title": "Russia’s largest bank forecasts $46 billion in first-year crypto exchange trading under new rules: report",
@@ -5875,6 +5847,37 @@
         "NVDA"
       ],
       "summary": "TechCrunch kündigt für die Disrupt 2026 eine neue „Real World AI Stage“ an, auf der Nvidia, Robotik und als „ausgestorbene Tiere“ bezeichnete Themen präsentiert werden sollen. Die Ankündigung zeigt das wachsende Interesse an physischer KI und Robotik, was vor allem Nvidia und Aussteller in den Fokus rückt. Eine unmittelbare Marktwirkung ergibt sich aus der Veranstaltungsankündigung nicht."
+    },
+    {
+      "id": "https://decrypt.co/?p=377230",
+      "title": "FBI Seizes $560K in Crypto Bound for Hamas, Takes Over Fundraising Sites",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-02T22:47:06Z",
+      "score": 7,
+      "category": "Regulation",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Das FBI beschlagnahmte Kryptowährungen im Wert von 560.000 US-Dollar, die für die Hamas bestimmt waren, und übernahm die Kontrolle über Spenden-Websites. Die Aktion verdeutlicht verstärkte Strafverfolgung gegen illegale Krypto-Nutzung und dürfte den regulatorischen Druck auf Anbieter erhöhen. In der Folge ist mit strengeren Compliance-Anforderungen und erhöhter Marktaufmerksamkeit für Krypto-Transaktionen zu rechnen."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3160290",
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-02T22:44:56Z",
+      "score": 6,
+      "category": "Business & Funding",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "Palo Alto Networks",
+        "Console"
+      ],
+      "summary": "Palo Alto Networks hat laut Quellen 500 Millionen Dollar für das von Thrive unterstützte Startup Console gezahlt. Die Akquisition stärkt die Sicherheits- und KI-Plattform des Unternehmens und verschärft den Wettbewerb im Cybersicherheitsmarkt. Die Integration von Console dürfte das Portfolio erweitern und die Marktposition von Palo Alto Networks festigen."
     }
   ],
   "digest_log": [
