@@ -2551,7 +2551,9 @@
     "5M2gv6mk7MEHXAvBa4H7z0": "2026-09-02T12:10:27Z",
     "1l2gUXhw9OMzMzsSp8yAFk": "2026-09-02T12:10:27Z",
     "2CUHNkdUg4dnjDFiMtJJQ": "2026-09-02T12:10:27Z",
-    "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/": "2026-09-02T12:10:27Z"
+    "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/": "2026-09-02T12:10:27Z",
+    "1b1ea4a9-4939-59f8-a026-7b516815f882": "2026-09-02T12:31:58Z",
+    "https://cointelegraph.com/news/thai-sue-tether-freezing-61m-pig-butchering-case": "2026-09-02T12:31:58Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2564,34 +2566,6 @@
     }
   },
   "articles": [
-    {
-      "id": "6a909639933ab0cdef3062ed",
-      "title": "AI Has Human Doctors Asking: What’s Left for Us?",
-      "url": null,
-      "stream": "ai",
-      "source": "Feed: Artificial Intelligence Latest",
-      "published": "2026-08-28T15:00:00Z",
-      "score": 4,
-      "category": "Society & Work",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Ein Artikel der Rubrik „Artificial Intelligence Latest“ thematisiert, dass KI menschliche Ärztinnen und Ärzte vor die Frage stellt, welche Aufgaben ihnen künftig bleiben. Die Debatte betrifft die medizinische Branche und deutet auf Unsicherheit über veränderte Berufsrollen hin, ohne konkrete technische oder wirtschaftliche Fakten zu nennen. Konkrete Marktfolgen sind aus der Meldung nicht ableitbar; es bleibt bei einer allgemeinen Diskussion über Arbeitsplatzauswirkungen."
-    },
-    {
-      "id": "6a8f5a92a900bd9d58336fff",
-      "title": "He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them",
-      "url": null,
-      "stream": "ai",
-      "source": "Feed: Artificial Intelligence Latest",
-      "published": "2026-08-28T11:00:00Z",
-      "score": 5,
-      "category": "Society & Work",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Eine Person, die zuvor Kunstwerke von Künstlerinnen und Künstlern für KI-Training gesammelt hatte, arbeitet nun mit ihnen an einem Tool, das ihnen helfen soll. Dies steht im Zusammenhang mit der Debatte über Urheberrechte und die Nutzung kreativer Werke in der KI-Entwicklung. Unmittelbare Branchenverwerfungen oder Marktbewegungen sind aus der Meldung nicht abzuleiten."
-    },
     {
       "id": "6a83230eadb8c867822be928",
       "title": "Inside Meta’s Push to Put Robots to Work in Data Centers",
@@ -5833,6 +5807,38 @@
       "summary": "OpenAI sieht sich mit 30 weiteren Klagen im Zusammenhang mit dem Schusswaffen-Vorfall in Tumbler Ridge konfrontiert. Die rechtlichen Schritte erhöhen den Druck auf OpenAI und die KI-Branche hinsichtlich der Verantwortung von KI-Modellen. Weitere juristische Auseinandersetzungen und mögliche regulatorische Folgen sind wahrscheinlich.",
       "delivered": "digest",
       "delivered_at": "2026-09-02T12:20:49Z"
+    },
+    {
+      "id": "1b1ea4a9-4939-59f8-a026-7b516815f882",
+      "title": "Adam Back invests another $8.8 million in Capital B as bitcoin treasury firm targets 3,521 BTC",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-09-02T12:31:27Z",
+      "score": 8,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Adam Back investiert weitere 8,8 Millionen Dollar in das Bitcoin-Treasury-Unternehmen Capital B, das einen Bestand von 3.521 BTC anstrebt. Die Beteiligung des bekannten Bitcoin-Befürworters stärkt das Vertrauen in Bitcoin als Unternehmensreserve und unterstützt die Nachfrage. Sollte Capital B sein Ziel erreichen, entsteht zusätzlicher Kaufdruck auf BTC; die Entwicklung des Treasury-Bestands ist die nächste Wegmarke."
+    },
+    {
+      "id": "https://cointelegraph.com/news/thai-sue-tether-freezing-61m-pig-butchering-case",
+      "title": "Thai businessmen sue Tether for freezing $42M in $61M pig butchering case",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-02T12:00:00Z",
+      "score": 7,
+      "category": "Regulation",
+      "sentiment": "bearish",
+      "instruments": [
+        "USDT.D"
+      ],
+      "entities": [],
+      "summary": "Thailändische Geschäftsleute verklagen Tether, weil der Emittent 42 Mio. USD im Zusammenhang mit einem 61 Mio. USD schweren Pig-Butchering-Betrugsfall eingefroren hat. Der Rechtsstreit erhöht den regulatorischen Druck auf Tether und könnte das Vertrauen in die Stablecoin-Handhabung von Einfrierungen belasten. Der Ausgang des Verfahrens ist offen und könnte die künftige Praxis bei USDT-Einfrierungen prägen."
     }
   ],
   "digest_log": [
