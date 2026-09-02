@@ -2561,7 +2561,10 @@
     "https://techcrunch.com/?p=3160089": "2026-09-02T16:08:23Z",
     "6a7dd5ceadfa954d38d64589": "2026-09-02T16:08:24Z",
     "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/": "2026-09-02T16:27:07Z",
-    "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/": "2026-09-02T16:27:07Z"
+    "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/": "2026-09-02T16:27:07Z",
+    "https://cointelegraph.com/news/ondo-urges-sec-cftc-bring-us-stock-perpetuals-onshore": "2026-09-02T16:53:04Z",
+    "https://cointelegraph.com/markets/bitcoins-apparent-demand-turns-negative-price-struggles-with-77k": "2026-09-02T16:53:04Z",
+    "https://decrypt.co/?p=377180": "2026-09-02T16:53:04Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2582,56 +2585,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3156771",
-      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-29T17:36:47Z",
-      "score": 4,
-      "category": "Business & Funding",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Vijay Pande, der bei a16z einen 4-Milliarden-Dollar-Fonds verantwortet hat, erklärt im Interview, dass er bewusst nur wenige Wetten eingeht. Diese Haltung signalisiert eine fokussierte Venture-Kapital-Strategie im Bio- und KI-Bereich, die Start-ups mit weniger Finanzierungsrunden rechnen lässt. Die Aussage ist eine persönliche Strategie-Einordnung ohne konkrete Marktfolge, weshalb keine unmittelbare Kursbewegung zu erwarten ist."
-    },
-    {
-      "id": "https://techcrunch.com/?p=3158639",
-      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-29T18:41:59Z",
-      "score": 7,
-      "category": "Regulation & Policy",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [
-        "Anthropic"
-      ],
-      "summary": "Sony Music und Warner Music verklagen Anthropic wegen einer mutmaßlich „dreisten Kampagne“ von Urheberrechtsverletzungen. Die Klage betrifft die Nutzung geschützter Musiktexte für das KI-Training und erhöht die rechtlichen Risiken für KI-Modelle. Der Ausgang dürfte die Lizenzpraxis der gesamten KI-Branche prägen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-29T19:07:55Z"
-    },
-    {
-      "id": "https://www.marktechpost.com/?p=81950",
-      "title": "Building Custom Batched Ensemble Weather Forecasting with NVIDIA Earth2Studio",
-      "url": null,
-      "stream": "ai",
-      "source": "MarkTechPost",
-      "published": "2026-08-29T18:57:26Z",
-      "score": 6,
-      "category": "Hardware & Infrastructure",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [
-        "NVDA"
-      ],
-      "summary": "NVIDIA hat mit Earth2Studio ein neues Toolkit zur Erstellung maßgeschneiderter Batched-Ensemble-Wettervorhersagen vorgestellt. Das Tool vereinfacht die Arbeit mit mehreren Ensemble-Läufen und stärkt die Position von NVIDIA im Bereich KI-gestützter Klimamodellierung und Hochleistungsrechnen. Die Verfügbarkeit dürfte die Nutzung von NVIDIA-Beschleunigern in meteorologischen Anwendungen weiter erhöhen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-29T20:08:04Z"
-    },
     {
       "id": "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth",
       "title": "Stellar tokenized RWA market more than quadruples to nearly $4B",
@@ -5838,6 +5791,52 @@
         "GOOGL"
       ],
       "summary": "Google DeepMind kündigt Gemini 3.8 Flash und 3.8 Flash Cyber an, eine neue Modellgeneration für effiziente KI-Aufgaben und Cybersicherheit. Die Veröffentlichung stärkt Googles Position im Wettbewerb mit anderen KI-Anbietern und könnte die Nachfrage nach Gemini-Diensten erhöhen. Die nächste Wegmarke ist die Verfügbarkeit in den Produkten; erste Auswirkungen auf die Alphabet-Aktie und das KI-Segment sind wahrscheinlich."
+    },
+    {
+      "id": "https://cointelegraph.com/news/ondo-urges-sec-cftc-bring-us-stock-perpetuals-onshore",
+      "title": "Ondo urges SEC, CFTC to bring US stock perpetuals onshore",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-02T16:39:22Z",
+      "score": 5,
+      "category": "Regulation",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Ondo fordert die SEC und die CFTC auf, Perpetual-Kontrakte auf US-Aktien im Inland zu ermöglichen. Eine solche Zulassung würde den Markt für tokenisierte und krypto-nahe Derivate institutionell stärken und regulierte Handelswege eröffnen. Die Entscheidung über einen Onshore-Handel liegt nun bei den US-Aufsichtsbehörden; bis dahin bleibt der regulatorische Status unverändert."
+    },
+    {
+      "id": "https://cointelegraph.com/markets/bitcoins-apparent-demand-turns-negative-price-struggles-with-77k",
+      "title": "Bitcoin’s apparent demand turns negative as price struggles with $77K",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-02T16:35:56Z",
+      "score": 6,
+      "category": "Other",
+      "sentiment": "bearish",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Der gemeldete Scheinbedarf für Bitcoin ist negativ geworden, während der Preis um die 77.000-Dollar-Marke kämpft. Das deutet auf schwache Kaufnachfrage hin und belastet die Marktstimmung. Erhöhter Verkaufsdruck und weitere Abwärtsbewegungen am Bitcoin-Markt sind möglich."
+    },
+    {
+      "id": "https://decrypt.co/?p=377180",
+      "title": "OpenAI's Astra Becomes Its First AI Model With 'Critical' Hacking Abilities",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-02T16:43:53Z",
+      "score": 7,
+      "category": "Safety & Risk",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [
+        "OpenAI"
+      ],
+      "summary": "Laut Decrypt ist OpenAIs Modell Astra das erste KI-Modell des Unternehmens mit \"kritischen\" Hacking-Fähigkeiten. Die Meldung verstärkt Sicherheitsbedenken in der KI-Branche und dürfte die Debatte über riskante Cyber-Fähigkeiten von Frontier-Modellen anheizen. Eine intensivere Prüfung durch Sicherheits- und Regulierungsinstanzen ist wahrscheinlich."
     }
   ],
   "digest_log": [
