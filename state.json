@@ -2559,7 +2559,9 @@
     "fd0ee299-5190-5599-89f6-08fdc4f84c61": "2026-09-02T16:08:22Z",
     "https://techcrunch.com/?p=3160084": "2026-09-02T16:08:23Z",
     "https://techcrunch.com/?p=3160089": "2026-09-02T16:08:23Z",
-    "6a7dd5ceadfa954d38d64589": "2026-09-02T16:08:24Z"
+    "6a7dd5ceadfa954d38d64589": "2026-09-02T16:08:24Z",
+    "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/": "2026-09-02T16:27:07Z",
+    "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/": "2026-09-02T16:27:07Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2580,38 +2582,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b",
-      "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-29T16:27:28Z",
-      "score": 6,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Das Transfervolumen tokenisierter Aktien ist innerhalb von 30 Tagen um 415 % auf 29,5 Mrd. US-Dollar gestiegen. Der Anstieg zeigt, dass tokenisierte Wertpapiere zunehmend genutzt werden und Krypto-Infrastruktur für traditionelle Finanzmärkte an Bedeutung gewinnt. Die wachsende Nachfrage dürfte die Integration blockchainbasierter Handelswege weiter vorantreiben; eine unmittelbare Marktreaktion ist daraus aber nicht direkt abzuleiten.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-29T17:08:00Z"
-    },
-    {
-      "id": "https://decrypt.co/?p=376878",
-      "title": "Bernie Sanders Vows Legislation to 'Stop Flock and AI Mass Surveillance'",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-29T17:31:03Z",
-      "score": 6,
-      "category": "Regulation & Policy",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "US-Senator Bernie Sanders kündigt Gesetzesvorhaben an, um die Überwachungspraktiken von Flock und KI-gestützte Massenüberwachung zu stoppen. Die Ankündigung erhöht den regulatorischen Druck auf Anbieter von KI-Überwachungstechnologie und könnte deren Geschäftsmodelle belasten. Sollte das Gesetz eingebracht werden, drohen strengere Auflagen und eingeschränkte Einsätze solcher Systeme in den USA.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-29T18:08:05Z"
-    },
     {
       "id": "https://techcrunch.com/?p=3156771",
       "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
@@ -5836,6 +5806,38 @@
       "instruments": [],
       "entities": [],
       "summary": "Der Artikel erörtert die These, dass KI-gestützte Vorstellungsgespräche künftig in einem Dialog zweier Bots enden könnten. Damit rückt er die Automatisierung von Bewerbungsprozessen und deren Folgen für die Arbeitswelt in den Fokus. Konkrete Ereignisse, Zahlen oder direkte Auswirkungen auf die KI-Industrie nennt er nicht."
+    },
+    {
+      "id": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "url": null,
+      "stream": "ai",
+      "source": "Google DeepMind News",
+      "published": "2026-09-02T16:24:24Z",
+      "score": 7,
+      "category": "Business & Funding",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "GOOGL"
+      ],
+      "summary": "Google DeepMind kündigt proaktive Cyberabwehr für Regierungen und Unternehmen an. Der Vorstoß stärkt Googles Position im Markt für KI-gestützte Sicherheitslösungen und zielt auf wachsende Cyberbedrohungen. Das neue Angebot erweitert das Sicherheitsportfolio des Konzerns und verschärft den Wettbewerb in diesem Segment."
+    },
+    {
+      "id": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": null,
+      "stream": "ai",
+      "source": "Google DeepMind News",
+      "published": "2026-09-02T16:18:31Z",
+      "score": 8,
+      "category": "Model Release & Capability",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "GOOGL"
+      ],
+      "summary": "Google DeepMind kündigt Gemini 3.8 Flash und 3.8 Flash Cyber an, eine neue Modellgeneration für effiziente KI-Aufgaben und Cybersicherheit. Die Veröffentlichung stärkt Googles Position im Wettbewerb mit anderen KI-Anbietern und könnte die Nachfrage nach Gemini-Diensten erhöhen. Die nächste Wegmarke ist die Verfügbarkeit in den Produkten; erste Auswirkungen auf die Alphabet-Aktie und das KI-Segment sind wahrscheinlich."
     }
   ],
   "digest_log": [
