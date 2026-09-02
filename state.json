@@ -2564,7 +2564,11 @@
     "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/": "2026-09-02T16:27:07Z",
     "https://cointelegraph.com/news/ondo-urges-sec-cftc-bring-us-stock-perpetuals-onshore": "2026-09-02T16:53:04Z",
     "https://cointelegraph.com/markets/bitcoins-apparent-demand-turns-negative-price-struggles-with-77k": "2026-09-02T16:53:04Z",
-    "https://decrypt.co/?p=377180": "2026-09-02T16:53:04Z"
+    "https://decrypt.co/?p=377180": "2026-09-02T16:53:04Z",
+    "ad038f9d-a0ba-58bf-9588-5d15c25b562f": "2026-09-02T17:24:01Z",
+    "https://techcrunch.com/?post_type=tc_video&p=3160054": "2026-09-02T17:24:03Z",
+    "https://techcrunch.com/?post_type=tc_podcast&p=3160051": "2026-09-02T17:24:03Z",
+    "https://techcrunch.com/?p=3160050": "2026-09-02T17:24:03Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2585,66 +2589,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth",
-      "title": "Stellar tokenized RWA market more than quadruples to nearly $4B",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-29T19:12:42Z",
-      "score": 6,
-      "category": "Tech Update",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Der Markt für tokenisierte reale Vermögenswerte (RWA) auf Stellar ist laut dem Artikel auf fast 4 Mrd. USD gestiegen und hat sich im Jahresvergleich mehr als vervierfacht. Das signalisiert wachsende institutionelle Nachfrage nach tokenisierten Anlagen und stärkt Stellars Rolle als RWA-Plattform. Ein anhaltender Anstieg des tokenisierten RWA-Segments ist wahrscheinlich, weitere Zuflüsse in ähnliche Blockchain-Projekte sind zu erwarten.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-29T20:08:04Z"
-    },
-    {
-      "id": "968ca34b-a548-542f-bf77-ad913d92547c",
-      "title": "Cosmos Labs says it wrongly cleared the bug behind a $5.7 million six-chain hack",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-29T20:15:32Z",
-      "score": 8,
-      "category": "Hack & Security",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Cosmos Labs räumt ein, den Bug, der hinter einem 5,7-Millionen-Dollar-Hack über sechs Chains steckt, fälschlicherweise als behoben eingestuft zu haben. Der Sicherheitsvorfall erschüttert das Vertrauen in das Cosmos-Ökosystem und setzt betroffene Token und Projekte unter Verkaufsdruck. Weitere Sicherheitsprüfungen und Gegenmaßnahmen der betroffenen Chains sind wahrscheinlich."
-    },
-    {
-      "id": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks",
-      "title": "Polygon discloses security flaws fixed in recent hard forks",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-29T20:28:51Z",
-      "score": 6,
-      "category": "Hack & Security",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Polygon hat Sicherheitslücken offengelegt, die in den jüngsten Hard Forks des Netzwerks behoben wurden. Die Offenlegung betrifft Knotenbetreiber und Nutzer, da ungepatchte Versionen potenziell angreifbar waren. Die aktualisierten Clients gelten nun als relevanter Sicherheitsstandard für das Netzwerk.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-29T21:07:59Z"
-    },
-    {
-      "id": "91c09846-6ead-5663-99a1-8df0e6372704",
-      "title": "Layer 1 blockchain Fogo halts mainnet after attacker receives 400 million FOGO tokens, 10% of circulating supply",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-29T21:16:51Z",
-      "score": 8,
-      "category": "Hack & Security",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Die Layer-1-Blockchain Fogo hat ihr Mainnet gestoppt, nachdem ein Angreifer 400 Millionen FOGO-Token erhalten hat, etwa 10% des zirkulierenden Angebots. Der Vorfall erschüttert das Vertrauen in die Sicherheit des Netzwerks und dürfte den Preis des FOGO-Tokens stark belasten. Solange das Mainnet gestoppt bleibt, ist mit erhöhter Volatilität und weiteren Abflüssen zu rechnen."
-    },
     {
       "id": "https://www.marktechpost.com/?p=81955",
       "title": "Meet ‘Code-as-World’: An Agentic Loop That Rewrites Real Videos Into Executable MuJoCo Physics Programs",
@@ -5843,6 +5787,64 @@
       "summary": "Laut Decrypt ist OpenAIs Modell Astra das erste KI-Modell des Unternehmens mit \"kritischen\" Hacking-Fähigkeiten. Die Meldung verstärkt Sicherheitsbedenken in der KI-Branche und dürfte die Debatte über riskante Cyber-Fähigkeiten von Frontier-Modellen anheizen. Eine intensivere Prüfung durch Sicherheits- und Regulierungsinstanzen ist wahrscheinlich.",
       "delivered": "digest",
       "delivered_at": "2026-09-02T17:14:44Z"
+    },
+    {
+      "id": "ad038f9d-a0ba-58bf-9588-5d15c25b562f",
+      "title": "Securitize and Socios team up to tokenize equity in pro sports teams",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-09-02T17:17:59Z",
+      "score": 6,
+      "category": "Tech Update",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Securitize und Socios kündigen eine Partnerschaft zur Tokenisierung von Eigenkapital in Profisportvereinen an. Die Kooperation fördert die Nutzung von Blockchain-Technologie für reale Vermögenswerte im Sportsektor. Eine steigende Nachfrage nach Security-Token-Plattformen wird erwartet."
+    },
+    {
+      "id": "https://techcrunch.com/?post_type=tc_video&p=3160054",
+      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-02T17:18:13Z",
+      "score": 5,
+      "category": "Safety & Risk",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "In einem Interview erklärt Pangram-Mitgründer Max Spero, warum die Erkennung von KI-generierten Inhalten deutlich komplexer ist als ein simples Urteil zwischen „echt“ und „fake“. Das betrifft Plattformen und die Öffentlichkeit, die zunehmend KI-Inhalten begegnen und auf verlässliche Kennzeichnung angewiesen sind. Die Diskussion über wirksame Detektionsmethoden dürfte sich fortsetzen und künftige Produktentscheidungen sowie Regulierungsansätze beeinflussen."
+    },
+    {
+      "id": "https://techcrunch.com/?post_type=tc_podcast&p=3160051",
+      "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-02T17:09:57Z",
+      "score": 4,
+      "category": "Society & Work",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Der CEO von Pangram warnt, das Internet sei einer „Dead-Internet-Theorie“ gefährlich nahe, wonach ein Großteil der Inhalte und Interaktionen von KI generiert wird. Sollte sich dieser Vertrauensverlust verbreiten, leiden Plattformen und KI-Anbieter, deren Geschäftsmodelle auf authentischen Nutzerdaten und Werbung beruhen. Die Folge dürfte eine verstärkte Debatte über Herkunftskennzeichnung und Regulierung von KI-Inhalten sein."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3160050",
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-02T17:09:06Z",
+      "score": 7,
+      "category": "Regulation & Policy",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "OpenAI"
+      ],
+      "summary": "Die US-Regierung unterstützt in einem Rechtsstreit die Position von OpenAI, dass das Training von LLMs mit urheberrechtlich geschütztem Material zulässig ist. Das stärkt KI-Unternehmen gegenüber Rechteinhabern und verringert das rechtliche Risiko für das Training großer Modelle branchenweit. Eine entsprechende Gerichtsentscheidung würde OpenAI und ähnlichen Anbietern mehr Rechtssicherheit geben; bis dahin bleibt die rechtliche Lage spannungsreich."
     }
   ],
   "digest_log": [
