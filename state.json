@@ -2588,7 +2588,8 @@
     "529584fd-bc7b-54ea-81d8-80da55ff6f5f": "2026-09-02T21:07:16Z",
     "https://cointelegraph.com/news/coinbase-launches-regulated-crypto-derivatives-in-canada": "2026-09-02T21:07:16Z",
     "https://cointelegraph.com/news/us-officials-crowdstrike-malware-stealing-crypto": "2026-09-02T21:37:37Z",
-    "https://decrypt.co/?p=377228": "2026-09-02T21:37:37Z"
+    "https://decrypt.co/?p=377228": "2026-09-02T21:37:37Z",
+    "https://techcrunch.com/?p=3149903": "2026-09-02T22:24:44Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2609,22 +2610,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3157348",
-      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-31T02:34:00Z",
-      "score": 7,
-      "category": "Regulation & Policy",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Die USA errichten Handels- und Exportbarrieren um Drohnen und Roboter, während China dank seiner Skalierungsvorteile diese Hürden umgehen kann. Diese Regulierungspolitik schwächt die Wettbewerbsposition US-amerikanischer Hersteller, da Chinas Produktionsumfang die Wirkung der Beschränkungen reduziert. Die Folge sind anhaltende Marktunsicherheiten und eine verstärkte Eigenfertigung Chinas in diesen Schlüsseltechnologien.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-31T03:08:19Z"
-    },
     {
       "id": "https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million",
       "title": "Cronos halts network after Tectonic exploit involving estimated $75M",
@@ -5874,6 +5859,22 @@
       ],
       "entities": [],
       "summary": "Das japanische Unternehmen Remixpoint hat seine Kryptoreserven vollständig auf Bitcoin umgestellt und dabei Ethereum (ETH) und XRP veräußert. Die Verkäufe erhöhen den Verkaufsdruck auf ETH und XRP, während die Nachfrage nach BTC gestärkt wird. In der Folge dürfte das Verhältnis ETH/BTC weiter fallen und die Bitcoin-Dominanz zunehmen."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3149903",
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-02T22:24:09Z",
+      "score": 4,
+      "category": "Business & Funding",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [
+        "NVDA"
+      ],
+      "summary": "TechCrunch kündigt für die Disrupt 2026 eine neue „Real World AI Stage“ an, auf der Nvidia, Robotik und als „ausgestorbene Tiere“ bezeichnete Themen präsentiert werden sollen. Die Ankündigung zeigt das wachsende Interesse an physischer KI und Robotik, was vor allem Nvidia und Aussteller in den Fokus rückt. Eine unmittelbare Marktwirkung ergibt sich aus der Veranstaltungsankündigung nicht."
     }
   ],
   "digest_log": [
