@@ -5817,7 +5817,9 @@
       "entities": [
         "Perplexity"
       ],
-      "summary": "Perplexity hat Hybrid Compute für Mac vorgestellt, bei dem Cloud-Agenten Aufgaben bis zu einem lokalen Modell orchestrieren und geräteabhängig freigeschaltet werden. Dadurch rückt die lokale Verarbeitung von KI-Aufgaben in den Fokus, während Cloud-Ressourcen nur bei Bedarf genutzt werden. Perplexity positioniert sich damit stärker im Wettbewerb um hybride, datenschutzorientierte KI-Lösungen auf Endgeräten."
+      "summary": "Perplexity hat Hybrid Compute für Mac vorgestellt, bei dem Cloud-Agenten Aufgaben bis zu einem lokalen Modell orchestrieren und geräteabhängig freigeschaltet werden. Dadurch rückt die lokale Verarbeitung von KI-Aufgaben in den Fokus, während Cloud-Ressourcen nur bei Bedarf genutzt werden. Perplexity positioniert sich damit stärker im Wettbewerb um hybride, datenschutzorientierte KI-Lösungen auf Endgeräten.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T06:25:11Z"
     },
     {
       "id": "https://www.marktechpost.com/?p=82029",
@@ -5847,7 +5849,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Hyperliquid Strategies hat seine Eigenkapital-Fazilität auf 2,5 Milliarden USD aufgestockt. Das stärkt den Finanzierungsspielraum und die institutionelle Glaubwürdigkeit des Hyperliquid-Ökosystems. Die Ankündigung dürfte die Stimmung für den HYPE-Token stützen, ohne größere Wirkung auf die Gesamtmarktindizes zu haben."
+      "summary": "Hyperliquid Strategies hat seine Eigenkapital-Fazilität auf 2,5 Milliarden USD aufgestockt. Das stärkt den Finanzierungsspielraum und die institutionelle Glaubwürdigkeit des Hyperliquid-Ökosystems. Die Ankündigung dürfte die Stimmung für den HYPE-Token stützen, ohne größere Wirkung auf die Gesamtmarktindizes zu haben.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-02T06:25:11Z"
     }
   ],
   "digest_log": [
@@ -6643,6 +6647,13 @@
       "article_ids": [
         "4368414f-8ea1-5f59-8d31-03401dee29f9",
         "https://cointelegraph.com/news/core-dao-emergency-hard-fork-excess-validator-rewards"
+      ]
+    },
+    {
+      "at": "2026-09-02T06:25:11Z",
+      "article_ids": [
+        "https://www.marktechpost.com/?p=82026",
+        "https://cointelegraph.com/news/hyperliquid-strategies-equity-facility-2-5-billion"
       ]
     }
   ],
