@@ -2570,7 +2570,8 @@
     "https://techcrunch.com/?p=3159934": "2026-09-01T22:23:06Z",
     "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/": "2026-09-01T22:23:07Z",
     "b010167b-7510-5358-8846-90c8e36d745d": "2026-09-02T03:38:00Z",
-    "https://openai.com/index/gilbert-tobin": "2026-09-02T03:38:00Z"
+    "https://openai.com/index/gilbert-tobin": "2026-09-02T03:38:00Z",
+    "https://cointelegraph.com/news/core-dao-emergency-hard-fork-excess-validator-rewards": "2026-09-02T04:26:42Z"
   },
   "pending": {
     "8e729437-e9c7-554a-b0ab-ada4ae318bec": {
@@ -2583,22 +2584,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=376840",
-      "title": "XRP Treasury Company Gets One Step Closer to Listing on Nasdaq",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-28T19:46:03Z",
-      "score": 7,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Die XRP-Treasury-Gesellschaft hat laut Decrypt einen weiteren Schritt in Richtung Nasdaq-Listing gemacht. Ein Börsengang würde die institutionelle Sichtbarkeit von XRP erhöhen und das Vertrauen in den Token stärken. Eine konkrete Kursreaktion hängt von der endgültigen Zulassung der Nasdaq und dem Zeitplan des Listings ab.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-28T22:07:50Z"
-    },
     {
       "id": "https://decrypt.co/?p=376838",
       "title": "US Cities Eye AI Data Center Limits as Study Flags Water Risks",
@@ -5856,6 +5841,20 @@
       "summary": "Hyperliquid Strategies erhöht seine Equity-Fazilität von 1 auf 2,5 Milliarden US-Dollar. Der ausgeweitete Kapitalrahmen stärkt die Finanzbasis und signalisiert wachsendes institutionelles Interesse an Krypto-Infrastruktur. Die erhöhte Finanzkraft dürfte die Marktstellung von Hyperliquid festigen und positive Impulse für das Ökosystem geben.",
       "delivered": "digest",
       "delivered_at": "2026-09-02T04:17:26Z"
+    },
+    {
+      "id": "https://cointelegraph.com/news/core-dao-emergency-hard-fork-excess-validator-rewards",
+      "title": "Core DAO plans emergency hard fork after validators drew excess rewards",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-02T04:15:34Z",
+      "score": 6,
+      "category": "Hack & Security",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Core DAO kündigt einen Notfall-Hard-Fork an, nachdem Validatoren überschüssige Belohnungen erhalten haben. Der Vorfall könnte die Token-Wirtschaft der Core-Blockchain belasten, da unerwartete Belohnungen Angebot und Vertrauen beeinflussen. Die Umsetzung des Hard-Forks dürfte kurzfristig zu erhöhter Volatilität beim Core-Token führen."
     }
   ],
   "digest_log": [
