@@ -2558,7 +2558,8 @@
     "https://cointelegraph.com/news/hashkey-dtcc-first-asian-crypto-service-provider": "2026-09-02T13:26:48Z",
     "https://cointelegraph.com/magazine/btc-will-hit-1m-by-2030-but-arthur-hayes-is-buying-eth-instead": "2026-09-02T13:41:14Z",
     "https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident": "2026-09-02T13:52:37Z",
-    "https://huggingface.co/blog/ibm-research/real-time-intelligence": "2026-09-02T13:52:38Z"
+    "https://huggingface.co/blog/ibm-research/real-time-intelligence": "2026-09-02T13:52:38Z",
+    "https://techcrunch.com/?p=3159700": "2026-09-02T14:08:40Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2571,20 +2572,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://www.marktechpost.com/?p=81925",
-      "title": "Vercel AI Open-Sources vgpu: A TypeScript WebGPU Library for AI Agent Shaders",
-      "url": null,
-      "stream": "ai",
-      "source": "MarkTechPost",
-      "published": "2026-08-28T17:28:47Z",
-      "score": 5,
-      "category": "Research & Open Source",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Vercel AI hat die TypeScript-WebGPU-Bibliothek vgpu als Open Source veröffentlicht. Die Bibliothek ermöglicht die Nutzung von GPU-Shadern in KI-Agenten und vereinfacht damit die Entwicklung rechenintensiver KI-Anwendungen im Browser. Die Open-Source-Veröffentlichung dürfte die Verbreitung von WebGPU-basierten KI-Tools fördern."
-    },
     {
       "id": "https://www.marktechpost.com/?p=81905",
       "title": "Google AI Releases Gemini 3.5 Transcribe: A Speech-to-Text Model Reporting 2.6% Average WER Across 85+ Languages",
@@ -5830,6 +5817,20 @@
       "instruments": [],
       "entities": [],
       "summary": "IBM hat seine Zeitreihenmodelle auf Confluent integriert, um Echtzeit-Intelligenz zu ermöglichen. Diese Integration erlaubt es, Vorhersagen direkt auf Streaming-Daten anzuwenden, was die Entscheidungsfindung in Echtzeit verbessert. Die Partnerschaft dürfte die Nachfrage nach KI-gestützter Echtzeit-Analytik erhöhen und weitere Integrationen von KI-Modellen in Datenplattformen fördern."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3159700",
+      "title": "Adobe acquires Indian market intelligence startup Rilo",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-02T14:03:57Z",
+      "score": 6,
+      "category": "Business & Funding",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Adobe hat das indische Marktanalyse-Startup Rilo übernommen. Die Akquisition stärkt Adobes KI-gestützte Daten- und Analysefähigkeiten im Unternehmensbereich und erhöht den Wettbewerbsdruck auf etablierte Anbieter. Finanzielle Details wurden nicht genannt; die Integration von Rilos Technologie dürfte künftige Adobe-Produkte beschleunigen."
     }
   ],
   "digest_log": [
