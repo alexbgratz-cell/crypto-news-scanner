@@ -2625,7 +2625,9 @@
     "6a91b5991f4267c18de22d44": "2026-09-03T13:08:12Z",
     "https://huggingface.co/blog/Hcompany/neomme": "2026-09-03T13:26:39Z",
     "https://cointelegraph.com/magazine/recovery-specialists-crack-1b-crypto-wallet-but-find-just-10": "2026-09-03T13:40:15Z",
-    "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/": "2026-09-03T13:40:18Z"
+    "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/": "2026-09-03T13:40:18Z",
+    "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/": "2026-09-03T15:07:52Z",
+    "https://techcrunch.com/?p=3160336": "2026-09-03T15:07:53Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2646,41 +2648,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/webull-canada-crypto-trading-coinbase",
-      "title": "Webull expands crypto trading into Canada through Coinbase collaboration",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-31T17:28:19Z",
-      "score": 6,
-      "category": "Tech Update",
-      "sentiment": "bullish",
-      "instruments": [
-        "BTCUSD",
-        "ETHUSD"
-      ],
-      "entities": [],
-      "summary": "Webull weitet sein Kryptoangebot durch eine Zusammenarbeit mit Coinbase auf Kanada aus. Kanadische Anleger erhalten damit einen weiteren regulierten Zugang zum Handel mit Kryptowährungen, was die Adoption stärkt und Coinbase als Infrastruktur-Anbieter begünstigt. Eine höhere Handelsaktivität über Coinbase und eine leicht positive Marktstimmung für die wichtigsten Kryptowährungen sind wahrscheinlich.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-31T18:08:09Z"
-    },
-    {
-      "id": "https://decrypt.co/?p=376963",
-      "title": "Hyperliquid in Talks With Kraken Parent to Bring Crypto Perps to US Traders",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-31T17:54:15Z",
-      "score": 6,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Hyperliquid führt Gespräche mit der Kraken-Muttergesellschaft, um Krypto-Perpetual-Handel für US-Trader anzubieten. Eine Partnerschaft würde den Zugang zu Krypto-Derivaten in den USA erweitern und potenziell zu höherem Handelsvolumen und mehr Liquidität führen. Die nächste Wegmarke ist eine endgültige Partnerschafts- oder Zulassungsentscheidung.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-31T18:08:09Z"
-    },
     {
       "id": "b81e1240-e532-5174-8b5c-418c24dfc253",
       "title": "Hyperliquid seeks US foothold through Kraken parent Payward in crypto perpetuals deal: Bloomberg",
@@ -5888,6 +5855,38 @@
         "Hugging Face"
       ],
       "summary": "Nvidia übernimmt das KI-Modell-Repository Hugging Face, das als „GitHub der KI“ gilt, für 13 Milliarden US-Dollar. Der Deal stärkt Nvidias Kontrolle über die zentrale Plattform für Open-Source-Modelle und vertieft seine Rolle im gesamten KI-Ökosystem. Der Wettbewerb um KI-Infrastruktur und Modellvertrieb dürfte sich dadurch weiter verschärfen."
+    },
+    {
+      "id": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "url": null,
+      "stream": "ai",
+      "source": "Google DeepMind News",
+      "published": "2026-09-03T15:02:08Z",
+      "score": 8,
+      "category": "Model Release & Capability",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [
+        "GOOGL"
+      ],
+      "summary": "Google DeepMind hat WeatherNext 3 vorgestellt, das laut Unternehmen fortschrittlichste und genaueste KI-Modell für globale Wettervorhersagen. Die Veröffentlichung stärkt die Wettbewerbsposition des Konzerns im KI-Wetterbereich und setzt neue Maßstäbe für bestehende Vorhersagemodelle. Unabhängige Benchmark-Vergleiche und die Übernahme des Modells in operative Wetterdienste sind die nächste Bewährungsprobe."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3160336",
+      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-03T15:00:00Z",
+      "score": 8,
+      "category": "Model Release & Capability",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "GOOGL"
+      ],
+      "summary": "Google hat ein neues KI-Wettermodell vorgestellt, das präzisere Vorhersagen liefert. Das Modell unterstreicht die wachsende Fähigkeit von KI, komplexe physikalische Systeme zu simulieren, und stärkt die Position von Alphabet (GOOGL) im KI-Wettbewerb. Erwarten lässt sich, dass solche Modelle künftig direkt in Wetter-Apps und Alltagsdienste integriert werden."
     }
   ],
   "digest_log": [
