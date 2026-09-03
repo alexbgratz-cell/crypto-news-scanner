@@ -2596,7 +2596,8 @@
     "https://decrypt.co/?p=377231": "2026-09-02T23:22:34Z",
     "https://openai.com/index/atv-big-air-tour": "2026-09-02T23:22:34Z",
     "https://decrypt.co/?p=377232": "2026-09-02T23:49:40Z",
-    "https://www.marktechpost.com/?p=82049": "2026-09-03T00:13:06Z"
+    "https://www.marktechpost.com/?p=82049": "2026-09-03T00:13:06Z",
+    "6a98b7478c9d6f1d2a0923d6": "2026-09-03T01:42:52Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2617,26 +2618,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/markets/markets-pivot-to-september-fed-rate-hike-five-things-to-know-in-bitcoin-this-week",
-      "title": "Markets pivot to September Fed rate hike: Five things to know in Bitcoin this week",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-31T10:51:49Z",
-      "score": 6,
-      "category": "Macro",
-      "sentiment": "bearish",
-      "instruments": [
-        "BTCUSD",
-        "DXY",
-        "US10Y"
-      ],
-      "entities": [],
-      "summary": "Die Märkte richten sich in der neuen Woche auf eine mögliche Zinserhöhung der Fed im September aus, wie der Wochenausblick für Bitcoin zeigt. Ein Zinsschritt würde Risikoanlagen wie Bitcoin belasten, da der Dollar tendenziell steigt und die Liquidität knapper wird. Erhöhte Volatilität an den Kryptomärkten und ein festerer Dollar sind daher wahrscheinlich.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-31T11:08:14Z"
-    },
     {
       "id": "https://decrypt.co/?p=376916",
       "title": "Ireland Bars Crypto From State Savings Scheme Targeting $203B in Deposits",
@@ -5887,6 +5868,22 @@
       "instruments": [],
       "entities": [],
       "summary": "Die Qwen-Entwickler haben zg (zvec-grep) als Open Source veröffentlicht, ein lokales Suchtool, das ripgrep, BM25 und Vektorsuche kombiniert. Das vereinfacht hybride Retrieval-Pipelines für Entwickler und reduziert die Abhängigkeit von Cloud-Vektordatenbanken. Eine breitere Nutzung in lokalen KI-Workflows ist wahrscheinlich."
+    },
+    {
+      "id": "6a98b7478c9d6f1d2a0923d6",
+      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+      "url": null,
+      "stream": "ai",
+      "source": "Feed: Artificial Intelligence Latest",
+      "published": "2026-09-03T01:32:02Z",
+      "score": 5,
+      "category": "Business & Funding",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [
+        "META"
+      ],
+      "summary": "Meta führt einen neuen KI-Agenten für Mitarbeiter ein, drosselt aber gleichzeitig den Tokenverbrauch. Das zeigt den Fokus auf Effizienz bei internen KI-Tools. Kurzfristig ist keine direkte Marktauswirkung zu erwarten, die Nutzung dürfte sich intern verbreitern."
     }
   ],
   "digest_log": [
