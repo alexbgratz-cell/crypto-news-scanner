@@ -2604,7 +2604,8 @@
     "https://www.marktechpost.com/?p=82054": "2026-09-03T07:10:17Z",
     "https://cointelegraph.com/markets/eth-xrp-etf-inflow-streaks-end-bitcoin-funds-rebound": "2026-09-03T07:39:24Z",
     "https://cointelegraph.com/news/australia-warns-unlicensed-crypto-firms-of-fines-up-to-10-of-annual-turnover": "2026-09-03T08:08:49Z",
-    "https://huggingface.co/blog/train-to-paint-with-code": "2026-09-03T08:08:55Z"
+    "https://huggingface.co/blog/train-to-paint-with-code": "2026-09-03T08:08:55Z",
+    "https://decrypt.co/?p=377238": "2026-09-03T08:55:06Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2625,22 +2626,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/magazine/mystery-surrounds-why-an-og-burned-1m-in-bitcoin",
-      "title": "Mystery surrounds why an OG burned $1M in Bitcoin",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-31T13:30:00Z",
-      "score": 5,
-      "category": "Other",
-      "sentiment": "neutral",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "Ein früher Bitcoin-Nutzer hat Bitcoins im Wert von etwa 1 Million US-Dollar an eine unbrauchbare Adresse geschickt und damit faktisch verbrannt; der Grund bleibt unklar. Die Menge ist im Verhältnis zum Markt gering, daher ist die direkte Wirkung auf den Bitcoin-Preis minimal. Kurzfristig ist keine nennenswerte Preisanpassung zu erwarten, die Geschichte dürfte höchstens für Aufmerksamkeit in der Community sorgen."
-    },
     {
       "id": "https://cointelegraph.com/news/japanese-regulator-tax-exemption-trust-type-stablecoins-2027",
       "title": "Japanese regulator requests tax filing exemption for trust-type stablecoins in 2027 reform",
@@ -5888,6 +5873,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Der Hugging-Face-Blog beschreibt, wie ein Coding-Modell mit TRL und OpenEnv trainiert wird, um Wasserfarben-Bilder zu erzeugen. Es handelt sich um ein technisches Tutorial, das Open-Source-Tools demonstriert, ohne unmittelbare kommerzielle oder industrielle Bedeutung. Für den KI-Markt sind daraus keine direkten Konsequenzen abzuleiten."
+    },
+    {
+      "id": "https://decrypt.co/?p=377238",
+      "title": "Michigan Judge Bars Kalshi Sports Bets, Threatens $500K Daily Fine",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-03T08:47:34Z",
+      "score": 7,
+      "category": "Regulation",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Ein Richter in Michigan untersagt Kalshi Sportwetten und droht mit einer täglichen Strafe von 500.000 Dollar. Der Schritt ist ein regulatorischer Schlag gegen Vorhersagemärkte, die auch für Krypto-Nutzer relevant sind. Kalshi muss die Wetten unverzüglich einstellen oder mit erheblichen Geldstrafen rechnen; der Fall könnte Signalwirkung für andere Bundesstaaten haben."
     }
   ],
   "digest_log": [
