@@ -2607,7 +2607,9 @@
     "https://huggingface.co/blog/train-to-paint-with-code": "2026-09-03T08:08:55Z",
     "https://decrypt.co/?p=377238": "2026-09-03T08:55:06Z",
     "https://cointelegraph.com/news/coldcard-hacker-swaps-stolen-bitcoin-eth-thorchain": "2026-09-03T09:40:30Z",
-    "https://cointelegraph.com/news/kalshi-cftc-greenlight-regulated-wti-oil-perpetuals": "2026-09-03T09:40:30Z"
+    "https://cointelegraph.com/news/kalshi-cftc-greenlight-regulated-wti-oil-perpetuals": "2026-09-03T09:40:30Z",
+    "https://decrypt.co/?p=377245": "2026-09-03T10:08:40Z",
+    "6a8726cd18568cdcce1a1065": "2026-09-03T10:08:42Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2628,40 +2630,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
-      "title": "ChatGTP and Reddit now face EU's toughest online safety rules",
-      "url": null,
-      "stream": "ai",
-      "source": "AI - Ars Technica",
-      "published": "2026-08-31T13:41:40Z",
-      "score": 7,
-      "category": "Regulation & Policy",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [
-        "OpenAI"
-      ],
-      "summary": "Die EU unterwirft ChatGPT und Reddit künftig ihren strengsten Online-Sicherheitsregeln. Die Plattformen müssen strengere Auflagen zu Moderation, Transparenz und Risikomanagement erfüllen, was ihre Betriebs- und Compliance-Kosten erhöht. Es drohen verschärfte Aufsicht und mögliche Bußgelder; die nächste Wegmarke sind die konkreten Umsetzungsfristen der EU.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-31T14:08:17Z"
-    },
-    {
-      "id": "https://decrypt.co/?p=376929",
-      "title": "South Korea Will Give Every Citizen Free AI Access With Unlimited Tokens",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-31T14:03:39Z",
-      "score": 7,
-      "category": "Society & Work",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Südkorea plant, allen Bürgern kostenlosen KI-Zugang mit unbegrenzten Tokens zu gewähren. Die Maßnahme könnte die KI-Nutzung im Land massiv erhöhen und die Nachfrage nach KI-Diensten und -Infrastruktur steigern. Erhöhte Aktivität im südkoreanischen KI-Sektor und potenzielle Vorteile für lokale Anbieter sind zu erwarten.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-31T14:08:17Z"
-    },
     {
       "id": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
       "title": "A milestone in expanding access to AI",
@@ -5888,6 +5856,34 @@
       "instruments": [],
       "entities": [],
       "summary": "Kalshi will von der US-Aufsicht CFTC die Genehmigung für perpetual Futures auf WTI-Rohöl erhalten. Das wäre eine Ausweitung des von Kryptomärkten bekannten Perpetual-Modells auf regulierte Rohstoffderivate. Eine Entscheidung der CFTC steht noch aus; direkte Auswirkungen auf Kryptopreise sind vorerst nicht absehbar."
+    },
+    {
+      "id": "https://decrypt.co/?p=377245",
+      "title": "Ukraine Busts Kyiv Crypto Drainer Ring Moving Up to $1M Monthly",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-03T09:53:41Z",
+      "score": 5,
+      "category": "Hack & Security",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Die ukrainischen Behörden haben einen in Kiew ansässigen Ring von Krypto-Drainern zerschlagen, der monatlich bis zu einer Million US-Dollar erbeutete. Der Schritt verringert das Risiko von Wallet-Diebstählen und kann das Vertrauen in die Sicherheit von Krypto-Anwendungen stützen. Größere Marktbewegungen sind daraus nicht abzuleiten; die Aktion zeigt jedoch die verstärkte Bekämpfung von Krypto-Kriminalität."
+    },
+    {
+      "id": "6a8726cd18568cdcce1a1065",
+      "title": "This Is Flock’s AI Search Tool for Cops",
+      "url": null,
+      "stream": "ai",
+      "source": "Feed: Artificial Intelligence Latest",
+      "published": "2026-09-03T10:00:00Z",
+      "score": 5,
+      "category": "Safety & Risk",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Flock stellt ein KI-gestütztes Suchtool für Polizeibeamte vor, das Ermittlungen unterstützen soll. Das Werkzeug dürfte die Debatte über KI-Überwachung, Privatsphäre und polizeiliche Datennutzung verstärken. Die öffentliche Diskussion um den Einsatz solcher Tools wird dadurch weiter an Fahrt aufnehmen."
     }
   ],
   "digest_log": [
