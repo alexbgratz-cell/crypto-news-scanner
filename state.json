@@ -2615,7 +2615,8 @@
     "https://cointelegraph.com/news/pencil-finance-1m-onchain-lending-cycle-students": "2026-09-03T11:07:38Z",
     "https://huggingface.co/blog/funes": "2026-09-03T11:07:39Z",
     "https://decrypt.co/?p=377253": "2026-09-03T11:37:23Z",
-    "https://huggingface.co/blog/grpo-with-trl-ifstruct": "2026-09-03T11:37:24Z"
+    "https://huggingface.co/blog/grpo-with-trl-ifstruct": "2026-09-03T11:37:24Z",
+    "https://decrypt.co/?p=377264": "2026-09-03T11:50:32Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2636,22 +2637,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3158734",
-      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-31T15:15:25Z",
-      "score": 8,
-      "category": "Hardware & Infrastructure",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "NVDA"
-      ],
-      "summary": "Nvidia investiert 3,5 Milliarden US-Dollar in MediaTek, um seinen Plan für den Ausbau von KI-Chips gegen die Eigenentwicklungen der Big-Tech-Konzerne zu untermauern. Der Deal stärkt Nvidias Position im AI-Hardware-Markt und sichert Zugang zu zusätzlicher Chip-Design-Kompetenz. Die Investition dürfte Nvidias Rolle als führender KI-Chip-Anbieter weiter festigen und den Wettbewerb im KI-Infrastrukturgeschäft intensivieren."
-    },
     {
       "id": "fbfda97b-b2fa-5809-ab6e-da1f752a6ede",
       "title": "Kalshi issues first permanent ban to former Rep. George Santos over State of the Union trading",
@@ -5878,6 +5863,22 @@
       "instruments": [],
       "entities": [],
       "summary": "Hugging Face zeigt in einem Blogbeitrag, wie ein 350-Millionen-Parameter-Modell mit GRPO in 100 Schritten feingetunt wird, um strukturierte Ausgaben zuverlässiger zu erzeugen. Der Ansatz verringert die Anfälligkeit für Formatfehler und schlägt eine effiziente, rechenarme Alternative zu großen Modellen für solche Aufgaben vor. Solche Anleitungen als Open Source erleichtern das Nachziehen ähnlich optimierter kleiner Modelle in eigenen Anwendungen."
+    },
+    {
+      "id": "https://decrypt.co/?p=377264",
+      "title": "Morning Minute: Strategy CEO Says Selling The Bottom Was Correct Move",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-03T11:43:14Z",
+      "score": 5,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Der CEO von Strategy verteidigt in der Morning Minute von Decrypt den Verkauf am Tiefpunkt als richtige Entscheidung. Die Aussage ist eine subjektive Einschätzung ohne neue Marktdaten und hat daher keine direkte Preiskraft. Eine spürbare Marktreaktion ist unwahrscheinlich."
     }
   ],
   "digest_log": [
