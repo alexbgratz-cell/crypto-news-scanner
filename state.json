@@ -5852,7 +5852,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Ein Gericht in Michigan verpflichtet Kalshi, Sportvorhersagemärkte weiterhin zu blockieren. Diese regulatorische Zurückweisung bremst Kalshis Ausweitung und erhöht die Rechtsunsicherheit für Prognosemärkte. Bis zur endgültigen Entscheidung bleibt der Dienst in Michigan vorerst gestoppt."
+      "summary": "Ein Gericht in Michigan verpflichtet Kalshi, Sportvorhersagemärkte weiterhin zu blockieren. Diese regulatorische Zurückweisung bremst Kalshis Ausweitung und erhöht die Rechtsunsicherheit für Prognosemärkte. Bis zur endgültigen Entscheidung bleibt der Dienst in Michigan vorerst gestoppt.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T05:27:20Z"
     },
     {
       "id": "de105014-5cff-56f7-aeb5-36c4c655d341",
@@ -5866,7 +5868,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "Die US-Terminmarktaufsicht CFTC hat beantragt, die Klage von CME im Zusammenhang mit Krypto-Perpetual-Futures abzuweisen und bezeichnete den Rechtsstreit als „Much ado about nothing“. Der Ausgang ist relevant, weil er die regulatorischen Befugnisse der CFTC über Krypto-Derivate klärt und Unsicherheit für Marktteilnehmer beseitigen könnte. Eine mögliche Abweisung würde den Rechtsstreit beenden und das bestehende Aufsichtsumfeld für Perpetual-Futures vorerst unverändert lassen."
+      "summary": "Die US-Terminmarktaufsicht CFTC hat beantragt, die Klage von CME im Zusammenhang mit Krypto-Perpetual-Futures abzuweisen und bezeichnete den Rechtsstreit als „Much ado about nothing“. Der Ausgang ist relevant, weil er die regulatorischen Befugnisse der CFTC über Krypto-Derivate klärt und Unsicherheit für Marktteilnehmer beseitigen könnte. Eine mögliche Abweisung würde den Rechtsstreit beenden und das bestehende Aufsichtsumfeld für Perpetual-Futures vorerst unverändert lassen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T05:27:20Z"
     },
     {
       "id": "https://cointelegraph.com/news/hyperscale-data-ends-michigan-bitcoin-mining-ai",
@@ -6809,6 +6813,13 @@
       "article_ids": [
         "https://decrypt.co/?p=377231",
         "https://decrypt.co/?p=377232"
+      ]
+    },
+    {
+      "at": "2026-09-03T05:27:20Z",
+      "article_ids": [
+        "e0836009-0ec8-5236-8366-16b134725cad",
+        "de105014-5cff-56f7-aeb5-36c4c655d341"
       ]
     }
   ],
