@@ -5833,7 +5833,9 @@
         "ETHUSD"
       ],
       "entities": [],
-      "summary": "Die gesamte Krypto-Marktkapitalisierung steigt auf 2,82 Billionen US-Dollar, wobei Zcash die Rally zusammen mit den Aktienmärkten anführt. Die Kursbewegung zeigt die anhaltend enge Korrelation zwischen Kryptowerten und riskanten Aktienanlagen, was die Stimmung im Markt insgesamt stützt. Die weitere Richtung dürfte sich an den US-Indizes orientieren; ein Umschwung dort würde auch die Krypto-Märkte belasten."
+      "summary": "Die gesamte Krypto-Marktkapitalisierung steigt auf 2,82 Billionen US-Dollar, wobei Zcash die Rally zusammen mit den Aktienmärkten anführt. Die Kursbewegung zeigt die anhaltend enge Korrelation zwischen Kryptowerten und riskanten Aktienanlagen, was die Stimmung im Markt insgesamt stützt. Die weitere Richtung dürfte sich an den US-Indizes orientieren; ein Umschwung dort würde auch die Krypto-Märkte belasten.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T21:15:13Z"
     },
     {
       "id": "https://decrypt.co/?p=377340",
@@ -5863,7 +5865,9 @@
       "entities": [
         "Anthropic"
       ],
-      "summary": "Anthropic hat Claude Commerce Agents als Apache-2.0-Blueprint veröffentlicht, der Shopping- und Merchant-Agenten für Retail, Reise, Telekom und Unterhaltung bereitstellt. Das erleichtert Unternehmen die Integration autonomer KI-Agenten im E-Commerce und stärkt Anthropics Position im Agentenbereich. Erste kommerzielle Einsätze in diesen Branchen sind wahrscheinlich, der offene Ansatz dürfte die Verbreitung beschleunigen."
+      "summary": "Anthropic hat Claude Commerce Agents als Apache-2.0-Blueprint veröffentlicht, der Shopping- und Merchant-Agenten für Retail, Reise, Telekom und Unterhaltung bereitstellt. Das erleichtert Unternehmen die Integration autonomer KI-Agenten im E-Commerce und stärkt Anthropics Position im Agentenbereich. Erste kommerzielle Einsätze in diesen Branchen sind wahrscheinlich, der offene Ansatz dürfte die Verbreitung beschleunigen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T21:15:13Z"
     },
     {
       "id": "07580ac5-4cc6-5ec6-9962-4459eb14ce10",
@@ -5877,7 +5881,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "Coinbase hat bei der SEC die Erlaubnis zur Auflistung von 24/7 Aktien-Perpetuals beantragt. Das würde das Angebot der Krypto-Exchange in Richtung klassischer Anlagen erweitern und institutionelle Nutzer anziehen. Die Entscheidung der SEC über den Antrag ist die entscheidende Hürde für die Einführung."
+      "summary": "Coinbase hat bei der SEC die Erlaubnis zur Auflistung von 24/7 Aktien-Perpetuals beantragt. Das würde das Angebot der Krypto-Exchange in Richtung klassischer Anlagen erweitern und institutionelle Nutzer anziehen. Die Entscheidung der SEC über den Antrag ist die entscheidende Hürde für die Einführung.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T21:15:13Z"
     },
     {
       "id": "https://decrypt.co/?p=377349",
@@ -5907,7 +5913,9 @@
       "entities": [
         "OpenAI"
       ],
-      "summary": "OpenAI kündigt das Programm „Daybreak for Frontline Defenders“ mit einer Milliarde US-Dollar an, um essentielle Dienste zu schützen. Damit rückt KI stärker in sicherheitskritische Infrastrukturbereiche, was die Nachfrage nach robusten, vertrauenswürdigen KI-Lösungen erhöhen dürfte. Der Wettbewerb um entsprechende öffentliche und kommerzielle Aufträge dürfte sich dadurch verschärfen."
+      "summary": "OpenAI kündigt das Programm „Daybreak for Frontline Defenders“ mit einer Milliarde US-Dollar an, um essentielle Dienste zu schützen. Damit rückt KI stärker in sicherheitskritische Infrastrukturbereiche, was die Nachfrage nach robusten, vertrauenswürdigen KI-Lösungen erhöhen dürfte. Der Wettbewerb um entsprechende öffentliche und kommerzielle Aufträge dürfte sich dadurch verschärfen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T21:15:13Z"
     },
     {
       "id": "https://openai.com/index/safety-overview-gpt-6-astra",
@@ -5923,7 +5931,9 @@
       "entities": [
         "OpenAI"
       ],
-      "summary": "OpenAI hat einen offiziellen Sicherheitsüberblick zu GPT-6 Astra veröffentlicht. Der Überblick bewertet mögliche Risiken und Schutzmaßnahmen des neuen Modells und ist damit für Regulierer sowie Unternehmenskunden von OpenAI relevant. Eine unmittelbare Marktbewegung ist daraus nicht abzuleiten; der nächste entscheidende Schritt ist die Bekanntgabe konkreter Leistungsdaten oder eines Release-Termins."
+      "summary": "OpenAI hat einen offiziellen Sicherheitsüberblick zu GPT-6 Astra veröffentlicht. Der Überblick bewertet mögliche Risiken und Schutzmaßnahmen des neuen Modells und ist damit für Regulierer sowie Unternehmenskunden von OpenAI relevant. Eine unmittelbare Marktbewegung ist daraus nicht abzuleiten; der nächste entscheidende Schritt ist die Bekanntgabe konkreter Leistungsdaten oder eines Release-Termins.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T21:15:13Z"
     }
   ],
   "digest_log": [
@@ -6942,6 +6952,16 @@
         "https://cointelegraph.com/news/michigan-block-kalshi-supreme-court-legal-fight",
         "https://cointelegraph.com/news/paxos-usdg-goes-live-mantle-network-joins-global-dollar-network",
         "https://techcrunch.com/?p=3160633"
+      ]
+    },
+    {
+      "at": "2026-09-03T21:15:13Z",
+      "article_ids": [
+        "https://www.marktechpost.com/?p=82066",
+        "https://openai.com/index/daybreak-for-frontline-defenders",
+        "https://openai.com/index/safety-overview-gpt-6-astra",
+        "77615529-5d94-53a2-9eef-ad2f6d1d5c44",
+        "07580ac5-4cc6-5ec6-9962-4459eb14ce10"
       ]
     }
   ],
