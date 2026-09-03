@@ -5888,7 +5888,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Ein Bitcoin-Miner stellt laut Titel einen bisherigen Mining-Standort für einen KI-Deal um, dessen Erlöse 1,2 Milliarden US-Dollar übersteigen könnten. Der Schritt zeigt, dass etablierte Krypto-Miner ihre Infrastruktur zunehmend für KI-Computing vermarkten; das wertet die Betreiber und das KI-Kapazitätsangebot auf. Sollte der Deal endgültig vereinbart werden, dürfte die Nachfrage nach umgewidmeten Mining-Standorten weiter steigen."
+      "summary": "Ein Bitcoin-Miner stellt laut Titel einen bisherigen Mining-Standort für einen KI-Deal um, dessen Erlöse 1,2 Milliarden US-Dollar übersteigen könnten. Der Schritt zeigt, dass etablierte Krypto-Miner ihre Infrastruktur zunehmend für KI-Computing vermarkten; das wertet die Betreiber und das KI-Kapazitätsangebot auf. Sollte der Deal endgültig vereinbart werden, dürfte die Nachfrage nach umgewidmeten Mining-Standorten weiter steigen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T22:14:49Z"
     },
     {
       "id": "https://www.marktechpost.com/?p=82071",
@@ -5904,7 +5906,9 @@
       "entities": [
         "OpenAI"
       ],
-      "summary": "OpenAI hat GPT-6 Astra veröffentlicht, ein Computer-Use-Modell mit 1,05 Millionen Token Kontext, dessen Zugang an eine kritische Cybersicherheitsschwelle gekoppelt ist. Das Modell setzt neue Maßstäbe bei Kontextlänge und Agentenfähigkeiten und erhöht damit den Wettbewerbsdruck auf andere KI-Anbieter sowie die Nachfrage nach Recheninfrastruktur. Die nächste entscheidende Wegmarke ist die Freigabeprüfung gegen die Cyber-Schwelle; bis dahin bleibt die kommerzielle Verfügbarkeit begrenzt."
+      "summary": "OpenAI hat GPT-6 Astra veröffentlicht, ein Computer-Use-Modell mit 1,05 Millionen Token Kontext, dessen Zugang an eine kritische Cybersicherheitsschwelle gekoppelt ist. Das Modell setzt neue Maßstäbe bei Kontextlänge und Agentenfähigkeiten und erhöht damit den Wettbewerbsdruck auf andere KI-Anbieter sowie die Nachfrage nach Recheninfrastruktur. Die nächste entscheidende Wegmarke ist die Freigabeprüfung gegen die Cyber-Schwelle; bis dahin bleibt die kommerzielle Verfügbarkeit begrenzt.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T22:14:49Z"
     },
     {
       "id": "6a999f3f5d28a882aa86cd2f",
@@ -5921,7 +5925,9 @@
         "OpenAI",
         "Anthropic"
       ],
-      "summary": "OpenAI und Anthropic haben am 3. September 2026 offenbar gleichzeitig Ausfälle erlitten; eine offizielle Ursache wurde bislang nicht genannt. Unternehmen und Entwickler, die auf die APIs der Anbieter angewiesen sind, können dadurch in ihrer Arbeit unterbrochen werden. Die nächste Wegmarke sind Statusmeldungen der Unternehmen; bis dahin bleibt die Verfügbarkeitslage angespannt."
+      "summary": "OpenAI und Anthropic haben am 3. September 2026 offenbar gleichzeitig Ausfälle erlitten; eine offizielle Ursache wurde bislang nicht genannt. Unternehmen und Entwickler, die auf die APIs der Anbieter angewiesen sind, können dadurch in ihrer Arbeit unterbrochen werden. Die nächste Wegmarke sind Statusmeldungen der Unternehmen; bis dahin bleibt die Verfügbarkeitslage angespannt.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T22:14:49Z"
     },
     {
       "id": "6a98628a0e1a07689023e3f9",
@@ -6964,6 +6970,14 @@
         "https://openai.com/index/safety-overview-gpt-6-astra",
         "77615529-5d94-53a2-9eef-ad2f6d1d5c44",
         "07580ac5-4cc6-5ec6-9962-4459eb14ce10"
+      ]
+    },
+    {
+      "at": "2026-09-03T22:14:49Z",
+      "article_ids": [
+        "https://decrypt.co/?p=377363",
+        "https://www.marktechpost.com/?p=82071",
+        "6a999f3f5d28a882aa86cd2f"
       ]
     }
   ],
