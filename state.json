@@ -2648,7 +2648,9 @@
     "6a99a09696d08f90b0cf0230": "2026-09-03T18:28:43Z",
     "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/": "2026-09-03T18:28:43Z",
     "https://decrypt.co/?p=377337": "2026-09-03T18:45:17Z",
-    "https://techcrunch.com/?p=3160448": "2026-09-03T18:45:17Z"
+    "https://techcrunch.com/?p=3160448": "2026-09-03T18:45:17Z",
+    "https://cointelegraph.com/markets/bitcoin-reclaims-810-dxy-falls-amid-continuing-suspected-yen-intervention": "2026-09-03T19:06:37Z",
+    "https://www.marktechpost.com/?p=82062": "2026-09-03T19:06:40Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2685,38 +2687,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://www.marktechpost.com/?p=81990",
-      "title": "Gradium AI Releases New Default TTS Model: 81.0% Hard-Case Pass Rate at 216 ms Time-to-First-Audio",
-      "url": null,
-      "stream": "ai",
-      "source": "MarkTechPost",
-      "published": "2026-09-01T03:39:05Z",
-      "score": 7,
-      "category": "Model Release & Capability",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Gradium AI hat ein neues Standard-TTS-Modell veröffentlicht, das eine Pass-Rate von 81,0 % bei schwierigen Fällen und eine Time-to-First-Audio von 216 ms erreicht. Die Kombination aus hoher Genauigkeit und geringer Latenz stärkt die Position des Unternehmens bei Echtzeit-Sprachsynthese und erhöht den Wettbewerbsdruck auf etablierte Anbieter. Eine schnellere Verbreitung latenzoptimierter TTS-Lösungen in Produkten ist daher wahrscheinlich.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-01T04:14:57Z"
-    },
-    {
-      "id": "c3ffc3bf-c2e4-5b73-8c77-f6068567df4f",
-      "title": "DeFi Development Corp proposes $20 million preferred stock offering to buy more SOL",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-09-01T03:46:02Z",
-      "score": 8,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [
-        "SOLUSD"
-      ],
-      "entities": [],
-      "summary": "DeFi Development Corp schlägt eine Kapitalerhöhung über 20 Millionen US-Dollar in Vorzugsaktien vor, um weitere SOL-Token zu kaufen. Dies signalisiert institutionelles Interesse und zusätzliche Nachfrage nach SOL, was den Markt positiv stimmen dürfte. Bei erfolgreicher Umsetzung könnte der SOL-Kurs kurzfristig weiter gestützt werden."
-    },
     {
       "id": "https://cointelegraph.com/news/thailand-sec-retail-overseas-crypto-derivatives",
       "title": "Thailand SEC proposes retail access to regulated overseas crypto derivatives",
@@ -5908,6 +5878,39 @@
       "instruments": [],
       "entities": [],
       "summary": "Das Unternehmen Abliteration.ai vermarktet offenbar einen Dienst, der Schutzmechanismen aus KI-Modellen entfernt. Damit steigt das Risiko von Missbrauch solcher Modelle, was Anbieter und Regulierer gleichermaßen betrifft. In der Folge dürfte die Debatte über verantwortungsvolle KI-Entwicklung weiter an Fahrt gewinnen."
+    },
+    {
+      "id": "https://cointelegraph.com/markets/bitcoin-reclaims-810-dxy-falls-amid-continuing-suspected-yen-intervention",
+      "title": "Bitcoin reclaims $80K as DXY falls amid continuing suspected yen intervention",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-03T18:44:22Z",
+      "score": 6,
+      "category": "Macro",
+      "sentiment": "bullish",
+      "instruments": [
+        "BTCUSD",
+        "DXY"
+      ],
+      "entities": [],
+      "summary": "Bitcoin ist wieder über die Marke von 80.000 Dollar gestiegen, während der Dollar-Index (DXY) fällt, offenbar wegen anhaltender mutmaßlicher Yen-Interventionen. Ein schwächerer Dollar begünstigt risikoreichere Anlagen und damit auch Kryptowährungen. Die Erholung dürfte sich fortzusetzen, solange der Dollar schwach bleibt; weitere Interventionen bleiben die entscheidende Wegmarke."
+    },
+    {
+      "id": "https://www.marktechpost.com/?p=82062",
+      "title": "Meta AI Released Muse Spark 1.3: An Agentic Coding Model That Uses ~20% Fewer Tool Calls and ~25% Fewer Tokens Than Muse Spark 1.2",
+      "url": null,
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-09-03T18:51:52Z",
+      "score": 8,
+      "category": "Model Release & Capability",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "Meta"
+      ],
+      "summary": "Meta AI hat Muse Spark 1.3 veröffentlicht, ein agentisches Codierungsmodell, das rund 20% weniger Tool-Aufrufe und etwa 25% weniger Tokens benötigt als Version 1.2. Die Effizienzsteigerung senkt Kosten und Latenz bei agentischer Softwareentwicklung und stärkt Metas Wettbewerbsposition im Bereich KI-Coding. Der unmittelbare Effekt ist ein günstigerer und schnellerer Betrieb solcher Coding-Agenten auf Basis des neuen Modells."
     }
   ],
   "digest_log": [
