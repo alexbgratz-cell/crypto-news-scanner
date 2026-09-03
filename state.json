@@ -2635,7 +2635,9 @@
     "e3a1f14f-f182-5fb1-9898-87526e496661": "2026-09-03T16:40:12Z",
     "https://decrypt.co/?p=377314": "2026-09-03T16:40:12Z",
     "https://decrypt.co/?p=377313": "2026-09-03T16:40:12Z",
-    "6a98617d3d2b77debeec8dca": "2026-09-03T16:52:29Z"
+    "6a98617d3d2b77debeec8dca": "2026-09-03T16:52:29Z",
+    "https://cointelegraph.com/news/bybit-pay-integrates-with-mesh-to-expand-crypto-payments": "2026-09-03T17:24:43Z",
+    "https://cointelegraph.com/news/bitmex-cofounder-ben-delo-reform-uk-donations": "2026-09-03T17:24:43Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2672,40 +2674,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3158959",
-      "title": "Instagram puts new limits on undisclosed AI profiles",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-31T19:16:59Z",
-      "score": 6,
-      "category": "Regulation & Policy",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [
-        "META"
-      ],
-      "summary": "Instagram führt neue Beschränkungen für KI-Profile ein, die nicht als solche gekennzeichnet sind. Das stärkt Transparenz und Verbraucherschutz und betrifft Meta als Plattformbetreiber sowie Anbieter KI-gestützter Profile. Strengere Kennzeichnungspflichten dürften die Folge sein; Meta muss die Regeln auf seiner Plattform umsetzen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-31T20:08:14Z"
-    },
-    {
-      "id": "https://decrypt.co/?p=376973",
-      "title": "XRP ETFs Extend Inflow Streak to 9 Days, Pulling In $1.6 Billion Since Launch",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-31T19:31:04Z",
-      "score": 7,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "XRP-ETFs haben ihre Zufluss-Serie auf neun Tage verlängert und seit dem Start insgesamt 1,6 Milliarden Dollar eingesammelt. Die anhaltenden Nettozuflüsse zeigen institutionelle Nachfrage nach Krypto-ETFs und stärken das Marktvertrauen. Sollte der Trend anhalten, dürfte der Kaufdruck auf XRP und verwandte Krypto-Assets zunehmen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-31T20:08:14Z"
-    },
     {
       "id": "010fda64-ff93-55f3-8161-0fafdedd8731",
       "title": "Solana fees hit record as validators double pace of inflation cuts",
@@ -5906,6 +5874,34 @@
       "summary": "Die US-Notenbank signalisiert eine Zinspause, woraufhin der Bitcoin-Kurs steigt und Short-Positionen im Wert von 415 Millionen US-Dollar liquidiert werden. Die Aussicht auf stabilere Zinsen entlastet riskante Anlageklassen, daher profitieren Kryptowährungen von neuem Kapitalzufluss. Die nächste Fed-Sitzung dürfte die entscheidende Wegmarke für die weitere Richtung sein.",
       "delivered": "digest",
       "delivered_at": "2026-09-03T17:14:38Z"
+    },
+    {
+      "id": "https://cointelegraph.com/news/bybit-pay-integrates-with-mesh-to-expand-crypto-payments",
+      "title": "Bybit Pay integrates with Mesh to expand crypto payments",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-03T17:13:04Z",
+      "score": 6,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Bybit Pay integriert die Zahlungsplattform Mesh, um sein Krypto-Zahlungsangebot zu erweitern. Die Partnerschaft verbessert die Anbindung von Händlern und Nutzern an Krypto-Zahlungen und könnte die Adoption digitaler Assets fördern. Der Ausbau von Bybits Pay-Infrastruktur dürfte den Wettbewerb im Krypto-Zahlungsmarkt verstärken."
+    },
+    {
+      "id": "https://cointelegraph.com/news/bitmex-cofounder-ben-delo-reform-uk-donations",
+      "title": "BitMEX co-founder contributed 75% of Reform UK’s donations in Q2 2026",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-03T17:06:28Z",
+      "score": 5,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Der BitMEX-Mitgründer Ben Delo hat laut einem Bericht im zweiten Quartal 2026 rund 75 % der Spenden an die britische Partei Reform UK beigesteuert. Die Meldung betrifft vor allem die politische Finanzierung in Großbritannien und hat keine direkte Marktwirkung für Kryptowährungen. Eine unmittelbare Kursreaktion ist nicht zu erwarten; relevant wäre erst eine mögliche regulatorische Debatte über Spenden aus dem Kryptosektor."
     }
   ],
   "digest_log": [
