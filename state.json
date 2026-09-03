@@ -2609,7 +2609,8 @@
     "https://cointelegraph.com/news/coldcard-hacker-swaps-stolen-bitcoin-eth-thorchain": "2026-09-03T09:40:30Z",
     "https://cointelegraph.com/news/kalshi-cftc-greenlight-regulated-wti-oil-perpetuals": "2026-09-03T09:40:30Z",
     "https://decrypt.co/?p=377245": "2026-09-03T10:08:40Z",
-    "6a8726cd18568cdcce1a1065": "2026-09-03T10:08:42Z"
+    "6a8726cd18568cdcce1a1065": "2026-09-03T10:08:42Z",
+    "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-uae": "2026-09-03T10:26:11Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2630,25 +2631,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "title": "A milestone in expanding access to AI",
-      "url": null,
-      "stream": "ai",
-      "source": "OpenAI News",
-      "published": "2026-08-31T04:00:00Z",
-      "score": 6,
-      "category": "Business & Funding",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "NVDA",
-        "MSFT"
-      ],
-      "summary": "OpenAI kündigt einen Meilenstein zur Erweiterung des Zugangs zu KI an, offenbar durch Werbung in ChatGPT. Damit will das Unternehmen die Nutzung von KI-Assistenten verbreitern und neue Einnahmen erschließen. Dies stärkt die kommerzielle Basis von OpenAI und dürfte den Wettbewerb im KI-Markt sowie die Nachfrage nach Recheninfrastruktur erhöhen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-31T14:08:17Z"
-    },
     {
       "id": "60b8b1ac-e5f2-5cbb-a83f-d78495d069a5",
       "title": "Tom Lee says ether is ‘best performing macro asset’ as Bitmine adds 53,501 ETH",
@@ -5884,6 +5866,23 @@
       "instruments": [],
       "entities": [],
       "summary": "Flock stellt ein KI-gestütztes Suchtool für Polizeibeamte vor, das Ermittlungen unterstützen soll. Das Werkzeug dürfte die Debatte über KI-Überwachung, Privatsphäre und polizeiliche Datennutzung verstärken. Die öffentliche Diskussion um den Einsatz solcher Tools wird dadurch weiter an Fahrt aufnehmen."
+    },
+    {
+      "id": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-uae",
+      "title": "Standard Chartered launches spot Bitcoin and Ether trading in UAE",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-03T10:15:34Z",
+      "score": 8,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [
+        "BTCUSD",
+        "ETHUSD"
+      ],
+      "entities": [],
+      "summary": "Standard Chartered startet den Spot-Handel mit Bitcoin und Ether in den Vereinigten Arabischen Emiraten für seine Kunden. Eine etablierte Großbank bietet damit institutionellen Anlegern direkten Zugang zu den beiden größten Kryptowährungen und stärkt die Marktakzeptanz. Die institutionelle Nachfrage dürfte steigen, was sich positiv auf BTC und ETH auswirken kann."
     }
   ],
   "digest_log": [
