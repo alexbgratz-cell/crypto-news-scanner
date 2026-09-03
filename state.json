@@ -2652,7 +2652,9 @@
     "https://cointelegraph.com/markets/bitcoin-reclaims-810-dxy-falls-amid-continuing-suspected-yen-intervention": "2026-09-03T19:06:37Z",
     "https://www.marktechpost.com/?p=82062": "2026-09-03T19:06:40Z",
     "https://cointelegraph.com/news/michigan-block-kalshi-supreme-court-legal-fight": "2026-09-03T19:21:40Z",
-    "https://decrypt.co/?p=377341": "2026-09-03T19:34:51Z"
+    "https://decrypt.co/?p=377341": "2026-09-03T19:34:51Z",
+    "https://cointelegraph.com/news/paxos-usdg-goes-live-mantle-network-joins-global-dollar-network": "2026-09-03T19:49:24Z",
+    "https://techcrunch.com/?p=3160633": "2026-09-03T19:49:26Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2689,40 +2691,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-inflow-rebound",
-      "title": "BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-09-01T04:48:47Z",
-      "score": 8,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "BlackRock verzeichnet Zuflüsse von 217 Mio. USD in seinen Bitcoin-ETF und treibt damit ein Rebound der Bitcoin-ETF-Zuflüsse an; auch Altcoin-Fonds setzen ihre Zuflussserien fort. Die verstärkte institutionelle Nachfrage stützt den Kryptomarkt und signalisiert anhaltendes Interesse großer Anleger an digitalen Assets. Die ETF-Zuflüsse dürften den Bitcoin-Kurs kurzfristig weiter unterstützen."
-    },
-    {
-      "id": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "title": "OpenAI supports California’s bill to advance youth AI safety",
-      "url": null,
-      "stream": "ai",
-      "source": "OpenAI News",
-      "published": "2026-08-31T07:00:00Z",
-      "score": 6,
-      "category": "Regulation & Policy",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [
-        "OpenAI"
-      ],
-      "summary": "OpenAI unterstützt einen kalifornischen Gesetzesentwurf, der die Sicherheit von KI für Jugendliche verbessern soll. Die Unterstützung signalisiert eine wachsende Bereitschaft der Branche, verbindliche Schutzmaßnahmen im Jugendschutz mitzugestalten. Die nächste Wegmarke ist der weitere Gesetzgebungsprozess in Kalifornien und mögliche konkrete Anforderungen an KI-Anbieter.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-01T06:20:07Z"
-    },
     {
       "id": "cd091845-bf29-589d-89b5-33d38fac3c81",
       "title": "Strategy hits back at MSCI proposal, calling it ‘discriminatory’ against DATs",
@@ -5922,6 +5890,36 @@
         "MSFT"
       ],
       "summary": "OpenAI hat mit GPT-6 Astra ein neues KI-Modell veröffentlicht, das laut Unternehmensangaben dem AGI-Ziel am nächsten kommen soll. Der Release erhöht den Wettbewerbsdruck auf andere KI-Anbieter und stärkt die Position von OpenAI sowie seines Partners Microsoft. Die Einführung dürfte die Nachfrage nach KI-Infrastruktur weiter antreiben und die Marktdynamik im KI-Sektor spürbar verändern."
+    },
+    {
+      "id": "https://cointelegraph.com/news/paxos-usdg-goes-live-mantle-network-joins-global-dollar-network",
+      "title": "Mantle adds Paxos’ USDG stablecoin, joins Global Dollar Network",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-03T19:36:56Z",
+      "score": 6,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Paxos' USDG-Stablecoin ist auf dem Mantle-Netzwerk live gegangen, und Mantle ist dem Global Dollar Network beigetreten. Das erweitert die Nutzung von USDG und stärkt die Multi-Chain-Präsenz des Stablecoins. Der Schritt dürfte die Akzeptanz regulierter Stablecoins fördern und den Wettbewerb im Stablecoin-Markt leicht erhöhen."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3160633",
+      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-03T19:36:29Z",
+      "score": 6,
+      "category": "Business & Funding",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "Thinking Machines"
+      ],
+      "summary": "Accel führt laut Berichten Gespräche, eine 1-Milliarden-Dollar-Finanzierungsrunde für Thinking Machines zu einer Bewertung von 40 Milliarden Dollar anzuführen. Die Runde signalisiert starkes Investorenvertrauen in KI-Startups und könnte die Wettbewerbsposition von Thinking Machines erheblich stärken. Eine offizielle Bestätigung und weitere Details zur Runde werden erwartet."
     }
   ],
   "digest_log": [
