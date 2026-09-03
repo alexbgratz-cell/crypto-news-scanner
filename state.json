@@ -2629,7 +2629,9 @@
     "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/": "2026-09-03T15:07:52Z",
     "https://techcrunch.com/?p=3160336": "2026-09-03T15:07:53Z",
     "https://decrypt.co/?p=377283": "2026-09-03T15:42:19Z",
-    "b7fc8a4f-0267-526f-95b6-7d8eaad5fdea": "2026-09-03T16:08:48Z"
+    "b7fc8a4f-0267-526f-95b6-7d8eaad5fdea": "2026-09-03T16:08:48Z",
+    "https://cointelegraph.com/news/kraken-parent-payward-partners-with-sofi-stablecoin-247-settlement": "2026-09-03T16:26:20Z",
+    "https://techcrunch.com/?p=3160393": "2026-09-03T16:26:22Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2650,41 +2652,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
-      "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
-      "url": null,
-      "stream": "ai",
-      "source": "AI - Ars Technica",
-      "published": "2026-08-31T18:10:45Z",
-      "score": 7,
-      "category": "Regulation & Policy",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [
-        "Anthropic"
-      ],
-      "summary": "Die Sony-Klage gegen Anthropic führt interne Chat-Nachrichten an, in denen Mitarbeiter die Piraterie-Plattform Z-Library loben. Der Vorwurf könnte das Training von KI-Modellen mit urheberrechtlich geschütztem Material betreffen und erhöht den rechtlichen Druck auf KI-Unternehmen. Der Fall dürfte sich zu einem wichtigen Präzedenzfall für Urheberrechtsfragen im KI-Training entwickeln.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-31T19:08:09Z"
-    },
-    {
-      "id": "https://www.technologyreview.com/?p=1143180",
-      "title": "Hugging Face hack could indicate cultural issues at OpenAI",
-      "url": null,
-      "stream": "ai",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "published": "2026-08-31T18:00:00Z",
-      "score": 5,
-      "category": "Safety & Risk",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [
-        "OpenAI",
-        "Hugging Face"
-      ],
-      "summary": "Ein Hack bei Hugging Face könnte laut MIT Technology Review auf kulturelle Probleme bei OpenAI hindeuten. Der Vorfall betrifft das Vertrauen in die Sicherheitskultur von KI-Unternehmen und deren Infrastruktur. Eine erhöhte Aufmerksamkeit für Sicherheitspraktiken bei KI-Plattformen ist die Folge."
-    },
     {
       "id": "https://decrypt.co/?p=376971",
       "title": "Russia's Sberbank Sees $46 Billion in Crypto Trading, Plans Ethereum and USDT-Backed Loans",
@@ -5887,6 +5854,34 @@
       "summary": "Das Stablecoin-Zahlungsinfrastruktur-Startup Diameter Pay hat laut The Block 10 Millionen US-Dollar eingesammelt. Die Finanzierung untermauert das wachsende Interesse an Stablecoin-Zahlungslösungen und kann die weitere Verbreitung solcher Dienste begünstigen. Unmittelbare Kursausschläge großer Krypto-Assets sind daraus nicht abzuleiten; der Effekt bleibt zunächst auf das Startup-Ökosystem begrenzt.",
       "delivered": "digest",
       "delivered_at": "2026-09-03T16:16:41Z"
+    },
+    {
+      "id": "https://cointelegraph.com/news/kraken-parent-payward-partners-with-sofi-stablecoin-247-settlement",
+      "title": "Kraken parent Payward partners with SoFi on stablecoin, 24/7 settlement",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-03T16:04:11Z",
+      "score": 6,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Payward, die Muttergesellschaft von Kraken, geht eine Partnerschaft mit SoFi für Stablecoin-Zahlungen und 24/7-Abwicklung ein. Die Zusammenarbeit erweitert die Nutzung von Stablecoins im Finanzökosystem und stärkt die Infrastruktur für kontinuierliches Settlement. Die gesteigerte Akzeptanz könnte Stablecoin-basierten Zahlungsverkehr weiter fördern; direkte Kurseffekte für Kryptowährungen sind zunächst begrenzt."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3160393",
+      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-03T16:09:01Z",
+      "score": 6,
+      "category": "Business & Funding",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Ollie setzt im Wettbewerb um KI-Assistenten auf Datenschutz als zentrales Unterscheidungsmerkmal. Diese Fokussierung könnte nutzer anziehen, die Bedenken bezüglich Datenweitergabe haben, und so Marktanteile gewinnen. Der Erfolg hängt davon ab, wie gut das Produkt die Privatsphäre-Versprechen technisch umsetzt."
     }
   ],
   "digest_log": [
