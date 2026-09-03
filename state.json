@@ -5886,7 +5886,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Ein Richter in Michigan untersagt Kalshi Sportwetten und droht mit einer täglichen Strafe von 500.000 Dollar. Der Schritt ist ein regulatorischer Schlag gegen Vorhersagemärkte, die auch für Krypto-Nutzer relevant sind. Kalshi muss die Wetten unverzüglich einstellen oder mit erheblichen Geldstrafen rechnen; der Fall könnte Signalwirkung für andere Bundesstaaten haben."
+      "summary": "Ein Richter in Michigan untersagt Kalshi Sportwetten und droht mit einer täglichen Strafe von 500.000 Dollar. Der Schritt ist ein regulatorischer Schlag gegen Vorhersagemärkte, die auch für Krypto-Nutzer relevant sind. Kalshi muss die Wetten unverzüglich einstellen oder mit erheblichen Geldstrafen rechnen; der Fall könnte Signalwirkung für andere Bundesstaaten haben.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T09:16:33Z"
     }
   ],
   "digest_log": [
@@ -6832,6 +6834,12 @@
       "at": "2026-09-03T08:17:36Z",
       "article_ids": [
         "https://cointelegraph.com/news/australia-warns-unlicensed-crypto-firms-of-fines-up-to-10-of-annual-turnover"
+      ]
+    },
+    {
+      "at": "2026-09-03T09:16:33Z",
+      "article_ids": [
+        "https://decrypt.co/?p=377238"
       ]
     }
   ],
