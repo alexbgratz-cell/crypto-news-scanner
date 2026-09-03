@@ -2613,7 +2613,9 @@
     "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-uae": "2026-09-03T10:26:11Z",
     "2d7deb34-2547-5da2-a5e5-1a650f4640bd": "2026-09-03T11:07:37Z",
     "https://cointelegraph.com/news/pencil-finance-1m-onchain-lending-cycle-students": "2026-09-03T11:07:38Z",
-    "https://huggingface.co/blog/funes": "2026-09-03T11:07:39Z"
+    "https://huggingface.co/blog/funes": "2026-09-03T11:07:39Z",
+    "https://decrypt.co/?p=377253": "2026-09-03T11:37:23Z",
+    "https://huggingface.co/blog/grpo-with-trl-ifstruct": "2026-09-03T11:37:24Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2634,38 +2636,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=376932",
-      "title": "Tom Lee's Bitmine Buys $131M of ETH in Largest Ethereum Purchase Since June",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-31T14:54:47Z",
-      "score": 8,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [
-        "ETHUSD"
-      ],
-      "entities": [],
-      "summary": "Die Firma Bitmine von Tom Lee hat Ethereum im Wert von rund 131 Millionen US-Dollar gekauft – der größte institutionelle ETH-Kauf seit Juni. Der Zukauf signalisiert starkes institutionelles Interesse und könnte weiteres Kapital in den Ethereum-Markt ziehen. Eine positive Kursreaktion bei Ethereum ist wahrscheinlich."
-    },
-    {
-      "id": "https://cointelegraph.com/news/strive-buys-1800-bitcoin-143m-btc-purchase",
-      "title": "Strive buys 1,800 Bitcoin for $143M, becomes fifth-biggest corporate holder",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-31T15:08:12Z",
-      "score": 8,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "Strive hat 1.800 Bitcoin für 143 Mio. USD gekauft und ist damit der fünftgrößte Unternehmens-Halter von Bitcoin. Der große institutionelle Kauf signalisiert anhaltende Nachfrage und kann den Bitcoin-Kurs stützen. Eine positive Marktreaktion ist wahrscheinlich."
-    },
     {
       "id": "https://techcrunch.com/?p=3158734",
       "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
@@ -5880,6 +5850,34 @@
       "instruments": [],
       "entities": [],
       "summary": "Der Hugging-Face-Blog kündigt eine Funktion an, mit der Coding-Agenten ein individuelles, nutzereigenes Gedächtnis erhalten. Dadurch wird die Kontrolle über Kontext und Daten bei KI-Agenten gestärkt, was offene und selbst gehostete Workflows begünstigt. Eine unmittelbare Branchenverschiebung ist mit dieser Ankündigung allein nicht verbunden; weitere Details zur Funktionsweise sind abzuwarten."
+    },
+    {
+      "id": "https://decrypt.co/?p=377253",
+      "title": "Mamdani Imposes One-Year Moratorium on Generative AI in NYC Schools",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-03T11:36:41Z",
+      "score": 6,
+      "category": "Regulation & Policy",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Die New Yorker Schulbehörde unter Führung von Mamdani verhängt ein einjähriges Moratorium für generative KI an öffentlichen Schulen. Das bremst die Nutzung von KI-Tools im Unterricht und trifft Anbieter von Bildungs-KI. In den nächsten zwölf Monaten wird die Behörde über eine dauerhafte Regelung entscheiden."
+    },
+    {
+      "id": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "url": null,
+      "stream": "ai",
+      "source": "Hugging Face - Blog",
+      "published": "2026-09-03T00:00:00Z",
+      "score": 6,
+      "category": "Research & Open Source",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Hugging Face zeigt in einem Blogbeitrag, wie ein 350-Millionen-Parameter-Modell mit GRPO in 100 Schritten feingetunt wird, um strukturierte Ausgaben zuverlässiger zu erzeugen. Der Ansatz verringert die Anfälligkeit für Formatfehler und schlägt eine effiziente, rechenarme Alternative zu großen Modellen für solche Aufgaben vor. Solche Anleitungen als Open Source erleichtern das Nachziehen ähnlich optimierter kleiner Modelle in eigenen Anwendungen."
     }
   ],
   "digest_log": [
