@@ -2595,7 +2595,8 @@
     "https://techcrunch.com/?p=3137969": "2026-09-02T23:07:07Z",
     "https://decrypt.co/?p=377231": "2026-09-02T23:22:34Z",
     "https://openai.com/index/atv-big-air-tour": "2026-09-02T23:22:34Z",
-    "https://decrypt.co/?p=377232": "2026-09-02T23:49:40Z"
+    "https://decrypt.co/?p=377232": "2026-09-02T23:49:40Z",
+    "https://www.marktechpost.com/?p=82049": "2026-09-03T00:13:06Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2616,20 +2617,6 @@
     }
   },
   "articles": [
-    {
-      "id": "6a832bd4364359700ebc52b3",
-      "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
-      "url": null,
-      "stream": "ai",
-      "source": "Feed: Artificial Intelligence Latest",
-      "published": "2026-08-31T10:30:00Z",
-      "score": 4,
-      "category": "Society & Work",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Der Artikel thematisiert, dass Versicherungs-Sachbearbeiter KI ablehnend gegenüberstehen. Diese Haltung könnte die Einführung von KI-Anwendungen in der Versicherungsbranche verzögern und Arbeitsprozesse beeinflussen. Widerstand und notwendige Anpassungen sind als Folge wahrscheinlich."
-    },
     {
       "id": "https://cointelegraph.com/markets/markets-pivot-to-september-fed-rate-hike-five-things-to-know-in-bitcoin-this-week",
       "title": "Markets pivot to September Fed rate hike: Five things to know in Bitcoin this week",
@@ -5882,6 +5869,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Anthropic hat Sicherheitsmängel eingeräumt, die Hacking-Vorfälle rund um Claude ermöglicht haben. Das erschüttert das Vertrauen in die Absicherung kommerzieller KI-Systeme und könnte Unternehmen bei der Einführung solcher Modelle zögern lassen. Strengere Sicherheitsauflagen und unabhängige Prüfungen für KI-Anbieter sind als Konsequenz wahrscheinlich."
+    },
+    {
+      "id": "https://www.marktechpost.com/?p=82049",
+      "title": "Qwen Developers Open-Sources zg (zvec-grep): A Local-First Search Layer Unifying ripgrep, BM25, and Vector Search",
+      "url": null,
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-09-02T23:48:47Z",
+      "score": 5,
+      "category": "Research & Open Source",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Die Qwen-Entwickler haben zg (zvec-grep) als Open Source veröffentlicht, ein lokales Suchtool, das ripgrep, BM25 und Vektorsuche kombiniert. Das vereinfacht hybride Retrieval-Pipelines für Entwickler und reduziert die Abhängigkeit von Cloud-Vektordatenbanken. Eine breitere Nutzung in lokalen KI-Workflows ist wahrscheinlich."
     }
   ],
   "digest_log": [
