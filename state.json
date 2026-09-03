@@ -5871,7 +5871,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Die australische Finanzaufsicht ASIC warnt nicht lizenzierte Krypto-Firmen vor Geldstrafen von bis zu 10% des Jahresumsatzes. Dies erhöht den regulatorischen Druck auf die Branche und könnte Anbieter zur Rückkehr in die Legalität zwingen. Eine Abschwächung des Krypto-Angebots in Australien ist wahrscheinlich."
+      "summary": "Die australische Finanzaufsicht ASIC warnt nicht lizenzierte Krypto-Firmen vor Geldstrafen von bis zu 10% des Jahresumsatzes. Dies erhöht den regulatorischen Druck auf die Branche und könnte Anbieter zur Rückkehr in die Legalität zwingen. Eine Abschwächung des Krypto-Angebots in Australien ist wahrscheinlich.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T08:17:36Z"
     },
     {
       "id": "https://huggingface.co/blog/train-to-paint-with-code",
@@ -6825,6 +6827,12 @@
       "at": "2026-09-03T07:16:07Z",
       "article_ids": [
         "https://www.marktechpost.com/?p=82054"
+      ]
+    },
+    {
+      "at": "2026-09-03T08:17:36Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/australia-warns-unlicensed-crypto-firms-of-fines-up-to-10-of-annual-turnover"
       ]
     }
   ],
