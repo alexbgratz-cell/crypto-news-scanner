@@ -2610,7 +2610,10 @@
     "https://cointelegraph.com/news/kalshi-cftc-greenlight-regulated-wti-oil-perpetuals": "2026-09-03T09:40:30Z",
     "https://decrypt.co/?p=377245": "2026-09-03T10:08:40Z",
     "6a8726cd18568cdcce1a1065": "2026-09-03T10:08:42Z",
-    "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-uae": "2026-09-03T10:26:11Z"
+    "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-uae": "2026-09-03T10:26:11Z",
+    "2d7deb34-2547-5da2-a5e5-1a650f4640bd": "2026-09-03T11:07:37Z",
+    "https://cointelegraph.com/news/pencil-finance-1m-onchain-lending-cycle-students": "2026-09-03T11:07:38Z",
+    "https://huggingface.co/blog/funes": "2026-09-03T11:07:39Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2631,58 +2634,6 @@
     }
   },
   "articles": [
-    {
-      "id": "60b8b1ac-e5f2-5cbb-a83f-d78495d069a5",
-      "title": "Tom Lee says ether is ‘best performing macro asset’ as Bitmine adds 53,501 ETH",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-31T14:17:57Z",
-      "score": 7,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [
-        "ETHUSD"
-      ],
-      "entities": [],
-      "summary": "Tom Lee bezeichnet Ether als bestes makroökonomisches Asset, während Bitmine 53.501 ETH erworben hat. Der Zukauf zeigt institutionelle Nachfrage und stützt den ETH-Kurs. Infolgedessen ist mit weiterem Aufwärtsdruck auf Ether zu rechnen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-31T15:08:02Z"
-    },
-    {
-      "id": "6677574c-0e7e-5d24-90e6-f311ae3a5dea",
-      "title": "NYSE parent ICE partners with tZERO on infrastructure for tokenized securities",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-31T15:04:14Z",
-      "score": 6,
-      "category": "Tech Update",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Die New Yorker Börsen-Mutter ICE kooperiert mit tZERO für die Infrastruktur tokenisierter Wertpapiere. Die Partnerschaft signalisiert wachsendes institutionelles Interesse an Blockchain-basierten Finanzinstrumenten. Der Schritt dürfte die Akzeptanz von Security Token stärken und weitere Kooperationen im traditionellen Finanzwesen anstoßen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-31T15:08:02Z"
-    },
-    {
-      "id": "https://cointelegraph.com/news/russian-crypto-trading-bring-46b-regulated-exchanges-legalization",
-      "title": "Russian crypto trading to bring $46B to regulated exchanges in first year after legalization: Report",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-31T14:50:58Z",
-      "score": 7,
-      "category": "Regulation",
-      "sentiment": "bullish",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "Laut einem Bericht könnte die Legalisierung des Krypto-Handels in Russland im ersten Jahr rund 46 Milliarden US-Dollar an regulierte Börsen bringen. Dies würde die Liquidität und institutionelle Beteiligung im Kryptomarkt erhöhen und das Vertrauen in digitale Assets stärken. Infolgedessen ist ein positiver Impuls für die Kurse großer Kryptowährungen wie Bitcoin zu erwarten.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-31T15:08:02Z"
-    },
     {
       "id": "https://decrypt.co/?p=376932",
       "title": "Tom Lee's Bitmine Buys $131M of ETH in Largest Ethereum Purchase Since June",
@@ -5883,6 +5834,50 @@
       ],
       "entities": [],
       "summary": "Standard Chartered startet den Spot-Handel mit Bitcoin und Ether in den Vereinigten Arabischen Emiraten für seine Kunden. Eine etablierte Großbank bietet damit institutionellen Anlegern direkten Zugang zu den beiden größten Kryptowährungen und stärkt die Marktakzeptanz. Die institutionelle Nachfrage dürfte steigen, was sich positiv auf BTC und ETH auswirken kann."
+    },
+    {
+      "id": "2d7deb34-2547-5da2-a5e5-1a650f4640bd",
+      "title": "Bitcoin-gold correlation hits six-year high, but analysts question whether equity decoupling will last",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-09-03T11:01:46Z",
+      "score": 6,
+      "category": "Macro",
+      "sentiment": "neutral",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Ein Bericht von The Block besagt, dass die Korrelation zwischen Bitcoin und Gold ein Sechsjahreshoch erreicht hat, Analysten jedoch bezweifeln, dass die Abkopplung von Aktien anhält. Die hohe Korrelation deutet darauf hin, dass Bitcoin zunehmend als sicherer Hafen wahrgenommen wird, was die Markteinschätzung von Risikoanlagen beeinflusst. Kurzfristig dürfte sich dies in erhöhter Volatilität bei Bitcoin niederschlagen, da eine anhaltende Abkopplung von Aktien ungewiss bleibt."
+    },
+    {
+      "id": "https://cointelegraph.com/news/pencil-finance-1m-onchain-lending-cycle-students",
+      "title": "Pencil Finance completes $1M onchain lending cycle for 6.6K students in Southeast Asia",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-03T10:59:34Z",
+      "score": 5,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Pencil Finance hat einen Onchain-Kreditzyklus über 1 Million Dollar für 6.600 Studierende in Südostasien abgeschlossen. Dies zeigt praktische Anwendungsfälle dezentraler Finanzierung im Bildungskreditbereich. Die konkrete Marktwirkung bleibt begrenzt, da keine großen Krypto-Direktbetroffenheiten erkennbar sind."
+    },
+    {
+      "id": "https://huggingface.co/blog/funes",
+      "title": "Give Your Coding Agents a Memory You Own",
+      "url": null,
+      "stream": "ai",
+      "source": "Hugging Face - Blog",
+      "published": "2026-09-03T00:00:00Z",
+      "score": 5,
+      "category": "Research & Open Source",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Der Hugging-Face-Blog kündigt eine Funktion an, mit der Coding-Agenten ein individuelles, nutzereigenes Gedächtnis erhalten. Dadurch wird die Kontrolle über Kontext und Daten bei KI-Agenten gestärkt, was offene und selbst gehostete Workflows begünstigt. Eine unmittelbare Branchenverschiebung ist mit dieser Ankündigung allein nicht verbunden; weitere Details zur Funktionsweise sind abzuwarten."
     }
   ],
   "digest_log": [
