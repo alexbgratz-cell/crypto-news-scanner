@@ -2601,7 +2601,8 @@
     "e0836009-0ec8-5236-8366-16b134725cad": "2026-09-03T05:08:41Z",
     "de105014-5cff-56f7-aeb5-36c4c655d341": "2026-09-03T05:08:41Z",
     "https://cointelegraph.com/news/hyperscale-data-ends-michigan-bitcoin-mining-ai": "2026-09-03T05:08:41Z",
-    "https://www.marktechpost.com/?p=82054": "2026-09-03T07:10:17Z"
+    "https://www.marktechpost.com/?p=82054": "2026-09-03T07:10:17Z",
+    "https://cointelegraph.com/markets/eth-xrp-etf-inflow-streaks-end-bitcoin-funds-rebound": "2026-09-03T07:39:24Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2622,22 +2623,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/strategy-buys-370m-bitcoin-first-acquisition-june",
-      "title": "Strategy buys $370M Bitcoin in first corporate purchase since June",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-31T12:45:12Z",
-      "score": 8,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "Strategy hat erstmals seit Juni wieder Bitcoin gekauft und dafür 370 Millionen US-Dollar ausgegeben. Der große institutionelle Kauf signalisiert anhaltendes Interesse großer Unternehmen an Bitcoin und wirkt bullish auf den Markt. Eine positive Kursreaktion von Bitcoin ist wahrscheinlich."
-    },
     {
       "id": "https://techcrunch.com/?p=3158688",
       "title": "Meeting notetaker Circleback adds a free tier to attract more customers",
@@ -5886,6 +5871,23 @@
       "summary": "Perplexity hat Lily als Open-Source-Inferenz-Engine veröffentlicht, die in Rust und Metal geschrieben ist und für Qwen3.6-35B-A3B auf Apple Silicon optimiert wurde. Die Freigabe senkt die Hürde für lokale KI-Inferenz auf Apple-Hardware und stärkt das Ökosystem offener Modelle. In der Folge dürfte die Nutzung effizienter, lokaler Inferenz zunehmen und Perplexitys Position als Anbieter offener KI-Werkzeuge gestärkt werden.",
       "delivered": "digest",
       "delivered_at": "2026-09-03T07:16:07Z"
+    },
+    {
+      "id": "https://cointelegraph.com/markets/eth-xrp-etf-inflow-streaks-end-bitcoin-funds-rebound",
+      "title": "Ether, XRP ETF inflow streaks end as Bitcoin funds rebound",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-03T07:22:00Z",
+      "score": 8,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [
+        "BTCUSD",
+        "ETHUSD"
+      ],
+      "entities": [],
+      "summary": "Die Zuflüsse in Ether- und XRP-ETFs sind laut Cointelegraph abgerissen, während Bitcoin-Fonds wieder Zuflüsse verzeichnen. Das deutet auf eine Kapitalrotation hin, die Bitcoin stützt und Ethereum sowie Altcoins unter Druck setzt. In der Folge dürfte die Bitcoin-Dominanz kurzfristig steigen, während ETH-ETFs weiter Abflüsse riskieren."
     }
   ],
   "digest_log": [
