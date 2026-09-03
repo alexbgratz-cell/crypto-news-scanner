@@ -5751,7 +5751,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Revolut hat von der US-Bankenaufsicht OCC eine bedingte Genehmigung erhalten, um als Nationalbank in den USA tätig zu werden; das Unternehmen spricht von einem wichtigen Schritt. Der Schritt könnte Revoluts regulierte Krypto- und Finanzdienste in den USA ausbauen und den Markteintritt erleichtern. Eine direkte Reaktion der großen Kryptowährungen ist nicht zu erwarten; relevant wird die finale Erteilung der Banklizenz."
+      "summary": "Revolut hat von der US-Bankenaufsicht OCC eine bedingte Genehmigung erhalten, um als Nationalbank in den USA tätig zu werden; das Unternehmen spricht von einem wichtigen Schritt. Der Schritt könnte Revoluts regulierte Krypto- und Finanzdienste in den USA ausbauen und den Markteintritt erleichtern. Eine direkte Reaktion der großen Kryptowährungen ist nicht zu erwarten; relevant wird die finale Erteilung der Banklizenz.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T19:12:53Z"
     },
     {
       "id": "https://decrypt.co/?p=377284",
@@ -5769,7 +5771,9 @@
         "ETHBTC"
       ],
       "entities": [],
-      "summary": "Bitcoin-ETFs verzeichnen wieder Zuflüsse, während die Zuflussserien der Ethereum- und XRP-ETFs enden. Das deutet auf eine Rotation zugunsten von Bitcoin und auf nachlassende Nachfrage nach Altcoin-ETFs hin. Der Bitcoin-Kurs dürfte dadurch vorerst stabiler bleiben, während Ethereum unter dem reduzierten ETF-Interesse leiden könnte."
+      "summary": "Bitcoin-ETFs verzeichnen wieder Zuflüsse, während die Zuflussserien der Ethereum- und XRP-ETFs enden. Das deutet auf eine Rotation zugunsten von Bitcoin und auf nachlassende Nachfrage nach Altcoin-ETFs hin. Der Bitcoin-Kurs dürfte dadurch vorerst stabiler bleiben, während Ethereum unter dem reduzierten ETF-Interesse leiden könnte.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T19:12:53Z"
     },
     {
       "id": "https://openai.com/index/playco-game-prototyping-with-astra",
@@ -5785,7 +5789,9 @@
       "entities": [
         "OpenAI"
       ],
-      "summary": "OpenAI berichtet, dass der Spielentwickler Playco mit GPT-6 Astra den manuellen Fix-Aufwand beim Game-Prototyping um 50 Prozent gesenkt hat. Solche Fallstudien belegen Produktivitätsgewinne durch KI-Assistenz und stärken die Position von OpenAI in der Spiele- und Entwicklungsbranche. Dadurch dürften weitere Spielefirmen KI-gestützte Prototyping-Workflows übernehmen."
+      "summary": "OpenAI berichtet, dass der Spielentwickler Playco mit GPT-6 Astra den manuellen Fix-Aufwand beim Game-Prototyping um 50 Prozent gesenkt hat. Solche Fallstudien belegen Produktivitätsgewinne durch KI-Assistenz und stärken die Position von OpenAI in der Spiele- und Entwicklungsbranche. Dadurch dürften weitere Spielefirmen KI-gestützte Prototyping-Workflows übernehmen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T19:12:53Z"
     },
     {
       "id": "https://openai.com/index/legora-financial-statement-review-with-astra",
@@ -5799,7 +5805,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Legora hat laut OpenAI mit GPT-6 Astra 41 Finanzdokumente in Minuten geprüft. Das zeigt, wie KI Dokumentenanalyse in Prüfungsprozesse beschleunigt und Effizienzvorteile für Finanzdienstleister schafft. Solche Praxisergebnisse stärken das Geschäftsargument für KI-Prüfungslösungen und dürften deren Einsatz weiter erhöhen."
+      "summary": "Legora hat laut OpenAI mit GPT-6 Astra 41 Finanzdokumente in Minuten geprüft. Das zeigt, wie KI Dokumentenanalyse in Prüfungsprozesse beschleunigt und Effizienzvorteile für Finanzdienstleister schafft. Solche Praxisergebnisse stärken das Geschäftsargument für KI-Prüfungslösungen und dürften deren Einsatz weiter erhöhen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T19:12:53Z"
     },
     {
       "id": "https://techcrunch.com/?p=3160462",
@@ -5815,7 +5823,9 @@
       "entities": [
         "Meta"
       ],
-      "summary": "Meta bezahlt Nutzer dafür, Einblicke in deren Nutzung ihres neuesten KI-Modells zu erhalten. Das Vorgehen zeigt Metas Bestreben, Nutzungsdaten zu sammeln, was den Wettbewerb im KI-Markt beeinflussen könnte. Die Initiative dürfte Debatten über Datenschutz und Vergütung von Nutzerdaten anheizen."
+      "summary": "Meta bezahlt Nutzer dafür, Einblicke in deren Nutzung ihres neuesten KI-Modells zu erhalten. Das Vorgehen zeigt Metas Bestreben, Nutzungsdaten zu sammeln, was den Wettbewerb im KI-Markt beeinflussen könnte. Die Initiative dürfte Debatten über Datenschutz und Vergütung von Nutzerdaten anheizen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T19:12:53Z"
     },
     {
       "id": "6a99a09696d08f90b0cf0230",
@@ -5877,7 +5887,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Das Unternehmen Abliteration.ai vermarktet offenbar einen Dienst, der Schutzmechanismen aus KI-Modellen entfernt. Damit steigt das Risiko von Missbrauch solcher Modelle, was Anbieter und Regulierer gleichermaßen betrifft. In der Folge dürfte die Debatte über verantwortungsvolle KI-Entwicklung weiter an Fahrt gewinnen."
+      "summary": "Das Unternehmen Abliteration.ai vermarktet offenbar einen Dienst, der Schutzmechanismen aus KI-Modellen entfernt. Damit steigt das Risiko von Missbrauch solcher Modelle, was Anbieter und Regulierer gleichermaßen betrifft. In der Folge dürfte die Debatte über verantwortungsvolle KI-Entwicklung weiter an Fahrt gewinnen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T19:12:53Z"
     },
     {
       "id": "https://cointelegraph.com/markets/bitcoin-reclaims-810-dxy-falls-amid-continuing-suspected-yen-intervention",
@@ -5894,7 +5906,9 @@
         "DXY"
       ],
       "entities": [],
-      "summary": "Bitcoin ist wieder über die Marke von 80.000 Dollar gestiegen, während der Dollar-Index (DXY) fällt, offenbar wegen anhaltender mutmaßlicher Yen-Interventionen. Ein schwächerer Dollar begünstigt risikoreichere Anlagen und damit auch Kryptowährungen. Die Erholung dürfte sich fortzusetzen, solange der Dollar schwach bleibt; weitere Interventionen bleiben die entscheidende Wegmarke."
+      "summary": "Bitcoin ist wieder über die Marke von 80.000 Dollar gestiegen, während der Dollar-Index (DXY) fällt, offenbar wegen anhaltender mutmaßlicher Yen-Interventionen. Ein schwächerer Dollar begünstigt risikoreichere Anlagen und damit auch Kryptowährungen. Die Erholung dürfte sich fortzusetzen, solange der Dollar schwach bleibt; weitere Interventionen bleiben die entscheidende Wegmarke.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T19:12:53Z"
     },
     {
       "id": "https://www.marktechpost.com/?p=82062",
@@ -6909,6 +6923,18 @@
       "at": "2026-09-03T18:18:25Z",
       "article_ids": [
         "https://cointelegraph.com/news/bybit-pay-integrates-with-mesh-to-expand-crypto-payments"
+      ]
+    },
+    {
+      "at": "2026-09-03T19:12:53Z",
+      "article_ids": [
+        "https://decrypt.co/?p=377284",
+        "c4b258c9-0ec6-50ac-b590-d06376515321",
+        "https://openai.com/index/playco-game-prototyping-with-astra",
+        "https://openai.com/index/legora-financial-statement-review-with-astra",
+        "https://techcrunch.com/?p=3160462",
+        "https://techcrunch.com/?p=3160448",
+        "https://cointelegraph.com/markets/bitcoin-reclaims-810-dxy-falls-amid-continuing-suspected-yen-intervention"
       ]
     }
   ],
