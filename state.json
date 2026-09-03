@@ -5854,7 +5854,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "Der Hugging-Face-Blog stellt NeoMME vor, einen als effizient bezeichneten Encoder für multimodale und mehrsprachige Anwendungen. Die Veröffentlichung könnte für Entwickler und Unternehmen interessant sein, die Einbettungs- und Suchsysteme über Sprach- und Formatgrenzen hinweg betreiben. Konkrete Auswirkungen auf die KI-Industrie sind damit noch nicht belegt; entscheidend sind künftige Benchmarks und praktische Einsätze."
+      "summary": "Der Hugging-Face-Blog stellt NeoMME vor, einen als effizient bezeichneten Encoder für multimodale und mehrsprachige Anwendungen. Die Veröffentlichung könnte für Entwickler und Unternehmen interessant sein, die Einbettungs- und Suchsysteme über Sprach- und Formatgrenzen hinweg betreiben. Konkrete Auswirkungen auf die KI-Industrie sind damit noch nicht belegt; entscheidend sind künftige Benchmarks und praktische Einsätze.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T14:16:46Z"
     },
     {
       "id": "https://cointelegraph.com/magazine/recovery-specialists-crack-1b-crypto-wallet-but-find-just-10",
@@ -6857,6 +6859,12 @@
       "article_ids": [
         "ad7e01f1-ccae-5f09-94bd-92054a84d3b4",
         "https://cointelegraph.com/news/vara-securitize-mou-tokenization-dubai"
+      ]
+    },
+    {
+      "at": "2026-09-03T14:16:46Z",
+      "article_ids": [
+        "https://huggingface.co/blog/Hcompany/neomme"
       ]
     }
   ],
