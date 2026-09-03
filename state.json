@@ -5848,7 +5848,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Die New Yorker Schulbehörde unter Führung von Mamdani verhängt ein einjähriges Moratorium für generative KI an öffentlichen Schulen. Das bremst die Nutzung von KI-Tools im Unterricht und trifft Anbieter von Bildungs-KI. In den nächsten zwölf Monaten wird die Behörde über eine dauerhafte Regelung entscheiden."
+      "summary": "Die New Yorker Schulbehörde unter Führung von Mamdani verhängt ein einjähriges Moratorium für generative KI an öffentlichen Schulen. Das bremst die Nutzung von KI-Tools im Unterricht und trifft Anbieter von Bildungs-KI. In den nächsten zwölf Monaten wird die Behörde über eine dauerhafte Regelung entscheiden.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T12:21:26Z"
     },
     {
       "id": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
@@ -5862,7 +5864,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "Hugging Face zeigt in einem Blogbeitrag, wie ein 350-Millionen-Parameter-Modell mit GRPO in 100 Schritten feingetunt wird, um strukturierte Ausgaben zuverlässiger zu erzeugen. Der Ansatz verringert die Anfälligkeit für Formatfehler und schlägt eine effiziente, rechenarme Alternative zu großen Modellen für solche Aufgaben vor. Solche Anleitungen als Open Source erleichtern das Nachziehen ähnlich optimierter kleiner Modelle in eigenen Anwendungen."
+      "summary": "Hugging Face zeigt in einem Blogbeitrag, wie ein 350-Millionen-Parameter-Modell mit GRPO in 100 Schritten feingetunt wird, um strukturierte Ausgaben zuverlässiger zu erzeugen. Der Ansatz verringert die Anfälligkeit für Formatfehler und schlägt eine effiziente, rechenarme Alternative zu großen Modellen für solche Aufgaben vor. Solche Anleitungen als Open Source erleichtern das Nachziehen ähnlich optimierter kleiner Modelle in eigenen Anwendungen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T12:21:26Z"
     },
     {
       "id": "https://decrypt.co/?p=377264",
@@ -6836,6 +6840,13 @@
       "at": "2026-09-03T11:14:43Z",
       "article_ids": [
         "2d7deb34-2547-5da2-a5e5-1a650f4640bd"
+      ]
+    },
+    {
+      "at": "2026-09-03T12:21:26Z",
+      "article_ids": [
+        "https://decrypt.co/?p=377253",
+        "https://huggingface.co/blog/grpo-with-trl-ifstruct"
       ]
     }
   ],
