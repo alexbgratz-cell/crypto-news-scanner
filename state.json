@@ -2661,7 +2661,8 @@
     "07580ac5-4cc6-5ec6-9962-4459eb14ce10": "2026-09-03T20:49:48Z",
     "https://decrypt.co/?p=377349": "2026-09-03T20:49:48Z",
     "https://openai.com/index/daybreak-for-frontline-defenders": "2026-09-03T20:49:48Z",
-    "https://openai.com/index/safety-overview-gpt-6-astra": "2026-09-03T20:49:48Z"
+    "https://openai.com/index/safety-overview-gpt-6-astra": "2026-09-03T20:49:48Z",
+    "https://cointelegraph.com/news/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures": "2026-09-03T21:23:56Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2698,22 +2699,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks",
-      "title": "London Stock Exchange partners with Kraken parent for tokenized UK stocks: FT",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-09-01T10:56:41Z",
-      "score": 6,
-      "category": "Tech Update",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Die Londoner Börse geht laut FT eine Partnerschaft mit dem Mutterkonzern von Kraken ein, um tokenisierte britische Aktien anzubieten. Diese institutionelle Zusammenarbeit könnte die Akzeptanz Blockchain-basierter Wertpapiere fördern und das Vertrauen in Krypto-Handelsinfrastruktur stärken. Dieser Schritt dürfte weitere traditionelle Börsen ermutigen, ähnliche tokenisierte Produkte einzuführen und die Nachfrage nach Krypto-Dienstleistungen erhöhen.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-01T11:14:37Z"
-    },
     {
       "id": "258218ee-d36f-5488-86ba-4eefafdb8d64",
       "title": "Bitcoin defies oil price spike and rising Fed hike bets after best August since 2017",
@@ -5934,6 +5919,23 @@
       "summary": "OpenAI hat einen offiziellen Sicherheitsüberblick zu GPT-6 Astra veröffentlicht. Der Überblick bewertet mögliche Risiken und Schutzmaßnahmen des neuen Modells und ist damit für Regulierer sowie Unternehmenskunden von OpenAI relevant. Eine unmittelbare Marktbewegung ist daraus nicht abzuleiten; der nächste entscheidende Schritt ist die Bekanntgabe konkreter Leistungsdaten oder eines Release-Termins.",
       "delivered": "digest",
       "delivered_at": "2026-09-03T21:15:13Z"
+    },
+    {
+      "id": "https://cointelegraph.com/news/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures",
+      "title": "CFTC files to dismiss CME lawsuit over crypto perpetual futures",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-03T21:09:13Z",
+      "score": 8,
+      "category": "Regulation",
+      "sentiment": "neutral",
+      "instruments": [
+        "BTCUSD",
+        "ETHUSD"
+      ],
+      "entities": [],
+      "summary": "Die US-Aufsicht CFTC hat einen Antrag zur Abweisung eines Rechtsstreits mit CME zu Krypto-Perpetual-Futures eingereicht. Der Fall betrifft die regulatorische Einordnung derivativer Krypto-Produkte; eine Abweisung würde die Position der CFTC stützen, eine Fortsetzung des Verfahrens bedeutet Unsicherheit. Die nächste Wegmarke ist die Gerichtsentscheidung über den Antrag; bis dahin bleibt die Rechtslage für Krypto-Perpetual-Futures offen."
     }
   ],
   "digest_log": [
