@@ -5812,7 +5812,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "SoFi und Payward haben vereinbart, das Bankennetzwerk von SoFi mit der Infrastruktur von Kraken zu verbinden. Die Kooperation erhöht die Integration von Krypto-Dienstleistungen in traditionelle Finanzangebote und stärkt die Zugänglichkeit für etablierte Bankkunden. Dies dürfte die institutionelle Akzeptanz von Kryptowährungen weiter fördern und das Vertrauen in regulierte Handelswege stützen."
+      "summary": "SoFi und Payward haben vereinbart, das Bankennetzwerk von SoFi mit der Infrastruktur von Kraken zu verbinden. Die Kooperation erhöht die Integration von Krypto-Dienstleistungen in traditionelle Finanzangebote und stärkt die Zugänglichkeit für etablierte Bankkunden. Dies dürfte die institutionelle Akzeptanz von Kryptowährungen weiter fördern und das Vertrauen in regulierte Handelswege stützen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T13:16:22Z"
     },
     {
       "id": "https://cointelegraph.com/news/nvidia-buys-hugging-face-12-9-billion-ai-software",
@@ -5875,7 +5877,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Dubais Virtual Assets Regulatory Authority (VARA) und Securitize haben eine Absichtserklärung zur Förderung von Tokenisierung unterzeichnet. Die Zusammenarbeit signalisiert regulatorische Unterstützung für tokenisierte Vermögenswerte und könnte weitere institutionelle Akteure in die Region ziehen. In Dubai sind weitere Initiativen und Partnerschaften im Tokenisierungsbereich wahrscheinlich."
+      "summary": "Dubais Virtual Assets Regulatory Authority (VARA) und Securitize haben eine Absichtserklärung zur Förderung von Tokenisierung unterzeichnet. Die Zusammenarbeit signalisiert regulatorische Unterstützung für tokenisierte Vermögenswerte und könnte weitere institutionelle Akteure in die Region ziehen. In Dubai sind weitere Initiativen und Partnerschaften im Tokenisierungsbereich wahrscheinlich.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T13:16:22Z"
     },
     {
       "id": "6a91b5991f4267c18de22d44",
@@ -6856,6 +6860,13 @@
       "article_ids": [
         "https://decrypt.co/?p=377253",
         "https://huggingface.co/blog/grpo-with-trl-ifstruct"
+      ]
+    },
+    {
+      "at": "2026-09-03T13:16:22Z",
+      "article_ids": [
+        "ad7e01f1-ccae-5f09-94bd-92054a84d3b4",
+        "https://cointelegraph.com/news/vara-securitize-mou-tokenization-dubai"
       ]
     }
   ],
