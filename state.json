@@ -5849,7 +5849,9 @@
         "BTCUSD"
       ],
       "entities": [],
-      "summary": "Ein Bericht von The Block besagt, dass die Korrelation zwischen Bitcoin und Gold ein Sechsjahreshoch erreicht hat, Analysten jedoch bezweifeln, dass die Abkopplung von Aktien anhält. Die hohe Korrelation deutet darauf hin, dass Bitcoin zunehmend als sicherer Hafen wahrgenommen wird, was die Markteinschätzung von Risikoanlagen beeinflusst. Kurzfristig dürfte sich dies in erhöhter Volatilität bei Bitcoin niederschlagen, da eine anhaltende Abkopplung von Aktien ungewiss bleibt."
+      "summary": "Ein Bericht von The Block besagt, dass die Korrelation zwischen Bitcoin und Gold ein Sechsjahreshoch erreicht hat, Analysten jedoch bezweifeln, dass die Abkopplung von Aktien anhält. Die hohe Korrelation deutet darauf hin, dass Bitcoin zunehmend als sicherer Hafen wahrgenommen wird, was die Markteinschätzung von Risikoanlagen beeinflusst. Kurzfristig dürfte sich dies in erhöhter Volatilität bei Bitcoin niederschlagen, da eine anhaltende Abkopplung von Aktien ungewiss bleibt.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T11:14:43Z"
     },
     {
       "id": "https://cointelegraph.com/news/pencil-finance-1m-onchain-lending-cycle-students",
@@ -6829,6 +6831,12 @@
       "at": "2026-09-03T09:16:33Z",
       "article_ids": [
         "https://decrypt.co/?p=377238"
+      ]
+    },
+    {
+      "at": "2026-09-03T11:14:43Z",
+      "article_ids": [
+        "2d7deb34-2547-5da2-a5e5-1a650f4640bd"
       ]
     }
   ],
