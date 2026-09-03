@@ -5857,7 +5857,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Bybit Pay integriert die Zahlungsplattform Mesh, um sein Krypto-Zahlungsangebot zu erweitern. Die Partnerschaft verbessert die Anbindung von Händlern und Nutzern an Krypto-Zahlungen und könnte die Adoption digitaler Assets fördern. Der Ausbau von Bybits Pay-Infrastruktur dürfte den Wettbewerb im Krypto-Zahlungsmarkt verstärken."
+      "summary": "Bybit Pay integriert die Zahlungsplattform Mesh, um sein Krypto-Zahlungsangebot zu erweitern. Die Partnerschaft verbessert die Anbindung von Händlern und Nutzern an Krypto-Zahlungen und könnte die Adoption digitaler Assets fördern. Der Ausbau von Bybits Pay-Infrastruktur dürfte den Wettbewerb im Krypto-Zahlungsmarkt verstärken.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T18:18:25Z"
     },
     {
       "id": "https://cointelegraph.com/news/bitmex-cofounder-ben-delo-reform-uk-donations",
@@ -6897,6 +6899,12 @@
         "https://cointelegraph.com/news/kraken-parent-payward-partners-with-sofi-stablecoin-247-settlement",
         "https://techcrunch.com/?p=3160393",
         "https://decrypt.co/?p=377314"
+      ]
+    },
+    {
+      "at": "2026-09-03T18:18:25Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/bybit-pay-integrates-with-mesh-to-expand-crypto-payments"
       ]
     }
   ],
