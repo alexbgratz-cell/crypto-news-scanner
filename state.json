@@ -5840,7 +5840,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Ein auf KI-Trainingsdaten spezialisiertes Startup hat als schnellstes Unternehmen in Y Combinators Geschichte den Unicorn-Status erreicht. Der Schritt zeigt, wie stark Kapital in die Datengrundlage für KI-Modelle fließt. Die hohe Bewertung dürfte den Wettbewerb und weitere Finanzierungsrunden in diesem Segment anheizen."
+      "summary": "Ein auf KI-Trainingsdaten spezialisiertes Startup hat als schnellstes Unternehmen in Y Combinators Geschichte den Unicorn-Status erreicht. Der Schritt zeigt, wie stark Kapital in die Datengrundlage für KI-Modelle fließt. Die hohe Bewertung dürfte den Wettbewerb und weitere Finanzierungsrunden in diesem Segment anheizen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T00:25:50Z"
     },
     {
       "id": "https://openai.com/index/atv-big-air-tour",
@@ -5868,7 +5870,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Anthropic hat Sicherheitsmängel eingeräumt, die Hacking-Vorfälle rund um Claude ermöglicht haben. Das erschüttert das Vertrauen in die Absicherung kommerzieller KI-Systeme und könnte Unternehmen bei der Einführung solcher Modelle zögern lassen. Strengere Sicherheitsauflagen und unabhängige Prüfungen für KI-Anbieter sind als Konsequenz wahrscheinlich."
+      "summary": "Anthropic hat Sicherheitsmängel eingeräumt, die Hacking-Vorfälle rund um Claude ermöglicht haben. Das erschüttert das Vertrauen in die Absicherung kommerzieller KI-Systeme und könnte Unternehmen bei der Einführung solcher Modelle zögern lassen. Strengere Sicherheitsauflagen und unabhängige Prüfungen für KI-Anbieter sind als Konsequenz wahrscheinlich.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T00:25:50Z"
     },
     {
       "id": "https://www.marktechpost.com/?p=82049",
@@ -6802,6 +6806,13 @@
       "article_ids": [
         "https://decrypt.co/?p=377230",
         "https://techcrunch.com/?p=3160290"
+      ]
+    },
+    {
+      "at": "2026-09-03T00:25:50Z",
+      "article_ids": [
+        "https://decrypt.co/?p=377231",
+        "https://decrypt.co/?p=377232"
       ]
     }
   ],
