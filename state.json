@@ -5868,7 +5868,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "SoFi hat eine neue Vereinbarung mit der Krypto-Börse Kraken geschlossen, um sein Bankennetzwerk und eine Stablecoin anzubinden. Die Partnerschaft bringt Stablecoin-Infrastruktur näher an regulierte Bankdienstleistungen und stärkt die Integration von Krypto in das traditionelle Finanzsystem. Die nächste Wegmarke ist die operative Umsetzung der Anbindung bei Kraken."
+      "summary": "SoFi hat eine neue Vereinbarung mit der Krypto-Börse Kraken geschlossen, um sein Bankennetzwerk und eine Stablecoin anzubinden. Die Partnerschaft bringt Stablecoin-Infrastruktur näher an regulierte Bankdienstleistungen und stärkt die Integration von Krypto in das traditionelle Finanzsystem. Die nächste Wegmarke ist die operative Umsetzung der Anbindung bei Kraken.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T16:16:41Z"
     },
     {
       "id": "b7fc8a4f-0267-526f-95b6-7d8eaad5fdea",
@@ -5882,7 +5884,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Das Stablecoin-Zahlungsinfrastruktur-Startup Diameter Pay hat laut The Block 10 Millionen US-Dollar eingesammelt. Die Finanzierung untermauert das wachsende Interesse an Stablecoin-Zahlungslösungen und kann die weitere Verbreitung solcher Dienste begünstigen. Unmittelbare Kursausschläge großer Krypto-Assets sind daraus nicht abzuleiten; der Effekt bleibt zunächst auf das Startup-Ökosystem begrenzt."
+      "summary": "Das Stablecoin-Zahlungsinfrastruktur-Startup Diameter Pay hat laut The Block 10 Millionen US-Dollar eingesammelt. Die Finanzierung untermauert das wachsende Interesse an Stablecoin-Zahlungslösungen und kann die weitere Verbreitung solcher Dienste begünstigen. Unmittelbare Kursausschläge großer Krypto-Assets sind daraus nicht abzuleiten; der Effekt bleibt zunächst auf das Startup-Ökosystem begrenzt.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T16:16:41Z"
     }
   ],
   "digest_log": [
@@ -6860,6 +6864,13 @@
       "at": "2026-09-03T14:16:46Z",
       "article_ids": [
         "https://huggingface.co/blog/Hcompany/neomme"
+      ]
+    },
+    {
+      "at": "2026-09-03T16:16:41Z",
+      "article_ids": [
+        "https://decrypt.co/?p=377283",
+        "b7fc8a4f-0267-526f-95b6-7d8eaad5fdea"
       ]
     }
   ],
