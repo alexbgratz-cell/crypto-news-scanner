@@ -2620,7 +2620,9 @@
     "ad7e01f1-ccae-5f09-94bd-92054a84d3b4": "2026-09-03T12:54:10Z",
     "https://cointelegraph.com/news/nvidia-buys-hugging-face-12-9-billion-ai-software": "2026-09-03T12:54:10Z",
     "https://techcrunch.com/?p=3160347": "2026-09-03T12:54:12Z",
-    "6a906b97096f095c67a177d0": "2026-09-03T12:54:13Z"
+    "6a906b97096f095c67a177d0": "2026-09-03T12:54:13Z",
+    "https://cointelegraph.com/news/vara-securitize-mou-tokenization-dubai": "2026-09-03T13:08:09Z",
+    "6a91b5991f4267c18de22d44": "2026-09-03T13:08:12Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2641,36 +2643,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3158701",
-      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-31T16:00:00Z",
-      "score": 6,
-      "category": "Business & Funding",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Clipto nutzt KI, um Terabyte an Videomaterial durchsuchbar zu machen, und wird laut TechCrunch inzwischen mit 250 Millionen US-Dollar bewertet. Die Bewertung zeigt wachsendes Investoreninteresse an KI-gestützter Videoanalyse und -suche. Damit dürfte das Unternehmen im KI-Video-Segment weiter an Sichtbarkeit gewinnen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-31T17:08:00Z"
-    },
-    {
-      "id": "https://cointelegraph.com/news/telegram-gram-wallet-launch-wallet-in-telegram-walt-rebrand",
-      "title": "Wallet in Telegram rebrands to Walt as Gram wallet debuts",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-31T16:36:47Z",
-      "score": 5,
-      "category": "Other",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Die Wallet in Telegram wird in Walt umbenannt, während zeitgleich die Gram Wallet debütiert. Für den Kryptomarkt hat die reine Marken- und Produktänderung zunächst keine direkte Preiswirkung. Eine konkrete Kursreaktion ist nicht zu erwarten; erste Auswirkungen dürften sich bei Nutzern der Wallet zeigen."
-    },
     {
       "id": "https://cointelegraph.com/markets/bitcoin-begins-volatile-monthly-close-as-us-bond-yields-eye-new-20-year-high",
       "title": "Bitcoin begins volatile monthly close as US bond yields eye new 20-year high",
@@ -5890,6 +5862,36 @@
         "NVDA"
       ],
       "summary": "Nvidia übernimmt Hugging Face für 12,9 Milliarden US-Dollar und setzt damit auf Open-Source-KI. Der Deal stärkt Nvidias KI-Ökosystem, da Hugging Face eine zentrale Plattform für offene Modelle und Entwickler ist. Nvidia erweitert dadurch seinen Einfluss entlang der gesamten KI-Wertschöpfungskette und festigt seine Marktposition."
+    },
+    {
+      "id": "https://cointelegraph.com/news/vara-securitize-mou-tokenization-dubai",
+      "title": "VARA, Securitize sign MoU for tokenization innovation in Dubai",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-03T13:00:00Z",
+      "score": 6,
+      "category": "Regulation",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Dubais Virtual Assets Regulatory Authority (VARA) und Securitize haben eine Absichtserklärung zur Förderung von Tokenisierung unterzeichnet. Die Zusammenarbeit signalisiert regulatorische Unterstützung für tokenisierte Vermögenswerte und könnte weitere institutionelle Akteure in die Region ziehen. In Dubai sind weitere Initiativen und Partnerschaften im Tokenisierungsbereich wahrscheinlich."
+    },
+    {
+      "id": "6a91b5991f4267c18de22d44",
+      "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
+      "url": null,
+      "stream": "ai",
+      "source": "Feed: Artificial Intelligence Latest",
+      "published": "2026-09-03T13:00:00Z",
+      "score": 8,
+      "category": "Hardware & Infrastructure",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "NVDA"
+      ],
+      "summary": "Der \"RTX Spark\"-Superchip von Nvidia bringt laut Artikel die ersten KI-PCs auf den Markt. Lokale KI-Beschleunigung direkt im PC wertet die Plattform auf und stärkt Nvidias Stellung im Hardware-Geschäft. Die Einführung der Superchips dürfte eine neue Welle KI-fähiger PCs auslösen."
     }
   ],
   "digest_log": [
