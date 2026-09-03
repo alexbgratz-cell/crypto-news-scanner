@@ -5883,7 +5883,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Perplexity hat Lily als Open-Source-Inferenz-Engine veröffentlicht, die in Rust und Metal geschrieben ist und für Qwen3.6-35B-A3B auf Apple Silicon optimiert wurde. Die Freigabe senkt die Hürde für lokale KI-Inferenz auf Apple-Hardware und stärkt das Ökosystem offener Modelle. In der Folge dürfte die Nutzung effizienter, lokaler Inferenz zunehmen und Perplexitys Position als Anbieter offener KI-Werkzeuge gestärkt werden."
+      "summary": "Perplexity hat Lily als Open-Source-Inferenz-Engine veröffentlicht, die in Rust und Metal geschrieben ist und für Qwen3.6-35B-A3B auf Apple Silicon optimiert wurde. Die Freigabe senkt die Hürde für lokale KI-Inferenz auf Apple-Hardware und stärkt das Ökosystem offener Modelle. In der Folge dürfte die Nutzung effizienter, lokaler Inferenz zunehmen und Perplexitys Position als Anbieter offener KI-Werkzeuge gestärkt werden.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T07:16:07Z"
     }
   ],
   "digest_log": [
@@ -6817,6 +6819,12 @@
       "article_ids": [
         "e0836009-0ec8-5236-8366-16b134725cad",
         "de105014-5cff-56f7-aeb5-36c4c655d341"
+      ]
+    },
+    {
+      "at": "2026-09-03T07:16:07Z",
+      "article_ids": [
+        "https://www.marktechpost.com/?p=82054"
       ]
     }
   ],
