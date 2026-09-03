@@ -2628,7 +2628,8 @@
     "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/": "2026-09-03T13:40:18Z",
     "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/": "2026-09-03T15:07:52Z",
     "https://techcrunch.com/?p=3160336": "2026-09-03T15:07:53Z",
-    "https://decrypt.co/?p=377283": "2026-09-03T15:42:19Z"
+    "https://decrypt.co/?p=377283": "2026-09-03T15:42:19Z",
+    "b7fc8a4f-0267-526f-95b6-7d8eaad5fdea": "2026-09-03T16:08:48Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2649,24 +2650,6 @@
     }
   },
   "articles": [
-    {
-      "id": "a14f84ab-0e75-5ccf-b85e-49598f2975ad",
-      "title": "OpenSea adds Solana NFT trading more than four years after initial beta",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-31T18:11:53Z",
-      "score": 7,
-      "category": "Tech Update",
-      "sentiment": "bullish",
-      "instruments": [
-        "SOLUSD"
-      ],
-      "entities": [],
-      "summary": "OpenSea hat den Handel mit Solana-NFTs mehr als vier Jahre nach der ersten Beta eingeführt. Die Integration erweitert den Zugang zu Solana-Assets und stärkt die Nachfrage und Liquidität im SOL-Ökosystem. Infolgedessen dürfte der SOL-Kurs von der erhöhten Marktpräsenz profitieren.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-31T19:08:09Z"
-    },
     {
       "id": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
       "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
@@ -5886,6 +5869,20 @@
       "instruments": [],
       "entities": [],
       "summary": "SoFi hat eine neue Vereinbarung mit der Krypto-Börse Kraken geschlossen, um sein Bankennetzwerk und eine Stablecoin anzubinden. Die Partnerschaft bringt Stablecoin-Infrastruktur näher an regulierte Bankdienstleistungen und stärkt die Integration von Krypto in das traditionelle Finanzsystem. Die nächste Wegmarke ist die operative Umsetzung der Anbindung bei Kraken."
+    },
+    {
+      "id": "b7fc8a4f-0267-526f-95b6-7d8eaad5fdea",
+      "title": "Stablecoin payments infrastructure startup Diameter Pay raises $10 million",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-09-03T16:00:03Z",
+      "score": 6,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Das Stablecoin-Zahlungsinfrastruktur-Startup Diameter Pay hat laut The Block 10 Millionen US-Dollar eingesammelt. Die Finanzierung untermauert das wachsende Interesse an Stablecoin-Zahlungslösungen und kann die weitere Verbreitung solcher Dienste begünstigen. Unmittelbare Kursausschläge großer Krypto-Assets sind daraus nicht abzuleiten; der Effekt bleibt zunächst auf das Startup-Ökosystem begrenzt."
     }
   ],
   "digest_log": [
