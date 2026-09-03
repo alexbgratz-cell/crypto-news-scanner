@@ -2622,7 +2622,8 @@
     "https://techcrunch.com/?p=3160347": "2026-09-03T12:54:12Z",
     "6a906b97096f095c67a177d0": "2026-09-03T12:54:13Z",
     "https://cointelegraph.com/news/vara-securitize-mou-tokenization-dubai": "2026-09-03T13:08:09Z",
-    "6a91b5991f4267c18de22d44": "2026-09-03T13:08:12Z"
+    "6a91b5991f4267c18de22d44": "2026-09-03T13:08:12Z",
+    "https://huggingface.co/blog/Hcompany/neomme": "2026-09-03T13:26:39Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2643,25 +2644,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/markets/bitcoin-begins-volatile-monthly-close-as-us-bond-yields-eye-new-20-year-high",
-      "title": "Bitcoin begins volatile monthly close as US bond yields eye new 20-year high",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-31T16:38:51Z",
-      "score": 6,
-      "category": "Macro",
-      "sentiment": "bearish",
-      "instruments": [
-        "BTCUSD",
-        "US10Y"
-      ],
-      "entities": [],
-      "summary": "Bitcoin startet in einen volatilen Monatsabschluss, während US-Anleiherenditen auf ein neues 20-Jahres-Hoch zusteuern. Steigende Renditen erhöhen den Druck auf risikoreiche Anlagen wie Bitcoin und belasten die Stimmung am Kryptomarkt. Der Monatsabschluss dürfte daher von erhöhter Kursschwankung geprägt sein.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-31T17:08:00Z"
-    },
     {
       "id": "https://decrypt.co/?p=376960",
       "title": "Bitcoin Holds Steady as US Strikes on Iran Rattle Stocks and Lift Oil",
@@ -5896,6 +5878,20 @@
         "NVDA"
       ],
       "summary": "Der \"RTX Spark\"-Superchip von Nvidia bringt laut Artikel die ersten KI-PCs auf den Markt. Lokale KI-Beschleunigung direkt im PC wertet die Plattform auf und stärkt Nvidias Stellung im Hardware-Geschäft. Die Einführung der Superchips dürfte eine neue Welle KI-fähiger PCs auslösen."
+    },
+    {
+      "id": "https://huggingface.co/blog/Hcompany/neomme",
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "url": null,
+      "stream": "ai",
+      "source": "Hugging Face - Blog",
+      "published": "2026-09-03T13:13:48Z",
+      "score": 6,
+      "category": "Model Release & Capability",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Der Hugging-Face-Blog stellt NeoMME vor, einen als effizient bezeichneten Encoder für multimodale und mehrsprachige Anwendungen. Die Veröffentlichung könnte für Entwickler und Unternehmen interessant sein, die Einbettungs- und Suchsysteme über Sprach- und Formatgrenzen hinweg betreiben. Konkrete Auswirkungen auf die KI-Industrie sind damit noch nicht belegt; entscheidend sind künftige Benchmarks und praktische Einsätze."
     }
   ],
   "digest_log": [
