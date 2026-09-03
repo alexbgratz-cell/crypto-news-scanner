@@ -2600,7 +2600,8 @@
     "6a98b7478c9d6f1d2a0923d6": "2026-09-03T01:42:52Z",
     "e0836009-0ec8-5236-8366-16b134725cad": "2026-09-03T05:08:41Z",
     "de105014-5cff-56f7-aeb5-36c4c655d341": "2026-09-03T05:08:41Z",
-    "https://cointelegraph.com/news/hyperscale-data-ends-michigan-bitcoin-mining-ai": "2026-09-03T05:08:41Z"
+    "https://cointelegraph.com/news/hyperscale-data-ends-michigan-bitcoin-mining-ai": "2026-09-03T05:08:41Z",
+    "https://www.marktechpost.com/?p=82054": "2026-09-03T07:10:17Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2621,24 +2622,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=376923",
-      "title": "Morning Minute: Robinhood Chain Flips Ethereum and Base in Fees",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-31T12:37:44Z",
-      "score": 6,
-      "category": "Tech Update",
-      "sentiment": "neutral",
-      "instruments": [
-        "ETHUSD"
-      ],
-      "entities": [],
-      "summary": "Robinhood Chain hat Ethereum und Base bei den Transaktionsgebühren überholt. Dies zeigt den zunehmenden Wettbewerb für Ethereum-Netzwerkgebühren und könnte die Marktstimmung beeinflussen. Die Entwicklung könnte als Zeichen für die Attraktivität alternativer Chain-Ökosysteme gewertet werden, was Ethereum kurzfristig unter Druck setzen könnte.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-31T13:08:19Z"
-    },
     {
       "id": "https://cointelegraph.com/news/strategy-buys-370m-bitcoin-first-acquisition-june",
       "title": "Strategy buys $370M Bitcoin in first corporate purchase since June",
@@ -5887,6 +5870,20 @@
       ],
       "entities": [],
       "summary": "Hyperscale Data stellt seinen Bitcoin-Mining-Betrieb in Michigan ein, während die Bitcoin-Bestände um 79% gefallen sind. Das deutet auf eine geringere Beteiligung von Mining-Unternehmen hin und könnte als Zeichen schwacher Mining-Rentabilität gewertet werden. Kurzfristig dürfte die Marktreaktion jedoch begrenzt bleiben, da es sich um einen einzelnen Miner handelt."
+    },
+    {
+      "id": "https://www.marktechpost.com/?p=82054",
+      "title": "Perplexity Open Sources Lily: A Rust + Metal Inference Engine for Qwen3.6-35B-A3B on Apple Silicon",
+      "url": null,
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-09-03T06:57:07Z",
+      "score": 6,
+      "category": "Research & Open Source",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Perplexity hat Lily als Open-Source-Inferenz-Engine veröffentlicht, die in Rust und Metal geschrieben ist und für Qwen3.6-35B-A3B auf Apple Silicon optimiert wurde. Die Freigabe senkt die Hürde für lokale KI-Inferenz auf Apple-Hardware und stärkt das Ökosystem offener Modelle. In der Folge dürfte die Nutzung effizienter, lokaler Inferenz zunehmen und Perplexitys Position als Anbieter offener KI-Werkzeuge gestärkt werden."
     }
   ],
   "digest_log": [
