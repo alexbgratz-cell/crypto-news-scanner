@@ -2634,7 +2634,8 @@
     "https://techcrunch.com/?p=3160393": "2026-09-03T16:26:22Z",
     "e3a1f14f-f182-5fb1-9898-87526e496661": "2026-09-03T16:40:12Z",
     "https://decrypt.co/?p=377314": "2026-09-03T16:40:12Z",
-    "https://decrypt.co/?p=377313": "2026-09-03T16:40:12Z"
+    "https://decrypt.co/?p=377313": "2026-09-03T16:40:12Z",
+    "6a98617d3d2b77debeec8dca": "2026-09-03T16:52:29Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2660,6 +2661,14 @@
       "stream": "crypto",
       "source": "Decrypt",
       "published": "2026-09-03T16:28:27Z"
+    },
+    "6a98617d3d2b77debeec8dca": {
+      "id": "6a98617d3d2b77debeec8dca",
+      "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
+      "url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
+      "stream": "ai",
+      "source": "Feed: Artificial Intelligence Latest",
+      "published": "2026-09-03T16:42:40Z"
     }
   },
   "articles": [
