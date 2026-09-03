@@ -2650,7 +2650,8 @@
     "https://decrypt.co/?p=377337": "2026-09-03T18:45:17Z",
     "https://techcrunch.com/?p=3160448": "2026-09-03T18:45:17Z",
     "https://cointelegraph.com/markets/bitcoin-reclaims-810-dxy-falls-amid-continuing-suspected-yen-intervention": "2026-09-03T19:06:37Z",
-    "https://www.marktechpost.com/?p=82062": "2026-09-03T19:06:40Z"
+    "https://www.marktechpost.com/?p=82062": "2026-09-03T19:06:40Z",
+    "https://cointelegraph.com/news/michigan-block-kalshi-supreme-court-legal-fight": "2026-09-03T19:21:40Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2687,25 +2688,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/thailand-sec-retail-overseas-crypto-derivatives",
-      "title": "Thailand SEC proposes retail access to regulated overseas crypto derivatives",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-09-01T03:49:00Z",
-      "score": 7,
-      "category": "Regulation",
-      "sentiment": "bullish",
-      "instruments": [
-        "BTCUSD",
-        "ETHUSD"
-      ],
-      "entities": [],
-      "summary": "Thailands SEC schlägt vor, Privatanlegern den Zugang zu regulierten Krypto-Derivaten im Ausland zu ermöglichen. Dies dürfte das Marktangebot erweitern und die Teilnahme institutioneller Anleger fördern. Die Entscheidung über die Regelung wird in Thailand erwartet und könnte die Attraktivität als Krypto-Standort stärken.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-01T04:14:57Z"
-    },
     {
       "id": "0d03f024-a1b7-57d6-a290-fda139686772",
       "title": "Ark Invest buys $37 million worth of shares in Jack Dorsey’s Block Inc",
@@ -5925,6 +5907,20 @@
         "Meta"
       ],
       "summary": "Meta AI hat Muse Spark 1.3 veröffentlicht, ein agentisches Codierungsmodell, das rund 20% weniger Tool-Aufrufe und etwa 25% weniger Tokens benötigt als Version 1.2. Die Effizienzsteigerung senkt Kosten und Latenz bei agentischer Softwareentwicklung und stärkt Metas Wettbewerbsposition im Bereich KI-Coding. Der unmittelbare Effekt ist ein günstigerer und schnellerer Betrieb solcher Coding-Agenten auf Basis des neuen Modells."
+    },
+    {
+      "id": "https://cointelegraph.com/news/michigan-block-kalshi-supreme-court-legal-fight",
+      "title": "Michigan authorities continue pursuit to block Kalshi as Supreme Court fight looms",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-03T19:11:46Z",
+      "score": 7,
+      "category": "Regulation",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Die Behörden von Michigan setzen ihren Rechtsstreit gegen die Prediction-Market-Plattform Kalshi fort, während eine Entscheidung des Supreme Court droht. Der anhaltende Regulierungsdruck könnte den gesamten Markt für Vorhersagewetten belasten und Unsicherheit für ähnliche Plattformen schaffen. Eine gerichtliche Entscheidung wird richtungsweisend für die Zulässigkeit von Kalshi und vergleichbaren Angeboten."
     }
   ],
   "digest_log": [
