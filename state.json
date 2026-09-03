@@ -2623,7 +2623,9 @@
     "6a906b97096f095c67a177d0": "2026-09-03T12:54:13Z",
     "https://cointelegraph.com/news/vara-securitize-mou-tokenization-dubai": "2026-09-03T13:08:09Z",
     "6a91b5991f4267c18de22d44": "2026-09-03T13:08:12Z",
-    "https://huggingface.co/blog/Hcompany/neomme": "2026-09-03T13:26:39Z"
+    "https://huggingface.co/blog/Hcompany/neomme": "2026-09-03T13:26:39Z",
+    "https://cointelegraph.com/magazine/recovery-specialists-crack-1b-crypto-wallet-but-find-just-10": "2026-09-03T13:40:15Z",
+    "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/": "2026-09-03T13:40:18Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2644,45 +2646,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=376960",
-      "title": "Bitcoin Holds Steady as US Strikes on Iran Rattle Stocks and Lift Oil",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-31T16:55:46Z",
-      "score": 6,
-      "category": "Macro",
-      "sentiment": "neutral",
-      "instruments": [
-        "BTCUSD",
-        "DXY",
-        "NDX"
-      ],
-      "entities": [],
-      "summary": "US-Luftangriffe auf den Iran verunsichern die Aktienmärkte und treiben den Ölpreis, während Bitcoin stabil bleibt. Geopolitische Spannungen erhöhen die Risikoaversion, was riskante Anlagen wie Aktien unter Druck setzt, aber Bitcoin zeigt relative Stärke. Eine anhaltende Eskalation könnte die Volatilität an den Märkten verstärken und die Risikobereitschaft weiter dämpfen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-31T17:08:00Z"
-    },
-    {
-      "id": "https://decrypt.co/?p=376936",
-      "title": "Former SEC, CFTC Officials Urge Lighter Touch to Bring Crypto Perps Trading Onshore",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-31T17:06:04Z",
-      "score": 6,
-      "category": "Regulation",
-      "sentiment": "bullish",
-      "instruments": [
-        "BTC",
-        "ETH"
-      ],
-      "entities": [],
-      "summary": "Ehemalige SEC- und CFTC-Beamte fordern eine leichtere Regulierung, um Krypto-Perpetual-Handel an Land zu bringen. Dies könnte den Handel mit Krypto-Derivaten in den USA erleichtern und die Marktliquidität erhöhen. Erwartet wird eine positive Reaktion des Kryptomarktes, insbesondere bei Bitcoin und Ethereum.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-31T18:08:09Z"
-    },
     {
       "id": "https://cointelegraph.com/news/webull-canada-crypto-trading-coinbase",
       "title": "Webull expands crypto trading into Canada through Coinbase collaboration",
@@ -5892,6 +5855,37 @@
       "instruments": [],
       "entities": [],
       "summary": "Der Hugging-Face-Blog stellt NeoMME vor, einen als effizient bezeichneten Encoder für multimodale und mehrsprachige Anwendungen. Die Veröffentlichung könnte für Entwickler und Unternehmen interessant sein, die Einbettungs- und Suchsysteme über Sprach- und Formatgrenzen hinweg betreiben. Konkrete Auswirkungen auf die KI-Industrie sind damit noch nicht belegt; entscheidend sind künftige Benchmarks und praktische Einsätze."
+    },
+    {
+      "id": "https://cointelegraph.com/magazine/recovery-specialists-crack-1b-crypto-wallet-but-find-just-10",
+      "title": "Recovery specialists crack $1B crypto wallet... but find just $10",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-03T13:30:00Z",
+      "score": 5,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Spezialisten für Wallet-Wiederherstellung knackten ein Krypto-Wallet, das angeblich 1 Milliarde Dollar wert war, fanden jedoch nur 10 Dollar darin. Der Fall zeigt die Bedeutung von Sicherheitsmaßnahmen und Zugriffsverlust-Risiken, hat aber kaum direkten Einfluss auf den Markt. Als Konsequenz könnte er die Diskussion über sichere Aufbewahrungslösungen verstärken, konkrete Marktbewegungen bleiben aus."
+    },
+    {
+      "id": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
+      "title": "Nvidia buys Hugging Face, the Github of AI, for $13 billion",
+      "url": null,
+      "stream": "ai",
+      "source": "AI - Ars Technica",
+      "published": "2026-09-03T13:34:13Z",
+      "score": 8,
+      "category": "Business & Funding",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "NVDA",
+        "Hugging Face"
+      ],
+      "summary": "Nvidia übernimmt das KI-Modell-Repository Hugging Face, das als „GitHub der KI“ gilt, für 13 Milliarden US-Dollar. Der Deal stärkt Nvidias Kontrolle über die zentrale Plattform für Open-Source-Modelle und vertieft seine Rolle im gesamten KI-Ökosystem. Der Wettbewerb um KI-Infrastruktur und Modellvertrieb dürfte sich dadurch weiter verschärfen."
     }
   ],
   "digest_log": [
