@@ -2667,7 +2667,8 @@
     "https://www.marktechpost.com/?p=82071": "2026-09-03T21:36:59Z",
     "https://openai.com/index/gpt-4": "2026-09-03T22:07:36Z",
     "6a999f3f5d28a882aa86cd2f": "2026-09-03T22:07:37Z",
-    "6a98628a0e1a07689023e3f9": "2026-09-03T22:07:37Z"
+    "6a98628a0e1a07689023e3f9": "2026-09-03T22:07:37Z",
+    "https://decrypt.co/?p=377370": "2026-09-03T22:23:40Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2704,22 +2705,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=377014",
-      "title": "Morning Minute: Saylor’s Back Buying Bitcoin",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-09-01T12:21:23Z",
-      "score": 8,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "Michael Saylor kauft laut Decrypt wieder Bitcoin. Als prominenter institutioneller Investor dürfte sein Einstieg die Nachfrage stützen und das Sentiment verbessern. Eine positive Kursreaktion bei Bitcoin ist wahrscheinlich."
-    },
     {
       "id": "https://decrypt.co/?p=377015",
       "title": "South Korea Arrests Four Over Crypto Payments to Syrian Terror Group",
@@ -5942,6 +5927,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Eine Meldung berichtet, dass Wetten auf Vorhersagemärkten Menschen Verbote und Festnahmen einbringen. Das deutet auf wachsende regulatorische Gegenwehr gegen solche Plattformen hin, auch wenn Einzelheiten zu den betroffenen Anbietern fehlen. Mit schärferen rechtlichen Maßnahmen ist zu rechnen."
+    },
+    {
+      "id": "https://decrypt.co/?p=377370",
+      "title": "Utah Becomes First State to Target VPNs in Age-Verification Crackdown",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-03T22:16:04Z",
+      "score": 5,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Utah ist der erste US-Bundesstaat, der im Rahmen der Altersverifizierung gezielt gegen VPNs vorgeht. Die Maßnahme könnte den anonymen Zugang zum Internet einschränken, was indirekt auch Krypto-Nutzer betrifft, die VPNs zur Umgehung geografischer Beschränkungen einsetzen. Für den Kryptomarkt selbst ist die direkte Wirkung gering, weshalb keine nennenswerte Marktreaktion zu erwarten ist."
     }
   ],
   "digest_log": [
