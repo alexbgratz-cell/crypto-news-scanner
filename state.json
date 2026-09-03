@@ -2616,7 +2616,11 @@
     "https://huggingface.co/blog/funes": "2026-09-03T11:07:39Z",
     "https://decrypt.co/?p=377253": "2026-09-03T11:37:23Z",
     "https://huggingface.co/blog/grpo-with-trl-ifstruct": "2026-09-03T11:37:24Z",
-    "https://decrypt.co/?p=377264": "2026-09-03T11:50:32Z"
+    "https://decrypt.co/?p=377264": "2026-09-03T11:50:32Z",
+    "ad7e01f1-ccae-5f09-94bd-92054a84d3b4": "2026-09-03T12:54:10Z",
+    "https://cointelegraph.com/news/nvidia-buys-hugging-face-12-9-billion-ai-software": "2026-09-03T12:54:10Z",
+    "https://techcrunch.com/?p=3160347": "2026-09-03T12:54:12Z",
+    "6a906b97096f095c67a177d0": "2026-09-03T12:54:13Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2637,66 +2641,6 @@
     }
   },
   "articles": [
-    {
-      "id": "fbfda97b-b2fa-5809-ab6e-da1f752a6ede",
-      "title": "Kalshi issues first permanent ban to former Rep. George Santos over State of the Union trading",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-31T15:23:17Z",
-      "score": 5,
-      "category": "Other",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Die Predictions-Plattform Kalshi hat dem früheren US-Abgeordneten George Santos ein dauerhaftes Verbot erteilt, weil er gegen Regeln beim Handel mit State-of-the-Union-Wetten verstoßen hat. Der Fall zeigt, dass Kalshi bei Verstößen gegen Handelsvorschriften konsequent Sanktionen verhängt. Für klassische Krypto-Märkte hat die Meldung keine direkte Auswirkung, sie unterstreicht aber die wachsende Bedeutung regulierter Eventmärkte."
-    },
-    {
-      "id": "94b789ee-3d71-55f5-bfc2-2e66820e8dfa",
-      "title": "Strive becomes fifth-largest public bitcoin treasury after 1,800 BTC buy, TD Cowen lifts ASST price target",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-31T15:35:11Z",
-      "score": 9,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "Strive hat weitere 1.800 BTC erworben und ist damit der fünftgrößte börsennotierte Bitcoin-Treasury. TD Cowen hat zugleich das Kursziel für ASST angehoben. Die institutionellen Großkäufe dürften den Kaufdruck auf BTC erhöhen und die Marktstimmung stützen."
-    },
-    {
-      "id": "https://cointelegraph.com/news/bitmine-ether-buying-streak-65-weeks-ethereum",
-      "title": "Bitmine now controls 4.9% of Ethereum supply after adding 53.5K ETH",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-31T15:39:00Z",
-      "score": 8,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [
-        "ETHUSD"
-      ],
-      "entities": [],
-      "summary": "Bitmine hat weitere 53.500 ETH erworben und kontrolliert damit rund 4,9 % des gesamten Ethereum-Angebots. Die seit 65 Wochen andauernde Kaufserie entzieht dem Markt erhebliche Liquidität und signalisiert institutionelles Engagement. Weitere Zukäufe dürften das verfügbare Angebot weiter verknappen und den ETH-Kurs stützen."
-    },
-    {
-      "id": "https://decrypt.co/?p=376935",
-      "title": "Sony Argues in Court That Digital Games Can't Be Owned",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-31T15:46:03Z",
-      "score": 4,
-      "category": "Other",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Sony argumentiert vor Gericht, dass digitale Spiele nicht im Besitz der Käufer sind. Diese Rechtsauffassung könnte die Eigentumsdebatte bei digitalen Gütern beeinflussen, hat aber keinen direkten Bezug zu Krypto-Märkten. Eine Entscheidung könnte künftig Präzedenzfälle für digitale Besitzrechte schaffen, unmittelbare Marktbewegungen sind jedoch unwahrscheinlich."
-    },
     {
       "id": "https://techcrunch.com/?p=3158701",
       "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
@@ -5883,6 +5827,69 @@
       ],
       "entities": [],
       "summary": "Der CEO von Strategy verteidigt in der Morning Minute von Decrypt den Verkauf am Tiefpunkt als richtige Entscheidung. Die Aussage ist eine subjektive Einschätzung ohne neue Marktdaten und hat daher keine direkte Preiskraft. Eine spürbare Marktreaktion ist unwahrscheinlich."
+    },
+    {
+      "id": "ad7e01f1-ccae-5f09-94bd-92054a84d3b4",
+      "title": "SoFi, Payward agree to link banking network with Kraken infrastructure",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-09-03T12:52:54Z",
+      "score": 6,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "SoFi und Payward haben vereinbart, das Bankennetzwerk von SoFi mit der Infrastruktur von Kraken zu verbinden. Die Kooperation erhöht die Integration von Krypto-Dienstleistungen in traditionelle Finanzangebote und stärkt die Zugänglichkeit für etablierte Bankkunden. Dies dürfte die institutionelle Akzeptanz von Kryptowährungen weiter fördern und das Vertrauen in regulierte Handelswege stützen."
+    },
+    {
+      "id": "https://cointelegraph.com/news/nvidia-buys-hugging-face-12-9-billion-ai-software",
+      "title": "Nvidia buys Hugging Face for $12.9B in push into AI software",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-03T12:41:11Z",
+      "score": 8,
+      "category": "Business & Funding",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "NVIDIA",
+        "Hugging Face"
+      ],
+      "summary": "NVIDIA übernimmt laut Cointelegraph das KI-Unternehmen Hugging Face für 12,9 Milliarden US-Dollar und baut damit sein Software-Geschäft aus. Die Akquisition stärkt NVIDIAs Rolle im gesamten KI-Ökosystem und erhöht den Wettbewerbsdruck auf andere Plattform- und Modellanbieter. Der Deal dürfte die Konsolidierung im KI-Sektor weiter anheizen und positive Impulse für KI-Infrastruktur-Aktien geben."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3160347",
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-03T12:42:45Z",
+      "score": 8,
+      "category": "Business & Funding",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "NVDA"
+      ],
+      "summary": "Nvidia bestätigt die Übernahme von Hugging Face für 12,9 Milliarden US-Dollar. Der Deal bringt Nvidia eine führende Plattform für Open-Source-Modelle und stärkt seine Position im KI-Ökosystem. Als direkte Folge dürfte Nvidia seinen Einfluss auf KI-Infrastruktur und Modellverteilung weiter ausbauen."
+    },
+    {
+      "id": "6a906b97096f095c67a177d0",
+      "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+      "url": null,
+      "stream": "ai",
+      "source": "Feed: Artificial Intelligence Latest",
+      "published": "2026-09-03T12:43:09Z",
+      "score": 8,
+      "category": "Business & Funding",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "NVDA"
+      ],
+      "summary": "Nvidia übernimmt Hugging Face für 12,9 Milliarden US-Dollar und setzt damit auf Open-Source-KI. Der Deal stärkt Nvidias KI-Ökosystem, da Hugging Face eine zentrale Plattform für offene Modelle und Entwickler ist. Nvidia erweitert dadurch seinen Einfluss entlang der gesamten KI-Wertschöpfungskette und festigt seine Marktposition."
     }
   ],
   "digest_log": [
