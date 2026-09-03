@@ -5853,7 +5853,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Payward, die Muttergesellschaft von Kraken, geht eine Partnerschaft mit SoFi für Stablecoin-Zahlungen und 24/7-Abwicklung ein. Die Zusammenarbeit erweitert die Nutzung von Stablecoins im Finanzökosystem und stärkt die Infrastruktur für kontinuierliches Settlement. Die gesteigerte Akzeptanz könnte Stablecoin-basierten Zahlungsverkehr weiter fördern; direkte Kurseffekte für Kryptowährungen sind zunächst begrenzt."
+      "summary": "Payward, die Muttergesellschaft von Kraken, geht eine Partnerschaft mit SoFi für Stablecoin-Zahlungen und 24/7-Abwicklung ein. Die Zusammenarbeit erweitert die Nutzung von Stablecoins im Finanzökosystem und stärkt die Infrastruktur für kontinuierliches Settlement. Die gesteigerte Akzeptanz könnte Stablecoin-basierten Zahlungsverkehr weiter fördern; direkte Kurseffekte für Kryptowährungen sind zunächst begrenzt.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T17:14:38Z"
     },
     {
       "id": "https://techcrunch.com/?p=3160393",
@@ -5867,7 +5869,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Ollie setzt im Wettbewerb um KI-Assistenten auf Datenschutz als zentrales Unterscheidungsmerkmal. Diese Fokussierung könnte nutzer anziehen, die Bedenken bezüglich Datenweitergabe haben, und so Marktanteile gewinnen. Der Erfolg hängt davon ab, wie gut das Produkt die Privatsphäre-Versprechen technisch umsetzt."
+      "summary": "Ollie setzt im Wettbewerb um KI-Assistenten auf Datenschutz als zentrales Unterscheidungsmerkmal. Diese Fokussierung könnte nutzer anziehen, die Bedenken bezüglich Datenweitergabe haben, und so Marktanteile gewinnen. Der Erfolg hängt davon ab, wie gut das Produkt die Privatsphäre-Versprechen technisch umsetzt.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T17:14:38Z"
     },
     {
       "id": "e3a1f14f-f182-5fb1-9898-87526e496661",
@@ -5899,7 +5903,9 @@
         "BTCUSD"
       ],
       "entities": [],
-      "summary": "Die US-Notenbank signalisiert eine Zinspause, woraufhin der Bitcoin-Kurs steigt und Short-Positionen im Wert von 415 Millionen US-Dollar liquidiert werden. Die Aussicht auf stabilere Zinsen entlastet riskante Anlageklassen, daher profitieren Kryptowährungen von neuem Kapitalzufluss. Die nächste Fed-Sitzung dürfte die entscheidende Wegmarke für die weitere Richtung sein."
+      "summary": "Die US-Notenbank signalisiert eine Zinspause, woraufhin der Bitcoin-Kurs steigt und Short-Positionen im Wert von 415 Millionen US-Dollar liquidiert werden. Die Aussicht auf stabilere Zinsen entlastet riskante Anlageklassen, daher profitieren Kryptowährungen von neuem Kapitalzufluss. Die nächste Fed-Sitzung dürfte die entscheidende Wegmarke für die weitere Richtung sein.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T17:14:38Z"
     }
   ],
   "digest_log": [
@@ -6884,6 +6890,14 @@
       "article_ids": [
         "https://decrypt.co/?p=377283",
         "b7fc8a4f-0267-526f-95b6-7d8eaad5fdea"
+      ]
+    },
+    {
+      "at": "2026-09-03T17:14:38Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/kraken-parent-payward-partners-with-sofi-stablecoin-247-settlement",
+        "https://techcrunch.com/?p=3160393",
+        "https://decrypt.co/?p=377314"
       ]
     }
   ],
