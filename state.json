@@ -5873,7 +5873,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Die Behörden von Michigan setzen ihren Rechtsstreit gegen die Prediction-Market-Plattform Kalshi fort, während eine Entscheidung des Supreme Court droht. Der anhaltende Regulierungsdruck könnte den gesamten Markt für Vorhersagewetten belasten und Unsicherheit für ähnliche Plattformen schaffen. Eine gerichtliche Entscheidung wird richtungsweisend für die Zulässigkeit von Kalshi und vergleichbaren Angeboten."
+      "summary": "Die Behörden von Michigan setzen ihren Rechtsstreit gegen die Prediction-Market-Plattform Kalshi fort, während eine Entscheidung des Supreme Court droht. Der anhaltende Regulierungsdruck könnte den gesamten Markt für Vorhersagewetten belasten und Unsicherheit für ähnliche Plattformen schaffen. Eine gerichtliche Entscheidung wird richtungsweisend für die Zulässigkeit von Kalshi und vergleichbaren Angeboten.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T20:15:00Z"
     },
     {
       "id": "https://decrypt.co/?p=377341",
@@ -5903,7 +5905,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Paxos' USDG-Stablecoin ist auf dem Mantle-Netzwerk live gegangen, und Mantle ist dem Global Dollar Network beigetreten. Das erweitert die Nutzung von USDG und stärkt die Multi-Chain-Präsenz des Stablecoins. Der Schritt dürfte die Akzeptanz regulierter Stablecoins fördern und den Wettbewerb im Stablecoin-Markt leicht erhöhen."
+      "summary": "Paxos' USDG-Stablecoin ist auf dem Mantle-Netzwerk live gegangen, und Mantle ist dem Global Dollar Network beigetreten. Das erweitert die Nutzung von USDG und stärkt die Multi-Chain-Präsenz des Stablecoins. Der Schritt dürfte die Akzeptanz regulierter Stablecoins fördern und den Wettbewerb im Stablecoin-Markt leicht erhöhen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T20:15:00Z"
     },
     {
       "id": "https://techcrunch.com/?p=3160633",
@@ -5919,7 +5923,9 @@
       "entities": [
         "Thinking Machines"
       ],
-      "summary": "Accel führt laut Berichten Gespräche, eine 1-Milliarden-Dollar-Finanzierungsrunde für Thinking Machines zu einer Bewertung von 40 Milliarden Dollar anzuführen. Die Runde signalisiert starkes Investorenvertrauen in KI-Startups und könnte die Wettbewerbsposition von Thinking Machines erheblich stärken. Eine offizielle Bestätigung und weitere Details zur Runde werden erwartet."
+      "summary": "Accel führt laut Berichten Gespräche, eine 1-Milliarden-Dollar-Finanzierungsrunde für Thinking Machines zu einer Bewertung von 40 Milliarden Dollar anzuführen. Die Runde signalisiert starkes Investorenvertrauen in KI-Startups und könnte die Wettbewerbsposition von Thinking Machines erheblich stärken. Eine offizielle Bestätigung und weitere Details zur Runde werden erwartet.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-03T20:15:00Z"
     }
   ],
   "digest_log": [
@@ -6930,6 +6936,14 @@
         "https://techcrunch.com/?p=3160462",
         "https://techcrunch.com/?p=3160448",
         "https://cointelegraph.com/markets/bitcoin-reclaims-810-dxy-falls-amid-continuing-suspected-yen-intervention"
+      ]
+    },
+    {
+      "at": "2026-09-03T20:15:00Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/michigan-block-kalshi-supreme-court-legal-fight",
+        "https://cointelegraph.com/news/paxos-usdg-goes-live-mantle-network-joins-global-dollar-network",
+        "https://techcrunch.com/?p=3160633"
       ]
     }
   ],
