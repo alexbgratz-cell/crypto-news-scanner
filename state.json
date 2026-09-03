@@ -2638,7 +2638,8 @@
     "6a98617d3d2b77debeec8dca": "2026-09-03T16:52:29Z",
     "https://cointelegraph.com/news/bybit-pay-integrates-with-mesh-to-expand-crypto-payments": "2026-09-03T17:24:43Z",
     "https://cointelegraph.com/news/bitmex-cofounder-ben-delo-reform-uk-donations": "2026-09-03T17:24:43Z",
-    "https://decrypt.co/?p=377315": "2026-09-03T17:38:43Z"
+    "https://decrypt.co/?p=377315": "2026-09-03T17:38:43Z",
+    "https://techcrunch.com/?p=3160480": "2026-09-03T18:09:31Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2675,20 +2676,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=376985",
-      "title": "George Santos Bet on Whether He'd Show Up to the State of the Union—Kalshi Just Banned Him for Life",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-08-31T20:16:03Z",
-      "score": 5,
-      "category": "Other",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Kalshi hat George Santos lebenslang gesperrt, nachdem er auf seine eigene Teilnahme an der State of the Union gewettet hatte. Die Nachricht lenkt die Aufmerksamkeit auf die Regeln und Integrität von Predictions-Märkten. Eine direkte Marktbewegung im Krypto-Bereich ist dadurch kurzfristig nicht zu erwarten."
-    },
     {
       "id": "https://techcrunch.com/?p=3158932",
       "title": "The Pentagon now has its own version of ChatGPT and Grok",
@@ -5902,6 +5889,22 @@
       ],
       "entities": [],
       "summary": "Die CFTC hat beantragt, eine Klage der CME rund um Krypto-Perpetual-Futures durch ein Gericht abweisen zu lassen. Ein Erfolg würde die regulatorische Unsicherheit für Krypto-Derivate in den USA reduzieren. Die nächste Wegmarke ist die gerichtliche Entscheidung über diesen Abweisungsantrag."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3160480",
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-03T18:01:45Z",
+      "score": 8,
+      "category": "Model Release & Capability",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "MSFT"
+      ],
+      "summary": "OpenAI hat ein neues, als leistungsfähig und umstritten beschriebenes KI-Modell namens Astra veröffentlicht. Der Release stärkt OpenAIs Position im KI-Wettbewerb und begünstigt Microsoft als engen Partner, während konkurrierende Anbieter unter Druck geraten. Der Start dürfte Produktintegrationen und Sicherheitsdebatten beschleunigen; Reaktionen von Wettbewerbern und Regulierern sind in den kommenden Wochen zu erwarten."
     }
   ],
   "digest_log": [
