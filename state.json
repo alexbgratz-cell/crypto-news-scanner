@@ -2664,7 +2664,10 @@
     "https://openai.com/index/safety-overview-gpt-6-astra": "2026-09-03T20:49:48Z",
     "https://cointelegraph.com/news/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures": "2026-09-03T21:23:56Z",
     "https://decrypt.co/?p=377363": "2026-09-03T21:36:57Z",
-    "https://www.marktechpost.com/?p=82071": "2026-09-03T21:36:59Z"
+    "https://www.marktechpost.com/?p=82071": "2026-09-03T21:36:59Z",
+    "https://openai.com/index/gpt-4": "2026-09-03T22:07:36Z",
+    "6a999f3f5d28a882aa86cd2f": "2026-09-03T22:07:37Z",
+    "6a98628a0e1a07689023e3f9": "2026-09-03T22:07:37Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2701,36 +2704,6 @@
     }
   },
   "articles": [
-    {
-      "id": "3188a1ce-663c-5579-a553-8d0cbd773a6c",
-      "title": "Ethena launches Ethena Pay app on Avalanche, offering up to 6% yield and 10% cashback",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-09-01T12:00:02Z",
-      "score": 6,
-      "category": "Tech Update",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Ethena hat die Zahlungs-App Ethena Pay auf Avalanche veröffentlicht, die bis zu 6 % Rendite und 10 % Cashback bietet. Die Integration könnte die Nutzung von Ethenas Stablecoin erhöhen und Avalanche als DeFi-Standort stärken. Die nächste Folge dürfte eine höhere Aktivität und Liquidität im Avalanche-Netzwerk sein.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-01T12:20:29Z"
-    },
-    {
-      "id": "https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid",
-      "title": "Lazarus Group-linked addresses move $30M through Hyperliquid",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-09-01T12:01:08Z",
-      "score": 8,
-      "category": "Hack & Security",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Mit der nordkoreanischen Hackergruppe Lazarus verbundene Adressen haben 30 Mio. USD über die Perpetual-DEX Hyperliquid bewegt. Solche Transfers von mutmaßlich gestohlenen Geldern belasten das Marktsentiment und können zusätzlichen Verkaufsdruck an Krypto-Börsen auslösen. Erhöhte Volatilität und verstärkte behördliche Aufmerksamkeit sind die wahrscheinliche Folge."
-    },
     {
       "id": "https://decrypt.co/?p=377014",
       "title": "Morning Minute: Saylor’s Back Buying Bitcoin",
@@ -5932,6 +5905,37 @@
         "OpenAI"
       ],
       "summary": "OpenAI hat GPT-6 Astra veröffentlicht, ein Computer-Use-Modell mit 1,05 Millionen Token Kontext, dessen Zugang an eine kritische Cybersicherheitsschwelle gekoppelt ist. Das Modell setzt neue Maßstäbe bei Kontextlänge und Agentenfähigkeiten und erhöht damit den Wettbewerbsdruck auf andere KI-Anbieter sowie die Nachfrage nach Recheninfrastruktur. Die nächste entscheidende Wegmarke ist die Freigabeprüfung gegen die Cyber-Schwelle; bis dahin bleibt die kommerzielle Verfügbarkeit begrenzt."
+    },
+    {
+      "id": "6a999f3f5d28a882aa86cd2f",
+      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+      "url": null,
+      "stream": "ai",
+      "source": "Feed: Artificial Intelligence Latest",
+      "published": "2026-09-03T21:56:21Z",
+      "score": 6,
+      "category": "Hardware & Infrastructure",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "summary": "OpenAI und Anthropic haben am 3. September 2026 offenbar gleichzeitig Ausfälle erlitten; eine offizielle Ursache wurde bislang nicht genannt. Unternehmen und Entwickler, die auf die APIs der Anbieter angewiesen sind, können dadurch in ihrer Arbeit unterbrochen werden. Die nächste Wegmarke sind Statusmeldungen der Unternehmen; bis dahin bleibt die Verfügbarkeitslage angespannt."
+    },
+    {
+      "id": "6a98628a0e1a07689023e3f9",
+      "title": "Prediction Market Betting Is Getting People Banned and Arrested",
+      "url": null,
+      "stream": "ai",
+      "source": "Feed: Artificial Intelligence Latest",
+      "published": "2026-09-03T21:48:24Z",
+      "score": 5,
+      "category": "Regulation & Policy",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Eine Meldung berichtet, dass Wetten auf Vorhersagemärkten Menschen Verbote und Festnahmen einbringen. Das deutet auf wachsende regulatorische Gegenwehr gegen solche Plattformen hin, auch wenn Einzelheiten zu den betroffenen Anbietern fehlen. Mit schärferen rechtlichen Maßnahmen ist zu rechnen."
     }
   ],
   "digest_log": [
