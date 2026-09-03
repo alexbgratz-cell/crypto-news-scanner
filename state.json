@@ -2602,7 +2602,9 @@
     "de105014-5cff-56f7-aeb5-36c4c655d341": "2026-09-03T05:08:41Z",
     "https://cointelegraph.com/news/hyperscale-data-ends-michigan-bitcoin-mining-ai": "2026-09-03T05:08:41Z",
     "https://www.marktechpost.com/?p=82054": "2026-09-03T07:10:17Z",
-    "https://cointelegraph.com/markets/eth-xrp-etf-inflow-streaks-end-bitcoin-funds-rebound": "2026-09-03T07:39:24Z"
+    "https://cointelegraph.com/markets/eth-xrp-etf-inflow-streaks-end-bitcoin-funds-rebound": "2026-09-03T07:39:24Z",
+    "https://cointelegraph.com/news/australia-warns-unlicensed-crypto-firms-of-fines-up-to-10-of-annual-turnover": "2026-09-03T08:08:49Z",
+    "https://huggingface.co/blog/train-to-paint-with-code": "2026-09-03T08:08:55Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2623,38 +2625,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3158688",
-      "title": "Meeting notetaker Circleback adds a free tier to attract more customers",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-08-31T12:56:46Z",
-      "score": 6,
-      "category": "Business & Funding",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Circleback, ein KI-gestützter Meeting-Notizdienst, führt einen kostenlosen Tarif ein, um mehr Kunden zu gewinnen. Der Schritt senkt die Einstiegshürde für Nutzer und verschärft den Wettbewerb im Markt für KI-Notiztools. Der freie Tarif dürfte die Nutzerbasis des Anbieters vergrößern und den Druck auf vergleichbare Dienste erhöhen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-31T13:08:19Z"
-    },
-    {
-      "id": "114e906b-b803-50c5-917c-a30ad78d5493",
-      "title": "‘We’re back’: Strategy buys another 4,603 bitcoin for $369.7 million as holdings hit 845,050 BTC",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-08-31T13:11:07Z",
-      "score": 8,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "Strategy hat weitere 4.603 Bitcoin für 369,7 Millionen US-Dollar gekauft und den Bestand damit auf 845.050 BTC erhöht. Der erneute Grosskauf eines institutionellen Akteurs signalisiert anhaltende Nachfrage und stützt das Marktumfeld für Bitcoin. Diese Käufe dürften den Bitcoin-Kurs weiter positiv beeinflussen und das Vertrauen institutioneller Anleger festigen."
-    },
     {
       "id": "https://cointelegraph.com/magazine/mystery-surrounds-why-an-og-burned-1m-in-bitcoin",
       "title": "Mystery surrounds why an OG burned $1M in Bitcoin",
@@ -5888,6 +5858,34 @@
       ],
       "entities": [],
       "summary": "Die Zuflüsse in Ether- und XRP-ETFs sind laut Cointelegraph abgerissen, während Bitcoin-Fonds wieder Zuflüsse verzeichnen. Das deutet auf eine Kapitalrotation hin, die Bitcoin stützt und Ethereum sowie Altcoins unter Druck setzt. In der Folge dürfte die Bitcoin-Dominanz kurzfristig steigen, während ETH-ETFs weiter Abflüsse riskieren."
+    },
+    {
+      "id": "https://cointelegraph.com/news/australia-warns-unlicensed-crypto-firms-of-fines-up-to-10-of-annual-turnover",
+      "title": "Australia warns unlicensed crypto firms of fines up to 10% of annual turnover",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-03T07:47:54Z",
+      "score": 7,
+      "category": "Regulation",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Die australische Finanzaufsicht ASIC warnt nicht lizenzierte Krypto-Firmen vor Geldstrafen von bis zu 10% des Jahresumsatzes. Dies erhöht den regulatorischen Druck auf die Branche und könnte Anbieter zur Rückkehr in die Legalität zwingen. Eine Abschwächung des Krypto-Angebots in Australien ist wahrscheinlich."
+    },
+    {
+      "id": "https://huggingface.co/blog/train-to-paint-with-code",
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "url": null,
+      "stream": "ai",
+      "source": "Hugging Face - Blog",
+      "published": "2026-09-03T00:00:00Z",
+      "score": 5,
+      "category": "Research & Open Source",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Der Hugging-Face-Blog beschreibt, wie ein Coding-Modell mit TRL und OpenEnv trainiert wird, um Wasserfarben-Bilder zu erzeugen. Es handelt sich um ein technisches Tutorial, das Open-Source-Tools demonstriert, ohne unmittelbare kommerzielle oder industrielle Bedeutung. Für den KI-Markt sind daraus keine direkten Konsequenzen abzuleiten."
     }
   ],
   "digest_log": [
