@@ -2605,7 +2605,9 @@
     "https://cointelegraph.com/markets/eth-xrp-etf-inflow-streaks-end-bitcoin-funds-rebound": "2026-09-03T07:39:24Z",
     "https://cointelegraph.com/news/australia-warns-unlicensed-crypto-firms-of-fines-up-to-10-of-annual-turnover": "2026-09-03T08:08:49Z",
     "https://huggingface.co/blog/train-to-paint-with-code": "2026-09-03T08:08:55Z",
-    "https://decrypt.co/?p=377238": "2026-09-03T08:55:06Z"
+    "https://decrypt.co/?p=377238": "2026-09-03T08:55:06Z",
+    "https://cointelegraph.com/news/coldcard-hacker-swaps-stolen-bitcoin-eth-thorchain": "2026-09-03T09:40:30Z",
+    "https://cointelegraph.com/news/kalshi-cftc-greenlight-regulated-wti-oil-perpetuals": "2026-09-03T09:40:30Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2626,40 +2628,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/japanese-regulator-tax-exemption-trust-type-stablecoins-2027",
-      "title": "Japanese regulator requests tax filing exemption for trust-type stablecoins in 2027 reform",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-31T13:20:05Z",
-      "score": 7,
-      "category": "Regulation",
-      "sentiment": "bullish",
-      "instruments": [
-        "USDT.D"
-      ],
-      "entities": [],
-      "summary": "Die japanische Finanzaufsicht fordert im Rahmen der Steuerreform 2027 eine Befreiung von der Steuererklärungspflicht für Trust-Typ-Stablecoins. Dies würde die regulatorische Unsicherheit für Stablecoin-Emittenten in Japan verringern und die Akzeptanz institutioneller Anleger fördern. Eine solche Erleichterung könnte die Nachfrage nach regulierten Stablecoins stützen und den Marktanteil entsprechender Anbieter erhöhen.",
-      "delivered": "digest",
-      "delivered_at": "2026-08-31T14:08:17Z"
-    },
-    {
-      "id": "https://cointelegraph.com/news/mutiny-metaplanet-moves-4800-btc-worth-377m-to-coinbase",
-      "title": "Mutiny? Metaplanet moves 4,800 BTC worth $377M to Coinbase",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-08-31T13:15:12Z",
-      "score": 8,
-      "category": "Other",
-      "sentiment": "bearish",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "Metaplanet hat 4.800 BTC im Wert von rund 377 Mio. US-Dollar an die Börse Coinbase transferiert. Der Schritt wird als mögliche Verkaufsvorbereitung gewertet und belastet die Bitcoin-Stimmung, da das Unternehmen bislang als Langzeithalter galt. Eine erhöhte Volatilität und kurzfristiger Abgabedruck am BTC-Kurs sind wahrscheinlich."
-    },
     {
       "id": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
       "title": "ChatGTP and Reddit now face EU's toughest online safety rules",
@@ -5889,6 +5857,37 @@
       "summary": "Ein Richter in Michigan untersagt Kalshi Sportwetten und droht mit einer täglichen Strafe von 500.000 Dollar. Der Schritt ist ein regulatorischer Schlag gegen Vorhersagemärkte, die auch für Krypto-Nutzer relevant sind. Kalshi muss die Wetten unverzüglich einstellen oder mit erheblichen Geldstrafen rechnen; der Fall könnte Signalwirkung für andere Bundesstaaten haben.",
       "delivered": "digest",
       "delivered_at": "2026-09-03T09:16:33Z"
+    },
+    {
+      "id": "https://cointelegraph.com/news/coldcard-hacker-swaps-stolen-bitcoin-eth-thorchain",
+      "title": "Coldcard hacker swaps stolen Bitcoin for ETH via THORChain",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-03T09:31:07Z",
+      "score": 9,
+      "category": "Hack & Security",
+      "sentiment": "bearish",
+      "instruments": [
+        "BTCUSD",
+        "ETHUSD"
+      ],
+      "entities": [],
+      "summary": "Ein Hacker hat gestohlene Bitcoins über THORChain in Ethereum getauscht. Der Vorfall zeigt, wie Kriminelle dezentrale Tauschprotokolle nutzen, um gestohlene Krypto-Gelder zu verschieben, was Sicherheitsbedenken verstärkt. Die Bewegung gestohlener Gelder könnte kurzfristig Verkaufsdruck auf BTC und ETH ausüben und die Wahrnehmung der Krypto-Sicherheit belasten."
+    },
+    {
+      "id": "https://cointelegraph.com/news/kalshi-cftc-greenlight-regulated-wti-oil-perpetuals",
+      "title": "Kalshi seeks CFTC approval for WTI crude perpetual futures: Report",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-03T09:28:34Z",
+      "score": 5,
+      "category": "Regulation",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Kalshi will von der US-Aufsicht CFTC die Genehmigung für perpetual Futures auf WTI-Rohöl erhalten. Das wäre eine Ausweitung des von Kryptomärkten bekannten Perpetual-Modells auf regulierte Rohstoffderivate. Eine Entscheidung der CFTC steht noch aus; direkte Auswirkungen auf Kryptopreise sind vorerst nicht absehbar."
     }
   ],
   "digest_log": [
