@@ -1,46 +1,46 @@
 {
-  "ts": "2026-09-04T14:04:09.903411Z",
+  "ts": "2026-09-04T20:03:47.960534Z",
   "instrument": "ALL",
-  "text": "Kernaussage: Der Gesamtmarkt zeigt sich auf 24h-Sicht leicht fester – BTC bei 79.645 USD, ETH bei 2.461 USD, SOL bei 102 USD – gestützt von positiven Regulierungsnachrichten und einer risk-on Stimmung in den Aktienmärkten; im 12h-Verlauf geben die Krypto-Kurse jedoch moderat nach.\n\nWas es bedeutet: Die Daten signalisieren anhaltende, aber vorsichtige Risikobereitschaft. Der VIX fällt auf 14,32, SPX und NDX legen zu, der Angst-und-Gier-Index liegt bei 74 (Gier). Die leichte Krypto-Korrektur bei zugleich leicht sinkender BTC-Dominanz deutet eher auf Rotation als auf Kapitalabfluss. Steigender Dollar (DXY bei 118,75) und US10Y bei 4,79 bilden einen makroökonomischen Kontrapunkt, der weitere Gewinne begrenzen kann.\n\nZu beachten: Ob der 12h-Rückgang von BTC (von 80.862 auf 79.645) und ETH (von 2.501 auf 2.461) anhält oder die regulatorischen Bankfortschritte die Stimmung weiter stützen – bei Gier-Sentiment und niedriger Volatilität bleibt die Lage anfällig für schnelle Richtungswechsel.",
+  "text": "**Kernaussage**  \nDer Kryptomarkt korrigiert bei ruhigem makroökonomischem Umfeld leicht: BTC fällt auf 79.698 USD (-2,25 %), ETH auf 2.455 USD, während Aktienindizes wie der SPX leicht zulegen und der VIX auf 14,3 sinkt.\n\n**Was es bedeutet**  \nDie 12h-Verläufe von BTC, ETH und SOL zeigen eine gleichmäßige Abwärtsbewegung ohne klare Kapitalrotation – ETHBTC gibt minimal nach, BTC.D bleibt stabil. Die Handelsumgebung ist also nicht von makroökonomischem Druck, sondern von internem Krypto-Risiko-Off geprägt. Der Fear & Greed Index steht unverändert bei 74 (Greed) – die Diskrepanz zwischen fallenden Kursen und hohem Sentimentwert erhöht die Korrektur-Anfälligkeit. Der Rückgang im VIX bei steigenden Aktien deutet zudem darauf hin, dass klassische Anleger Krypto-Schwäche bislang nicht als Systemrisiko sehen.\n\n**Zu beachten**  \nTrotz Kursverlusten bleibt der Greed-Index bei 74 – ein anhaltend hoher Wert nach negativer Preisdynamik kann weitere Rücksetzer begünstigen, falls sich das Sentiment zu drehen beginnt.",
   "numbers": [
     {
       "sym": "BTCUSD",
-      "value": 79645,
-      "change": 0.92,
+      "value": 79698,
+      "change": -2.25,
       "label": "",
       "group": "Direkte Korrelation"
     },
     {
       "sym": "ETHUSD",
-      "value": 2460.97,
-      "change": 1.24,
+      "value": 2455.17,
+      "change": -2.31,
       "label": "",
       "group": "Direkte Korrelation"
     },
     {
       "sym": "SOLUSD",
-      "value": 102.12,
-      "change": 0.37,
+      "value": 101.75,
+      "change": -3.36,
       "label": "",
       "group": "Direkte Korrelation"
     },
     {
       "sym": "ETHBTC",
-      "value": 0.030899,
-      "change": 0.32,
+      "value": 0.030806,
+      "change": -0.06,
       "label": "",
       "group": "Kapitalrotation"
     },
     {
       "sym": "BTC.D",
-      "value": 59.14,
+      "value": 59.19,
       "change": null,
       "label": "",
       "group": "Liquidität & Sentiment"
     },
     {
       "sym": "USDT.D",
-      "value": 6.78,
+      "value": 6.79,
       "change": null,
       "label": "",
       "group": "Liquidität & Sentiment"
@@ -54,14 +54,14 @@
     },
     {
       "sym": "MEMPOOL",
-      "value": 87856.0,
+      "value": 78445.0,
       "change": null,
       "label": "",
       "group": "On-Chain"
     },
     {
       "sym": "MO30",
-      "value": 26.7,
+      "value": 26.87,
       "change": null,
       "label": "",
       "group": "On-Chain"
@@ -75,8 +75,8 @@
     },
     {
       "sym": "NDX",
-      "value": 29596.48,
-      "change": 0.39,
+      "value": 29516.36,
+      "change": 0.12,
       "label": "",
       "group": "TradFi/Makro"
     },
