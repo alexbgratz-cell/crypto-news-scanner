@@ -5827,7 +5827,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "Die USA und Großbritannien haben eine gemeinsame Allianz gegen Krypto-Betrugszentren gestartet. Die Maßnahme erhöht den behördlichen Druck auf betrügerische Krypto-Anbieter und stärkt die internationale Zusammenarbeit bei Ermittlungen. Weitere gemeinsame Razzien und Strafverfolgungen gegen solche Plattformen dürften folgen."
+      "summary": "Die USA und Großbritannien haben eine gemeinsame Allianz gegen Krypto-Betrugszentren gestartet. Die Maßnahme erhöht den behördlichen Druck auf betrügerische Krypto-Anbieter und stärkt die internationale Zusammenarbeit bei Ermittlungen. Weitere gemeinsame Razzien und Strafverfolgungen gegen solche Plattformen dürften folgen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-04T05:14:24Z"
     }
   ],
   "digest_log": [
@@ -6870,6 +6872,12 @@
       "at": "2026-09-04T01:12:14Z",
       "article_ids": [
         "https://techcrunch.com/?p=3160771"
+      ]
+    },
+    {
+      "at": "2026-09-04T05:14:24Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/us-uk-joint-alliance-crypto-scam-centers"
       ]
     }
   ],
