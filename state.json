@@ -2594,7 +2594,9 @@
     "https://cointelegraph.com/news/national-sheriffs-association-clarity-act-neutral": "2026-09-04T17:22:44Z",
     "https://decrypt.co/?p=377458": "2026-09-04T17:22:44Z",
     "https://techcrunch.com/?post_type=tc_video&p=3160884": "2026-09-04T17:22:45Z",
-    "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/": "2026-09-04T17:22:46Z"
+    "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/": "2026-09-04T17:22:46Z",
+    "https://cointelegraph.com/news/crypto-biz-bitcoin-miners-strategy-strive-bitmine-stablecoins": "2026-09-04T17:35:27Z",
+    "https://cointelegraph.com/news/qufi-launches-post-quantum-verification-platform-with-bitcoin-testnet-proof": "2026-09-04T17:35:27Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2631,36 +2633,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=377126",
-      "title": "Robinhood Chain DEX Volume Jumps to $1.6 billion",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-09-01T21:01:04Z",
-      "score": 5,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Das Handelsvolumen des Robinhood-Chain-DEX ist auf 1,6 Milliarden Dollar gestiegen. Der Anstieg deutet auf wachsende On-Chain-Aktivität und höhere Nachfrage nach dezentralem Handel hin, was das Robinhood-Ökosystem stützt. Die erhöhte Liquidität festigt die Position des DEX, ohne dass große Kryptowährungen direkt betroffen sind."
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-      "title": "The latest AI news we announced in August 2026",
-      "url": null,
-      "stream": "ai",
-      "source": "AI",
-      "published": "2026-09-01T20:45:00Z",
-      "score": 5,
-      "category": "Business & Funding",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [
-        "GOOGL"
-      ],
-      "summary": "Google hat in einem Blogbeitrag die KI-Neuigkeiten des Unternehmens aus August 2026 zusammengefasst. Die Übersicht bündelt verschiedene Ankündigungen und zeigt die strategische Ausrichtung des Konzerns im KI-Bereich. Für Anleger ist die Relevanz erst nach Sichtung der einzelnen Details im Originalbeitrag beurteilbar."
-    },
     {
       "id": "https://techcrunch.com/?p=3159895",
       "title": "Open AI’s Astra model is on the way—and very good at breaking into computer systems",
@@ -5849,6 +5821,36 @@
       "instruments": [],
       "entities": [],
       "summary": "Ars Technica berichtet, dass ASCII-Smuggling, das früher zum Angriff auf KI-Systeme genutzt wurde, inzwischen von Spammern übernommen wird. Dadurch wächst die Gefahr, dass KI-gestützte Filter und Sicherheitsmaßnahmen umgangen werden, was Plattformen mit KI-Moderation betrifft. Die Folge dürften verstärkte Sicherheitsanstrengungen und höhere Kosten zur Abwehr dieser Angriffsmethode sein."
+    },
+    {
+      "id": "https://cointelegraph.com/news/crypto-biz-bitcoin-miners-strategy-strive-bitmine-stablecoins",
+      "title": "Crypto Biz: AI took a back seat when Bitcoin started climbing",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-04T17:22:58Z",
+      "score": 5,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Cointelegraph berichtet in „Crypto Biz“, dass Bitcoin-Miner ihre KI-Aktivitäten in den Hintergrund rücken, während der Bitcoin-Kurs steigt. Das deutet auf eine strategische Rückbesinnung der Miner auf das klassische Mininggeschäft hin, was die Wahrnehmung des Sektors beeinflussen könnte. Eine unmittelbare Marktbewegung ist aus der Meldung allein nicht abzuleiten, mögliche Reaktionen betreffen zunächst Mining-Unternehmen und den Bitcoin-Markt."
+    },
+    {
+      "id": "https://cointelegraph.com/news/qufi-launches-post-quantum-verification-platform-with-bitcoin-testnet-proof",
+      "title": "QuFi launches post-quantum verification platform with Bitcoin testnet proof",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-04T17:09:25Z",
+      "score": 5,
+      "category": "Tech Update",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "QuFi hat eine Post-Quanten-Verifikationsplattform gestartet und dafür einen Nachweis auf dem Bitcoin-Testnetz erbracht. Der Schritt zeigt Fortschritte bei quantenresistenter Sicherheit, hat aber vorerst keine Auswirkungen auf den Handel mit Bitcoin oder andere Marktdaten. Kurzfristig bleibt die Marktreaktion begrenzt, da die Technologie noch nicht im Bitcoin-Hauptnetz eingesetzt wird."
     }
   ],
   "digest_log": [
