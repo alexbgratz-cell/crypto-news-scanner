@@ -5776,7 +5776,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "Die National Sheriffs' Association, ein US-Verband der Strafverfolgungsbehörden, hat ihre Position zum CLARITY Act auf 'neutral' geändert. Damit verringert sich der öffentliche Widerstand aus dem Polizeiumfeld gegen das Krypto-Gesetz, was dessen parlamentarische Chancen leicht verbessern könnte. Eine unmittelbare Marktbewegung ist nicht zu erwarten; relevant bleibt der weitere Gesetzgebungsprozess."
+      "summary": "Die National Sheriffs' Association, ein US-Verband der Strafverfolgungsbehörden, hat ihre Position zum CLARITY Act auf 'neutral' geändert. Damit verringert sich der öffentliche Widerstand aus dem Polizeiumfeld gegen das Krypto-Gesetz, was dessen parlamentarische Chancen leicht verbessern könnte. Eine unmittelbare Marktbewegung ist nicht zu erwarten; relevant bleibt der weitere Gesetzgebungsprozess.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-04T18:17:14Z"
     },
     {
       "id": "https://decrypt.co/?p=377458",
@@ -5790,7 +5792,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Die von A16z unterstützte Krypto-Bank OpenReserve hat die Genehmigung für eine vollwertige Nationalbank erhalten. Der Schritt stärkt die institutionelle Krypto-Infrastruktur und signalisiert regulatorische Akzeptanz für digitale Vermögenswerte. Eine zunehmende Beteiligung traditioneller Finanzakteure ist wahrscheinlich."
+      "summary": "Die von A16z unterstützte Krypto-Bank OpenReserve hat die Genehmigung für eine vollwertige Nationalbank erhalten. Der Schritt stärkt die institutionelle Krypto-Infrastruktur und signalisiert regulatorische Akzeptanz für digitale Vermögenswerte. Eine zunehmende Beteiligung traditioneller Finanzakteure ist wahrscheinlich.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-04T18:17:14Z"
     },
     {
       "id": "https://techcrunch.com/?post_type=tc_video&p=3160884",
@@ -6964,6 +6968,13 @@
         "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
         "cc2dda2d-a089-528a-9c30-51d2d1d6e249",
         "https://techcrunch.com/?p=3160899"
+      ]
+    },
+    {
+      "at": "2026-09-04T18:17:14Z",
+      "article_ids": [
+        "https://decrypt.co/?p=377458",
+        "https://cointelegraph.com/news/national-sheriffs-association-clarity-act-neutral"
       ]
     }
   ],
