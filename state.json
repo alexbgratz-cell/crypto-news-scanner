@@ -2590,7 +2590,11 @@
     "https://decrypt.co/?p=377445": "2026-09-04T16:25:58Z",
     "https://techcrunch.com/?p=3160899": "2026-09-04T16:26:03Z",
     "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/": "2026-09-04T16:26:03Z",
-    "cc2dda2d-a089-528a-9c30-51d2d1d6e249": "2026-09-04T17:07:25Z"
+    "cc2dda2d-a089-528a-9c30-51d2d1d6e249": "2026-09-04T17:07:25Z",
+    "https://cointelegraph.com/news/national-sheriffs-association-clarity-act-neutral": "2026-09-04T17:22:44Z",
+    "https://decrypt.co/?p=377458": "2026-09-04T17:22:44Z",
+    "https://techcrunch.com/?post_type=tc_video&p=3160884": "2026-09-04T17:22:45Z",
+    "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/": "2026-09-04T17:22:46Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2627,71 +2631,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://openai.com/index/path-to-astra",
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "url": null,
-      "stream": "ai",
-      "source": "OpenAI News",
-      "published": "2026-09-01T13:00:00Z",
-      "score": 5,
-      "category": "Safety & Risk",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "OpenAI hat einen Beitrag mit dem Titel „Path to Astra\" veröffentlicht, der kritische Fähigkeiten und Schutzmaßnahmen für künftige KI-Systeme behandelt. Der Beitrag unterstreicht den Anspruch, Sicherheit bei der Weiterentwicklung von Modellen in den Vordergrund zu stellen, was Vertrauen in verantwortungsvolle KI-Entwicklung schaffen könnte. Konkrete Marktbewegungen oder neue Produktdetails sind aus dem Artikel allein nicht abzuleiten."
-    },
-    {
-      "id": "https://decrypt.co/?p=377100",
-      "title": "What Is 'Red September'? Bitcoin's Curse, and Why Wall Street Has the Same One",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-09-01T20:31:05Z",
-      "score": 5,
-      "category": "Other",
-      "sentiment": "neutral",
-      "instruments": [
-        "BTCUSD",
-        "NDX"
-      ],
-      "entities": [],
-      "summary": "Decrypt erklärt in einem Beitrag das saisonale Muster „Red September“ für Bitcoin und verweist auf ähnliche Schwächephasen an der Wall Street. Die Darstellung kann Anleger verunsichern und zu defensiver Positionierung führen, obwohl kein konkretes Ereignis vorliegt. Konkrete Kursziele oder Entscheidungen nennt der Artikel nicht; unmittelbare Marktbewegungen sind daraus nicht abzuleiten."
-    },
-    {
-      "id": "https://www.marktechpost.com/?p=82022",
-      "title": "Anthropic Releases Claude Fable 5.1 and Claude Mythos 5.1: 52.6% on Terminal-Bench-Science and 75% Cheaper Cache Reads",
-      "url": null,
-      "stream": "ai",
-      "source": "MarkTechPost",
-      "published": "2026-09-01T20:30:21Z",
-      "score": 7,
-      "category": "Model Release & Capability",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "Anthropic"
-      ],
-      "summary": "Anthropic hat Claude Fable 5.1 und Claude Mythos 5.1 veröffentlicht; die Modelle erreichen 52,6 % im Terminal-Bench-Science und senken die Kosten für Cache Reads um 75 %. Die gleichzeitige Verbesserung von Leistung und Kosten stärkt Anthropics Position im Wettbewerb um KI-Modelle. Dadurch werden Claude-APIs für langlaufende, kontextreiche Anwendungen deutlich günstiger und attraktiver.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-01T21:14:50Z"
-    },
-    {
-      "id": "https://cointelegraph.com/news/binance-adds-options-on-1000-us-stocks-and-etfs-in-tradfi-expansion",
-      "title": "Binance expands TradFi push with options on 1,000 US stocks, ETFs",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-09-01T20:42:29Z",
-      "score": 6,
-      "category": "Other",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Die Kryptobörse Binance erweitert ihr Angebot um Optionen auf etwa 1.000 US-Aktien und ETFs. Damit drängt Binance stärker ins traditionelle Finanzgeschäft und könnte neue Nutzer auf die Plattform ziehen, ohne die Kryptomärkte direkt zu bewegen. Die konkrete Einführung und die regulatorische Umsetzung stehen noch aus.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-01T21:14:50Z"
-    },
     {
       "id": "https://decrypt.co/?p=377126",
       "title": "Robinhood Chain DEX Volume Jumps to $1.6 billion",
@@ -5852,6 +5791,64 @@
       "summary": "Zcash ist auf über 1.000 Dollar gestiegen; als Treiber gelten steigende ETF-Zuflüsse und eine erhöhte Mining-Aktivität. Diese Entwicklung deutet auf wachsende institutionelle Nachfrage hin, die das Preisniveau von Zcash stützt. Solange die Zuflüsse anhalten, dürfte die Rally Bestand haben, bei nachlassendem Momentum sind Rücksetzer wahrscheinlich.",
       "delivered": "digest",
       "delivered_at": "2026-09-04T17:14:18Z"
+    },
+    {
+      "id": "https://cointelegraph.com/news/national-sheriffs-association-clarity-act-neutral",
+      "title": "US law enforcement group moves to ‘neutral’ position on CLARITY Act",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-04T17:05:34Z",
+      "score": 6,
+      "category": "Regulation",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Die National Sheriffs' Association, ein US-Verband der Strafverfolgungsbehörden, hat ihre Position zum CLARITY Act auf 'neutral' geändert. Damit verringert sich der öffentliche Widerstand aus dem Polizeiumfeld gegen das Krypto-Gesetz, was dessen parlamentarische Chancen leicht verbessern könnte. Eine unmittelbare Marktbewegung ist nicht zu erwarten; relevant bleibt der weitere Gesetzgebungsprozess."
+    },
+    {
+      "id": "https://decrypt.co/?p=377458",
+      "title": "A16z-Backed OpenReserve Gets Approval for Full-Service National Bank",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-04T17:19:55Z",
+      "score": 7,
+      "category": "Regulation",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Die von A16z unterstützte Krypto-Bank OpenReserve hat die Genehmigung für eine vollwertige Nationalbank erhalten. Der Schritt stärkt die institutionelle Krypto-Infrastruktur und signalisiert regulatorische Akzeptanz für digitale Vermögenswerte. Eine zunehmende Beteiligung traditioneller Finanzakteure ist wahrscheinlich."
+    },
+    {
+      "id": "https://techcrunch.com/?post_type=tc_video&p=3160884",
+      "title": "What will Apple’s John Ternus era look like?",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-04T17:18:00Z",
+      "score": 4,
+      "category": "Business & Funding",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [
+        "Apple"
+      ],
+      "summary": "Ein TechCrunch-Video wirft die Frage auf, wie die Ära von Apple-Manager John Ternus aussehen könnte. Konkrete Aussagen oder Produktankündigungen enthält der Beitrag nicht, daher ist die direkte Branchenwirkung bislang gering. Auswirkungen ergeben sich erst aus künftigen strategischen Entscheidungen Apples."
+    },
+    {
+      "id": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+      "url": null,
+      "stream": "ai",
+      "source": "AI - Ars Technica",
+      "published": "2026-09-04T17:18:12Z",
+      "score": 5,
+      "category": "Safety & Risk",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Ars Technica berichtet, dass ASCII-Smuggling, das früher zum Angriff auf KI-Systeme genutzt wurde, inzwischen von Spammern übernommen wird. Dadurch wächst die Gefahr, dass KI-gestützte Filter und Sicherheitsmaßnahmen umgangen werden, was Plattformen mit KI-Moderation betrifft. Die Folge dürften verstärkte Sicherheitsanstrengungen und höhere Kosten zur Abwehr dieser Angriffsmethode sein."
     }
   ],
   "digest_log": [
