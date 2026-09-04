@@ -2598,7 +2598,8 @@
     "https://cointelegraph.com/news/crypto-biz-bitcoin-miners-strategy-strive-bitmine-stablecoins": "2026-09-04T17:35:27Z",
     "https://cointelegraph.com/news/qufi-launches-post-quantum-verification-platform-with-bitcoin-testnet-proof": "2026-09-04T17:35:27Z",
     "72535f1d-d6bd-5099-807f-56ce1844cd45": "2026-09-04T18:39:18Z",
-    "https://decrypt.co/?p=377461": "2026-09-04T18:39:19Z"
+    "https://decrypt.co/?p=377461": "2026-09-04T18:39:19Z",
+    "https://www.technologyreview.com/?p=1140872": "2026-09-04T19:06:41Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2635,20 +2636,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/crypto-pac-protect-progress-spending-massachusetts-primary",
-      "title": "Crypto-backed PAC scales back ad spending in Massachusetts primary",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-09-01T21:25:27Z",
-      "score": 5,
-      "category": "Other",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Ein krypto-unterstütztes Political Action Committee (PAC) reduziert seine Werbeausgaben im Vorwahlkampf in Massachusetts. Damit sinkt der kurzfristige politische Einfluss der Krypto-Industrie auf diesen Wahlkampf, ohne dass ein konkreter Markt- oder Regulierungsimpuls erkennbar ist. Eine direkte Marktreaktion ist daher kurzfristig nicht zu erwarten."
-    },
     {
       "id": "https://decrypt.co/?p=377128",
       "title": "Nvidia Invests $3.5 Billion in MediaTek to Expand Beyond GPUs",
@@ -5849,6 +5836,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Robinhood zeigt sich im Streit mit AMC über Aktien-Token unnachgiebig und kontert mit der Ankündigung, Anwälte einzuschalten. Der Rechtskonflikt um tokenisierte Aktien schafft Rechtsunsicherheit für Krypto-Börsen, die ähnliche Produkte anbieten. Eine gerichtliche Eskalation ist wahrscheinlich und könnte die Regulierung tokenisierter Wertpapiere prägen."
+    },
+    {
+      "id": "https://www.technologyreview.com/?p=1140872",
+      "title": "Architecting memory and storage in the AI era",
+      "url": null,
+      "stream": "ai",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "published": "2026-09-04T18:39:19Z",
+      "score": 5,
+      "category": "Hardware & Infrastructure",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Der Artikel des MIT Technology Review befasst sich mit der Architektur von Speicher- und Storage-Systemen im Zeitalter der KI. Er ordnet ein, wie solche Infrastruktur die Leistungsfähigkeit und Kosten von KI-Workloads beeinflusst. Die dargestellten Entwicklungen wirken sich auf künftige Hardware- und Rechenzentrums-Investitionen aus."
     }
   ],
   "digest_log": [
