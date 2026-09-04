@@ -5830,7 +5830,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "Die G7-Länder warnen, dass Quantencomputer eine ernste Bedrohung darstellen, und fordern Maßnahmen. Die Krypto-Industrie prüft Lösungen, weil ein Quantenangriff gängige kryptografische Schutzmechanismen aushebeln könnte. In der Folge dürften Diskussionen über Sicherheitsupdates und regulatorische Anforderungen an Bedeutung gewinnen."
+      "summary": "Die G7-Länder warnen, dass Quantencomputer eine ernste Bedrohung darstellen, und fordern Maßnahmen. Die Krypto-Industrie prüft Lösungen, weil ein Quantenangriff gängige kryptografische Schutzmechanismen aushebeln könnte. In der Folge dürften Diskussionen über Sicherheitsupdates und regulatorische Anforderungen an Bedeutung gewinnen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-04T22:14:24Z"
     },
     {
       "id": "https://techcrunch.com/?p=3160981",
@@ -5844,7 +5846,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Der KI-Compute-Anbieter Nscale sucht einem Bericht zufolge 3,5 Milliarden US-Dollar an Pre-IPO-Finanzierung. Die Kapitalspritze unterstreicht den wachsenden Bedarf an Recheninfrastruktur für KI-Modelle und stärkt Nscale vor einem möglichen Börsengang. Dadurch dürfte der Wettbewerb im KI-Compute-Markt weiter zunehmen."
+      "summary": "Der KI-Compute-Anbieter Nscale sucht einem Bericht zufolge 3,5 Milliarden US-Dollar an Pre-IPO-Finanzierung. Die Kapitalspritze unterstreicht den wachsenden Bedarf an Recheninfrastruktur für KI-Modelle und stärkt Nscale vor einem möglichen Börsengang. Dadurch dürfte der Wettbewerb im KI-Compute-Markt weiter zunehmen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-04T22:14:24Z"
     },
     {
       "id": "https://decrypt.co/?p=377489",
@@ -5858,7 +5862,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Der Mutterkonzern von TikTok hat sich 30 Milliarden US-Dollar geliehen, um sein KI-Geschäft massiv auszubauen. Der hohe Kredit signalisiert den wachsenden Kapitalbedarf im KI-Wettbewerb und verschärft den Konkurrenzdruck. Als Folge sind weiter steigende Milliarden-Investitionen in KI-Infrastruktur zu erwarten."
+      "summary": "Der Mutterkonzern von TikTok hat sich 30 Milliarden US-Dollar geliehen, um sein KI-Geschäft massiv auszubauen. Der hohe Kredit signalisiert den wachsenden Kapitalbedarf im KI-Wettbewerb und verschärft den Konkurrenzdruck. Als Folge sind weiter steigende Milliarden-Investitionen in KI-Infrastruktur zu erwarten.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-04T22:14:24Z"
     }
   ],
   "digest_log": [
@@ -7000,6 +7006,14 @@
       "article_ids": [
         "https://decrypt.co/?p=377483",
         "https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k"
+      ]
+    },
+    {
+      "at": "2026-09-04T22:14:24Z",
+      "article_ids": [
+        "https://techcrunch.com/?p=3160981",
+        "https://decrypt.co/?p=377489",
+        "https://decrypt.co/?p=377486"
       ]
     }
   ],
