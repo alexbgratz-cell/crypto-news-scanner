@@ -2568,7 +2568,8 @@
     "6a974df9e160e2c30a556099": "2026-09-04T10:08:34Z",
     "865a5223-2843-5a15-8895-62dc335cf27b": "2026-09-04T10:25:43Z",
     "https://decrypt.co/?p=377386": "2026-09-04T10:25:44Z",
-    "https://cointelegraph.com/news/south-korean-regulators-tokenized-securities-roadmap": "2026-09-04T10:51:24Z"
+    "https://cointelegraph.com/news/south-korean-regulators-tokenized-securities-roadmap": "2026-09-04T10:51:24Z",
+    "0c101622-30c9-59e2-9656-086135289a71": "2026-09-04T11:24:29Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2605,24 +2606,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3159627",
-      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-01T15:51:55Z",
-      "score": 7,
-      "category": "Business & Funding",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [
-        "AMZN"
-      ],
-      "summary": "Amazon erweitert Alexa um eine Funktion, die Nutzer benachrichtigt, wenn ein neues Produkt ihr Kaufinteresse wecken könnte. Das stärkt die Rolle von Amazons KI-Assistenten im personalisierten Einkaufserlebnis und betrifft direkt Amazon als Anbieter. Für die weitere Verbreitung der Funktion dürfte vor allem die Nutzerakzeptanz entscheidend sein.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-01T16:39:33Z"
-    },
     {
       "id": "https://techcrunch.com/?p=3159543",
       "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
@@ -5836,6 +5819,23 @@
       "summary": "Südkoreanische Regulierungsbehörden haben eine Roadmap für tokenisierte Wertpapiere eingeführt. Der Schritt schafft mehr rechtliche Klarheit und könnte die Einführung solcher digitalen Wertpapiere in Südkorea beschleunigen. Konkrete Umsetzungsregeln dürften folgen und dem Tokenisierungsmarkt weiteren Auftrieb geben.",
       "delivered": "digest",
       "delivered_at": "2026-09-04T11:15:01Z"
+    },
+    {
+      "id": "0c101622-30c9-59e2-9656-086135289a71",
+      "title": "Crypto firms urge SEC to speed ETF reviews and allow confidential draft filings",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-09-04T11:21:09Z",
+      "score": 6,
+      "category": "Regulation",
+      "sentiment": "bullish",
+      "instruments": [
+        "BTCUSD",
+        "ETHUSD"
+      ],
+      "entities": [],
+      "summary": "Kryptofirmen fordern die US-Börsenaufsicht SEC auf, ETF-Prüfungen zu beschleunigen und vertrauliche Entwurfseinreichungen zu ermöglichen. Ein schnellerer Zulassungsprozess würde institutionellen Anlegern den Zugang zu Krypto-ETFs erleichtern und die Nachfrage nach Bitcoin und Ether stützen. Die SEC-Reaktion dürfte darüber entscheiden, ob weitere Krypto-ETF-Produkte auf den Markt kommen."
     }
   ],
   "digest_log": [
