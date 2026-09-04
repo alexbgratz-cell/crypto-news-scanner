@@ -2554,7 +2554,8 @@
     "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/": "2026-09-04T01:36:41Z",
     "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/": "2026-09-04T01:36:41Z",
     "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/": "2026-09-04T01:36:41Z",
-    "https://www.marktechpost.com/?p=82075": "2026-09-04T01:36:41Z"
+    "https://www.marktechpost.com/?p=82075": "2026-09-04T01:36:41Z",
+    "https://techcrunch.com/?p=3160707": "2026-09-04T04:25:36Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2591,22 +2592,6 @@
     }
   },
   "articles": [
-    {
-      "id": "2016443c-1bf1-5a19-9786-378f62634a99",
-      "title": "Silhouette debuts RFQ trading for xStocks on Hyperliquid",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-09-01T13:30:00Z",
-      "score": 6,
-      "category": "Tech Update",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Silhouette bringt RFQ-Handel für xStocks auf Hyperliquid an den Start. Das erweitert das Produktangebot auf der Plattform und stärkt den Handel mit tokenisierten Aktien im Krypto-Bereich. In der Folge könnte das Handelsvolumen auf Hyperliquid zunehmen.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-01T14:15:46Z"
-    },
     {
       "id": "https://cointelegraph.com/magazine/does-bitcoins-rally-mean-we-havent-wasted-our-lives-in-crypto",
       "title": "Does the Bitcoin rally mean we haven’t wasted our lives in crypto?",
@@ -5830,6 +5815,20 @@
         "GOOGL"
       ],
       "summary": "Google DeepMind präsentiert WeatherNext 3, ein KI-Modell, das auf Wetterstationsbeobachtungen trainiert und globale Vorhersagen mit 5 km Auflösung stündlich aktualisiert. Das Modell verschiebt die Leistungsgrenze der KI-gestützten Wettervorhersage und stärkt Googles Position im wachsenden Wettbewerb um operationelle Prognosemodelle. Eine zunehmende Nutzung in Wetterdiensten sowie Folgeentwicklungen konkurrierender Anbieter sind wahrscheinlich."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3160707",
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-04T04:21:03Z",
+      "score": 5,
+      "category": "Society & Work",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "TechCrunch beschreibt, dass KI-generierte Speisekarten zunehmend gleichförmig und wenig appetitlich wirken. Der Beitrag verdeutlicht eine kreative Schwäche aktueller Modelle, die sich auch auf andere KI-generierte Verbraucherinhalte auswirken kann. Für Anbieter solcher Dienste ist mit geringerer Akzeptanz zu rechnen, wenn sich die Inhalte nicht stärker differenzieren."
     }
   ],
   "digest_log": [
