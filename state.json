@@ -5832,7 +5832,9 @@
         "BTCUSD"
       ],
       "entities": [],
-      "summary": "Der Internationale Währungsfonds stellt nach seiner Prüfung fest, dass El Salvadors Bitcoin-Akkumulation keine öffentlichen Mittel verwendet hat. Das verringert fiskalische Bedenken und stärkt die Glaubwürdigkeit der Bitcoin-Politik des Landes. Eine unmittelbare Marktbewegung ist unwahrscheinlich, doch die regulatorische Akzeptanz wird leicht gestützt."
+      "summary": "Der Internationale Währungsfonds stellt nach seiner Prüfung fest, dass El Salvadors Bitcoin-Akkumulation keine öffentlichen Mittel verwendet hat. Das verringert fiskalische Bedenken und stärkt die Glaubwürdigkeit der Bitcoin-Politik des Landes. Eine unmittelbare Marktbewegung ist unwahrscheinlich, doch die regulatorische Akzeptanz wird leicht gestützt.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-04T07:15:11Z"
     }
   ],
   "digest_log": [
@@ -6881,6 +6883,12 @@
       "at": "2026-09-04T05:14:24Z",
       "article_ids": [
         "https://cointelegraph.com/news/us-uk-joint-alliance-crypto-scam-centers"
+      ]
+    },
+    {
+      "at": "2026-09-04T07:15:11Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/el-salvador-bitcoin-private-donations-imf"
       ]
     }
   ],
