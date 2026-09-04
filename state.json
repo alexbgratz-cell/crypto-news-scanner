@@ -5801,7 +5801,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "OpenReserve, unterstützt von Andreessen Horowitz, hat vom US Office of the Comptroller of the Currency (OCC) die vorläufige Genehmigung für eine nationale Banklizenz erhalten. Der Schritt stärkt die institutionelle Anbindung von Krypto-Unternehmen an das regulierte US-Bankensystem und erhöht die Glaubwürdigkeit digitaler Vermögenswerte. Die endgültige Zulassung ist die nächste entscheidende Wegmarke für den weiteren Ausbau des regulierten Krypto-Bankings."
+      "summary": "OpenReserve, unterstützt von Andreessen Horowitz, hat vom US Office of the Comptroller of the Currency (OCC) die vorläufige Genehmigung für eine nationale Banklizenz erhalten. Der Schritt stärkt die institutionelle Anbindung von Krypto-Unternehmen an das regulierte US-Bankensystem und erhöht die Glaubwürdigkeit digitaler Vermögenswerte. Die endgültige Zulassung ist die nächste entscheidende Wegmarke für den weiteren Ausbau des regulierten Krypto-Bankings.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-04T11:15:01Z"
     },
     {
       "id": "https://decrypt.co/?p=377386",
@@ -5815,7 +5817,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Die US-Behörde FinCEN bringt Krypto-Betrug im Umfang von 12,7 Milliarden Dollar mit Scam-Zentren in Asien in Verbindung. Der Bericht verstärkt den regulatorischen Druck auf den Kryptosektor und kann das Vertrauen in Krypto-Zahlungen belasten. Strengere Compliance- und Meldeanforderungen für Dienstleister sind als Folge wahrscheinlich."
+      "summary": "Die US-Behörde FinCEN bringt Krypto-Betrug im Umfang von 12,7 Milliarden Dollar mit Scam-Zentren in Asien in Verbindung. Der Bericht verstärkt den regulatorischen Druck auf den Kryptosektor und kann das Vertrauen in Krypto-Zahlungen belasten. Strengere Compliance- und Meldeanforderungen für Dienstleister sind als Folge wahrscheinlich.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-04T11:15:01Z"
     },
     {
       "id": "https://cointelegraph.com/news/south-korean-regulators-tokenized-securities-roadmap",
@@ -5829,7 +5833,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Südkoreanische Regulierungsbehörden haben eine Roadmap für tokenisierte Wertpapiere eingeführt. Der Schritt schafft mehr rechtliche Klarheit und könnte die Einführung solcher digitalen Wertpapiere in Südkorea beschleunigen. Konkrete Umsetzungsregeln dürften folgen und dem Tokenisierungsmarkt weiteren Auftrieb geben."
+      "summary": "Südkoreanische Regulierungsbehörden haben eine Roadmap für tokenisierte Wertpapiere eingeführt. Der Schritt schafft mehr rechtliche Klarheit und könnte die Einführung solcher digitalen Wertpapiere in Südkorea beschleunigen. Konkrete Umsetzungsregeln dürften folgen und dem Tokenisierungsmarkt weiteren Auftrieb geben.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-04T11:15:01Z"
     }
   ],
   "digest_log": [
@@ -6890,6 +6896,14 @@
       "at": "2026-09-04T10:16:03Z",
       "article_ids": [
         "70050b58-2417-5cab-a51a-0fd90a6d5986"
+      ]
+    },
+    {
+      "at": "2026-09-04T11:15:01Z",
+      "article_ids": [
+        "865a5223-2843-5a15-8895-62dc335cf27b",
+        "https://decrypt.co/?p=377386",
+        "https://cointelegraph.com/news/south-korean-regulators-tokenized-securities-roadmap"
       ]
     }
   ],
