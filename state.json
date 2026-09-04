@@ -2603,7 +2603,8 @@
     "https://decrypt.co/?p=377463": "2026-09-04T19:20:19Z",
     "https://cointelegraph.com/news/fincen-crypto-overseas-scam-centers-analysis": "2026-09-04T19:35:02Z",
     "https://cointelegraph.com/news/pineapple-financial-puts-1b-in-mortgage-records-on-injective": "2026-09-04T19:49:17Z",
-    "https://decrypt.co/?p=377483": "2026-09-04T20:38:01Z"
+    "https://decrypt.co/?p=377483": "2026-09-04T20:38:01Z",
+    "https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k": "2026-09-04T20:49:11Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2640,22 +2641,6 @@
     }
   },
   "articles": [
-    {
-      "id": "b010167b-7510-5358-8846-90c8e36d745d",
-      "title": "Hyperliquid Strategies expands equity facility to $2.5 billion from $1 billion",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-09-02T03:35:30Z",
-      "score": 7,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Hyperliquid Strategies erhöht seine Equity-Fazilität von 1 auf 2,5 Milliarden US-Dollar. Der ausgeweitete Kapitalrahmen stärkt die Finanzbasis und signalisiert wachsendes institutionelles Interesse an Krypto-Infrastruktur. Die erhöhte Finanzkraft dürfte die Marktstellung von Hyperliquid festigen und positive Impulse für das Ökosystem geben.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-02T04:17:26Z"
-    },
     {
       "id": "https://cointelegraph.com/news/core-dao-emergency-hard-fork-excess-validator-rewards",
       "title": "Core DAO plans emergency hard fork after validators drew excess rewards",
@@ -5858,6 +5843,22 @@
       "instruments": [],
       "entities": [],
       "summary": "Polymarket hat Krypto-Perpetual-Futures mit Hebel bis zu 20x eingeführt. Das neue Handelsangebot erhöht die spekulative Nachfrage und kann über höhere Volumina die Krypto-Märkte beeinflussen. Mit dem Start sind kurzfristig stärkere Preisausschläge wahrscheinlich, besonders bei hoch gehebelten Positionen."
+    },
+    {
+      "id": "https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k",
+      "title": "Surprise nonfarm payrolls print sends Bitcoin back below 80K",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-04T20:30:47Z",
+      "score": 6,
+      "category": "Macro",
+      "sentiment": "bearish",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Überraschende US-Arbeitsmarktdaten (Nonfarm Payrolls) haben Bitcoin wieder unter 80.000 USD gedrückt. Stärkere Konjunkturdaten dämpfen die Erwartung an Zinssenkungen und belasten dadurch riskante Anlagen wie Kryptowährungen. Bitcoin dürfte kurzfristig von weiteren makroökonomischen Daten und der nächsten Zinsentscheidung der Fed abhängen; erhöhte Volatilität ist wahrscheinlich."
     }
   ],
   "digest_log": [
