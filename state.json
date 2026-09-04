@@ -2560,7 +2560,8 @@
     "https://cointelegraph.com/news/el-salvador-bitcoin-private-donations-imf": "2026-09-04T06:30:13Z",
     "https://cointelegraph.com/markets/bitcoin-etf-draw-731-million-highest-january-btc-80k": "2026-09-04T07:52:01Z",
     "652598fb-4972-5d88-b776-4de30e23848c": "2026-09-04T08:08:44Z",
-    "1ffa6d06-3cf5-5319-94b0-dbb04e3f3184": "2026-09-04T08:54:04Z"
+    "1ffa6d06-3cf5-5319-94b0-dbb04e3f3184": "2026-09-04T08:54:04Z",
+    "https://decrypt.co/?p=377378": "2026-09-04T09:39:29Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2597,22 +2598,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://huggingface.co/blog/webgpu-kernels",
-      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "url": null,
-      "stream": "ai",
-      "source": "Hugging Face - Blog",
-      "published": "2026-09-01T00:00:00Z",
-      "score": 6,
-      "category": "Hardware & Infrastructure",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Hugging Face stellt mit @huggingface/kernels eine Bibliothek mit über 200 WebGPU-Kerneln für lokale KI-Anwendungen vor. Dadurch wird KI-Inferenz direkt im Browser möglich, was Daten lokal hält und die Abhängigkeit von Cloud-Anbietern verringert. Die Folge ist eine stärkere Verbreitung von On-Device-KI in Webbrowsern, während rechenzentrumsbasierte Inferenzdienste unter Druck geraten.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-01T15:22:01Z"
-    },
     {
       "id": "https://cointelegraph.com/markets/bitcoin-remains-flat-as-global-bond-bear-market-rages-on",
       "title": "Bitcoin stays flat as global bond bear market rages on, pushing JGB to high",
@@ -5837,6 +5822,20 @@
       ],
       "entities": [],
       "summary": "US-Bitcoin-ETFs verzeichneten mit 731 Millionen Dollar den größten Tageszufluss seit Januar. Das signalisiert starke institutionelle Nachfrage und stützt den Bitcoin-Preis. Erhöhte Zuflüsse dürften den BTC-Kurs kurzfristig weiter antreiben."
+    },
+    {
+      "id": "https://decrypt.co/?p=377378",
+      "title": "AMC CEO Calls Robinhood Stock Tokens 'Contemptible' and 'Vile'",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-04T09:24:56Z",
+      "score": 4,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "AMC-Chef Adam Aron hat Robinhoods Token-basierte Aktienprodukte als verächtlich und widerlich bezeichnet. Die Kritik könnte das Vertrauen in tokenisierte Wertpapiere schwächen und die Debatte über solche Angebote anheizen. Eine unmittelbare Kursreaktion auf Kryptowährungen ist daraus nicht abzuleiten."
     }
   ],
   "digest_log": [
