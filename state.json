@@ -2602,7 +2602,8 @@
     "https://www.technologyreview.com/?p=1140872": "2026-09-04T19:06:41Z",
     "https://decrypt.co/?p=377463": "2026-09-04T19:20:19Z",
     "https://cointelegraph.com/news/fincen-crypto-overseas-scam-centers-analysis": "2026-09-04T19:35:02Z",
-    "https://cointelegraph.com/news/pineapple-financial-puts-1b-in-mortgage-records-on-injective": "2026-09-04T19:49:17Z"
+    "https://cointelegraph.com/news/pineapple-financial-puts-1b-in-mortgage-records-on-injective": "2026-09-04T19:49:17Z",
+    "https://decrypt.co/?p=377483": "2026-09-04T20:38:01Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2639,22 +2640,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3159934",
-      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-01T22:08:24Z",
-      "score": 6,
-      "category": "Business & Funding",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "AfterQuery soll laut einem Bericht Y Combinators schnellstes Einhorn aller Zeiten sein und wird nun mit 3,2 Mrd. US-Dollar bewertet. Die hohe Bewertung zeigt anhaltend starke Investorennachfrage nach KI-gestützten SaaS-Lösungen und verbessert die Finanzierungsperspektiven ähnlicher Start-ups. Für AfterQuery dürfte die Runde die Basis für eine weitere Expansion und spätere Folgefinanzierungen sein.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-01T23:12:40Z"
-    },
     {
       "id": "b010167b-7510-5358-8846-90c8e36d745d",
       "title": "Hyperliquid Strategies expands equity facility to $2.5 billion from $1 billion",
@@ -5859,6 +5844,20 @@
       "summary": "Pineapple Financial legt nach eigenen Angaben Hypothekenunterlagen im Wert von 1 Mrd. USD auf der Blockchain Injective ab. Die wachsende Nutzung der Blockchain für reale Finanzdaten stärkt das Narrativ der Tokenisierung realer Vermögenswerte. Für Bitcoin oder Ethereum sind kurzfristig keine direkten Folgen erkennbar, die Nachfrage nach Injective dürfte jedoch zunehmen.",
       "delivered": "digest",
       "delivered_at": "2026-09-04T20:14:51Z"
+    },
+    {
+      "id": "https://decrypt.co/?p=377483",
+      "title": "Polymarket Launches Crypto Perpetual Futures With Up to 20x Leverage",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-04T20:31:03Z",
+      "score": 6,
+      "category": "Tech Update",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Polymarket hat Krypto-Perpetual-Futures mit Hebel bis zu 20x eingeführt. Das neue Handelsangebot erhöht die spekulative Nachfrage und kann über höhere Volumina die Krypto-Märkte beeinflussen. Mit dem Start sind kurzfristig stärkere Preisausschläge wahrscheinlich, besonders bei hoch gehebelten Positionen."
     }
   ],
   "digest_log": [
