@@ -2669,7 +2669,8 @@
     "6a999f3f5d28a882aa86cd2f": "2026-09-03T22:07:37Z",
     "6a98628a0e1a07689023e3f9": "2026-09-03T22:07:37Z",
     "https://decrypt.co/?p=377370": "2026-09-03T22:23:40Z",
-    "https://cointelegraph.com/magazine/tether-sued-over-frozen-pig-butcher-coins-6600-students-get-crypto-loans-asia-express": "2026-09-04T00:11:53Z"
+    "https://cointelegraph.com/magazine/tether-sued-over-frozen-pig-butcher-coins-6600-students-get-crypto-loans-asia-express": "2026-09-04T00:11:53Z",
+    "https://techcrunch.com/?p=3160771": "2026-09-04T00:53:00Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2706,20 +2707,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise",
-      "title": "Kast launches stablecoin-powered business platform after $80M raise",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-09-01T13:00:00Z",
-      "score": 5,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Das Unternehmen Kast hat nach einer Finanzierungsrunde über 80 Millionen US-Dollar eine Stablecoin-basierte Geschäftsplattform für Unternehmen gestartet. Der Schritt stärkt die Nutzung von Stablecoins im Firmenkundengeschäft und die Nachfrage nach digitalen Zahlungsinfrastruktur. Die Plattform könnte die Akzeptanz von Stablecoins bei Unternehmen weiter vorantreiben; kurzfristig sind keine direkten Bewegungen an den großen Kryptopaaren zu erwarten."
-    },
     {
       "id": "https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck",
       "title": "Asia sees digital asset custody infrastructure deals from Ripple, Coincheck",
@@ -5943,6 +5930,20 @@
       ],
       "entities": [],
       "summary": "Tether wurde wegen eingefrorener Coins aus „Pig-Butcher“-Betrugsfällen verklagt, während in Asien 6.600 Studenten Krypto-Darlehen erhalten. Die Klage erhöht den regulatorischen Druck auf Tether und könnte das Vertrauen in Stablecoins sowie die gesamte Kryptomarktstimmung belasten. Erhöhte Unsicherheit und mögliche Kursreaktionen bei Bitcoin und der Stablecoin-Dominanz sind wahrscheinlich."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3160771",
+      "title": "Crusoe reportedly raises $3B at a $30B valuation",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-04T00:48:42Z",
+      "score": 7,
+      "category": "Business & Funding",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Crusoe sammelt einem Bericht zufolge 3 Mrd. US-Dollar bei einer Bewertung von 30 Mrd. US-Dollar ein. Der Kapitalzufluss stärkt den Ausbau von KI-Rechenzentrumsinfrastruktur und erhöht den Wettbewerb um Rechenkapazität. Für den AI-Infrastrukturmarkt sind beschleunigte Investitionen und wachsender Konkurrenzdruck zu erwarten."
     }
   ],
   "digest_log": [
