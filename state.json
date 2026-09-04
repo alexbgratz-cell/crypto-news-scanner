@@ -5760,7 +5760,9 @@
         "ETHUSD"
       ],
       "entities": [],
-      "summary": "Kryptofirmen fordern die US-Börsenaufsicht SEC auf, ETF-Prüfungen zu beschleunigen und vertrauliche Entwurfseinreichungen zu ermöglichen. Ein schnellerer Zulassungsprozess würde institutionellen Anlegern den Zugang zu Krypto-ETFs erleichtern und die Nachfrage nach Bitcoin und Ether stützen. Die SEC-Reaktion dürfte darüber entscheiden, ob weitere Krypto-ETF-Produkte auf den Markt kommen."
+      "summary": "Kryptofirmen fordern die US-Börsenaufsicht SEC auf, ETF-Prüfungen zu beschleunigen und vertrauliche Entwurfseinreichungen zu ermöglichen. Ein schnellerer Zulassungsprozess würde institutionellen Anlegern den Zugang zu Krypto-ETFs erleichtern und die Nachfrage nach Bitcoin und Ether stützen. Die SEC-Reaktion dürfte darüber entscheiden, ob weitere Krypto-ETF-Produkte auf den Markt kommen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-04T12:20:34Z"
     },
     {
       "id": "7f690b92-cf4e-5d68-acfa-4b9b4cc80a29",
@@ -5776,7 +5778,9 @@
         "BTCUSD"
       ],
       "entities": [],
-      "summary": "Der Internationale Währungsfonds (IWF) erklärte, dass El Salvador seit Juni 2025 keine öffentlichen Mittel mehr zum Aufbau von Bitcoin-Reserven verwendet hat. Die Aussage verringert die Erwartung weiterer staatlicher Bitcoin-Käufe durch El Salvador und dämpft die Wahrnehmung zusätzlicher institutioneller Nachfrage. Für die künftige Bitcoin-Politik des Landes bleiben die Vorgaben des IWF bestimmend."
+      "summary": "Der Internationale Währungsfonds (IWF) erklärte, dass El Salvador seit Juni 2025 keine öffentlichen Mittel mehr zum Aufbau von Bitcoin-Reserven verwendet hat. Die Aussage verringert die Erwartung weiterer staatlicher Bitcoin-Käufe durch El Salvador und dämpft die Wahrnehmung zusätzlicher institutioneller Nachfrage. Für die künftige Bitcoin-Politik des Landes bleiben die Vorgaben des IWF bestimmend.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-04T12:20:34Z"
     },
     {
       "id": "https://cointelegraph.com/news/kalshi-traffic-soars-regulatory-pressure-mounts",
@@ -5790,7 +5794,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Die US-Besucherzahlen der Prognoseplattform Kalshi sind laut Bericht um 1.500 Prozent gestiegen, während parallel der regulatorische Druck zunimmt. Das wachsende Interesse an Prognosemärkten stößt zunehmend auf behördliche Aufmerksamkeit, was das Geschäftsumfeld belasten könnte. Weitere regulatorische Schritte dürften die weitere Entwicklung von Kalshi und vergleichbaren Plattformen maßgeblich bestimmen."
+      "summary": "Die US-Besucherzahlen der Prognoseplattform Kalshi sind laut Bericht um 1.500 Prozent gestiegen, während parallel der regulatorische Druck zunimmt. Das wachsende Interesse an Prognosemärkten stößt zunehmend auf behördliche Aufmerksamkeit, was das Geschäftsumfeld belasten könnte. Weitere regulatorische Schritte dürften die weitere Entwicklung von Kalshi und vergleichbaren Plattformen maßgeblich bestimmen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-04T12:20:34Z"
     },
     {
       "id": "https://cointelegraph.com/news/trezor-data-breach-affects-67k-us-customers",
@@ -5804,7 +5810,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Trezor meldet einen Datenvorfall, der weitere 67.000 Kunden in den USA betrifft. Der Vorfall betrifft personenbezogene Daten von Hardware-Wallet-Nutzern und kann das Vertrauen in den Anbieter schwächen. Für Trezor und den Krypto-Sicherheitsmarkt sind negative Reaktionen und erhöhte Verunsicherung wahrscheinlich."
+      "summary": "Trezor meldet einen Datenvorfall, der weitere 67.000 Kunden in den USA betrifft. Der Vorfall betrifft personenbezogene Daten von Hardware-Wallet-Nutzern und kann das Vertrauen in den Anbieter schwächen. Für Trezor und den Krypto-Sicherheitsmarkt sind negative Reaktionen und erhöhte Verunsicherung wahrscheinlich.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-04T12:20:34Z"
     },
     {
       "id": "https://decrypt.co/?p=377389",
@@ -5818,7 +5826,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Die Datenpanne beim Hardware-Wallet-Anbieter Trezor weitet sich aus: Weitere 67.000 Kunden sind von dem Leck betroffen. Der Vorfall erhöht das Risiko gezielter Phishing-Angriffe und untergräbt das Vertrauen in die Sicherheit von Krypto-Hardware-Wallets. Als direkte Folge müssen betroffene Bestandskunden mit betrügerischen E-Mails und Identitätsmissbrauch rechnen."
+      "summary": "Die Datenpanne beim Hardware-Wallet-Anbieter Trezor weitet sich aus: Weitere 67.000 Kunden sind von dem Leck betroffen. Der Vorfall erhöht das Risiko gezielter Phishing-Angriffe und untergräbt das Vertrauen in die Sicherheit von Krypto-Hardware-Wallets. Als direkte Folge müssen betroffene Bestandskunden mit betrügerischen E-Mails und Identitätsmissbrauch rechnen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-04T12:20:34Z"
     },
     {
       "id": "c3dabf5c-e3fa-5de6-ba56-0ee170603205",
@@ -5832,7 +5842,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Der Hardware-Wallet-Anbieter Trezor teilt mit, dass der Datenvorfall beim Logistikdienstleister ShipMonk weitere 67.000 Kunden betrifft. Die Betroffenen sind einem erhöhten Risiko gezielter Phishing-Angriffe ausgesetzt, und das Vertrauen in die Sicherheit des Anbieters kann leiden. Betroffene Nutzer müssen mit betrügerischen E-Mails und versuchten Datenabgriffen rechnen."
+      "summary": "Der Hardware-Wallet-Anbieter Trezor teilt mit, dass der Datenvorfall beim Logistikdienstleister ShipMonk weitere 67.000 Kunden betrifft. Die Betroffenen sind einem erhöhten Risiko gezielter Phishing-Angriffe ausgesetzt, und das Vertrauen in die Sicherheit des Anbieters kann leiden. Betroffene Nutzer müssen mit betrügerischen E-Mails und versuchten Datenabgriffen rechnen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-04T12:20:34Z"
     }
   ],
   "digest_log": [
@@ -6901,6 +6913,17 @@
         "865a5223-2843-5a15-8895-62dc335cf27b",
         "https://decrypt.co/?p=377386",
         "https://cointelegraph.com/news/south-korean-regulators-tokenized-securities-roadmap"
+      ]
+    },
+    {
+      "at": "2026-09-04T12:20:34Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/kalshi-traffic-soars-regulatory-pressure-mounts",
+        "https://cointelegraph.com/news/trezor-data-breach-affects-67k-us-customers",
+        "https://decrypt.co/?p=377389",
+        "0c101622-30c9-59e2-9656-086135289a71",
+        "7f690b92-cf4e-5d68-acfa-4b9b4cc80a29",
+        "c3dabf5c-e3fa-5de6-ba56-0ee170603205"
       ]
     }
   ],
