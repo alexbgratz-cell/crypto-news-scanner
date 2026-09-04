@@ -2580,7 +2580,8 @@
     "https://cointelegraph.com/magazine/token-buybacks-are-booming-but-are-they-good-for-crypto-projects": "2026-09-04T13:39:35Z",
     "https://cointelegraph.com/news/revolut-openreserve-occ-approval-national-bank-crypto-plan": "2026-09-04T13:52:26Z",
     "https://techcrunch.com/?p=3160690": "2026-09-04T14:24:54Z",
-    "https://techcrunch.com/?p=3160870": "2026-09-04T14:52:26Z"
+    "https://techcrunch.com/?p=3160870": "2026-09-04T14:52:26Z",
+    "6a99cf877b162d837701baf2": "2026-09-04T15:07:37Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2617,20 +2618,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/kalshi-bans-politicians-insider-trading-bets-manipulation",
-      "title": "Kalshi issues first lifetime ban for Republican politician over insider bets",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-09-01T17:39:48Z",
-      "score": 5,
-      "category": "Regulation",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Die US-Wettplattform Kalshi hat erstmals einen republikanischen Politiker lebenslang gesperrt, weil er mit Insiderwissen Wetten platziert hat. Dieser Präzedenzfall erhöht den Druck auf Vorhersagemärkte wie Polymarket, klare Regeln gegen Insiderhandel durchzusetzen. Strengere Compliance-Auflagen und weitere Sanktionen in der Branche sind wahrscheinlich."
-    },
     {
       "id": "https://decrypt.co/?p=377068",
       "title": "Solana Treasury DeFi Development Corp Eyes $20 Million Raise to Buy More SOL",
@@ -5843,6 +5830,20 @@
         "GOOGL"
       ],
       "summary": "Google hat seinen KI-Assistenten Gemini Spark um eine Verwaltungsfunktion für die Google-Fotos-Bibliothek erweitert. Nutzer können Fotos damit direkt per KI organisieren, was die Nutzung von Gemini und die Bindung an Googles Ökosystem stärkt. Die Integration erhöht den praktischen Nutzen des Assistenten und festigt Googles Position im KI-Wettbewerb."
+    },
+    {
+      "id": "6a99cf877b162d837701baf2",
+      "title": "Who Cares if AI Is Conscious—It’s Basically Alive",
+      "url": null,
+      "stream": "ai",
+      "source": "Feed: Artificial Intelligence Latest",
+      "published": "2026-09-04T15:00:00Z",
+      "score": 4,
+      "category": "Society & Work",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Ein Meinungsbeitrag vertritt die These, dass KI unabhängig von der Frage nach Bewusstsein bereits als im Grunde lebendig betrachtet werden sollte. Der Artikel liefert keine technischen oder Marktdaten, sondern eine philosophische Einordnung ohne direkte Auswirkung auf die KI-Industrie. Eine konkrete Markt- oder Technologiefolge ist nicht ableitbar; der Beitrag bleibt eine gesellschaftliche Debatte ohne unmittelbare Konsequenz."
     }
   ],
   "digest_log": [
