@@ -2567,7 +2567,8 @@
     "https://cointelegraph.com/news/amc-ceo-criticizes-robinhoods-tokenized-stock": "2026-09-04T10:08:32Z",
     "6a974df9e160e2c30a556099": "2026-09-04T10:08:34Z",
     "865a5223-2843-5a15-8895-62dc335cf27b": "2026-09-04T10:25:43Z",
-    "https://decrypt.co/?p=377386": "2026-09-04T10:25:44Z"
+    "https://decrypt.co/?p=377386": "2026-09-04T10:25:44Z",
+    "https://cointelegraph.com/news/south-korean-regulators-tokenized-securities-roadmap": "2026-09-04T10:51:24Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2604,24 +2605,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-      "url": null,
-      "stream": "ai",
-      "source": "AI",
-      "published": "2026-09-01T16:00:00Z",
-      "score": 7,
-      "category": "Business & Funding",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "GOOGL"
-      ],
-      "summary": "Google stellt Google Pics vor, eine neue Funktion zur einfachen Bilderstellung und -bearbeitung in Google Workspace. Damit wird generative KI direkt in die Produktivitätsanwendungen des Unternehmens integriert und dessen KI-Produktangebot gestärkt. GOOGL dürfte von der engeren KI-Integration in Alltagsprodukte profitieren, während Wettbewerber ähnliche Funktionen nachziehen müssen.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-01T16:39:33Z"
-    },
     {
       "id": "https://techcrunch.com/?p=3159627",
       "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
@@ -5833,6 +5816,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Die US-Behörde FinCEN bringt Krypto-Betrug im Umfang von 12,7 Milliarden Dollar mit Scam-Zentren in Asien in Verbindung. Der Bericht verstärkt den regulatorischen Druck auf den Kryptosektor und kann das Vertrauen in Krypto-Zahlungen belasten. Strengere Compliance- und Meldeanforderungen für Dienstleister sind als Folge wahrscheinlich."
+    },
+    {
+      "id": "https://cointelegraph.com/news/south-korean-regulators-tokenized-securities-roadmap",
+      "title": "South Korean regulators introduce tokenized securities roadmap",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-04T10:42:10Z",
+      "score": 7,
+      "category": "Regulation",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Südkoreanische Regulierungsbehörden haben eine Roadmap für tokenisierte Wertpapiere eingeführt. Der Schritt schafft mehr rechtliche Klarheit und könnte die Einführung solcher digitalen Wertpapiere in Südkorea beschleunigen. Konkrete Umsetzungsregeln dürften folgen und dem Tokenisierungsmarkt weiteren Auftrieb geben."
     }
   ],
   "digest_log": [
