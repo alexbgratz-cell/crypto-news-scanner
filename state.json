@@ -5842,7 +5842,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "Polymarket hat Krypto-Perpetual-Futures mit Hebel bis zu 20x eingeführt. Das neue Handelsangebot erhöht die spekulative Nachfrage und kann über höhere Volumina die Krypto-Märkte beeinflussen. Mit dem Start sind kurzfristig stärkere Preisausschläge wahrscheinlich, besonders bei hoch gehebelten Positionen."
+      "summary": "Polymarket hat Krypto-Perpetual-Futures mit Hebel bis zu 20x eingeführt. Das neue Handelsangebot erhöht die spekulative Nachfrage und kann über höhere Volumina die Krypto-Märkte beeinflussen. Mit dem Start sind kurzfristig stärkere Preisausschläge wahrscheinlich, besonders bei hoch gehebelten Positionen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-04T21:14:23Z"
     },
     {
       "id": "https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k",
@@ -5858,7 +5860,9 @@
         "BTCUSD"
       ],
       "entities": [],
-      "summary": "Überraschende US-Arbeitsmarktdaten (Nonfarm Payrolls) haben Bitcoin wieder unter 80.000 USD gedrückt. Stärkere Konjunkturdaten dämpfen die Erwartung an Zinssenkungen und belasten dadurch riskante Anlagen wie Kryptowährungen. Bitcoin dürfte kurzfristig von weiteren makroökonomischen Daten und der nächsten Zinsentscheidung der Fed abhängen; erhöhte Volatilität ist wahrscheinlich."
+      "summary": "Überraschende US-Arbeitsmarktdaten (Nonfarm Payrolls) haben Bitcoin wieder unter 80.000 USD gedrückt. Stärkere Konjunkturdaten dämpfen die Erwartung an Zinssenkungen und belasten dadurch riskante Anlagen wie Kryptowährungen. Bitcoin dürfte kurzfristig von weiteren makroökonomischen Daten und der nächsten Zinsentscheidung der Fed abhängen; erhöhte Volatilität ist wahrscheinlich.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-04T21:14:23Z"
     }
   ],
   "digest_log": [
@@ -6993,6 +6997,13 @@
       "article_ids": [
         "https://cointelegraph.com/news/fincen-crypto-overseas-scam-centers-analysis",
         "https://cointelegraph.com/news/pineapple-financial-puts-1b-in-mortgage-records-on-injective"
+      ]
+    },
+    {
+      "at": "2026-09-04T21:14:23Z",
+      "article_ids": [
+        "https://decrypt.co/?p=377483",
+        "https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k"
       ]
     }
   ],
