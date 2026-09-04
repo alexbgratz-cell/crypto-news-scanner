@@ -5821,7 +5821,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "US-Präsident Trump äußerte den Wunsch, dass die dezentrale Handelsplattform Hyperliquid in die USA kommt, und der Beitrag erläutert denkbare Wege dorthin. Ein US-Markteintritt würde US-Anlegern Zugang zur Plattform eröffnen und als positives regulatorisches Signal für das DeFi-Umfeld wirken. Ob es dazu kommt, hängt von der konkreten regulatorischen Umsetzung ab; weitere Details bleiben offen."
+      "summary": "US-Präsident Trump äußerte den Wunsch, dass die dezentrale Handelsplattform Hyperliquid in die USA kommt, und der Beitrag erläutert denkbare Wege dorthin. Ein US-Markteintritt würde US-Anlegern Zugang zur Plattform eröffnen und als positives regulatorisches Signal für das DeFi-Umfeld wirken. Ob es dazu kommt, hängt von der konkreten regulatorischen Umsetzung ab; weitere Details bleiben offen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-04T19:11:59Z"
     },
     {
       "id": "https://decrypt.co/?p=377461",
@@ -5835,7 +5837,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "Robinhood zeigt sich im Streit mit AMC über Aktien-Token unnachgiebig und kontert mit der Ankündigung, Anwälte einzuschalten. Der Rechtskonflikt um tokenisierte Aktien schafft Rechtsunsicherheit für Krypto-Börsen, die ähnliche Produkte anbieten. Eine gerichtliche Eskalation ist wahrscheinlich und könnte die Regulierung tokenisierter Wertpapiere prägen."
+      "summary": "Robinhood zeigt sich im Streit mit AMC über Aktien-Token unnachgiebig und kontert mit der Ankündigung, Anwälte einzuschalten. Der Rechtskonflikt um tokenisierte Aktien schafft Rechtsunsicherheit für Krypto-Börsen, die ähnliche Produkte anbieten. Eine gerichtliche Eskalation ist wahrscheinlich und könnte die Regulierung tokenisierter Wertpapiere prägen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-04T19:11:59Z"
     },
     {
       "id": "https://www.technologyreview.com/?p=1140872",
@@ -6970,6 +6974,13 @@
       "article_ids": [
         "https://decrypt.co/?p=377458",
         "https://cointelegraph.com/news/national-sheriffs-association-clarity-act-neutral"
+      ]
+    },
+    {
+      "at": "2026-09-04T19:11:59Z",
+      "article_ids": [
+        "https://decrypt.co/?p=377461",
+        "72535f1d-d6bd-5099-807f-56ce1844cd45"
       ]
     }
   ],
