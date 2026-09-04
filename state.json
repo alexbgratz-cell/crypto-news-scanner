@@ -5842,7 +5842,9 @@
         "ETHUSD"
       ],
       "entities": [],
-      "summary": "Der Kryptomarkt verzeichnet einer Meldung zufolge eine größere Rally, die durch Hoffnungen auf Zinssenkungen ausgelöst wird. Niedrigere Zinsen gelten als Liquiditätstreiber und stützen risikoreiche Anlagen wie Bitcoin und Ethereum. Eine Fortsetzung der Erholung ist wahrscheinlich, falls die nächsten Konjunkturdaten die Zinserwartungen bestätigen."
+      "summary": "Der Kryptomarkt verzeichnet einer Meldung zufolge eine größere Rally, die durch Hoffnungen auf Zinssenkungen ausgelöst wird. Niedrigere Zinsen gelten als Liquiditätstreiber und stützen risikoreiche Anlagen wie Bitcoin und Ethereum. Eine Fortsetzung der Erholung ist wahrscheinlich, falls die nächsten Konjunkturdaten die Zinserwartungen bestätigen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-04T13:15:43Z"
     }
   ],
   "digest_log": [
@@ -6922,6 +6924,12 @@
         "0c101622-30c9-59e2-9656-086135289a71",
         "7f690b92-cf4e-5d68-acfa-4b9b4cc80a29",
         "c3dabf5c-e3fa-5de6-ba56-0ee170603205"
+      ]
+    },
+    {
+      "at": "2026-09-04T13:15:43Z",
+      "article_ids": [
+        "https://decrypt.co/?p=377393"
       ]
     }
   ],
