@@ -1,27 +1,27 @@
 {
   "instruments": {
     "BTCUSD": {
-      "value": 79751,
-      "change_24h": -1.97,
+      "value": 79818,
+      "change_24h": -2.18,
       "group": "Direkte Korrelation"
     },
     "ETHUSD": {
-      "value": 2453.01,
-      "change_24h": -1.95,
+      "value": 2455.08,
+      "change_24h": -2.17,
       "group": "Direkte Korrelation"
     },
     "SOLUSD": {
-      "value": 101.8,
-      "change_24h": -2.9,
+      "value": 101.86,
+      "change_24h": -3.27,
       "group": "Direkte Korrelation"
     },
     "ETHBTC": {
       "value": 0.030758,
-      "change_24h": 0.02,
+      "change_24h": 0.01,
       "group": "Kapitalrotation"
     },
     "BTC.D": {
-      "value": 59.22,
+      "value": 59.23,
       "change_24h": null,
       "group": "Liquidität & Sentiment"
     },
@@ -52,12 +52,12 @@
       "group": "Derivate"
     },
     "MEMPOOL": {
-      "value": 89110.0,
+      "value": 89630.0,
       "change_24h": null,
       "group": "On-Chain"
     },
     "MO30": {
-      "value": 26.95,
+      "value": 27.06,
       "change_24h": null,
       "group": "On-Chain"
     },
@@ -87,5 +87,5 @@
       "group": "TradFi/Makro"
     }
   },
-  "timestamp": "2026-09-04T21:07:38Z"
+  "timestamp": "2026-09-04T21:23:25Z"
 }
