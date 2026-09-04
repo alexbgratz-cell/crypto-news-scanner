@@ -5840,7 +5840,9 @@
         "BTCUSD"
       ],
       "entities": [],
-      "summary": "FinCEN bringt in einem Bericht Krypto-Betrügereien in Höhe von rund 13 Mrd. US-Dollar mit nicht in den USA ansässigen Betreibern in Verbindung. Der Bericht erhöht den regulatorischen Druck auf den Kryptomarkt und belastet das Vertrauen in digitale Vermögenswerte. Es ist mit verschärften US-Regelungen und verstärkten Ermittlungen gegen ausländische Krypto-Dienstleister zu rechnen."
+      "summary": "FinCEN bringt in einem Bericht Krypto-Betrügereien in Höhe von rund 13 Mrd. US-Dollar mit nicht in den USA ansässigen Betreibern in Verbindung. Der Bericht erhöht den regulatorischen Druck auf den Kryptomarkt und belastet das Vertrauen in digitale Vermögenswerte. Es ist mit verschärften US-Regelungen und verstärkten Ermittlungen gegen ausländische Krypto-Dienstleister zu rechnen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-04T20:14:51Z"
     },
     {
       "id": "https://cointelegraph.com/news/pineapple-financial-puts-1b-in-mortgage-records-on-injective",
@@ -5854,7 +5856,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Pineapple Financial legt nach eigenen Angaben Hypothekenunterlagen im Wert von 1 Mrd. USD auf der Blockchain Injective ab. Die wachsende Nutzung der Blockchain für reale Finanzdaten stärkt das Narrativ der Tokenisierung realer Vermögenswerte. Für Bitcoin oder Ethereum sind kurzfristig keine direkten Folgen erkennbar, die Nachfrage nach Injective dürfte jedoch zunehmen."
+      "summary": "Pineapple Financial legt nach eigenen Angaben Hypothekenunterlagen im Wert von 1 Mrd. USD auf der Blockchain Injective ab. Die wachsende Nutzung der Blockchain für reale Finanzdaten stärkt das Narrativ der Tokenisierung realer Vermögenswerte. Für Bitcoin oder Ethereum sind kurzfristig keine direkten Folgen erkennbar, die Nachfrage nach Injective dürfte jedoch zunehmen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-04T20:14:51Z"
     }
   ],
   "digest_log": [
@@ -6982,6 +6986,13 @@
       "article_ids": [
         "https://decrypt.co/?p=377461",
         "72535f1d-d6bd-5099-807f-56ce1844cd45"
+      ]
+    },
+    {
+      "at": "2026-09-04T20:14:51Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/fincen-crypto-overseas-scam-centers-analysis",
+        "https://cointelegraph.com/news/pineapple-financial-puts-1b-in-mortgage-records-on-injective"
       ]
     }
   ],
