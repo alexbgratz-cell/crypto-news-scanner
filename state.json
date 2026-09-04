@@ -2579,7 +2579,8 @@
     "https://decrypt.co/?p=377393": "2026-09-04T12:54:22Z",
     "https://cointelegraph.com/magazine/token-buybacks-are-booming-but-are-they-good-for-crypto-projects": "2026-09-04T13:39:35Z",
     "https://cointelegraph.com/news/revolut-openreserve-occ-approval-national-bank-crypto-plan": "2026-09-04T13:52:26Z",
-    "https://techcrunch.com/?p=3160690": "2026-09-04T14:24:54Z"
+    "https://techcrunch.com/?p=3160690": "2026-09-04T14:24:54Z",
+    "https://techcrunch.com/?p=3160870": "2026-09-04T14:52:26Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2616,22 +2617,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/sec-proposes-transfer-agent-overhaul-as-securities-move-onchain",
-      "title": "SEC proposes broad update to decades-old transfer agent rules with blockchain nod",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-09-01T17:52:51Z",
-      "score": 7,
-      "category": "Regulation",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Die SEC hat einen umfassenden Vorschlag zur Modernisierung jahrzehntealter Transferagent-Regeln vorgelegt, der ausdrücklich Blockchain-Technologie berücksichtigt. Der Schritt signalisiert regulatorische Öffnung gegenüber tokenisierten Wertpapieren und könnte die Abwicklung von Wertpapieren auf Distributed-Ledger-Basis erleichtern. Falls die Regeln final verabschiedet werden, dürften Emittenten und Marktinfrastrukturen mehr Rechtssicherheit für Onchain-Wertpapiere erhalten.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-01T18:18:05Z"
-    },
     {
       "id": "https://cointelegraph.com/news/kalshi-bans-politicians-insider-trading-bets-manipulation",
       "title": "Kalshi issues first lifetime ban for Republican politician over insider bets",
@@ -5842,6 +5827,22 @@
       "instruments": [],
       "entities": [],
       "summary": "TechCrunch weist darauf hin, dass die Bewerbungsfrist für Side Events im Rahmen der TechCrunch Disrupt 2026 in weniger als 24 Stunden endet. Die Meldung ist organisatorischer Natur und enthält keine Angaben zu neuen KI-Produkten, Forschungsergebnissen oder Marktbewegungen. Für die KI-Branche ergibt sich daraus keine unmittelbare Marktwirkung."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3160870",
+      "title": "Google’s Gemini Spark can now manage your Google Photos library",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-04T14:47:11Z",
+      "score": 7,
+      "category": "Business & Funding",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "GOOGL"
+      ],
+      "summary": "Google hat seinen KI-Assistenten Gemini Spark um eine Verwaltungsfunktion für die Google-Fotos-Bibliothek erweitert. Nutzer können Fotos damit direkt per KI organisieren, was die Nutzung von Gemini und die Bindung an Googles Ökosystem stärkt. Die Integration erhöht den praktischen Nutzen des Assistenten und festigt Googles Position im KI-Wettbewerb."
     }
   ],
   "digest_log": [
