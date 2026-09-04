@@ -5943,7 +5943,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Crusoe sammelt einem Bericht zufolge 3 Mrd. US-Dollar bei einer Bewertung von 30 Mrd. US-Dollar ein. Der Kapitalzufluss stärkt den Ausbau von KI-Rechenzentrumsinfrastruktur und erhöht den Wettbewerb um Rechenkapazität. Für den AI-Infrastrukturmarkt sind beschleunigte Investitionen und wachsender Konkurrenzdruck zu erwarten."
+      "summary": "Crusoe sammelt einem Bericht zufolge 3 Mrd. US-Dollar bei einer Bewertung von 30 Mrd. US-Dollar ein. Der Kapitalzufluss stärkt den Ausbau von KI-Rechenzentrumsinfrastruktur und erhöht den Wettbewerb um Rechenkapazität. Für den AI-Infrastrukturmarkt sind beschleunigte Investitionen und wachsender Konkurrenzdruck zu erwarten.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-04T01:12:14Z"
     }
   ],
   "digest_log": [
@@ -6980,6 +6982,12 @@
         "https://decrypt.co/?p=377363",
         "https://www.marktechpost.com/?p=82071",
         "6a999f3f5d28a882aa86cd2f"
+      ]
+    },
+    {
+      "at": "2026-09-04T01:12:14Z",
+      "article_ids": [
+        "https://techcrunch.com/?p=3160771"
       ]
     }
   ],
