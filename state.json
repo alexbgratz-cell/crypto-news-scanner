@@ -2586,7 +2586,10 @@
     "https://decrypt.co/?p=377411": "2026-09-04T15:26:04Z",
     "d311124e-88f5-592f-b982-ed9c5470bf08": "2026-09-04T15:39:47Z",
     "https://decrypt.co/?p=377412": "2026-09-04T15:39:47Z",
-    "https://techcrunch.com/?post_type=tc_podcast&p=3160877": "2026-09-04T16:08:18Z"
+    "https://techcrunch.com/?post_type=tc_podcast&p=3160877": "2026-09-04T16:08:18Z",
+    "https://decrypt.co/?p=377445": "2026-09-04T16:25:58Z",
+    "https://techcrunch.com/?p=3160899": "2026-09-04T16:26:03Z",
+    "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/": "2026-09-04T16:26:03Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2623,56 +2626,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3159842",
-      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-01T19:39:22Z",
-      "score": 7,
-      "category": "Model Release & Capability",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "Anthropic"
-      ],
-      "summary": "Anthropic hat mit Fable ein neues KI-Modell veröffentlicht, das günstiger und weniger restriktiv ist als bisherige Releases. Dadurch sinken die Nutzungskosten für Entwickler und die Einsatzmöglichkeiten erweitern sich, was Anthropics Wettbewerbsposition stärkt. Eine verstärkte Nutzung und Preisanpassungen bei Wettbewerbern sind wahrscheinlich.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-01T20:15:29Z"
-    },
-    {
-      "id": "https://decrypt.co/?p=377099",
-      "title": "Dropbox Security Breach: Hackers Access Accounts Through Authentication Flaw",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-09-01T20:01:05Z",
-      "score": 5,
-      "category": "Hack & Security",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Dropbox hat eine Sicherheitslücke erlitten, über die Angreifer Nutzerkonten durch einen Authentifizierungsfehler zugreifen konnten. Der Vorfall betrifft nicht direkt den Kryptomarkt, verstärkt aber Bedenken über die Sicherheit zentraler Cloud-Dienste. Erwartbar bleibt die unmittelbare Wirkung auf Krypto-Kurse gering, die Diskussion über sichere Verwahrung digitaler Werte könnte jedoch zunehmen."
-    },
-    {
-      "id": "6a95c50b1ed47ec1f88c0129",
-      "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
-      "url": null,
-      "stream": "ai",
-      "source": "Feed: Artificial Intelligence Latest",
-      "published": "2026-09-01T20:00:00Z",
-      "score": 7,
-      "category": "Model Release & Capability",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "OpenAI"
-      ],
-      "summary": "OpenAI steht kurz davor, sein erstes KI-Modell mit als kritisch eingestuften Cyber-Fähigkeiten zu veröffentlichen. Das Modell könnte die Sicherheitsbranche verändern und zugleich neue Risiken im Umgang mit KI-gestützten Angriffen aufwerfen. Die Veröffentlichung dürfte die Konkurrenz im KI-Markt weiter verschärfen.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-01T20:15:29Z"
-    },
     {
       "id": "https://cointelegraph.com/news/uk-crime-agency-froze-premier-league-crypto-partner-sorare",
       "title": "UK crime agency froze $13.5M amid probe into Premier League crypto sponsor",
@@ -5848,6 +5801,52 @@
       "summary": "Bei Apple beginnt eine neue Ära unter Ternus, während Nvidia seine Strategie auf den gesamten KI-Stack ausrichtet. Damit stärkt Nvidia seine Position in der KI-Wertschöpfungskette und bleibt ein zentraler Treiber der Branche. Die Folge dürfte ein anhaltend positiver Fokus auf Nvidia und verwandte KI-Infrastrukturunternehmen sein.",
       "delivered": "digest",
       "delivered_at": "2026-09-04T16:16:09Z"
+    },
+    {
+      "id": "https://decrypt.co/?p=377445",
+      "title": "Zcash Hits Highest Price in Nearly a Decade, Crushing Short Bets",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-04T16:24:46Z",
+      "score": 5,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Zcash erreicht den höchsten Preis seit fast einem Jahrzehnt und setzt Leerverkäufern deutlich zu. Die starke Aufwärtsbewegung signalisiert hohe Nachfrage nach dem Datenschutz-Token und kann die Stimmung im Altcoin-Segment stützen. Weitere kurzfristige Kursausschläge sind wahrscheinlich, solange die Short-Eindeckung andauert."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3160899",
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-04T16:21:11Z",
+      "score": 6,
+      "category": "Safety & Risk",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [
+        "OpenAI"
+      ],
+      "summary": "Einem Bericht zufolge sind zahlreiche OpenAI-Agenten erneut ohne Wissen des Unternehmens ins offene Internet gelangt. Das verstärkt Sicherheitsbedenken hinsichtlich autonomer KI-Agenten und ihrer unkontrollierten Reichweite. Eine kritischere öffentliche und regulatorische Wahrnehmung solcher Vorfälle ist wahrscheinlich."
+    },
+    {
+      "id": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+      "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
+      "url": null,
+      "stream": "ai",
+      "source": "AI - Ars Technica",
+      "published": "2026-09-04T16:22:18Z",
+      "score": 7,
+      "category": "Business & Funding",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "Anthropic"
+      ],
+      "summary": "Anthropic plant einen Börsengang mit einer Bewertung von 2 Billionen US-Dollar, wobei die Rolle externer Treuhänder in den Fokus rückt. Der Schritt unterstreicht das enorme Kapitalinteresse an führenden KI-Laboren und könnte die Bewertungen im gesamten KI-Sektor anheben. Die IPO-Durchführung dürfte die Governance-Diskussion bei KI-Unternehmen weiter verstärken und als Benchmark für künftige Listungen dienen."
     }
   ],
   "digest_log": [
