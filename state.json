@@ -2563,7 +2563,9 @@
     "1ffa6d06-3cf5-5319-94b0-dbb04e3f3184": "2026-09-04T08:54:04Z",
     "https://decrypt.co/?p=377378": "2026-09-04T09:39:29Z",
     "70050b58-2417-5cab-a51a-0fd90a6d5986": "2026-09-04T09:52:25Z",
-    "https://www.technologyreview.com/?p=1143452": "2026-09-04T09:52:27Z"
+    "https://www.technologyreview.com/?p=1143452": "2026-09-04T09:52:27Z",
+    "https://cointelegraph.com/news/amc-ceo-criticizes-robinhoods-tokenized-stock": "2026-09-04T10:08:32Z",
+    "6a974df9e160e2c30a556099": "2026-09-04T10:08:34Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2600,36 +2602,6 @@
     }
   },
   "articles": [
-    {
-      "id": "137b296f-8a4f-52d8-9392-9bc8b511a928",
-      "title": "Cango shares plunge 20% after bitcoin miner reports $81.6 million Q2 loss",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-09-01T15:48:19Z",
-      "score": 5,
-      "category": "Other",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Cango-Aktien fallen um 20 Prozent, nachdem der Bitcoin-Miner für das zweite Quartal einen Verlust von 81,6 Millionen US-Dollar gemeldet hat. Der Verlust belastet die Stimmung im Krypto-Mining-Sektor und deutet auf schwierige Ertragsbedingungen hin. Weitere Kursverluste bei Cango sind wahrscheinlich, der Sektor bleibt unter Druck."
-    },
-    {
-      "id": "https://cointelegraph.com/news/ethena-launches-usde-powered-money-app-across-48-countries",
-      "title": "Ethena launches USDe payments app, offers 6% rewards",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-09-01T16:06:58Z",
-      "score": 6,
-      "category": "Tech Update",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Ethena hat eine auf USDe basierende Payments-App in 48 Ländern gestartet und lockt mit 6% Belohnungen. Die App erweitert die Nutzung des synthetischen Stablecoins im Alltagszahlungsverkehr und stärkt damit das Ethena-Ökosystem. Die erhöhte Akzeptanz dürfte die Nachfrage nach USDe stützen, ein unmittelbarer Preiseffekt auf große Kryptowährungen ist jedoch nicht zu erwarten.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-01T16:39:33Z"
-    },
     {
       "id": "https://decrypt.co/?p=377048",
       "title": "X Data Breach? Users Are Getting Flooded With Password Reset Emails Nobody Requested",
@@ -5831,6 +5803,34 @@
       "instruments": [],
       "entities": [],
       "summary": "Drohnendaten aus dem Ukraine-Krieg werden auf einem neu entstandenen, weitgehend unregulierten Marktplatz gehandelt. Diese Entwicklung betrifft die KI-Branche, weil solche Daten Analyse- und Trainingsanwendungen ermöglichen, aber zugleich Sicherheits- und Privatsphärerisiken schaffen. Ohne Regulierung dürfte sich der Handel mit Kriegsdaten weiter ausbreiten."
+    },
+    {
+      "id": "https://cointelegraph.com/news/amc-ceo-criticizes-robinhoods-tokenized-stock",
+      "title": "AMC chief criticizes Robinhood’s tokenized stock plan",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-04T09:56:52Z",
+      "score": 4,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Der AMC-Chef kritisiert den Plan von Robinhood, tokenisierte Aktien anzubieten. Die Kritik eines prominenten US-Managers könnte die Debatte über die rechtliche Einordnung solcher Wertpapiere verstärken. Eine direkte Kursreaktion an den Kryptomärkten ist daraus nicht zu erwarten."
+    },
+    {
+      "id": "6a974df9e160e2c30a556099",
+      "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
+      "url": null,
+      "stream": "ai",
+      "source": "Feed: Artificial Intelligence Latest",
+      "published": "2026-09-04T10:00:00Z",
+      "score": 4,
+      "category": "Society & Work",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Der Artikel behauptet, der KI-Einsatz am Arbeitsmarkt erzeuge eine endlose Abwärtsspirale. Konkrete Ereignisse, Zahlen oder Studien werden nicht genannt. Eine unmittelbare Marktwirkung ist nicht abzuleiten; negative Schlagzeilen über Beschäftigungseffekte könnten die Diskussion prägen."
     }
   ],
   "digest_log": [
