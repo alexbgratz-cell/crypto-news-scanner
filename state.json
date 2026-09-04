@@ -2577,7 +2577,8 @@
     "c3dabf5c-e3fa-5de6-ba56-0ee170603205": "2026-09-04T12:10:41Z",
     "https://decrypt.co/?p=377392": "2026-09-04T12:31:36Z",
     "https://decrypt.co/?p=377393": "2026-09-04T12:54:22Z",
-    "https://cointelegraph.com/magazine/token-buybacks-are-booming-but-are-they-good-for-crypto-projects": "2026-09-04T13:39:35Z"
+    "https://cointelegraph.com/magazine/token-buybacks-are-booming-but-are-they-good-for-crypto-projects": "2026-09-04T13:39:35Z",
+    "https://cointelegraph.com/news/revolut-openreserve-occ-approval-national-bank-crypto-plan": "2026-09-04T13:52:26Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2614,24 +2615,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "url": null,
-      "stream": "ai",
-      "source": "OpenAI News",
-      "published": "2026-09-01T12:00:00Z",
-      "score": 6,
-      "category": "Business & Funding",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "OpenAI"
-      ],
-      "summary": "OpenAI hat angekündigt, dass Gesundheitsorganisationen nun elektronische Patientenakten (EHR) und weitere Branchendaten direkt an ChatGPT anbinden können. Damit erweitert OpenAI seine Plattform in einen regulierten, datensensiblen Bereich und stärkt seine Position im Enterprise-Markt Gesundheitswesen. Die Folge dürfte eine schnellere Integration von KI in klinische Arbeitsabläufe und wachsender Wettbewerbsdruck im Gesundheitssektor sein.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-01T18:18:05Z"
-    },
     {
       "id": "https://techcrunch.com/?p=3159727",
       "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
@@ -5846,6 +5829,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Krypto-Projekte erhöhen ihre Token-Rückkäufe, wobei die Wirksamkeit solcher Maßnahmen hinterfragt wird. Rückkäufe können kurzfristig das Angebot verknappen und Kurse stützen, bergen aber Risiken für Nachhaltigkeit und Glaubwürdigkeit. Marktteilnehmer dürften stärker auf reale Tokenomics und langfristige Fundamentaldaten achten."
+    },
+    {
+      "id": "https://cointelegraph.com/news/revolut-openreserve-occ-approval-national-bank-crypto-plan",
+      "title": "Revolut, OpenReserve get preliminary US bank approval with crypto plans",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-04T13:34:30Z",
+      "score": 7,
+      "category": "Regulation",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Revolut und OpenReserve haben von der US-Behörde OCC die vorläufige Genehmigung für eine nationale Banklizenz samt Krypto-Plänen erhalten. Damit könnten regulierte Bankdienstleistungen mit Krypto-Angeboten institutionell deutlich an Akzeptanz gewinnen. Der nächste entscheidende Schritt ist die endgültige Zulassung, die den Markt weiter beflügeln dürfte."
     }
   ],
   "digest_log": [
