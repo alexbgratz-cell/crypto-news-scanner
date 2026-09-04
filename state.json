@@ -2606,7 +2606,8 @@
     "https://decrypt.co/?p=377483": "2026-09-04T20:38:01Z",
     "https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k": "2026-09-04T20:49:11Z",
     "https://decrypt.co/?p=377486": "2026-09-04T21:23:22Z",
-    "https://techcrunch.com/?p=3160981": "2026-09-04T21:23:22Z"
+    "https://techcrunch.com/?p=3160981": "2026-09-04T21:23:22Z",
+    "https://decrypt.co/?p=377489": "2026-09-04T21:49:08Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2643,25 +2644,6 @@
     }
   },
   "articles": [
-    {
-      "id": "4368414f-8ea1-5f59-8d31-03401dee29f9",
-      "title": "G20 finance leaders vow to establish ‘clear pathways’ for digital assets innovation",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-09-02T04:43:52Z",
-      "score": 7,
-      "category": "Regulation",
-      "sentiment": "bullish",
-      "instruments": [
-        "BTCUSD",
-        "ETHUSD"
-      ],
-      "entities": [],
-      "summary": "Die G20-Finanzminister haben sich verpflichtet, klare Wege für Innovation bei digitalen Vermögenswerten zu schaffen. Das Signal internationaler Koordination dürfte Regulierungsunsicherheit verringern und das Vertrauen in Krypto-Anlagen stärken. Die konkreten Vorschläge der G20 werden richtungsweisend für die Marktentwicklung sein.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-02T05:13:56Z"
-    },
     {
       "id": "https://www.marktechpost.com/?p=82026",
       "title": "Perplexity Releases Hybrid Compute on Mac: Cloud Agents Orchestrate Down to a Local Model, Gated On Device",
@@ -5863,6 +5845,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Der KI-Compute-Anbieter Nscale sucht einem Bericht zufolge 3,5 Milliarden US-Dollar an Pre-IPO-Finanzierung. Die Kapitalspritze unterstreicht den wachsenden Bedarf an Recheninfrastruktur für KI-Modelle und stärkt Nscale vor einem möglichen Börsengang. Dadurch dürfte der Wettbewerb im KI-Compute-Markt weiter zunehmen."
+    },
+    {
+      "id": "https://decrypt.co/?p=377489",
+      "title": "TikTok's Parent Company Just Borrowed $30 Billion to Go All-In on AI",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-04T21:46:03Z",
+      "score": 7,
+      "category": "Business & Funding",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Der Mutterkonzern von TikTok hat sich 30 Milliarden US-Dollar geliehen, um sein KI-Geschäft massiv auszubauen. Der hohe Kredit signalisiert den wachsenden Kapitalbedarf im KI-Wettbewerb und verschärft den Konkurrenzdruck. Als Folge sind weiter steigende Milliarden-Investitionen in KI-Infrastruktur zu erwarten."
     }
   ],
   "digest_log": [
