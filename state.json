@@ -2573,7 +2573,8 @@
     "7f690b92-cf4e-5d68-acfa-4b9b4cc80a29": "2026-09-04T11:37:55Z",
     "https://cointelegraph.com/news/kalshi-traffic-soars-regulatory-pressure-mounts": "2026-09-04T11:37:56Z",
     "https://cointelegraph.com/news/trezor-data-breach-affects-67k-us-customers": "2026-09-04T11:37:56Z",
-    "https://decrypt.co/?p=377389": "2026-09-04T11:37:56Z"
+    "https://decrypt.co/?p=377389": "2026-09-04T11:37:56Z",
+    "c3dabf5c-e3fa-5de6-ba56-0ee170603205": "2026-09-04T12:10:41Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2610,22 +2611,6 @@
     }
   },
   "articles": [
-    {
-      "id": "36862779-86a7-5574-8c4a-cbec4f309a34",
-      "title": "SEC seeks to update its 1970s-era transfer agent rules for the blockchain age",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-09-01T17:16:01Z",
-      "score": 7,
-      "category": "Regulation",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Die US-Börsenaufsicht SEC will ihre Transfer-Agent-Regeln aus den 1970er-Jahren an das Blockchain-Zeitalter anpassen. Damit reagiert sie auf veränderte Marktstrukturen und schafft potenziell mehr regulatorische Klarheit für digitale Wertpapiere. Die konkreten Folgen hängen vom Regelungsentwurf und dem weiteren Verfahren ab.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-01T18:18:05Z"
-    },
     {
       "id": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
       "title": "Introducing agentic video understanding with Gemini",
@@ -5834,6 +5819,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Die Datenpanne beim Hardware-Wallet-Anbieter Trezor weitet sich aus: Weitere 67.000 Kunden sind von dem Leck betroffen. Der Vorfall erhöht das Risiko gezielter Phishing-Angriffe und untergräbt das Vertrauen in die Sicherheit von Krypto-Hardware-Wallets. Als direkte Folge müssen betroffene Bestandskunden mit betrügerischen E-Mails und Identitätsmissbrauch rechnen."
+    },
+    {
+      "id": "c3dabf5c-e3fa-5de6-ba56-0ee170603205",
+      "title": "Trezor says ShipMonk breach affected another 67,000 customers",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-09-04T12:03:16Z",
+      "score": 6,
+      "category": "Hack & Security",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Der Hardware-Wallet-Anbieter Trezor teilt mit, dass der Datenvorfall beim Logistikdienstleister ShipMonk weitere 67.000 Kunden betrifft. Die Betroffenen sind einem erhöhten Risiko gezielter Phishing-Angriffe ausgesetzt, und das Vertrauen in die Sicherheit des Anbieters kann leiden. Betroffene Nutzer müssen mit betrügerischen E-Mails und versuchten Datenabgriffen rechnen."
     }
   ],
   "digest_log": [
