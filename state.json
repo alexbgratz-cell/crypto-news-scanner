@@ -5788,7 +5788,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Südkorea hat angekündigt, ab 2027 in drei Phasen alle Arten von Wertpapieren zu tokenisieren. Die geplante Regulierung schafft Klarheit für Security Token und könnte die Blockchain-Adoption im institutionellen Bereich eines wichtigen asiatischen Marktes vorantreiben. Die Umsetzung ab 2027 wird die weitere Entwicklung des Tokenisierungsmarkts in Südkorea prägen."
+      "summary": "Südkorea hat angekündigt, ab 2027 in drei Phasen alle Arten von Wertpapieren zu tokenisieren. Die geplante Regulierung schafft Klarheit für Security Token und könnte die Blockchain-Adoption im institutionellen Bereich eines wichtigen asiatischen Marktes vorantreiben. Die Umsetzung ab 2027 wird die weitere Entwicklung des Tokenisierungsmarkts in Südkorea prägen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-04T10:16:03Z"
     },
     {
       "id": "https://www.technologyreview.com/?p=1143452",
@@ -6885,6 +6887,12 @@
       "at": "2026-09-04T07:15:11Z",
       "article_ids": [
         "https://cointelegraph.com/news/el-salvador-bitcoin-private-donations-imf"
+      ]
+    },
+    {
+      "at": "2026-09-04T10:16:03Z",
+      "article_ids": [
+        "70050b58-2417-5cab-a51a-0fd90a6d5986"
       ]
     }
   ],
