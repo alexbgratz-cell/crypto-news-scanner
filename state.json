@@ -2555,7 +2555,8 @@
     "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/": "2026-09-04T01:36:41Z",
     "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/": "2026-09-04T01:36:41Z",
     "https://www.marktechpost.com/?p=82075": "2026-09-04T01:36:41Z",
-    "https://techcrunch.com/?p=3160707": "2026-09-04T04:25:36Z"
+    "https://techcrunch.com/?p=3160707": "2026-09-04T04:25:36Z",
+    "https://cointelegraph.com/news/us-uk-joint-alliance-crypto-scam-centers": "2026-09-04T04:51:01Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2592,22 +2593,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/magazine/does-bitcoins-rally-mean-we-havent-wasted-our-lives-in-crypto",
-      "title": "Does the Bitcoin rally mean we haven’t wasted our lives in crypto?",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-09-01T13:30:00Z",
-      "score": 4,
-      "category": "Other",
-      "sentiment": "neutral",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "Cointelegraph Magazine veröffentlicht einen Meinungsbeitrag darüber, ob der jüngste Bitcoin-Anstieg die Jahre der Beschäftigung mit Krypto rechtfertigt. Der Artikel ist eine reflektierende Kolumne ohne neue Fakten, Zahlen oder Marktentscheidungen. Es sind keine direkten Marktauswirkungen zu erwarten, die nächste relevante Entwicklung bleibt die weitere Kursentwicklung von Bitcoin."
-    },
     {
       "id": "https://cointelegraph.com/news/fake-claude-desktop-app-spreads-crypto-stealing-malware",
       "title": "Fake Claude desktop app spreads crypto-stealing malware",
@@ -5829,6 +5814,20 @@
       "instruments": [],
       "entities": [],
       "summary": "TechCrunch beschreibt, dass KI-generierte Speisekarten zunehmend gleichförmig und wenig appetitlich wirken. Der Beitrag verdeutlicht eine kreative Schwäche aktueller Modelle, die sich auch auf andere KI-generierte Verbraucherinhalte auswirken kann. Für Anbieter solcher Dienste ist mit geringerer Akzeptanz zu rechnen, wenn sich die Inhalte nicht stärker differenzieren."
+    },
+    {
+      "id": "https://cointelegraph.com/news/us-uk-joint-alliance-crypto-scam-centers",
+      "title": "US, UK launch joint alliance targeting crypto scam centers",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-04T04:33:55Z",
+      "score": 7,
+      "category": "Regulation",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Die USA und Großbritannien haben eine gemeinsame Allianz gegen Krypto-Betrugszentren gestartet. Die Maßnahme erhöht den behördlichen Druck auf betrügerische Krypto-Anbieter und stärkt die internationale Zusammenarbeit bei Ermittlungen. Weitere gemeinsame Razzien und Strafverfolgungen gegen solche Plattformen dürften folgen."
     }
   ],
   "digest_log": [
