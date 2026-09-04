@@ -5829,7 +5829,9 @@
       "entities": [
         "GOOGL"
       ],
-      "summary": "Google hat seinen KI-Assistenten Gemini Spark um eine Verwaltungsfunktion für die Google-Fotos-Bibliothek erweitert. Nutzer können Fotos damit direkt per KI organisieren, was die Nutzung von Gemini und die Bindung an Googles Ökosystem stärkt. Die Integration erhöht den praktischen Nutzen des Assistenten und festigt Googles Position im KI-Wettbewerb."
+      "summary": "Google hat seinen KI-Assistenten Gemini Spark um eine Verwaltungsfunktion für die Google-Fotos-Bibliothek erweitert. Nutzer können Fotos damit direkt per KI organisieren, was die Nutzung von Gemini und die Bindung an Googles Ökosystem stärkt. Die Integration erhöht den praktischen Nutzen des Assistenten und festigt Googles Position im KI-Wettbewerb.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-04T15:15:43Z"
     },
     {
       "id": "6a99cf877b162d837701baf2",
@@ -6935,6 +6937,12 @@
       "at": "2026-09-04T14:15:02Z",
       "article_ids": [
         "https://cointelegraph.com/news/revolut-openreserve-occ-approval-national-bank-crypto-plan"
+      ]
+    },
+    {
+      "at": "2026-09-04T15:15:43Z",
+      "article_ids": [
+        "https://techcrunch.com/?p=3160870"
       ]
     }
   ],
