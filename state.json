@@ -2600,7 +2600,8 @@
     "72535f1d-d6bd-5099-807f-56ce1844cd45": "2026-09-04T18:39:18Z",
     "https://decrypt.co/?p=377461": "2026-09-04T18:39:19Z",
     "https://www.technologyreview.com/?p=1140872": "2026-09-04T19:06:41Z",
-    "https://decrypt.co/?p=377463": "2026-09-04T19:20:19Z"
+    "https://decrypt.co/?p=377463": "2026-09-04T19:20:19Z",
+    "https://cointelegraph.com/news/fincen-crypto-overseas-scam-centers-analysis": "2026-09-04T19:35:02Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2637,20 +2638,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://huggingface.co/blog/allenai/benchmirt",
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "url": null,
-      "stream": "ai",
-      "source": "Hugging Face - Blog",
-      "published": "2026-09-01T21:39:07Z",
-      "score": 5,
-      "category": "Research & Open Source",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "AllenAI veröffentlicht BenchMIRT, eine Analyse dazu, was LLM-Benchmarks tatsächlich messen und wo ihre Aussagekraft Grenzen hat. Die Ergebnisse sind für die Branche relevant, weil Benchmark-Ergebnisse maßgeblich über Modellvergleiche und Einschätzungen zur Leistungsfähigkeit entscheiden. Künftige Modellbewertungen könnten dadurch differenzierter interpretiert werden."
-    },
     {
       "id": "https://decrypt.co/?p=377135",
       "title": "OpenClaw 2.0 Is Here: What Changed, Why It Took Two Months, and How It Stacks Up Against Hermes",
@@ -5853,6 +5840,22 @@
       "instruments": [],
       "entities": [],
       "summary": "Auf der Handelsplattform Robinhood kombinieren Krypto-Händler Meme-Coins mit Aktien in ihren Portfolios, was laut Berichten teilweise funktioniert. Dies zeigt eine wachsende Integration von Krypto in klassische Brokerage-Angebote und könnte die Nachfrage nach Meme-Coins stützen. Die anhaltende Beliebtheit solcher Strategien dürfte die Volatilität bei Meme-Coins erhöhen."
+    },
+    {
+      "id": "https://cointelegraph.com/news/fincen-crypto-overseas-scam-centers-analysis",
+      "title": "FinCEN ties $13B in crypto scams to non-US operations",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-04T19:22:26Z",
+      "score": 6,
+      "category": "Regulation",
+      "sentiment": "bearish",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "FinCEN bringt in einem Bericht Krypto-Betrügereien in Höhe von rund 13 Mrd. US-Dollar mit nicht in den USA ansässigen Betreibern in Verbindung. Der Bericht erhöht den regulatorischen Druck auf den Kryptomarkt und belastet das Vertrauen in digitale Vermögenswerte. Es ist mit verschärften US-Regelungen und verstärkten Ermittlungen gegen ausländische Krypto-Dienstleister zu rechnen."
     }
   ],
   "digest_log": [
