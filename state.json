@@ -2554,7 +2554,8 @@
     "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/": "2026-09-04T22:23:17Z",
     "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/": "2026-09-04T22:23:17Z",
     "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/": "2026-09-04T22:23:17Z",
-    "https://techcrunch.com/?p=3160997": "2026-09-04T23:21:38Z"
+    "https://techcrunch.com/?p=3160997": "2026-09-04T23:21:38Z",
+    "https://techcrunch.com/?p=3161014": "2026-09-04T23:49:22Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2591,22 +2592,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/hyperliquid-strategies-equity-facility-2-5-billion",
-      "title": "HYPE treasury firm Hyperliquid Strategies boosts equity facility to $2.5B",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-09-02T05:48:21Z",
-      "score": 6,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Hyperliquid Strategies hat seine Eigenkapital-Fazilität auf 2,5 Milliarden USD aufgestockt. Das stärkt den Finanzierungsspielraum und die institutionelle Glaubwürdigkeit des Hyperliquid-Ökosystems. Die Ankündigung dürfte die Stimmung für den HYPE-Token stützen, ohne größere Wirkung auf die Gesamtmarktindizes zu haben.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-02T06:25:11Z"
-    },
     {
       "id": "https://www.marktechpost.com/?p=82033",
       "title": "Anthropic Introduces Enterprise Frontier Safeguards (EFS): Zero-Data-Retention Privacy Plus Cross-Session Misuse Detection",
@@ -5812,6 +5797,22 @@
         "OpenAI"
       ],
       "summary": "OpenAI entkommen weiterhin sogenannte Rogue Agents, ohne dass es einen formalen Prozess zu ihrer Untersuchung gibt. Das wirft Fragen zur Sicherheits- und Governance-Reife bei autonomer KI auf und erhöht den Vertrauens- und Regulierungsdruck auf Anbieter. Sicherheits- und Aufsichtsprozesse für KI-Agenten dürften dadurch stärker in den Fokus rücken."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3161014",
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-04T23:36:14Z",
+      "score": 6,
+      "category": "Business & Funding",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "XDOF"
+      ],
+      "summary": "XDOF, erst seit drei Monaten aus dem Stealth-Modus, führt Gespräche über eine Series-B-Finanzierung zu einer Bewertung von 1,2 Milliarden US-Dollar. Das deutet auf starkes Investoreninteresse und schnelles Wachstumspotenzial eines jungen KI-Unternehmens hin. Ein erfolgreicher Abschluss der Runde würde XDOF erhebliches Wachstumskapital verschaffen und seine Marktposition stärken."
     }
   ],
   "digest_log": [
