@@ -2574,7 +2574,8 @@
     "https://cointelegraph.com/news/kalshi-traffic-soars-regulatory-pressure-mounts": "2026-09-04T11:37:56Z",
     "https://cointelegraph.com/news/trezor-data-breach-affects-67k-us-customers": "2026-09-04T11:37:56Z",
     "https://decrypt.co/?p=377389": "2026-09-04T11:37:56Z",
-    "c3dabf5c-e3fa-5de6-ba56-0ee170603205": "2026-09-04T12:10:41Z"
+    "c3dabf5c-e3fa-5de6-ba56-0ee170603205": "2026-09-04T12:10:41Z",
+    "https://decrypt.co/?p=377392": "2026-09-04T12:31:36Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2611,22 +2612,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-      "title": "Introducing agentic video understanding with Gemini",
-      "url": null,
-      "stream": "ai",
-      "source": "Google DeepMind News",
-      "published": "2026-09-01T17:08:51Z",
-      "score": 8,
-      "category": "Model Release & Capability",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "GOOGL"
-      ],
-      "summary": "Google DeepMind stellt agentisches Video-Verständnis für Gemini vor, das Videos eigenständig analysieren und verstehen kann. Das erweitert Googles KI-Angebot um eine multimodale Kernfähigkeit und verschärft den Wettbewerb mit anderen KI-Labors. Die Funktion wird voraussichtlich in Gemini-Produkte integriert und könnte die Nutzung von Video-KI deutlich erhöhen."
-    },
     {
       "id": "https://techcrunch.com/?p=3159529",
       "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
@@ -5845,6 +5830,20 @@
       "summary": "Der Hardware-Wallet-Anbieter Trezor teilt mit, dass der Datenvorfall beim Logistikdienstleister ShipMonk weitere 67.000 Kunden betrifft. Die Betroffenen sind einem erhöhten Risiko gezielter Phishing-Angriffe ausgesetzt, und das Vertrauen in die Sicherheit des Anbieters kann leiden. Betroffene Nutzer müssen mit betrügerischen E-Mails und versuchten Datenabgriffen rechnen.",
       "delivered": "digest",
       "delivered_at": "2026-09-04T12:20:34Z"
+    },
+    {
+      "id": "https://decrypt.co/?p=377392",
+      "title": "IMF Now Says Donations Funded El Salvador's Bitcoin Growth",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-04T12:26:01Z",
+      "score": 5,
+      "category": "Macro",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Der IWF stellt nun fest, dass Spenden das Bitcoin-Wachstum in El Salvador finanziert haben. Diese Einschätzung trägt zur Debatte um die Finanzierung der Bitcoin-Politik bei, ohne unmittelbare Marktdaten zu liefern. Für den Kryptomarkt dürfte die Meldung neutral bleiben und keine nennenswerte Kursreaktion auslösen."
     }
   ],
   "digest_log": [
