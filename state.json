@@ -2589,7 +2589,8 @@
     "https://techcrunch.com/?post_type=tc_podcast&p=3160877": "2026-09-04T16:08:18Z",
     "https://decrypt.co/?p=377445": "2026-09-04T16:25:58Z",
     "https://techcrunch.com/?p=3160899": "2026-09-04T16:26:03Z",
-    "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/": "2026-09-04T16:26:03Z"
+    "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/": "2026-09-04T16:26:03Z",
+    "cc2dda2d-a089-528a-9c30-51d2d1d6e249": "2026-09-04T17:07:25Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2626,22 +2627,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/uk-crime-agency-froze-premier-league-crypto-partner-sorare",
-      "title": "UK crime agency froze $13.5M amid probe into Premier League crypto sponsor",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-09-01T20:14:12Z",
-      "score": 7,
-      "category": "Regulation",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Die britische Kriminalitätsbehörde hat im Rahmen einer Untersuchung 13,5 Millionen Dollar im Zusammenhang mit Sorare eingefroren, einer Krypto-Fantasy-Fußballplattform und Premier-League-Sponsor. Die Maßnahme erhöht den regulatorischen Druck auf Krypto- und NFT-Unternehmen und erzeugt Unsicherheit für deren Partnerschaften. Eine Belastung für Sorares Geschäftsbetrieb und Sponsoring-Verträge ist wahrscheinlich.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-01T21:14:50Z"
-    },
     {
       "id": "https://openai.com/index/path-to-astra",
       "title": "Path to Astra: critical capabilities and frontier safeguards",
@@ -5847,6 +5832,20 @@
         "Anthropic"
       ],
       "summary": "Anthropic plant einen Börsengang mit einer Bewertung von 2 Billionen US-Dollar, wobei die Rolle externer Treuhänder in den Fokus rückt. Der Schritt unterstreicht das enorme Kapitalinteresse an führenden KI-Laboren und könnte die Bewertungen im gesamten KI-Sektor anheben. Die IPO-Durchführung dürfte die Governance-Diskussion bei KI-Unternehmen weiter verstärken und als Benchmark für künftige Listungen dienen."
+    },
+    {
+      "id": "cc2dda2d-a089-528a-9c30-51d2d1d6e249",
+      "title": "Zcash tops $1,000 as ETF inflows ramp up and miners pile in",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-09-04T16:59:34Z",
+      "score": 7,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Zcash ist auf über 1.000 Dollar gestiegen; als Treiber gelten steigende ETF-Zuflüsse und eine erhöhte Mining-Aktivität. Diese Entwicklung deutet auf wachsende institutionelle Nachfrage hin, die das Preisniveau von Zcash stützt. Solange die Zuflüsse anhalten, dürfte die Rally Bestand haben, bei nachlassendem Momentum sind Rücksetzer wahrscheinlich."
     }
   ],
   "digest_log": [
