@@ -2596,7 +2596,9 @@
     "https://techcrunch.com/?post_type=tc_video&p=3160884": "2026-09-04T17:22:45Z",
     "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/": "2026-09-04T17:22:46Z",
     "https://cointelegraph.com/news/crypto-biz-bitcoin-miners-strategy-strive-bitmine-stablecoins": "2026-09-04T17:35:27Z",
-    "https://cointelegraph.com/news/qufi-launches-post-quantum-verification-platform-with-bitcoin-testnet-proof": "2026-09-04T17:35:27Z"
+    "https://cointelegraph.com/news/qufi-launches-post-quantum-verification-platform-with-bitcoin-testnet-proof": "2026-09-04T17:35:27Z",
+    "72535f1d-d6bd-5099-807f-56ce1844cd45": "2026-09-04T18:39:18Z",
+    "https://decrypt.co/?p=377461": "2026-09-04T18:39:19Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2633,42 +2635,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3159895",
-      "title": "Open AI’s Astra model is on the way—and very good at breaking into computer systems",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-01T21:06:24Z",
-      "score": 6,
-      "category": "Safety & Risk",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [
-        "OpenAI"
-      ],
-      "summary": "OpenAI kündigt sein Modell Astra an, das laut Bericht sehr gut darin ist, in Computersysteme einzudringen. Diese Fähigkeit könnte Sicherheitsbedenken verstärken und Debatten über Risiken und Regulierung von KI-Modellen anheizen. Erhöhte Aufmerksamkeit für Sicherheitstests und Governance ist die wahrscheinliche Folge.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-01T21:14:50Z"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3159905",
-      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-01T20:53:05Z",
-      "score": 6,
-      "category": "Society & Work",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [
-        "GOOGL"
-      ],
-      "summary": "Google kündigt ein Android-Update an, das Funktionen gegen Reisekrankheit, Verbesserungen zur Barrierefreiheit und weitere Neuerungen enthält. Für die Tech-Branche ist das eine breite Produktpflege, kein KI-Durchbruch; vor allem Nutzer mit Einschränkungen profitieren. Eine größere Marktreaktion ist nicht zu erwarten; relevant ist die offizielle Ausrollung des Updates.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-01T21:14:50Z"
-    },
     {
       "id": "https://cointelegraph.com/news/crypto-pac-protect-progress-spending-massachusetts-primary",
       "title": "Crypto-backed PAC scales back ad spending in Massachusetts primary",
@@ -5855,6 +5821,34 @@
       "instruments": [],
       "entities": [],
       "summary": "QuFi hat eine Post-Quanten-Verifikationsplattform gestartet und dafür einen Nachweis auf dem Bitcoin-Testnetz erbracht. Der Schritt zeigt Fortschritte bei quantenresistenter Sicherheit, hat aber vorerst keine Auswirkungen auf den Handel mit Bitcoin oder andere Marktdaten. Kurzfristig bleibt die Marktreaktion begrenzt, da die Technologie noch nicht im Bitcoin-Hauptnetz eingesetzt wird."
+    },
+    {
+      "id": "72535f1d-d6bd-5099-807f-56ce1844cd45",
+      "title": "President Trump says he wants Hyperliquid to enter the US — here’s how it could happen",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-09-04T18:35:21Z",
+      "score": 6,
+      "category": "Regulation",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "US-Präsident Trump äußerte den Wunsch, dass die dezentrale Handelsplattform Hyperliquid in die USA kommt, und der Beitrag erläutert denkbare Wege dorthin. Ein US-Markteintritt würde US-Anlegern Zugang zur Plattform eröffnen und als positives regulatorisches Signal für das DeFi-Umfeld wirken. Ob es dazu kommt, hängt von der konkreten regulatorischen Umsetzung ab; weitere Details bleiben offen."
+    },
+    {
+      "id": "https://decrypt.co/?p=377461",
+      "title": "'Send Your Lawyers': Robinhood Isn't Backing Down From AMC Over Stock Tokens",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-04T18:36:41Z",
+      "score": 7,
+      "category": "Regulation",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Robinhood zeigt sich im Streit mit AMC über Aktien-Token unnachgiebig und kontert mit der Ankündigung, Anwälte einzuschalten. Der Rechtskonflikt um tokenisierte Aktien schafft Rechtsunsicherheit für Krypto-Börsen, die ähnliche Produkte anbieten. Eine gerichtliche Eskalation ist wahrscheinlich und könnte die Regulierung tokenisierter Wertpapiere prägen."
     }
   ],
   "digest_log": [
