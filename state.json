@@ -5842,7 +5842,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Revolut und OpenReserve haben von der US-Behörde OCC die vorläufige Genehmigung für eine nationale Banklizenz samt Krypto-Plänen erhalten. Damit könnten regulierte Bankdienstleistungen mit Krypto-Angeboten institutionell deutlich an Akzeptanz gewinnen. Der nächste entscheidende Schritt ist die endgültige Zulassung, die den Markt weiter beflügeln dürfte."
+      "summary": "Revolut und OpenReserve haben von der US-Behörde OCC die vorläufige Genehmigung für eine nationale Banklizenz samt Krypto-Plänen erhalten. Damit könnten regulierte Bankdienstleistungen mit Krypto-Angeboten institutionell deutlich an Akzeptanz gewinnen. Der nächste entscheidende Schritt ist die endgültige Zulassung, die den Markt weiter beflügeln dürfte.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-04T14:15:02Z"
     }
   ],
   "digest_log": [
@@ -6928,6 +6930,12 @@
       "at": "2026-09-04T13:15:43Z",
       "article_ids": [
         "https://decrypt.co/?p=377393"
+      ]
+    },
+    {
+      "at": "2026-09-04T14:15:02Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/revolut-openreserve-occ-approval-national-bank-crypto-plan"
       ]
     }
   ],
