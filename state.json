@@ -5780,7 +5780,9 @@
         "DXY"
       ],
       "entities": [],
-      "summary": "Ein unerwartet starker US-Arbeitsmarktbericht hat die Wahrscheinlichkeit von Zinserhöhungen durch die Federal Reserve wieder steigen lassen und den Bitcoin-Kurs unter Druck gesetzt. Höhere Zinserwartungen stärken den Dollar und belasten risikoreiche Anlagen wie Kryptowährungen. Solange die Märkte diese Erwartung einpreisen, dürfte der Abwärtsdruck auf Bitcoin anhalten."
+      "summary": "Ein unerwartet starker US-Arbeitsmarktbericht hat die Wahrscheinlichkeit von Zinserhöhungen durch die Federal Reserve wieder steigen lassen und den Bitcoin-Kurs unter Druck gesetzt. Höhere Zinserwartungen stärken den Dollar und belasten risikoreiche Anlagen wie Kryptowährungen. Solange die Märkte diese Erwartung einpreisen, dürfte der Abwärtsdruck auf Bitcoin anhalten.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-04T16:16:09Z"
     },
     {
       "id": "https://decrypt.co/?p=377411",
@@ -5808,7 +5810,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Ripple weitet seinen Vorstoß im College-Sport aus und kündigt eine XRP-Partnerschaft in Florida an. Die Kooperation stärkt die Markenpräsenz von Ripple und XRP im US-Sportumfeld, ohne jedoch direkt die großen Krypto-Märkte zu beeinflussen. Kurzfristig ist mit keiner unmittelbaren Kursbewegung bei den abgedeckten Instrumenten zu rechnen."
+      "summary": "Ripple weitet seinen Vorstoß im College-Sport aus und kündigt eine XRP-Partnerschaft in Florida an. Die Kooperation stärkt die Markenpräsenz von Ripple und XRP im US-Sportumfeld, ohne jedoch direkt die großen Krypto-Märkte zu beeinflussen. Kurzfristig ist mit keiner unmittelbaren Kursbewegung bei den abgedeckten Instrumenten zu rechnen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-04T16:16:09Z"
     },
     {
       "id": "https://decrypt.co/?p=377412",
@@ -5841,7 +5845,9 @@
         "Nvidia",
         "Apple"
       ],
-      "summary": "Bei Apple beginnt eine neue Ära unter Ternus, während Nvidia seine Strategie auf den gesamten KI-Stack ausrichtet. Damit stärkt Nvidia seine Position in der KI-Wertschöpfungskette und bleibt ein zentraler Treiber der Branche. Die Folge dürfte ein anhaltend positiver Fokus auf Nvidia und verwandte KI-Infrastrukturunternehmen sein."
+      "summary": "Bei Apple beginnt eine neue Ära unter Ternus, während Nvidia seine Strategie auf den gesamten KI-Stack ausrichtet. Damit stärkt Nvidia seine Position in der KI-Wertschöpfungskette und bleibt ein zentraler Treiber der Branche. Die Folge dürfte ein anhaltend positiver Fokus auf Nvidia und verwandte KI-Infrastrukturunternehmen sein.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-04T16:16:09Z"
     }
   ],
   "digest_log": [
@@ -6939,6 +6945,14 @@
       "at": "2026-09-04T15:15:43Z",
       "article_ids": [
         "https://techcrunch.com/?p=3160870"
+      ]
+    },
+    {
+      "at": "2026-09-04T16:16:09Z",
+      "article_ids": [
+        "https://decrypt.co/?p=377414",
+        "d311124e-88f5-592f-b982-ed9c5470bf08",
+        "https://techcrunch.com/?post_type=tc_podcast&p=3160877"
       ]
     }
   ],
