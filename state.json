@@ -2668,7 +2668,8 @@
     "https://openai.com/index/gpt-4": "2026-09-03T22:07:36Z",
     "6a999f3f5d28a882aa86cd2f": "2026-09-03T22:07:37Z",
     "6a98628a0e1a07689023e3f9": "2026-09-03T22:07:37Z",
-    "https://decrypt.co/?p=377370": "2026-09-03T22:23:40Z"
+    "https://decrypt.co/?p=377370": "2026-09-03T22:23:40Z",
+    "https://cointelegraph.com/magazine/tether-sued-over-frozen-pig-butcher-coins-6600-students-get-crypto-loans-asia-express": "2026-09-04T00:11:53Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2705,22 +2706,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=377015",
-      "title": "South Korea Arrests Four Over Crypto Payments to Syrian Terror Group",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-09-01T12:16:24Z",
-      "score": 7,
-      "category": "Regulation",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Südkorea hat vier Personen festgenommen, die Krypto-Zahlungen an eine syrische Terrorgruppe geleistet haben sollen. Der Fall verdeutlicht die Nutzung digitaler Vermögenswerte für illegale Finanzströme und könnte strengere Regulierung sowie verstärkte Geldwäschekontrollen nach sich ziehen. Erhöhte aufsichtsrechtliche Aufmerksamkeit und neue Compliance-Anforderungen für Krypto-Anbieter sind wahrscheinlich.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-01T13:15:32Z"
-    },
     {
       "id": "https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise",
       "title": "Kast launches stablecoin-powered business platform after $80M raise",
@@ -5941,6 +5926,23 @@
       "instruments": [],
       "entities": [],
       "summary": "Utah ist der erste US-Bundesstaat, der im Rahmen der Altersverifizierung gezielt gegen VPNs vorgeht. Die Maßnahme könnte den anonymen Zugang zum Internet einschränken, was indirekt auch Krypto-Nutzer betrifft, die VPNs zur Umgehung geografischer Beschränkungen einsetzen. Für den Kryptomarkt selbst ist die direkte Wirkung gering, weshalb keine nennenswerte Marktreaktion zu erwarten ist."
+    },
+    {
+      "id": "https://cointelegraph.com/magazine/tether-sued-over-frozen-pig-butcher-coins-6600-students-get-crypto-loans-asia-express",
+      "title": "Tether sued over frozen ‘pig butcher’ coins, 6,600 students get crypto loans: Asia Express",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-03T23:40:09Z",
+      "score": 8,
+      "category": "Regulation",
+      "sentiment": "bearish",
+      "instruments": [
+        "BTCUSD",
+        "USDT.D"
+      ],
+      "entities": [],
+      "summary": "Tether wurde wegen eingefrorener Coins aus „Pig-Butcher“-Betrugsfällen verklagt, während in Asien 6.600 Studenten Krypto-Darlehen erhalten. Die Klage erhöht den regulatorischen Druck auf Tether und könnte das Vertrauen in Stablecoins sowie die gesamte Kryptomarktstimmung belasten. Erhöhte Unsicherheit und mögliche Kursreaktionen bei Bitcoin und der Stablecoin-Dominanz sind wahrscheinlich."
     }
   ],
   "digest_log": [
