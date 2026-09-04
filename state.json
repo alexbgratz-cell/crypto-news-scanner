@@ -2561,7 +2561,9 @@
     "https://cointelegraph.com/markets/bitcoin-etf-draw-731-million-highest-january-btc-80k": "2026-09-04T07:52:01Z",
     "652598fb-4972-5d88-b776-4de30e23848c": "2026-09-04T08:08:44Z",
     "1ffa6d06-3cf5-5319-94b0-dbb04e3f3184": "2026-09-04T08:54:04Z",
-    "https://decrypt.co/?p=377378": "2026-09-04T09:39:29Z"
+    "https://decrypt.co/?p=377378": "2026-09-04T09:39:29Z",
+    "70050b58-2417-5cab-a51a-0fd90a6d5986": "2026-09-04T09:52:25Z",
+    "https://www.technologyreview.com/?p=1143452": "2026-09-04T09:52:27Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2598,41 +2600,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/markets/bitcoin-remains-flat-as-global-bond-bear-market-rages-on",
-      "title": "Bitcoin stays flat as global bond bear market rages on, pushing JGB to high",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-09-01T15:34:00Z",
-      "score": 6,
-      "category": "Macro",
-      "sentiment": "neutral",
-      "instruments": [
-        "BTCUSD",
-        "US10Y"
-      ],
-      "entities": [],
-      "summary": "Bitcoin bleibt weitgehend unverändert, während der globale Anleihen-Bärenmarkt anhält und japanische Staatsanleihen neue Höchststände erreichen. Steigende Renditen weltweit erhöhen den Druck auf risikoreiche Anlagen, belasten Bitcoin derzeit aber offenbar nicht direkt. Die weitere Entwicklung der Anleiherenditen dürfte der entscheidende Faktor für die Kursrichtung von Bitcoin bleiben.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-01T16:39:33Z"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3159557",
-      "title": "Fambot introduces an ‘AI chief of staff’ for families",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-01T15:10:58Z",
-      "score": 6,
-      "category": "Business & Funding",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Fambot stellt einen KI-gestützten Assistenten für Familien vor, der alltägliche Aufgaben organisieren soll. Das Produkt ist ein weiteres Beispiel für die zunehmende Integration von KI in den Privatbereich, ohne jedoch die großen KI-Unternehmen direkt zu betreffen. Eine unmittelbare Branchenwirkung ist daher nicht zu erwarten; entscheidend wird die Nutzerakzeptanz in den kommenden Monaten.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-01T16:39:33Z"
-    },
     {
       "id": "137b296f-8a4f-52d8-9392-9bc8b511a928",
       "title": "Cango shares plunge 20% after bitcoin miner reports $81.6 million Q2 loss",
@@ -5836,6 +5803,34 @@
       "instruments": [],
       "entities": [],
       "summary": "AMC-Chef Adam Aron hat Robinhoods Token-basierte Aktienprodukte als verächtlich und widerlich bezeichnet. Die Kritik könnte das Vertrauen in tokenisierte Wertpapiere schwächen und die Debatte über solche Angebote anheizen. Eine unmittelbare Kursreaktion auf Kryptowährungen ist daraus nicht abzuleiten."
+    },
+    {
+      "id": "70050b58-2417-5cab-a51a-0fd90a6d5986",
+      "title": "South Korea to start tokenizing ‘all types’ of securities in three stages from 2027",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-09-04T09:46:06Z",
+      "score": 7,
+      "category": "Regulation",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Südkorea hat angekündigt, ab 2027 in drei Phasen alle Arten von Wertpapieren zu tokenisieren. Die geplante Regulierung schafft Klarheit für Security Token und könnte die Blockchain-Adoption im institutionellen Bereich eines wichtigen asiatischen Marktes vorantreiben. Die Umsetzung ab 2027 wird die weitere Entwicklung des Tokenisierungsmarkts in Südkorea prägen."
+    },
+    {
+      "id": "https://www.technologyreview.com/?p=1143452",
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "url": null,
+      "stream": "ai",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "published": "2026-09-04T09:25:19Z",
+      "score": 5,
+      "category": "Safety & Risk",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Drohnendaten aus dem Ukraine-Krieg werden auf einem neu entstandenen, weitgehend unregulierten Marktplatz gehandelt. Diese Entwicklung betrifft die KI-Branche, weil solche Daten Analyse- und Trainingsanwendungen ermöglichen, aber zugleich Sicherheits- und Privatsphärerisiken schaffen. Ohne Regulierung dürfte sich der Handel mit Kriegsdaten weiter ausbreiten."
     }
   ],
   "digest_log": [
