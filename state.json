@@ -2601,7 +2601,8 @@
     "https://decrypt.co/?p=377461": "2026-09-04T18:39:19Z",
     "https://www.technologyreview.com/?p=1140872": "2026-09-04T19:06:41Z",
     "https://decrypt.co/?p=377463": "2026-09-04T19:20:19Z",
-    "https://cointelegraph.com/news/fincen-crypto-overseas-scam-centers-analysis": "2026-09-04T19:35:02Z"
+    "https://cointelegraph.com/news/fincen-crypto-overseas-scam-centers-analysis": "2026-09-04T19:35:02Z",
+    "https://cointelegraph.com/news/pineapple-financial-puts-1b-in-mortgage-records-on-injective": "2026-09-04T19:49:17Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2638,22 +2639,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=377135",
-      "title": "OpenClaw 2.0 Is Here: What Changed, Why It Took Two Months, and How It Stacks Up Against Hermes",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-09-01T22:16:04Z",
-      "score": 7,
-      "category": "Model Release & Capability",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Decrypt berichtet, dass OpenClaw 2.0 verfügbar ist und erläutert die Änderungen, die zweimonatige Entwicklungszeit sowie den Vergleich mit Hermes. Das Release erweitert das Angebot offener KI-Modelle und erhöht den Wettbewerbsdruck im Bereich agentischer KI. Der Vergleich mit Hermes dürfte die Wahrnehmung des Modells in den nächsten Wochen maßgeblich prägen.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-01T23:12:40Z"
-    },
     {
       "id": "https://techcrunch.com/?p=3159934",
       "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
@@ -5856,6 +5841,20 @@
       ],
       "entities": [],
       "summary": "FinCEN bringt in einem Bericht Krypto-Betrügereien in Höhe von rund 13 Mrd. US-Dollar mit nicht in den USA ansässigen Betreibern in Verbindung. Der Bericht erhöht den regulatorischen Druck auf den Kryptomarkt und belastet das Vertrauen in digitale Vermögenswerte. Es ist mit verschärften US-Regelungen und verstärkten Ermittlungen gegen ausländische Krypto-Dienstleister zu rechnen."
+    },
+    {
+      "id": "https://cointelegraph.com/news/pineapple-financial-puts-1b-in-mortgage-records-on-injective",
+      "title": "Pineapple Financial puts $1B in mortgage records on Injective",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-04T19:31:38Z",
+      "score": 6,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Pineapple Financial legt nach eigenen Angaben Hypothekenunterlagen im Wert von 1 Mrd. USD auf der Blockchain Injective ab. Die wachsende Nutzung der Blockchain für reale Finanzdaten stärkt das Narrativ der Tokenisierung realer Vermögenswerte. Für Bitcoin oder Ethereum sind kurzfristig keine direkten Folgen erkennbar, die Nachfrage nach Injective dürfte jedoch zunehmen."
     }
   ],
   "digest_log": [
