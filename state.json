@@ -2578,7 +2578,8 @@
     "https://decrypt.co/?p=377392": "2026-09-04T12:31:36Z",
     "https://decrypt.co/?p=377393": "2026-09-04T12:54:22Z",
     "https://cointelegraph.com/magazine/token-buybacks-are-booming-but-are-they-good-for-crypto-projects": "2026-09-04T13:39:35Z",
-    "https://cointelegraph.com/news/revolut-openreserve-occ-approval-national-bank-crypto-plan": "2026-09-04T13:52:26Z"
+    "https://cointelegraph.com/news/revolut-openreserve-occ-approval-national-bank-crypto-plan": "2026-09-04T13:52:26Z",
+    "https://techcrunch.com/?p=3160690": "2026-09-04T14:24:54Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2615,24 +2616,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3159727",
-      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-01T17:35:37Z",
-      "score": 7,
-      "category": "Business & Funding",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [
-        "GOOGL"
-      ],
-      "summary": "Google stellt ein KI-gestütztes Designtool vor, das als Antwort auf Canva positioniert ist und bei dem Nutzer per Prompt statt klassischem Design arbeiten. Das Tool stärkt Googles Angebot im KI-Produktbereich und erhöht den Wettbewerbsdruck auf etablierte Design-Plattformen. Eine breite Markteinführung und die Nutzerakzeptanz werden über den konkreten Markteinfluss entscheiden.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-01T18:18:05Z"
-    },
     {
       "id": "https://cointelegraph.com/news/sec-proposes-transfer-agent-overhaul-as-securities-move-onchain",
       "title": "SEC proposes broad update to decades-old transfer agent rules with blockchain nod",
@@ -5845,6 +5828,20 @@
       "summary": "Revolut und OpenReserve haben von der US-Behörde OCC die vorläufige Genehmigung für eine nationale Banklizenz samt Krypto-Plänen erhalten. Damit könnten regulierte Bankdienstleistungen mit Krypto-Angeboten institutionell deutlich an Akzeptanz gewinnen. Der nächste entscheidende Schritt ist die endgültige Zulassung, die den Markt weiter beflügeln dürfte.",
       "delivered": "digest",
       "delivered_at": "2026-09-04T14:15:02Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3160690",
+      "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-04T14:00:00Z",
+      "score": 4,
+      "category": "Business & Funding",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "TechCrunch weist darauf hin, dass die Bewerbungsfrist für Side Events im Rahmen der TechCrunch Disrupt 2026 in weniger als 24 Stunden endet. Die Meldung ist organisatorischer Natur und enthält keine Angaben zu neuen KI-Produkten, Forschungsergebnissen oder Marktbewegungen. Für die KI-Branche ergibt sich daraus keine unmittelbare Marktwirkung."
     }
   ],
   "digest_log": [
