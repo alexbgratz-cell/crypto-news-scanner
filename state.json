@@ -2599,7 +2599,8 @@
     "https://cointelegraph.com/news/qufi-launches-post-quantum-verification-platform-with-bitcoin-testnet-proof": "2026-09-04T17:35:27Z",
     "72535f1d-d6bd-5099-807f-56ce1844cd45": "2026-09-04T18:39:18Z",
     "https://decrypt.co/?p=377461": "2026-09-04T18:39:19Z",
-    "https://www.technologyreview.com/?p=1140872": "2026-09-04T19:06:41Z"
+    "https://www.technologyreview.com/?p=1140872": "2026-09-04T19:06:41Z",
+    "https://decrypt.co/?p=377463": "2026-09-04T19:20:19Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2636,22 +2637,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=377128",
-      "title": "Nvidia Invests $3.5 Billion in MediaTek to Expand Beyond GPUs",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-09-01T21:31:04Z",
-      "score": 8,
-      "category": "Business & Funding",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "NVDA"
-      ],
-      "summary": "Nvidia investiert 3,5 Milliarden US-Dollar in MediaTek, um sein Geschäft über GPUs hinaus auszubauen. Die Investition stärkt Nvidias Position im Halbleiter- und Chipdesign-Markt und wirkt sich direkt auf den NDX-Riesen Nvidia aus. Für die Nvidia-Aktie und den Halbleitersektor sind dadurch positive Marktreaktionen wahrscheinlich."
-    },
     {
       "id": "https://huggingface.co/blog/allenai/benchmirt",
       "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
@@ -5854,6 +5839,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Der Artikel des MIT Technology Review befasst sich mit der Architektur von Speicher- und Storage-Systemen im Zeitalter der KI. Er ordnet ein, wie solche Infrastruktur die Leistungsfähigkeit und Kosten von KI-Workloads beeinflusst. Die dargestellten Entwicklungen wirken sich auf künftige Hardware- und Rechenzentrums-Investitionen aus."
+    },
+    {
+      "id": "https://decrypt.co/?p=377463",
+      "title": "Crypto Traders Are Pairing Meme Coins With Stocks on Robinhood—And It's Working (Sort Of)",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-04T19:16:03Z",
+      "score": 5,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Auf der Handelsplattform Robinhood kombinieren Krypto-Händler Meme-Coins mit Aktien in ihren Portfolios, was laut Berichten teilweise funktioniert. Dies zeigt eine wachsende Integration von Krypto in klassische Brokerage-Angebote und könnte die Nachfrage nach Meme-Coins stützen. Die anhaltende Beliebtheit solcher Strategien dürfte die Volatilität bei Meme-Coins erhöhen."
     }
   ],
   "digest_log": [
