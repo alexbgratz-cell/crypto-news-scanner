@@ -1,27 +1,5 @@
 {
   "seen": {
-    "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k": "2026-08-29T07:04:29Z",
-    "https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc": "2026-08-29T07:04:29Z",
-    "https://decrypt.co/videos/interviews/ZJJKjnAR/from-stellar-to-canton-how-franklin-templeton-adopted-tokenization": "2026-08-29T07:04:29Z",
-    "https://decrypt.co/videos/interviews/MqZOhomP/crypto-rebounds-after-trump-tacos-on-tariffs-bitgo-21b-ipo-solanas-skr-token-soars-250-fdv": "2026-08-29T07:04:29Z",
-    "https://decrypt.co/videos/interviews/nWmEOl4c/trumps-speech-at-davos-gives-small-boost-to-crypto-saylor-buys-213b-btc-blondish-interview": "2026-08-29T07:04:29Z",
-    "https://decrypt.co/videos/interviews/O1HZN4PH/trump-tariffs-3-return-of-the-bull-market-nyse-tokenising-what-that-means-for-hype-claude-meme-meta": "2026-08-29T07:04:29Z",
-    "https://decrypt.co/videos/interviews/lokwS0bc/crypto-sells-off-amidst-trump-tariff-turmoil-trove-falls-90-in-awful-tge-pump-fund-announced": "2026-08-29T07:04:29Z",
-    "https://decrypt.co/videos/interviews/9g4stfJX/massive-coinbase-news-bitcoin-rips-to-96-750-footballfun-tge-interview-with-founder": "2026-08-29T07:04:29Z",
-    "https://decrypt.co/videos/interviews/Iv1NIhI4/are-we-back-crypto-is-green-solana-intern-goes-rogue-pump-up-13-monero-hits-another-ath": "2026-08-29T07:04:29Z",
-    "https://decrypt.co/videos/interviews/IuLdmgP6/pump-memes-heating-up-xmr-vs-zec-how-important-are-these-rate-cuts-under-exposed": "2026-08-29T07:04:29Z",
-    "https://decrypt.co/videos/interviews/mefbKZgQ/psyopanime-meme-up-30x-are-memes-back-monero-ath-interview-w-joseph-chalom-ceo-of-sharplink": "2026-08-29T07:04:29Z",
-    "https://decrypt.co/videos/interviews/0y90noNs/a16z-raise-15b-jerome-powell-vs-trump-crypto-remains-flat-special-guest-dudas": "2026-08-29T07:04:29Z",
-    "https://decrypt.co/videos/interviews/72tPnqPX/zec-rebounds-11-trump-says-he-wont-pardon-sam-bankman-fried-florida-revisits-its-strategic-bitcoin-reserve": "2026-08-29T07:04:29Z",
-    "https://decrypt.co/videos/interviews/wmsgKRFW/the-zcash-situation-explained-interview-with-zec-bull-mert-btc-below-90k-zec-falls-19": "2026-08-29T07:04:29Z",
-    "https://decrypt.co/videos/interviews/GVQVX2ND/first-2026-dip-btc-at-92k-morgan-stanley-file-for-btc-eth-sol-etfs-hyperliquid-airdrop-speculation": "2026-08-29T07:04:29Z",
-    "https://decrypt.co/videos/interviews/XjhRjGIk/crypto-starts-2026-strong-venezuela-impacts-on-the-market-lighter-tge-reactions": "2026-08-29T07:04:29Z",
-    "https://decrypt.co/videos/interviews/OS1PGiAq/global-crypto-mcap-up-to-322-trillion-xrp-up-12-japan-endorse-crypto-fear-greed-back-to-neutral": "2026-08-29T07:04:29Z",
-    "https://decrypt.co/videos/interviews/EmmJkWJn/crypto-is-green-up-6-9-memes-outperform-pepe-up-67-infinex-founder-interview": "2026-08-29T07:04:29Z",
-    "https://decrypt.co/videos/interviews/WsvLVFlp/crypto-wallets-can-directly-compete-with-neobanks": "2026-08-29T07:04:29Z",
-    "https://decrypt.co/videos/interviews/dBDZqp65/2026-crypto-predictions-tom-lee-still-buying-eth-rekt-tease-worldstar-collab": "2026-08-29T07:04:29Z",
-    "https://decrypt.co/videos/interviews/50vopyFa/the-white-whale-up-10x-in-a-week-lighter-tge-saylor-buys-109m-btc": "2026-08-29T07:04:29Z",
-    "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief": "2026-08-29T08:19:23Z",
     "6a8f5fcd81a7b3cc4250388b": "2026-08-29T10:04:36Z",
     "6a91a28c803370e4d9cbd822": "2026-08-29T10:34:26Z",
     "https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash": "2026-08-29T11:04:25Z",
@@ -2558,7 +2536,8 @@
     "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex": "2026-09-05T04:37:10Z",
     "https://www.marktechpost.com/?p=82085": "2026-09-05T04:37:12Z",
     "https://www.marktechpost.com/?p=82090": "2026-09-05T04:49:25Z",
-    "https://www.marktechpost.com/?p=82102": "2026-09-05T06:53:19Z"
+    "https://www.marktechpost.com/?p=82102": "2026-09-05T06:53:19Z",
+    "https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026": "2026-09-05T08:24:31Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2595,20 +2574,6 @@
     }
   },
   "articles": [
-    {
-      "id": "6a8cb79d3e6cf87b84dc7a7d",
-      "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
-      "url": null,
-      "stream": "ai",
-      "source": "Feed: Artificial Intelligence Latest",
-      "published": "2026-09-02T10:00:00Z",
-      "score": 5,
-      "category": "Safety & Risk",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Ein Beitrag befasst sich mit Pangram, einem KI-Erkennungsdienst, der als Goldstandard gilt, und stellt die Frage, ob ihm vertraut werden kann. Die Diskussion betrifft Organisationen und Bildungseinrichtungen, die maschinell erzeugte Texte identifizieren wollen; Zweifel an der Zuverlässigkeit könnten die Nutzung solcher Dienste beeinflussen. Eine kritischere Bewertung von KI-Detektoren ist zu erwarten; Anwender müssen mit Fehlklassifikationen rechnen."
-    },
     {
       "id": "54797cb5-0edb-5a43-983f-b32c01fb5089",
       "title": "Strategy CEO says selling bitcoin at $60,000 before buying at $80,000 was the ‘right trade’",
@@ -5817,6 +5782,22 @@
       "instruments": [],
       "entities": [],
       "summary": "Adaption Labs hat „Invent a Dataset“ vorgestellt, ein Verfahren, das Trainingsdaten direkt aus einer Aufgabenbeschreibung statt aus einem vorhandenen Seed-Korpus erzeugt. Solche Ansätze könnten die Datenerstellung für KI-Modelle flexibler und unabhängiger von bestehenden Datensätzen machen. Eine unmittelbare Marktwirkung ist daraus nicht abzuleiten; der Ansatz ist vor allem für Forschung und Modellentwicklung relevant."
+    },
+    {
+      "id": "https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026",
+      "title": "Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-05T08:03:06Z",
+      "score": 8,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Bitcoin-ETFs verzeichneten in den letzten drei Wochen Zuflüsse von 3,8 Mrd. USD – die stärkste Serie im Jahr 2026. Die hohe institutionelle Nachfrage stützt den Bitcoin-Preis und signalisiert anhaltendes Käuferinteresse an regulierten Produkten. In der Folge bleibt der Zuflussdruck auf BTC bestehen; weitere Kursgewinne sind wahrscheinlich."
     }
   ],
   "digest_log": [
