@@ -5791,7 +5791,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Polen hat das Veto gegen das Krypto-Gesetz aufrechterhalten, während sich der Skandal um die Börse Zondacrypto ausweitet. Die regulatorische Unsicherheit belastet Krypto-Unternehmen und Anleger im Land. Die Ablehnung verzögert klare Regeln, und eine weitere Eskalation des Skandals ist wahrscheinlich."
+      "summary": "Polen hat das Veto gegen das Krypto-Gesetz aufrechterhalten, während sich der Skandal um die Börse Zondacrypto ausweitet. Die regulatorische Unsicherheit belastet Krypto-Unternehmen und Anleger im Land. Die Ablehnung verzögert klare Regeln, und eine weitere Eskalation des Skandals ist wahrscheinlich.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-05T11:13:35Z"
     }
   ],
   "digest_log": [
@@ -6961,6 +6963,12 @@
       "article_ids": [
         "https://www.marktechpost.com/?p=82085",
         "https://www.marktechpost.com/?p=82090"
+      ]
+    },
+    {
+      "at": "2026-09-05T11:13:35Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens"
       ]
     }
   ],
