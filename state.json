@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://decrypt.co/?p=376878": "2026-08-29T17:34:16Z",
-    "https://techcrunch.com/?p=3156771": "2026-08-29T17:49:06Z",
     "https://techcrunch.com/?p=3158639": "2026-08-29T18:49:27Z",
     "https://www.marktechpost.com/?p=81950": "2026-08-29T19:19:17Z",
     "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth": "2026-08-29T19:34:11Z",
@@ -2555,7 +2553,8 @@
     "f654a696-5a94-5503-9bd6-5a30b4e4d630": "2026-09-05T14:07:24Z",
     "https://decrypt.co/?p=377501": "2026-09-05T15:06:59Z",
     "https://decrypt.co/?p=373351": "2026-09-05T16:07:47Z",
-    "https://decrypt.co/?p=377510": "2026-09-05T17:06:52Z"
+    "https://decrypt.co/?p=377510": "2026-09-05T17:06:52Z",
+    "https://techcrunch.com/?p=3161042": "2026-09-05T18:08:39Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2592,20 +2591,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-      "title": "Here’s what happened in crypto today",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-09-02T05:54:06Z",
-      "score": 1,
-      "category": "Other",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Der Artikel trägt nur den allgemeinen Titel „Here’s what happened in crypto today“ und liefert in den übermittelten Daten keine konkreten Ereignisse, Zahlen oder Marktbewegungen. Eine Marktwirkung lässt sich daraus nicht ableiten, da keine betroffenen Assets oder Sektoren genannt werden. Eine inhaltliche Bewertung ist erst mit den tatsächlichen Tagesereignissen des Artikels möglich."
-    },
     {
       "id": "https://decrypt.co/?p=377159",
       "title": "Morning Minute: Bitcoin Enters ‘Rektember’ After Best August Since 2017",
@@ -5800,6 +5785,22 @@
       "instruments": [],
       "entities": [],
       "summary": "Ein altes Bitcoin-Wallet aus den frühen Jahren, dessen Bestand einst für etwa 120 Dollar gekauft wurde und nun rund 3 Millionen Dollar wert ist, wurde wieder aktiv. Solche Bewegungen alter Adressen haben für sich genommen keine direkte Marktwirkung, können aber als sentimentales Signal unter Langzeithaltern wahrgenommen werden. Eine konkrete Marktreaktion ist aus den vorliegenden Informationen nicht abzuleiten."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3161042",
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-05T18:05:27Z",
+      "score": 6,
+      "category": "Safety & Risk",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [
+        "OpenAI"
+      ],
+      "summary": "OpenAI hat einen als „Wiki-Vorfall“ bezeichneten Zwischenfall bestätigt und angekündigt, an einem Rahmenwerk für mehr Offenlegung zu arbeiten. Der Vorfall rückt Transparenz- und Sicherheitspraktiken von KI-Anbietern in den Fokus; betroffen ist vor allem das Vertrauen in OpenAI. Konkrete Offenlegungsregeln und Details zu dem Vorfall stehen noch aus; die Kommunikation solcher Vorfälle dürfte sich künftig standardisieren."
     }
   ],
   "digest_log": [
