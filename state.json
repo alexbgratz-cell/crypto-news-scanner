@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.marktechpost.com/?p=81942": "2026-08-29T05:49:18Z",
     "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k": "2026-08-29T07:04:29Z",
     "https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc": "2026-08-29T07:04:29Z",
     "https://decrypt.co/videos/interviews/ZJJKjnAR/from-stellar-to-canton-how-franklin-templeton-adopted-tokenization": "2026-08-29T07:04:29Z",
@@ -2558,7 +2557,8 @@
     "https://openai.com/index/gpt-6-astra": "2026-09-05T04:37:10Z",
     "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex": "2026-09-05T04:37:10Z",
     "https://www.marktechpost.com/?p=82085": "2026-09-05T04:37:12Z",
-    "https://www.marktechpost.com/?p=82090": "2026-09-05T04:49:25Z"
+    "https://www.marktechpost.com/?p=82090": "2026-09-05T04:49:25Z",
+    "https://www.marktechpost.com/?p=82102": "2026-09-05T06:53:19Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2595,25 +2595,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/crypto-industry-sec-novel-etf-restrictions",
-      "title": "Crypto industry urges SEC to avoid blanket novel ETF restrictions",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-09-02T09:48:49Z",
-      "score": 6,
-      "category": "Regulation",
-      "sentiment": "bullish",
-      "instruments": [
-        "BTCUSD",
-        "ETHUSD"
-      ],
-      "entities": [],
-      "summary": "Die Krypto-Industrie fordert die SEC auf, keine pauschalen Beschränkungen für neuartige ETFs einzuführen. Solche Einschränkungen könnten den institutionellen Zugang und die Nachfrage nach Krypto-ETFs dämpfen, weshalb die Branche auf regulatorische Klarheit drängt. Die künftige SEC-Entscheidung dürfte die weitere Entwicklung von Krypto-ETFs und die Marktstimmung maßgeblich beeinflussen.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-02T10:17:03Z"
-    },
     {
       "id": "6a8cb79d3e6cf87b84dc7a7d",
       "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
@@ -5822,6 +5803,20 @@
       "summary": "Google hat agentic Video Understanding für seine Gemini-Flash-Modelle eingeführt und reduziert damit Videotokens um bis zu 88 Prozent. Diese Effizienzsteigerung senkt Kosten und Latenz bei der Verarbeitung großer Videodaten und stärkt Googles Position im multimodalen KI-Wettbewerb. Dadurch dürften neue Video-Agenten-Anwendungen beschleunigt werden und der Druck auf konkurrierende Anbieter nimmt zu.",
       "delivered": "digest",
       "delivered_at": "2026-09-05T05:13:27Z"
+    },
+    {
+      "id": "https://www.marktechpost.com/?p=82102",
+      "title": "Adaption Labs Introduces ‘Invent a Dataset’: Training Data Generated From a Task Description, Not a Seed Corpus",
+      "url": null,
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-09-05T06:48:29Z",
+      "score": 5,
+      "category": "Research & Open Source",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Adaption Labs hat „Invent a Dataset“ vorgestellt, ein Verfahren, das Trainingsdaten direkt aus einer Aufgabenbeschreibung statt aus einem vorhandenen Seed-Korpus erzeugt. Solche Ansätze könnten die Datenerstellung für KI-Modelle flexibler und unabhängiger von bestehenden Datensätzen machen. Eine unmittelbare Marktwirkung ist daraus nicht abzuleiten; der Ansatz ist vor allem für Forschung und Modellentwicklung relevant."
     }
   ],
   "digest_log": [
