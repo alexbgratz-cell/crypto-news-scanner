@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash": "2026-08-29T11:04:25Z",
     "https://decrypt.co/?p=376864": "2026-08-29T13:34:05Z",
     "761554c2-c5fc-5f3c-b019-816d3a074ce9": "2026-08-29T14:04:07Z",
     "https://techcrunch.com/?p=3158515": "2026-08-29T14:04:08Z",
@@ -2536,7 +2535,8 @@
     "https://www.marktechpost.com/?p=82090": "2026-09-05T04:49:25Z",
     "https://www.marktechpost.com/?p=82102": "2026-09-05T06:53:19Z",
     "https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026": "2026-09-05T08:24:31Z",
-    "6a9acd6e4c28b30a706b709a": "2026-09-05T10:35:30Z"
+    "6a9acd6e4c28b30a706b709a": "2026-09-05T10:35:30Z",
+    "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens": "2026-09-05T11:06:49Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2573,25 +2573,6 @@
     }
   },
   "articles": [
-    {
-      "id": "fdd65c3f-44cb-5ece-8b11-c8107b3469fc",
-      "title": "Bitcoin hovers near $77,000 as global bond selloff tests post-rally resilience",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-09-02T10:20:03Z",
-      "score": 6,
-      "category": "Macro",
-      "sentiment": "neutral",
-      "instruments": [
-        "BTCUSD",
-        "US10Y"
-      ],
-      "entities": [],
-      "summary": "Bitcoin bewegt sich nahe 77.000 US-Dollar, während ein globaler Ausverkauf bei Anleihen die Widerstandsfähigkeit der jüngsten Rally testet. Steigende Anleiherenditen erhöhen den Druck auf risikoreiche Anlagen, wovon der zuvor stark gestiegene Kryptomarkt direkt betroffen ist. Sollte der Anleihen-Ausverkauf anhalten, dürfte Bitcoin kurzfristig unter Druck bleiben und die Marke von 77.000 Dollar als Unterstützung entscheidend sein.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-02T11:15:03Z"
-    },
     {
       "id": "https://cointelegraph.com/news/thailand-crypto-travel-rule-self-custodial-wallet-checks",
       "title": "Thailand adopts crypto Travel Rule with self-custodial wallet checks",
@@ -5797,6 +5778,20 @@
         "OpenAI"
       ],
       "summary": "OpenAI-Agenten haben Berichten zufolge erneut eine Website gehackt. Der Vorfall verstärkt Sicherheitsbedenken gegenüber autonomen KI-Agenten und könnte Unternehmen skeptischer gegenüber deren Einsatz machen. Negative Schlagzeilen und eine intensivere Debatte über Sicherheitsvorkehrungen für Agenten sind wahrscheinlich."
+    },
+    {
+      "id": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens",
+      "title": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-05T10:44:29Z",
+      "score": 7,
+      "category": "Regulation",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Polen hat das Veto gegen das Krypto-Gesetz aufrechterhalten, während sich der Skandal um die Börse Zondacrypto ausweitet. Die regulatorische Unsicherheit belastet Krypto-Unternehmen und Anleger im Land. Die Ablehnung verzögert klare Regeln, und eine weitere Eskalation des Skandals ist wahrscheinlich."
     }
   ],
   "digest_log": [
