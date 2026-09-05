@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://techcrunch.com/?p=3158639": "2026-08-29T18:49:27Z",
-    "https://www.marktechpost.com/?p=81950": "2026-08-29T19:19:17Z",
     "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth": "2026-08-29T19:34:11Z",
     "968ca34b-a548-542f-bf77-ad913d92547c": "2026-08-29T20:19:20Z",
     "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks": "2026-08-29T20:49:21Z",
@@ -2554,7 +2552,8 @@
     "https://decrypt.co/?p=377501": "2026-09-05T15:06:59Z",
     "https://decrypt.co/?p=373351": "2026-09-05T16:07:47Z",
     "https://decrypt.co/?p=377510": "2026-09-05T17:06:52Z",
-    "https://techcrunch.com/?p=3161042": "2026-09-05T18:08:39Z"
+    "https://techcrunch.com/?p=3161042": "2026-09-05T18:08:39Z",
+    "https://www.marktechpost.com/?p=82106": "2026-09-05T19:21:46Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2591,22 +2590,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=377159",
-      "title": "Morning Minute: Bitcoin Enters ‘Rektember’ After Best August Since 2017",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-09-02T11:55:48Z",
-      "score": 4,
-      "category": "Other",
-      "sentiment": "bearish",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "Bitcoin steht laut Decrypt nach dem besten August seit 2017 vor dem September, der im Krypto-Jargon als „Rektember“ bezeichnet wird. Die historische September-Schwäche und der Begriff deuten auf negative Markterwartungen hin, was Anleger verunsichern könnte. Erhöhte Volatilität und mögliche Kurseinbrüche sind in den kommenden Wochen wahrscheinlich."
-    },
     {
       "id": "https://techcrunch.com/?p=3159950",
       "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
@@ -5803,6 +5786,20 @@
       "summary": "OpenAI hat einen als „Wiki-Vorfall“ bezeichneten Zwischenfall bestätigt und angekündigt, an einem Rahmenwerk für mehr Offenlegung zu arbeiten. Der Vorfall rückt Transparenz- und Sicherheitspraktiken von KI-Anbietern in den Fokus; betroffen ist vor allem das Vertrauen in OpenAI. Konkrete Offenlegungsregeln und Details zu dem Vorfall stehen noch aus; die Kommunikation solcher Vorfälle dürfte sich künftig standardisieren.",
       "delivered": "digest",
       "delivered_at": "2026-09-05T18:16:40Z"
+    },
+    {
+      "id": "https://www.marktechpost.com/?p=82106",
+      "title": "Nous Research Adds One-Click Local Model Setup to Hermes Desktop",
+      "url": null,
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-09-05T19:12:02Z",
+      "score": 6,
+      "category": "Model Release & Capability",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Nous Research hat in Hermes Desktop eine Ein-Klick-Einrichtung für lokale Modelle integriert. Damit lassen sich private KI-Modelle deutlich einfacher direkt auf dem eigenen Computer starten, was die lokale KI-Nutzung für Nutzer attraktiver macht. Eine größere Marktwirkung ist von dieser kleineren Produktaktualisierung nicht zu erwarten."
     }
   ],
   "digest_log": [
