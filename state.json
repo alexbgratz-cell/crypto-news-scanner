@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b": "2026-08-29T16:49:25Z",
     "https://decrypt.co/?p=376878": "2026-08-29T17:34:16Z",
     "https://techcrunch.com/?p=3156771": "2026-08-29T17:49:06Z",
     "https://techcrunch.com/?p=3158639": "2026-08-29T18:49:27Z",
@@ -2555,7 +2554,8 @@
     "https://decrypt.co/videos/interviews/50vopyFa/the-white-whale-up-10x-in-a-week-lighter-tge-saylor-buys-109m-btc": "2026-09-05T13:07:01Z",
     "f654a696-5a94-5503-9bd6-5a30b4e4d630": "2026-09-05T14:07:24Z",
     "https://decrypt.co/?p=377501": "2026-09-05T15:06:59Z",
-    "https://decrypt.co/?p=373351": "2026-09-05T16:07:47Z"
+    "https://decrypt.co/?p=373351": "2026-09-05T16:07:47Z",
+    "https://decrypt.co/?p=377510": "2026-09-05T17:06:52Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2592,25 +2592,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/remixpoint-dumps-altcoins-1506-btc-sole-crypto-bet",
-      "title": "Japan’s Remixpoint dumps altcoins, leaves 1,506 BTC as sole crypto bet",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-09-02T12:00:00Z",
-      "score": 7,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [
-        "BTCUSD",
-        "BTC.D"
-      ],
-      "entities": [],
-      "summary": "Das japanische Unternehmen Remixpoint hat seine Altcoins verkauft und besitzt als einzige Kryptowährung nur noch 1.506 BTC. Die Entscheidung signalisiert institutionelles Vertrauen in Bitcoin und kann Altcoins zusätzlich belasten, weil ein weiterer Großanleger den Marktführer bevorzugt. Als Folge dürfte die Bitcoin-Dominanz gegenüber Altcoins weiter gestärkt werden.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-02T12:20:49Z"
-    },
     {
       "id": "https://cointelegraph.com/news/what-happened-in-crypto-today",
       "title": "Here’s what happened in crypto today",
@@ -5805,6 +5786,20 @@
       ],
       "entities": [],
       "summary": "Decrypt erklärt in einem Ratgeber Robinhood Chain, ein Ethereum-Layer-2-Netzwerk für tokenisierte Aktien und Meme-Coins. Solche Netzwerke können traditionelle Finanzmärkte mit Krypto verbinden und die Nutzung von Ethereum als Abwicklungs- und Sicherheitsebene stärken. Eine unmittelbare Kursreaktion ist aus dem erklärenden Beitrag nicht ableitbar; relevant wird die tatsächliche Nutzung des Netzwerks."
+    },
+    {
+      "id": "https://decrypt.co/?p=377510",
+      "title": "Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-05T17:01:04Z",
+      "score": 4,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Ein altes Bitcoin-Wallet aus den frühen Jahren, dessen Bestand einst für etwa 120 Dollar gekauft wurde und nun rund 3 Millionen Dollar wert ist, wurde wieder aktiv. Solche Bewegungen alter Adressen haben für sich genommen keine direkte Marktwirkung, können aber als sentimentales Signal unter Langzeithaltern wahrgenommen werden. Eine konkrete Marktreaktion ist aus den vorliegenden Informationen nicht abzuleiten."
     }
   ],
   "digest_log": [
