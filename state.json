@@ -5801,7 +5801,9 @@
       "entities": [
         "NVDA"
       ],
-      "summary": "NVIDIA hat den quelloffenen Personal AI Router (PAIR) veröffentlicht, einen virtuellen Inferenz-Router, der lokale KI-Anfragen auf RTX-, DGX-Spark- und Mac-Knoten verteilt. Das Open-Source-Tool erweitert NVIDIAs Ökosystem für lokale Inferenz, da Nutzer vorhandene Rechenressourcen flexibler auslasten können. Dies dürfte die Nachfrage nach NVIDIAs lokaler KI-Hardware weiter stützen und die Rolle des Unternehmens im Inferenz-Markt festigen."
+      "summary": "NVIDIA hat den quelloffenen Personal AI Router (PAIR) veröffentlicht, einen virtuellen Inferenz-Router, der lokale KI-Anfragen auf RTX-, DGX-Spark- und Mac-Knoten verteilt. Das Open-Source-Tool erweitert NVIDIAs Ökosystem für lokale Inferenz, da Nutzer vorhandene Rechenressourcen flexibler auslasten können. Dies dürfte die Nachfrage nach NVIDIAs lokaler KI-Hardware weiter stützen und die Rolle des Unternehmens im Inferenz-Markt festigen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-05T05:13:27Z"
     },
     {
       "id": "https://www.marktechpost.com/?p=82090",
@@ -5817,7 +5819,9 @@
       "entities": [
         "GOOGL"
       ],
-      "summary": "Google hat agentic Video Understanding für seine Gemini-Flash-Modelle eingeführt und reduziert damit Videotokens um bis zu 88 Prozent. Diese Effizienzsteigerung senkt Kosten und Latenz bei der Verarbeitung großer Videodaten und stärkt Googles Position im multimodalen KI-Wettbewerb. Dadurch dürften neue Video-Agenten-Anwendungen beschleunigt werden und der Druck auf konkurrierende Anbieter nimmt zu."
+      "summary": "Google hat agentic Video Understanding für seine Gemini-Flash-Modelle eingeführt und reduziert damit Videotokens um bis zu 88 Prozent. Diese Effizienzsteigerung senkt Kosten und Latenz bei der Verarbeitung großer Videodaten und stärkt Googles Position im multimodalen KI-Wettbewerb. Dadurch dürften neue Video-Agenten-Anwendungen beschleunigt werden und der Druck auf konkurrierende Anbieter nimmt zu.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-05T05:13:27Z"
     }
   ],
   "digest_log": [
@@ -6980,6 +6984,13 @@
       "article_ids": [
         "https://techcrunch.com/?p=3160997",
         "https://techcrunch.com/?p=3161014"
+      ]
+    },
+    {
+      "at": "2026-09-05T05:13:27Z",
+      "article_ids": [
+        "https://www.marktechpost.com/?p=82085",
+        "https://www.marktechpost.com/?p=82090"
       ]
     }
   ],
