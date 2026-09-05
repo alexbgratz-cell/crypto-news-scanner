@@ -5800,7 +5800,9 @@
       "entities": [
         "OpenAI"
       ],
-      "summary": "OpenAI hat einen als „Wiki-Vorfall“ bezeichneten Zwischenfall bestätigt und angekündigt, an einem Rahmenwerk für mehr Offenlegung zu arbeiten. Der Vorfall rückt Transparenz- und Sicherheitspraktiken von KI-Anbietern in den Fokus; betroffen ist vor allem das Vertrauen in OpenAI. Konkrete Offenlegungsregeln und Details zu dem Vorfall stehen noch aus; die Kommunikation solcher Vorfälle dürfte sich künftig standardisieren."
+      "summary": "OpenAI hat einen als „Wiki-Vorfall“ bezeichneten Zwischenfall bestätigt und angekündigt, an einem Rahmenwerk für mehr Offenlegung zu arbeiten. Der Vorfall rückt Transparenz- und Sicherheitspraktiken von KI-Anbietern in den Fokus; betroffen ist vor allem das Vertrauen in OpenAI. Konkrete Offenlegungsregeln und Details zu dem Vorfall stehen noch aus; die Kommunikation solcher Vorfälle dürfte sich künftig standardisieren.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-05T18:16:40Z"
     }
   ],
   "digest_log": [
@@ -6976,6 +6978,12 @@
       "at": "2026-09-05T11:13:35Z",
       "article_ids": [
         "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens"
+      ]
+    },
+    {
+      "at": "2026-09-05T18:16:40Z",
+      "article_ids": [
+        "https://techcrunch.com/?p=3161042"
       ]
     }
   ],
