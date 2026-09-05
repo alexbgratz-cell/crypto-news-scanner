@@ -2557,7 +2557,8 @@
     "https://techcrunch.com/?p=3161014": "2026-09-04T23:49:22Z",
     "https://openai.com/index/gpt-6-astra": "2026-09-05T04:37:10Z",
     "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex": "2026-09-05T04:37:10Z",
-    "https://www.marktechpost.com/?p=82085": "2026-09-05T04:37:12Z"
+    "https://www.marktechpost.com/?p=82085": "2026-09-05T04:37:12Z",
+    "https://www.marktechpost.com/?p=82090": "2026-09-05T04:49:25Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2594,24 +2595,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/markets/bitcoin-etf-best-month-2026-btc-up-25-august",
-      "title": "Bitcoin ETFs notch best month of 2026 as BTC gains 25% in August",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-09-02T07:59:43Z",
-      "score": 6,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "Bitcoin-ETFs verzeichnen den besten Monat 2026, BTC steigt im August um 25%. Die starke ETF-Nachfrage signalisiert institutionelles Interesse und treibt den Bitcoin-Preis. Erwartete weitere Kursgewinne und erhöhte Marktaktivität, da Anleger optimistisch bleiben.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-02T09:16:03Z"
-    },
     {
       "id": "https://cointelegraph.com/news/crypto-industry-sec-novel-etf-restrictions",
       "title": "Crypto industry urges SEC to avoid blanket novel ETF restrictions",
@@ -5819,6 +5802,22 @@
         "NVDA"
       ],
       "summary": "NVIDIA hat den quelloffenen Personal AI Router (PAIR) veröffentlicht, einen virtuellen Inferenz-Router, der lokale KI-Anfragen auf RTX-, DGX-Spark- und Mac-Knoten verteilt. Das Open-Source-Tool erweitert NVIDIAs Ökosystem für lokale Inferenz, da Nutzer vorhandene Rechenressourcen flexibler auslasten können. Dies dürfte die Nachfrage nach NVIDIAs lokaler KI-Hardware weiter stützen und die Rolle des Unternehmens im Inferenz-Markt festigen."
+    },
+    {
+      "id": "https://www.marktechpost.com/?p=82090",
+      "title": "Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88%",
+      "url": null,
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-09-05T04:37:25Z",
+      "score": 6,
+      "category": "Model Release & Capability",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "GOOGL"
+      ],
+      "summary": "Google hat agentic Video Understanding für seine Gemini-Flash-Modelle eingeführt und reduziert damit Videotokens um bis zu 88 Prozent. Diese Effizienzsteigerung senkt Kosten und Latenz bei der Verarbeitung großer Videodaten und stärkt Googles Position im multimodalen KI-Wettbewerb. Dadurch dürften neue Video-Agenten-Anwendungen beschleunigt werden und der Druck auf konkurrierende Anbieter nimmt zu."
     }
   ],
   "digest_log": [
