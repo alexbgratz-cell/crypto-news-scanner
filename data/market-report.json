@@ -1,67 +1,67 @@
 {
-  "ts": "2026-09-04T20:03:47.960534Z",
+  "ts": "2026-09-05T07:03:32.047096Z",
   "instrument": "ALL",
-  "text": "**Kernaussage**  \nDer Kryptomarkt korrigiert bei ruhigem makroökonomischem Umfeld leicht: BTC fällt auf 79.698 USD (-2,25 %), ETH auf 2.455 USD, während Aktienindizes wie der SPX leicht zulegen und der VIX auf 14,3 sinkt.\n\n**Was es bedeutet**  \nDie 12h-Verläufe von BTC, ETH und SOL zeigen eine gleichmäßige Abwärtsbewegung ohne klare Kapitalrotation – ETHBTC gibt minimal nach, BTC.D bleibt stabil. Die Handelsumgebung ist also nicht von makroökonomischem Druck, sondern von internem Krypto-Risiko-Off geprägt. Der Fear & Greed Index steht unverändert bei 74 (Greed) – die Diskrepanz zwischen fallenden Kursen und hohem Sentimentwert erhöht die Korrektur-Anfälligkeit. Der Rückgang im VIX bei steigenden Aktien deutet zudem darauf hin, dass klassische Anleger Krypto-Schwäche bislang nicht als Systemrisiko sehen.\n\n**Zu beachten**  \nTrotz Kursverlusten bleibt der Greed-Index bei 74 – ein anhaltend hoher Wert nach negativer Preisdynamik kann weitere Rücksetzer begünstigen, falls sich das Sentiment zu drehen beginnt.",
+  "text": "Kernaussage: Der Krypto-Gesamtmarkt zeigt leichte Abgaben, BTC hält sich mit 79.675 USD nahezu unverändert, während ETH und SOL um 1–2 % nachgeben.\n\nWas es bedeutet: Trotz roter Kurse bleibt der Fear & Greed bei 73 im Gier-Bereich. Der Dollarindex steht stabil auf hohem Niveau (118,75), die US-Rendite kühlt minimal; ein fallender VIX und leicht fester Nasdaq deuten auf keine akute Risiko-Off-Phase hin. BTC-Dominanz und ETH/BTC sind unauffällig, ein klarer Kapitalrotationstrend fehlt. KI-Großinvestitionen und regulatorische Fortschritte stützen die institutionelle Erzählung, verändern das aktuelle Seitwärtsbild aber nicht.\n\nZu beachten: Der DXY bei 118,75. Sollte der Dollar weiter steigen, könnte der Druck auf Krypto-Risikoassets spürbar zunehmen.",
   "numbers": [
     {
       "sym": "BTCUSD",
-      "value": 79698,
-      "change": -2.25,
+      "value": 79675,
+      "change": -1.28,
       "label": "",
       "group": "Direkte Korrelation"
     },
     {
       "sym": "ETHUSD",
-      "value": 2455.17,
-      "change": -2.31,
+      "value": 2452.97,
+      "change": -2.07,
       "label": "",
       "group": "Direkte Korrelation"
     },
     {
       "sym": "SOLUSD",
-      "value": 101.75,
-      "change": -3.36,
+      "value": 102.19,
+      "change": -1.29,
       "label": "",
       "group": "Direkte Korrelation"
     },
     {
       "sym": "ETHBTC",
-      "value": 0.030806,
-      "change": -0.06,
+      "value": 0.030787,
+      "change": -0.8,
       "label": "",
       "group": "Kapitalrotation"
     },
     {
       "sym": "BTC.D",
-      "value": 59.19,
+      "value": 59.12,
       "change": null,
       "label": "",
       "group": "Liquidität & Sentiment"
     },
     {
       "sym": "USDT.D",
-      "value": 6.79,
+      "value": 6.78,
       "change": null,
       "label": "",
       "group": "Liquidität & Sentiment"
     },
     {
       "sym": "F&G",
-      "value": 74.0,
-      "change": 9.0,
+      "value": 73.0,
+      "change": -1.0,
       "label": "Greed",
       "group": "Liquidität & Sentiment"
     },
     {
       "sym": "MEMPOOL",
-      "value": 78445.0,
+      "value": 88220.0,
       "change": null,
       "label": "",
       "group": "On-Chain"
     },
     {
       "sym": "MO30",
-      "value": 26.87,
+      "value": 26.93,
       "change": null,
       "label": "",
       "group": "On-Chain"
@@ -75,8 +75,8 @@
     },
     {
       "sym": "NDX",
-      "value": 29516.36,
-      "change": 0.12,
+      "value": 29544.15,
+      "change": 0.21,
       "label": "",
       "group": "TradFi/Makro"
     },
@@ -89,15 +89,15 @@
     },
     {
       "sym": "US10Y",
-      "value": 4.79,
-      "change": 0.0,
+      "value": 4.77,
+      "change": -0.42,
       "label": "",
       "group": "TradFi/Makro"
     },
     {
       "sym": "SPX",
-      "value": 7747.71,
-      "change": 1.06,
+      "value": 7718.6,
+      "change": -0.38,
       "label": "",
       "group": "TradFi/Makro"
     }
