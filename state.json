@@ -2536,7 +2536,28 @@
     "https://www.marktechpost.com/?p=82102": "2026-09-05T06:53:19Z",
     "https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026": "2026-09-05T08:24:31Z",
     "6a9acd6e4c28b30a706b709a": "2026-09-05T10:35:30Z",
-    "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens": "2026-09-05T11:06:49Z"
+    "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens": "2026-09-05T11:06:49Z",
+    "https://decrypt.co/?p=377491": "2026-09-05T13:07:01Z",
+    "https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc": "2026-09-05T13:07:01Z",
+    "https://decrypt.co/videos/interviews/ZJJKjnAR/from-stellar-to-canton-how-franklin-templeton-adopted-tokenization": "2026-09-05T13:07:01Z",
+    "https://decrypt.co/videos/interviews/MqZOhomP/crypto-rebounds-after-trump-tacos-on-tariffs-bitgo-21b-ipo-solanas-skr-token-soars-250-fdv": "2026-09-05T13:07:01Z",
+    "https://decrypt.co/videos/interviews/nWmEOl4c/trumps-speech-at-davos-gives-small-boost-to-crypto-saylor-buys-213b-btc-blondish-interview": "2026-09-05T13:07:01Z",
+    "https://decrypt.co/videos/interviews/O1HZN4PH/trump-tariffs-3-return-of-the-bull-market-nyse-tokenising-what-that-means-for-hype-claude-meme-meta": "2026-09-05T13:07:01Z",
+    "https://decrypt.co/videos/interviews/lokwS0bc/crypto-sells-off-amidst-trump-tariff-turmoil-trove-falls-90-in-awful-tge-pump-fund-announced": "2026-09-05T13:07:01Z",
+    "https://decrypt.co/videos/interviews/9g4stfJX/massive-coinbase-news-bitcoin-rips-to-96-750-footballfun-tge-interview-with-founder": "2026-09-05T13:07:01Z",
+    "https://decrypt.co/videos/interviews/Iv1NIhI4/are-we-back-crypto-is-green-solana-intern-goes-rogue-pump-up-13-monero-hits-another-ath": "2026-09-05T13:07:01Z",
+    "https://decrypt.co/videos/interviews/IuLdmgP6/pump-memes-heating-up-xmr-vs-zec-how-important-are-these-rate-cuts-under-exposed": "2026-09-05T13:07:01Z",
+    "https://decrypt.co/videos/interviews/mefbKZgQ/psyopanime-meme-up-30x-are-memes-back-monero-ath-interview-w-joseph-chalom-ceo-of-sharplink": "2026-09-05T13:07:01Z",
+    "https://decrypt.co/videos/interviews/0y90noNs/a16z-raise-15b-jerome-powell-vs-trump-crypto-remains-flat-special-guest-dudas": "2026-09-05T13:07:01Z",
+    "https://decrypt.co/videos/interviews/72tPnqPX/zec-rebounds-11-trump-says-he-wont-pardon-sam-bankman-fried-florida-revisits-its-strategic-bitcoin-reserve": "2026-09-05T13:07:01Z",
+    "https://decrypt.co/videos/interviews/wmsgKRFW/the-zcash-situation-explained-interview-with-zec-bull-mert-btc-below-90k-zec-falls-19": "2026-09-05T13:07:01Z",
+    "https://decrypt.co/videos/interviews/GVQVX2ND/first-2026-dip-btc-at-92k-morgan-stanley-file-for-btc-eth-sol-etfs-hyperliquid-airdrop-speculation": "2026-09-05T13:07:01Z",
+    "https://decrypt.co/videos/interviews/XjhRjGIk/crypto-starts-2026-strong-venezuela-impacts-on-the-market-lighter-tge-reactions": "2026-09-05T13:07:01Z",
+    "https://decrypt.co/videos/interviews/OS1PGiAq/global-crypto-mcap-up-to-322-trillion-xrp-up-12-japan-endorse-crypto-fear-greed-back-to-neutral": "2026-09-05T13:07:01Z",
+    "https://decrypt.co/videos/interviews/EmmJkWJn/crypto-is-green-up-6-9-memes-outperform-pepe-up-67-infinex-founder-interview": "2026-09-05T13:07:01Z",
+    "https://decrypt.co/videos/interviews/WsvLVFlp/crypto-wallets-can-directly-compete-with-neobanks": "2026-09-05T13:07:01Z",
+    "https://decrypt.co/videos/interviews/dBDZqp65/2026-crypto-predictions-tom-lee-still-buying-eth-rekt-tease-worldstar-collab": "2026-09-05T13:07:01Z",
+    "https://decrypt.co/videos/interviews/50vopyFa/the-white-whale-up-10x-in-a-week-lighter-tge-saylor-buys-109m-btc": "2026-09-05T13:07:01Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2573,22 +2594,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/thailand-crypto-travel-rule-self-custodial-wallet-checks",
-      "title": "Thailand adopts crypto Travel Rule with self-custodial wallet checks",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-09-01T21:00:00Z",
-      "score": 7,
-      "category": "Regulation",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Thailand übernimmt die Travel Rule und führt damit Prüfungen für Self-Custody-Wallets ein. Börsen müssen zusätzliche Kunden- und Transaktionsdaten offenlegen, was die Compliance-Kosten erhöht. Die Umsetzung durch die Finanzinstitute ist die nächste entscheidende Phase.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-02T11:15:03Z"
-    },
     {
       "id": "https://decrypt.co/?p=377149",
       "title": "SEC Proposes First Transfer Agent Overhaul in 40 Years, Citing Tokenization",
@@ -5794,6 +5799,20 @@
       "summary": "Polen hat das Veto gegen das Krypto-Gesetz aufrechterhalten, während sich der Skandal um die Börse Zondacrypto ausweitet. Die regulatorische Unsicherheit belastet Krypto-Unternehmen und Anleger im Land. Die Ablehnung verzögert klare Regeln, und eine weitere Eskalation des Skandals ist wahrscheinlich.",
       "delivered": "digest",
       "delivered_at": "2026-09-05T11:13:35Z"
+    },
+    {
+      "id": "https://decrypt.co/?p=377491",
+      "title": "AI Just Solved a 350-Year-Old Math Problem By Writing the Longest Proof Ever",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-05T13:01:03Z",
+      "score": 8,
+      "category": "Model Release & Capability",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Laut Decrypt hat eine KI ein 350 Jahre altes Mathematikproblem gelöst und dabei den längsten Beweis erzeugt. Der Durchbruch belegt einen großen Fähigkeitssprung von KI-Systemen, was die Bedeutung von Forschung und Recheninfrastruktur für die Branche erhöht. Die Konkurrenz um leistungsfähigere KI-Modelle dürfte sich dadurch weiter verschärfen."
     }
   ],
   "digest_log": [
