@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://decrypt.co/?p=376866": "2026-08-29T15:34:08Z",
     "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b": "2026-08-29T16:49:25Z",
     "https://decrypt.co/?p=376878": "2026-08-29T17:34:16Z",
     "https://techcrunch.com/?p=3156771": "2026-08-29T17:49:06Z",
@@ -2555,7 +2554,8 @@
     "https://decrypt.co/videos/interviews/dBDZqp65/2026-crypto-predictions-tom-lee-still-buying-eth-rekt-tease-worldstar-collab": "2026-09-05T13:07:01Z",
     "https://decrypt.co/videos/interviews/50vopyFa/the-white-whale-up-10x-in-a-week-lighter-tge-saylor-buys-109m-btc": "2026-09-05T13:07:01Z",
     "f654a696-5a94-5503-9bd6-5a30b4e4d630": "2026-09-05T14:07:24Z",
-    "https://decrypt.co/?p=377501": "2026-09-05T15:06:59Z"
+    "https://decrypt.co/?p=377501": "2026-09-05T15:06:59Z",
+    "https://decrypt.co/?p=373351": "2026-09-05T16:07:47Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2592,22 +2592,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=377156",
-      "title": "Sality Botnet Dismantled After Eight Years of Stealing Bitcoin and Ethereum",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-09-02T11:30:45Z",
-      "score": 6,
-      "category": "Hack & Security",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Das Sality-Botnet wurde nach acht Jahren zerschlagen; es hatte in dieser Zeit Bitcoin und Ethereum gestohlen. Der Eingriff beseitigt eine bekannte Quelle von Krypto-Diebstahl, ohne jedoch direkt die Marktlage zu verändern. Mittelfristig sinkt das Risiko weiterer Diebstähle durch diese Infrastruktur; unmittelbare Kursbewegungen sind nicht zu erwarten.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-02T12:20:49Z"
-    },
     {
       "id": "https://cointelegraph.com/news/remixpoint-dumps-altcoins-1506-btc-sole-crypto-bet",
       "title": "Japan’s Remixpoint dumps altcoins, leaves 1,506 BTC as sole crypto bet",
@@ -5805,6 +5789,22 @@
       "instruments": [],
       "entities": [],
       "summary": "Google hat einen Chrome-Sicherheitsfehler gepatcht, der nach Angaben des Unternehmens bereits von Angreifern ausgenutzt wurde. Für Krypto-Nutzer ist das relevant, weil Browser der Zugang zu Wallets, DeFi-Apps und Börsen sind; Sicherheitslücken können dort Angriffe ermöglichen. Die unmittelbare Folge ist ein Update auf die gepatchte Browserversion, eine direkte Marktbewegung ist davon nicht zu erwarten."
+    },
+    {
+      "id": "https://decrypt.co/?p=373351",
+      "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks and Meme Coins",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-05T16:06:41Z",
+      "score": 5,
+      "category": "Tech Update",
+      "sentiment": "neutral",
+      "instruments": [
+        "ETHUSD"
+      ],
+      "entities": [],
+      "summary": "Decrypt erklärt in einem Ratgeber Robinhood Chain, ein Ethereum-Layer-2-Netzwerk für tokenisierte Aktien und Meme-Coins. Solche Netzwerke können traditionelle Finanzmärkte mit Krypto verbinden und die Nutzung von Ethereum als Abwicklungs- und Sicherheitsebene stärken. Eine unmittelbare Kursreaktion ist aus dem erklärenden Beitrag nicht ableitbar; relevant wird die tatsächliche Nutzung des Netzwerks."
     }
   ],
   "digest_log": [
