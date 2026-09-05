@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth": "2026-08-29T19:34:11Z",
     "968ca34b-a548-542f-bf77-ad913d92547c": "2026-08-29T20:19:20Z",
     "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks": "2026-08-29T20:49:21Z",
     "91c09846-6ead-5663-99a1-8df0e6372704": "2026-08-29T21:19:06Z",
@@ -2553,7 +2552,9 @@
     "https://decrypt.co/?p=373351": "2026-09-05T16:07:47Z",
     "https://decrypt.co/?p=377510": "2026-09-05T17:06:52Z",
     "https://techcrunch.com/?p=3161042": "2026-09-05T18:08:39Z",
-    "https://www.marktechpost.com/?p=82106": "2026-09-05T19:21:46Z"
+    "https://www.marktechpost.com/?p=82106": "2026-09-05T19:21:46Z",
+    "https://techcrunch.com/?p=3161045": "2026-09-05T19:49:26Z",
+    "https://www.marktechpost.com/?p=82109": "2026-09-05T19:49:28Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2590,40 +2591,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3159950",
-      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-02T12:09:42Z",
-      "score": 7,
-      "category": "Safety & Risk",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [
-        "OpenAI"
-      ],
-      "summary": "OpenAI sieht sich mit 30 weiteren Klagen im Zusammenhang mit dem Schusswaffen-Vorfall in Tumbler Ridge konfrontiert. Die rechtlichen Schritte erhöhen den Druck auf OpenAI und die KI-Branche hinsichtlich der Verantwortung von KI-Modellen. Weitere juristische Auseinandersetzungen und mögliche regulatorische Folgen sind wahrscheinlich.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-02T12:20:49Z"
-    },
-    {
-      "id": "1b1ea4a9-4939-59f8-a026-7b516815f882",
-      "title": "Adam Back invests another $8.8 million in Capital B as bitcoin treasury firm targets 3,521 BTC",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-09-02T12:31:27Z",
-      "score": 8,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "Adam Back investiert weitere 8,8 Millionen Dollar in das Bitcoin-Treasury-Unternehmen Capital B, das einen Bestand von 3.521 BTC anstrebt. Die Beteiligung des bekannten Bitcoin-Befürworters stärkt das Vertrauen in Bitcoin als Unternehmensreserve und unterstützt die Nachfrage. Sollte Capital B sein Ziel erreichen, entsteht zusätzlicher Kaufdruck auf BTC; die Entwicklung des Treasury-Bestands ist die nächste Wegmarke."
-    },
     {
       "id": "https://cointelegraph.com/news/thai-sue-tether-freezing-61m-pig-butchering-case",
       "title": "Thai businessmen sue Tether for freezing $42M in $61M pig butchering case",
@@ -5800,6 +5767,36 @@
       "instruments": [],
       "entities": [],
       "summary": "Nous Research hat in Hermes Desktop eine Ein-Klick-Einrichtung für lokale Modelle integriert. Damit lassen sich private KI-Modelle deutlich einfacher direkt auf dem eigenen Computer starten, was die lokale KI-Nutzung für Nutzer attraktiver macht. Eine größere Marktwirkung ist von dieser kleineren Produktaktualisierung nicht zu erwarten."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3161045",
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-05T19:35:24Z",
+      "score": 5,
+      "category": "Society & Work",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Wanderer wurden gerettet, nachdem sie Google Gemini laut Medienberichten für ihre Routenplanung genutzt hatten. Der Vorfall zeigt, wie KI-Tools im Alltag helfen können, unterstreicht aber auch die Grenzen reiner KI-Planung in unübersichtlichem Gelände. Eine unmittelbare Branchen- oder Marktauswirkung ist damit nicht verbunden."
+    },
+    {
+      "id": "https://www.marktechpost.com/?p=82109",
+      "title": "GitHub Introduces Project HydraFusion: Runtime Multi-Model Orchestration That Builds a Workflow Per Coding Task in Copilot CLI",
+      "url": null,
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-09-05T19:40:11Z",
+      "score": 6,
+      "category": "Model Release & Capability",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "Microsoft"
+      ],
+      "summary": "GitHub hat Project HydraFusion vorgestellt, eine Laufzeit-Orchestrierung, die in Copilot CLI pro Programmieraufgabe einen Workflow aus mehreren Modellen erstellt. Die Integration dürfte KI-gestützte Codeerstellung flexibler und effizienter machen und stärkt Microsofts Entwicklerangebot. Damit können Entwickler künftig je nach Aufgabe passende Modellkombinationen im Copilot CLI nutzen."
     }
   ],
   "digest_log": [
