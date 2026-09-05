@@ -1,8 +1,5 @@
 {
   "seen": {
-    "968ca34b-a548-542f-bf77-ad913d92547c": "2026-08-29T20:19:20Z",
-    "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks": "2026-08-29T20:49:21Z",
-    "91c09846-6ead-5663-99a1-8df0e6372704": "2026-08-29T21:19:06Z",
     "https://www.marktechpost.com/?p=81955": "2026-08-30T02:04:29Z",
     "https://www.marktechpost.com/?p=81958": "2026-08-30T06:19:14Z",
     "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch": "2026-08-30T08:19:32Z",
@@ -2555,7 +2552,8 @@
     "https://www.marktechpost.com/?p=82106": "2026-09-05T19:21:46Z",
     "https://techcrunch.com/?p=3161045": "2026-09-05T19:49:26Z",
     "https://www.marktechpost.com/?p=82109": "2026-09-05T19:49:28Z",
-    "5f2fa51b-690c-509a-97ba-5bfd8f699198": "2026-09-05T20:07:36Z"
+    "5f2fa51b-690c-509a-97ba-5bfd8f699198": "2026-09-05T20:07:36Z",
+    "https://techcrunch.com/?p=3161049": "2026-09-05T23:06:49Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2592,22 +2590,6 @@
     }
   },
   "articles": [
-    {
-      "id": "a3e34082-08e6-57c2-99f1-5b8475a14604",
-      "title": "Wyoming expands Chainlink partnership with onchain reserve verification for FRNT",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-09-02T13:05:03Z",
-      "score": 6,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Wyoming weitet seine Partnerschaft mit Chainlink aus und setzt Onchain-Reserveverifizierung für FRNT ein. Die Ausweitung zeigt, dass öffentliche Stellen zunehmend Blockchain-Orakel für Transparenz nutzen, was die institutionelle Akzeptanz von Krypto-Infrastruktur stärkt. Eine weitere Verbreitung staatlicher Onchain-Anwendungen und wachsende Nachfrage nach verifizierbaren Reserven sind die Folge.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-02T13:16:06Z"
-    },
     {
       "id": "https://cointelegraph.com/news/hashkey-dtcc-first-asian-crypto-service-provider",
       "title": "Hashkey joins DTCC working group as first Asian crypto service provider",
@@ -5800,6 +5782,23 @@
       "summary": "Bloomberg zufolge halten UBS und Jane Street zusammen rund 75 Millionen Dollar in Hyperliquid-ETF-Produkten. Die Beteiligung großer Finanzinstitute signalisiert wachsende institutionelle Nachfrage nach dem Hyperliquid-Ökosystem. Dadurch dürfte die Glaubwürdigkeit dieser Produkte weiter zunehmen und die Nachfrage nach Krypto-ETFs insgesamt gestützt werden.",
       "delivered": "digest",
       "delivered_at": "2026-09-05T20:14:56Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3161049",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-05T22:49:55Z",
+      "score": 8,
+      "category": "Regulation & Policy",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [
+        "OpenAI",
+        "Microsoft"
+      ],
+      "summary": "Die Seattle Times und Newsday haben OpenAI und Microsoft wegen Urheberrechtsverletzungen verklagt. Der Rechtsstreit verstärkt die Unsicherheit für KI-Anbieter, die mit lizenzierten Inhalten trainieren. Weitere Verlagsklagen sind wahrscheinlich und dürften zu höheren Rechtskosten oder neuen Lizenzvereinbarungen führen."
     }
   ],
   "digest_log": [
