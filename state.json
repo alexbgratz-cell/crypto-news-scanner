@@ -5749,7 +5749,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "Nous Research hat in Hermes Desktop eine Ein-Klick-Einrichtung für lokale Modelle integriert. Damit lassen sich private KI-Modelle deutlich einfacher direkt auf dem eigenen Computer starten, was die lokale KI-Nutzung für Nutzer attraktiver macht. Eine größere Marktwirkung ist von dieser kleineren Produktaktualisierung nicht zu erwarten."
+      "summary": "Nous Research hat in Hermes Desktop eine Ein-Klick-Einrichtung für lokale Modelle integriert. Damit lassen sich private KI-Modelle deutlich einfacher direkt auf dem eigenen Computer starten, was die lokale KI-Nutzung für Nutzer attraktiver macht. Eine größere Marktwirkung ist von dieser kleineren Produktaktualisierung nicht zu erwarten.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-05T20:14:56Z"
     },
     {
       "id": "https://techcrunch.com/?p=3161045",
@@ -5779,7 +5781,9 @@
       "entities": [
         "Microsoft"
       ],
-      "summary": "GitHub hat Project HydraFusion vorgestellt, eine Laufzeit-Orchestrierung, die in Copilot CLI pro Programmieraufgabe einen Workflow aus mehreren Modellen erstellt. Die Integration dürfte KI-gestützte Codeerstellung flexibler und effizienter machen und stärkt Microsofts Entwicklerangebot. Damit können Entwickler künftig je nach Aufgabe passende Modellkombinationen im Copilot CLI nutzen."
+      "summary": "GitHub hat Project HydraFusion vorgestellt, eine Laufzeit-Orchestrierung, die in Copilot CLI pro Programmieraufgabe einen Workflow aus mehreren Modellen erstellt. Die Integration dürfte KI-gestützte Codeerstellung flexibler und effizienter machen und stärkt Microsofts Entwicklerangebot. Damit können Entwickler künftig je nach Aufgabe passende Modellkombinationen im Copilot CLI nutzen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-05T20:14:56Z"
     },
     {
       "id": "5f2fa51b-690c-509a-97ba-5bfd8f699198",
@@ -5793,7 +5797,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Bloomberg zufolge halten UBS und Jane Street zusammen rund 75 Millionen Dollar in Hyperliquid-ETF-Produkten. Die Beteiligung großer Finanzinstitute signalisiert wachsende institutionelle Nachfrage nach dem Hyperliquid-Ökosystem. Dadurch dürfte die Glaubwürdigkeit dieser Produkte weiter zunehmen und die Nachfrage nach Krypto-ETFs insgesamt gestützt werden."
+      "summary": "Bloomberg zufolge halten UBS und Jane Street zusammen rund 75 Millionen Dollar in Hyperliquid-ETF-Produkten. Die Beteiligung großer Finanzinstitute signalisiert wachsende institutionelle Nachfrage nach dem Hyperliquid-Ökosystem. Dadurch dürfte die Glaubwürdigkeit dieser Produkte weiter zunehmen und die Nachfrage nach Krypto-ETFs insgesamt gestützt werden.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-05T20:14:56Z"
     }
   ],
   "digest_log": [
@@ -6975,6 +6981,14 @@
       "at": "2026-09-05T18:16:40Z",
       "article_ids": [
         "https://techcrunch.com/?p=3161042"
+      ]
+    },
+    {
+      "at": "2026-09-05T20:14:56Z",
+      "article_ids": [
+        "5f2fa51b-690c-509a-97ba-5bfd8f699198",
+        "https://www.marktechpost.com/?p=82106",
+        "https://www.marktechpost.com/?p=82109"
       ]
     }
   ],
