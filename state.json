@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex": "2026-08-29T02:04:15Z",
     "https://www.marktechpost.com/?p=81942": "2026-08-29T05:49:18Z",
     "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k": "2026-08-29T07:04:29Z",
     "https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc": "2026-08-29T07:04:29Z",
@@ -2555,7 +2554,10 @@
     "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/": "2026-09-04T22:23:17Z",
     "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/": "2026-09-04T22:23:17Z",
     "https://techcrunch.com/?p=3160997": "2026-09-04T23:21:38Z",
-    "https://techcrunch.com/?p=3161014": "2026-09-04T23:49:22Z"
+    "https://techcrunch.com/?p=3161014": "2026-09-04T23:49:22Z",
+    "https://openai.com/index/gpt-6-astra": "2026-09-05T04:37:10Z",
+    "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex": "2026-09-05T04:37:10Z",
+    "https://www.marktechpost.com/?p=82085": "2026-09-05T04:37:12Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2592,22 +2594,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://www.marktechpost.com/?p=82033",
-      "title": "Anthropic Introduces Enterprise Frontier Safeguards (EFS): Zero-Data-Retention Privacy Plus Cross-Session Misuse Detection",
-      "url": null,
-      "stream": "ai",
-      "source": "MarkTechPost",
-      "published": "2026-09-02T07:38:18Z",
-      "score": 6,
-      "category": "Safety & Risk",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Anthropic hat Enterprise Frontier Safeguards (EFS) vorgestellt, die Zero-Data-Retention-Privacy und Cross-Session-Misuse-Erkennung bieten. Die Funktionen adressieren Datenschutz- und Sicherheitsanforderungen von Unternehmen und stärken Anthropics Position im Enterprise-Wettbewerb. Die Einführung dürfte die Nachfrage nach Anthropic-API-Diensten in regulierten Branchen erhöhen.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-02T08:17:09Z"
-    },
     {
       "id": "https://cointelegraph.com/markets/bitcoin-etf-best-month-2026-btc-up-25-august",
       "title": "Bitcoin ETFs notch best month of 2026 as BTC gains 25% in August",
@@ -5817,6 +5803,22 @@
       "summary": "XDOF, erst seit drei Monaten aus dem Stealth-Modus, führt Gespräche über eine Series-B-Finanzierung zu einer Bewertung von 1,2 Milliarden US-Dollar. Das deutet auf starkes Investoreninteresse und schnelles Wachstumspotenzial eines jungen KI-Unternehmens hin. Ein erfolgreicher Abschluss der Runde würde XDOF erhebliches Wachstumskapital verschaffen und seine Marktposition stärken.",
       "delivered": "digest",
       "delivered_at": "2026-09-05T00:24:39Z"
+    },
+    {
+      "id": "https://www.marktechpost.com/?p=82085",
+      "title": "NVIDIA Releases Personal AI Router (PAIR): An Open Source Virtual Inference Router that Distributes Local AI Requests Across RTX, DGX Spark, and Mac Nodes",
+      "url": null,
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-09-05T03:52:23Z",
+      "score": 7,
+      "category": "Hardware & Infrastructure",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [
+        "NVDA"
+      ],
+      "summary": "NVIDIA hat den quelloffenen Personal AI Router (PAIR) veröffentlicht, einen virtuellen Inferenz-Router, der lokale KI-Anfragen auf RTX-, DGX-Spark- und Mac-Knoten verteilt. Das Open-Source-Tool erweitert NVIDIAs Ökosystem für lokale Inferenz, da Nutzer vorhandene Rechenressourcen flexibler auslasten können. Dies dürfte die Nachfrage nach NVIDIAs lokaler KI-Hardware weiter stützen und die Rolle des Unternehmens im Inferenz-Markt festigen."
     }
   ],
   "digest_log": [
