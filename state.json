@@ -2554,7 +2554,9 @@
     "https://decrypt.co/?p=377494": "2026-09-06T13:08:14Z",
     "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/": "2026-09-06T13:08:16Z",
     "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves": "2026-09-06T13:23:20Z",
-    "https://decrypt.co/?p=377280": "2026-09-06T15:07:13Z"
+    "https://decrypt.co/?p=377280": "2026-09-06T15:07:13Z",
+    "https://decrypt.co/?p=377512": "2026-09-06T16:08:15Z",
+    "https://openai.com/index/research-acceleration-view-inside-openai": "2026-09-06T16:08:15Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2615,34 +2617,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=377162",
-      "title": "AI Billionaires Fund Ad Blitz as Data Center Opposition Hits 61%",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-09-02T14:16:44Z",
-      "score": 5,
-      "category": "Society & Work",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "KI-Milliardäre finanzieren eine Werbekampagne, während die Ablehnung von Rechenzentren in der Bevölkerung auf 61 Prozent gestiegen ist. Der wachsende öffentliche Widerstand gefährdet den Ausbau der KI-Infrastruktur und trifft damit Betreiber großer Cloud- und Rechenzentrumsprojekte. In der Folge sind verstärkte PR-Bemühungen und mögliche Verzögerungen bei neuen Standorten zu erwarten."
-    },
-    {
-      "id": "https://www.technologyreview.com/?p=1142879",
-      "title": "Facilitating AI integration with simplicity at scale",
-      "url": null,
-      "stream": "ai",
-      "source": "Artificial intelligence – MIT Technology Review",
-      "published": "2026-09-02T14:00:00Z",
-      "score": 4,
-      "category": "Business & Funding",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Der Artikel beschreibt, wie KI-Integration durch Einfachheit auch in großem Umfang gelingen soll. Damit richtet er sich an Unternehmen, die KI-Prozesse ohne technische Komplexität ausrollen möchten. Konkrete Produkte, Zahlen oder Marktbewegungen werden nicht genannt, daher ist keine unmittelbare Branchenwirkung abzuleiten."
-    },
     {
       "id": "https://techcrunch.com/?p=3160055",
       "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
@@ -5825,6 +5799,36 @@
       "summary": "Am 6. September 2026 wurden 600 Bitcoin aus einer seit 16 Jahren inaktiven Satoshi-Ära-Adresse bewegt. Solche Bewegungen alter Bestände werden am Markt oft als möglicher Verkaufsdruck gedeutet und könnten die Stimmung bei Bitcoin belasten. Unmittelbar dürfte dies zu erhöhter Aufmerksamkeit und Volatilität bei BTCUSD führen.",
       "delivered": "digest",
       "delivered_at": "2026-09-06T14:14:37Z"
+    },
+    {
+      "id": "https://decrypt.co/?p=377512",
+      "title": "XRP Gets Another Boost Through Ripple Deal With Florida Athletics",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-06T16:01:03Z",
+      "score": 6,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Ripple hat eine Partnerschaft mit Florida Athletics geschlossen, um XRP bekannter zu machen. Die Zusammenarbeit stärkt die Markenpräsenz von XRP im Sportbereich und lenkt positive Aufmerksamkeit auf das Ökosystem. Kurzfristig ist eine leicht positive Kursreaktion möglich, ein großer Marktimpuls ist jedoch nicht zu erwarten."
+    },
+    {
+      "id": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": null,
+      "stream": "ai",
+      "source": "OpenAI News",
+      "published": "2026-09-06T08:00:00Z",
+      "score": 5,
+      "category": "Research & Open Source",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [
+        "OpenAI"
+      ],
+      "summary": "OpenAI veröffentlicht einen internen Einblick in die Beschleunigung seiner Forschung. Das Unternehmen signalisiert damit Fortschrittstempo und strategischen Fokus auf schnellere Modellentwicklung, was die Wahrnehmung der Branche prägt. Konkrete Marktbewegungen oder Ankündigungen sind aus dem Beitrag nicht abzuleiten; die Wirkung bleibt zunächst neutral."
     }
   ],
   "digest_log": [
