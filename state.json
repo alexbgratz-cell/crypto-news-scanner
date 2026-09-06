@@ -2557,7 +2557,8 @@
     "https://techcrunch.com/?p=3161058": "2026-09-06T20:49:33Z",
     "2bc40aa8-a0ba-5815-9721-738d28490054": "2026-09-06T21:07:32Z",
     "https://www.marktechpost.com/?p=82154": "2026-09-06T21:07:35Z",
-    "https://www.marktechpost.com/?p=82150": "2026-09-06T21:07:35Z"
+    "https://www.marktechpost.com/?p=82150": "2026-09-06T21:07:35Z",
+    "56e51f0e-ef69-5e12-8782-70a0d154f611": "2026-09-06T21:22:36Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2618,22 +2619,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3160084",
-      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-02T16:04:10Z",
-      "score": 6,
-      "category": "Business & Funding",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Das KI-Unternehmen Wonderful hat seine Bewertung in weniger als sechs Monaten auf 5 Milliarden US-Dollar mehr als verdoppelt. Das signalisiert starkes Anlegerinteresse im KI-Segment und kann das Vertrauen in ähnliche Startups stützen. Die gestiegene Bewertung dürfte weitere Finanzierungsaktivität und Aufmerksamkeit auf das Unternehmen lenken.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-02T16:16:27Z"
-    },
     {
       "id": "https://techcrunch.com/?p=3160089",
       "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
@@ -5827,6 +5812,22 @@
       "summary": "Meta FAIR stellt AI Research Preference Models (RPMs) vor, mit denen ML-Experimente vor dem Einsatz von GPU-Stunden bewertet und priorisiert werden können. Das Verfahren zielt direkt auf Kosten und Effizienz im KI-Forschungsbetrieb ab und kann Experimentierzyklen beschleunigen. Dadurch dürfte Meta die Ressourcennutzung seiner KI-Forschung optimieren und die Hürde für teure, rechenintensive Versuche senken.",
       "delivered": "digest",
       "delivered_at": "2026-09-06T21:13:59Z"
+    },
+    {
+      "id": "56e51f0e-ef69-5e12-8782-70a0d154f611",
+      "title": "Liquid Network pauses after purported ‘white-hat’ hackers withdraw $320 million in bitcoin",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-09-06T21:14:36Z",
+      "score": 8,
+      "category": "Hack & Security",
+      "sentiment": "bearish",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Die Liquid Network hat den Betrieb ausgesetzt, nachdem angebliche White-Hat-Hacker 320 Millionen Dollar in Bitcoin abgezogen haben. Der Vorfall belastet das Vertrauen in die Krypto-Infrastruktur und kann kurzfristig Verkaufsdruck auf Bitcoin auslösen. Erhöhte Volatilität an den Bitcoin-Märkten ist wahrscheinlich, bis Details zur Sicherheitslücke geklärt sind."
     }
   ],
   "digest_log": [
