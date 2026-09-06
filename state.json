@@ -1,6 +1,5 @@
 {
   "seen": {
-    "ddd5d30a-77d8-51b2-829f-183fcb303132": "2026-08-30T18:04:25Z",
     "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying": "2026-08-30T18:19:09Z",
     "ab4006e1-2fc8-5bcc-b064-fab72dcf09e5": "2026-08-30T18:49:18Z",
     "https://decrypt.co/?p=376884": "2026-08-30T19:49:12Z",
@@ -2558,7 +2557,8 @@
     "https://openai.com/index/research-acceleration-view-inside-openai": "2026-09-06T16:08:15Z",
     "https://decrypt.co/?p=377514": "2026-09-06T17:06:41Z",
     "https://openai.com/index/an-alien-mind": "2026-09-06T17:06:42Z",
-    "https://techcrunch.com/?p=3161054": "2026-09-06T17:06:43Z"
+    "https://techcrunch.com/?p=3161054": "2026-09-06T17:06:43Z",
+    "468e7abf-bc47-5209-8463-876708868ffb": "2026-09-06T18:08:52Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2619,25 +2619,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/g20-members-clear-pathways-digital-asset-innovation",
-      "title": "G20 members tout ‘clear pathways’ for digital asset innovation",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-09-02T15:34:06Z",
-      "score": 6,
-      "category": "Regulation",
-      "sentiment": "bullish",
-      "instruments": [
-        "BTCUSD",
-        "ETHUSD"
-      ],
-      "entities": [],
-      "summary": "G20-Mitglieder betonen in einer gemeinsamen Erklärung „klare Wege“ für Innovation bei digitalen Vermögenswerten und signalisieren damit politische Unterstützung für den Sektor. Die Aussage dürfte das Vertrauen in Krypto-Märkte stärken und als positives regulatorisches Signal für globale Anleger wirken. Eine anhaltend freundliche Marktstimmung bei digitalen Vermögenswerten ist wahrscheinlich.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-02T16:16:27Z"
-    },
     {
       "id": "https://decrypt.co/?p=377171",
       "title": "Tether Sued Over Alleged Unlawful Freeze of $42.4 Million in USDT",
@@ -5831,6 +5812,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Travis Kalanicks Startup Atoms könnte einem Bericht zufolge ins Robotaxi-Geschäft einsteigen. Sollte sich das bestätigen, würde Kalanick erneut im Bereich autonomes Fahren aktiv und der Wettbewerb im Robotaxi-Markt könnte sich verschärfen. Konkrete Details und eine offizielle Bestätigung stehen jedoch noch aus."
+    },
+    {
+      "id": "468e7abf-bc47-5209-8463-876708868ffb",
+      "title": "Coinbase-backed Router Protocol to shut down, burn 303 million ROUTE tokens",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-09-06T18:03:26Z",
+      "score": 4,
+      "category": "Other",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Das von Coinbase unterstützte Router Protocol stellt seinen Betrieb ein und verbrennt 303 Millionen ROUTE-Token. Für das Krypto-Ökosystem ist das ein negatives Signal, vor allem für Token-Inhaber und Coinbase-nahe Inkubationsprojekte; die Relevanz für große Marktindizes bleibt gering. Die Verbrennung markiert das endgültige Aus des Protokolls, der ROUTE-Token verliert damit seine Nutzungsgrundlage."
     }
   ],
   "digest_log": [
