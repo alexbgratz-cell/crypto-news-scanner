@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.marktechpost.com/?p=81958": "2026-08-30T06:19:14Z",
     "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch": "2026-08-30T08:19:32Z",
     "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans": "2026-08-30T10:04:07Z",
     "6a8dc20a07538691fe0533d6": "2026-08-30T10:34:29Z",
@@ -2553,7 +2552,8 @@
     "https://www.marktechpost.com/?p=82109": "2026-09-05T19:49:28Z",
     "5f2fa51b-690c-509a-97ba-5bfd8f699198": "2026-09-05T20:07:36Z",
     "https://techcrunch.com/?p=3161049": "2026-09-05T23:06:49Z",
-    "https://www.marktechpost.com/?p=82124": "2026-09-06T03:38:24Z"
+    "https://www.marktechpost.com/?p=82124": "2026-09-06T03:38:24Z",
+    "https://www.marktechpost.com/?p=82141": "2026-09-06T06:29:12Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2590,23 +2590,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/magazine/btc-will-hit-1m-by-2030-but-arthur-hayes-is-buying-eth-instead",
-      "title": "BTC will hit $1M by 2030... but Arthur Hayes is buying ETH instead",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-09-02T13:30:00Z",
-      "score": 5,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [
-        "BTCUSD",
-        "ETHUSD"
-      ],
-      "entities": [],
-      "summary": "Arthur Hayes prognostiziert, dass Bitcoin bis 2030 eine Million Dollar erreichen wird, sagt aber zugleich, dass er stattdessen Ethereum kauft. Die Aussage dürfte die Nachfrage nach Ethereum stützen, während Bitcoin langfristig positiv bewertet bleibt. Konkrete Kursziele oder Termine für Ethereum nennt der Artikel nicht; die Marktreaktion bleibt vorerst spekulativ."
-    },
     {
       "id": "https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident",
       "title": "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
@@ -5799,6 +5782,20 @@
         "Perplexity"
       ],
       "summary": "Perplexity erläutert in einem technischen Beitrag seine GPU-Embedding-Infrastruktur mit den Komponenten Ivy, Tulip und ROSE, die den Dienst pplx-embed unterstützen. Der Artikel zeigt, wie das Unternehmen eigene GPU-Ressourcen für skalierbare Embedding-Bereitstellung einsetzt, was für die Effizienz und Kostenkontrolle des Suchdienstes relevant ist. Für die breitere KI-Branche ist dies primär ein Einblick in Betriebsdetails ohne unmittelbar marktbewegende Konsequenz."
+    },
+    {
+      "id": "https://www.marktechpost.com/?p=82141",
+      "title": "UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and RL for Computer-Use Agents",
+      "url": null,
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-09-06T06:11:02Z",
+      "score": 6,
+      "category": "Research & Open Source",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Forscher der UC Berkeley haben CUA-Lite vorgestellt, eine offene Plattform, die Sandboxen, Daten, Evaluierung und Reinforcement Learning für Computer-Use-Agents vereinheitlicht. Die Veröffentlichung erleichtert Forschung an agentischen KI-Systemen und stärkt das Open-Source-Ökosystem. Erwartbar ist eine schnellere Weiterentwicklung von Agenten-Benchmarks und darauf aufbauenden Open-Source-Projekten."
     }
   ],
   "digest_log": [
