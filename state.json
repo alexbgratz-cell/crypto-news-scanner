@@ -5812,7 +5812,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Ripple hat eine Partnerschaft mit Florida Athletics geschlossen, um XRP bekannter zu machen. Die Zusammenarbeit stärkt die Markenpräsenz von XRP im Sportbereich und lenkt positive Aufmerksamkeit auf das Ökosystem. Kurzfristig ist eine leicht positive Kursreaktion möglich, ein großer Marktimpuls ist jedoch nicht zu erwarten."
+      "summary": "Ripple hat eine Partnerschaft mit Florida Athletics geschlossen, um XRP bekannter zu machen. Die Zusammenarbeit stärkt die Markenpräsenz von XRP im Sportbereich und lenkt positive Aufmerksamkeit auf das Ökosystem. Kurzfristig ist eine leicht positive Kursreaktion möglich, ein großer Marktimpuls ist jedoch nicht zu erwarten.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-06T16:15:35Z"
     },
     {
       "id": "https://openai.com/index/research-acceleration-view-inside-openai",
@@ -7036,6 +7038,12 @@
       "at": "2026-09-06T14:14:37Z",
       "article_ids": [
         "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves"
+      ]
+    },
+    {
+      "at": "2026-09-06T16:15:35Z",
+      "article_ids": [
+        "https://decrypt.co/?p=377512"
       ]
     }
   ],
