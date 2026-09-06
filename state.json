@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying": "2026-08-30T18:19:09Z",
-    "ab4006e1-2fc8-5bcc-b064-fab72dcf09e5": "2026-08-30T18:49:18Z",
-    "https://decrypt.co/?p=376884": "2026-08-30T19:49:12Z",
-    "37507202-9591-56f4-ab54-2e0f19014a8e": "2026-08-30T20:34:16Z",
-    "https://www.marktechpost.com/?p=81962": "2026-08-30T20:34:19Z",
     "https://decrypt.co/?p=376897": "2026-08-30T21:34:11Z",
     "https://www.marktechpost.com/?p=81967": "2026-08-30T21:34:14Z",
     "https://decrypt.co/?p=376911": "2026-08-30T22:34:09Z",
@@ -2558,7 +2553,8 @@
     "https://decrypt.co/?p=377514": "2026-09-06T17:06:41Z",
     "https://openai.com/index/an-alien-mind": "2026-09-06T17:06:42Z",
     "https://techcrunch.com/?p=3161054": "2026-09-06T17:06:43Z",
-    "468e7abf-bc47-5209-8463-876708868ffb": "2026-09-06T18:08:52Z"
+    "468e7abf-bc47-5209-8463-876708868ffb": "2026-09-06T18:08:52Z",
+    "https://techcrunch.com/?p=3161058": "2026-09-06T20:49:33Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2619,24 +2615,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=377171",
-      "title": "Tether Sued Over Alleged Unlawful Freeze of $42.4 Million in USDT",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-09-02T15:42:13Z",
-      "score": 7,
-      "category": "Regulation",
-      "sentiment": "bearish",
-      "instruments": [
-        "USDT.D"
-      ],
-      "entities": [],
-      "summary": "Tether wird wegen des angeblichen unrechtmäßigen Einfrierens von 42,4 Millionen US-Dollar in USDT verklagt. Der Rechtsstreit erhöht das regulatorische Risiko für den größten Stablecoin-Emittenten und könnte das Vertrauen in Tether belasten. Eine anhaltende Unsicherheit um USDT und den Stablecoin-Sektor ist wahrscheinlich.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-02T16:16:27Z"
-    },
     {
       "id": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
       "title": "Proactive cyber defense for governments and enterprises",
@@ -5826,6 +5804,22 @@
       "instruments": [],
       "entities": [],
       "summary": "Das von Coinbase unterstützte Router Protocol stellt seinen Betrieb ein und verbrennt 303 Millionen ROUTE-Token. Für das Krypto-Ökosystem ist das ein negatives Signal, vor allem für Token-Inhaber und Coinbase-nahe Inkubationsprojekte; die Relevanz für große Marktindizes bleibt gering. Die Verbrennung markiert das endgültige Aus des Protokolls, der ROUTE-Token verliert damit seine Nutzungsgrundlage."
+    },
+    {
+      "id": "https://techcrunch.com/?p=3161058",
+      "title": "Authors push back as publishers and agents seek share of Anthropic settlement",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-06T20:47:37Z",
+      "score": 5,
+      "category": "Business & Funding",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [
+        "Anthropic"
+      ],
+      "summary": "Autoren wehren sich, während Verlage und Agenten einen Anteil an der Anthropic-Vergleichssumme fordern. Der Konflikt um die Verteilung könnte die Einigung im Urheberrechtsstreit verzögern und den Umgang mit KI-Trainingsdaten in der Branche beeinflussen. Für Anthropic bleibt rechtliche Unsicherheit bestehen; die nächste Wegmarke ist die gerichtliche Bestätigung des Vergleichs."
     }
   ],
   "digest_log": [
