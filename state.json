@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.marktechpost.com/?p=81955": "2026-08-30T02:04:29Z",
     "https://www.marktechpost.com/?p=81958": "2026-08-30T06:19:14Z",
     "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch": "2026-08-30T08:19:32Z",
     "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans": "2026-08-30T10:04:07Z",
@@ -2553,7 +2552,8 @@
     "https://techcrunch.com/?p=3161045": "2026-09-05T19:49:26Z",
     "https://www.marktechpost.com/?p=82109": "2026-09-05T19:49:28Z",
     "5f2fa51b-690c-509a-97ba-5bfd8f699198": "2026-09-05T20:07:36Z",
-    "https://techcrunch.com/?p=3161049": "2026-09-05T23:06:49Z"
+    "https://techcrunch.com/?p=3161049": "2026-09-05T23:06:49Z",
+    "https://www.marktechpost.com/?p=82124": "2026-09-06T03:38:24Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2590,22 +2590,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/hashkey-dtcc-first-asian-crypto-service-provider",
-      "title": "Hashkey joins DTCC working group as first Asian crypto service provider",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-09-02T13:11:25Z",
-      "score": 6,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Hashkey ist laut Meldung der erste asiatische Krypto-Dienstleister, der in eine Arbeitsgruppe der US-Abwicklungsgesellschaft DTCC aufgenommen wurde. Die Teilnahme signalisiert eine engere Anbindung von Kryptounternehmen an die etablierte Finanzinfrastruktur und kann das Vertrauen institutioneller Anleger in digitale Vermögenswerte erhöhen. Die Arbeit an Standardisierungsprozessen dürfte die Einbindung von Krypto-Assets in traditionelle Clearing-Abläufe vorantreiben und dem Sektor insgesamt zugutekommen.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-02T14:15:58Z"
-    },
     {
       "id": "https://cointelegraph.com/magazine/btc-will-hit-1m-by-2030-but-arthur-hayes-is-buying-eth-instead",
       "title": "BTC will hit $1M by 2030... but Arthur Hayes is buying ETH instead",
@@ -5799,6 +5783,22 @@
         "Microsoft"
       ],
       "summary": "Die Seattle Times und Newsday haben OpenAI und Microsoft wegen Urheberrechtsverletzungen verklagt. Der Rechtsstreit verstärkt die Unsicherheit für KI-Anbieter, die mit lizenzierten Inhalten trainieren. Weitere Verlagsklagen sind wahrscheinlich und dürften zu höheren Rechtskosten oder neuen Lizenzvereinbarungen führen."
+    },
+    {
+      "id": "https://www.marktechpost.com/?p=82124",
+      "title": "Perplexity Details Its GPU Embedding Stack: How Ivy, Tulip and ROSE Serve pplx-embed",
+      "url": null,
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-09-06T03:20:47Z",
+      "score": 5,
+      "category": "Hardware & Infrastructure",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [
+        "Perplexity"
+      ],
+      "summary": "Perplexity erläutert in einem technischen Beitrag seine GPU-Embedding-Infrastruktur mit den Komponenten Ivy, Tulip und ROSE, die den Dienst pplx-embed unterstützen. Der Artikel zeigt, wie das Unternehmen eigene GPU-Ressourcen für skalierbare Embedding-Bereitstellung einsetzt, was für die Effizienz und Kostenkontrolle des Suchdienstes relevant ist. Für die breitere KI-Branche ist dies primär ein Einblick in Betriebsdetails ohne unmittelbar marktbewegende Konsequenz."
     }
   ],
   "digest_log": [
