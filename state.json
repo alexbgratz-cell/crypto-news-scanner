@@ -5795,7 +5795,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "Forscher der UC Berkeley haben CUA-Lite vorgestellt, eine offene Plattform, die Sandboxen, Daten, Evaluierung und Reinforcement Learning für Computer-Use-Agents vereinheitlicht. Die Veröffentlichung erleichtert Forschung an agentischen KI-Systemen und stärkt das Open-Source-Ökosystem. Erwartbar ist eine schnellere Weiterentwicklung von Agenten-Benchmarks und darauf aufbauenden Open-Source-Projekten."
+      "summary": "Forscher der UC Berkeley haben CUA-Lite vorgestellt, eine offene Plattform, die Sandboxen, Daten, Evaluierung und Reinforcement Learning für Computer-Use-Agents vereinheitlicht. Die Veröffentlichung erleichtert Forschung an agentischen KI-Systemen und stärkt das Open-Source-Ökosystem. Erwartbar ist eine schnellere Weiterentwicklung von Agenten-Benchmarks und darauf aufbauenden Open-Source-Projekten.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-06T07:13:52Z"
     }
   ],
   "digest_log": [
@@ -6985,6 +6987,12 @@
         "5f2fa51b-690c-509a-97ba-5bfd8f699198",
         "https://www.marktechpost.com/?p=82106",
         "https://www.marktechpost.com/?p=82109"
+      ]
+    },
+    {
+      "at": "2026-09-06T07:13:52Z",
+      "article_ids": [
+        "https://www.marktechpost.com/?p=82141"
       ]
     }
   ],
