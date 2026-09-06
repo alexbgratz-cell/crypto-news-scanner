@@ -5790,7 +5790,9 @@
         "SOLUSD"
       ],
       "entities": [],
-      "summary": "Die Solana-Launchpad-Plattform StonkFun verzeichnet einen Anstieg von STONK um 250 Prozent auf eine Marktkapitalisierung von 140 Millionen US-Dollar und zieht damit Handelsvolumen auf Raydium und Jupiter. Der Erfolg der aktiengekoppelten Token-Plattform belebt das Solana-Ökosystem und erhöht die Aktivität auf dessen DeFi-Protokollen. Kurzfristig ist mit gesteigerter Nachfrage nach Solana-basierten Handelsanwendungen und mehr Aufmerksamkeit für ähnliche Launchpads zu rechnen."
+      "summary": "Die Solana-Launchpad-Plattform StonkFun verzeichnet einen Anstieg von STONK um 250 Prozent auf eine Marktkapitalisierung von 140 Millionen US-Dollar und zieht damit Handelsvolumen auf Raydium und Jupiter. Der Erfolg der aktiengekoppelten Token-Plattform belebt das Solana-Ökosystem und erhöht die Aktivität auf dessen DeFi-Protokollen. Kurzfristig ist mit gesteigerter Nachfrage nach Solana-basierten Handelsanwendungen und mehr Aufmerksamkeit für ähnliche Launchpads zu rechnen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-06T21:13:59Z"
     },
     {
       "id": "https://www.marktechpost.com/?p=82154",
@@ -5804,7 +5806,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "H Company veröffentlicht NeoMME, eine Familie von Multimodal-Encodern mit 260M und 800M Parametern, die ohne Vision-Tower und Causal Decoder auskommen. Das Design verspricht effizientere multimodale Verarbeitung und richtet sich an Entwickler, dürfte die Marktposition großer KI-Anbieter kurzfristig aber nicht verändern. Für die Branche folgt daraus zunächst keine direkte kommerzielle Wirkung; entscheidend werden unabhängige Evaluierungen der Architektur."
+      "summary": "H Company veröffentlicht NeoMME, eine Familie von Multimodal-Encodern mit 260M und 800M Parametern, die ohne Vision-Tower und Causal Decoder auskommen. Das Design verspricht effizientere multimodale Verarbeitung und richtet sich an Entwickler, dürfte die Marktposition großer KI-Anbieter kurzfristig aber nicht verändern. Für die Branche folgt daraus zunächst keine direkte kommerzielle Wirkung; entscheidend werden unabhängige Evaluierungen der Architektur.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-06T21:13:59Z"
     },
     {
       "id": "https://www.marktechpost.com/?p=82150",
@@ -5820,7 +5824,9 @@
       "entities": [
         "META"
       ],
-      "summary": "Meta FAIR stellt AI Research Preference Models (RPMs) vor, mit denen ML-Experimente vor dem Einsatz von GPU-Stunden bewertet und priorisiert werden können. Das Verfahren zielt direkt auf Kosten und Effizienz im KI-Forschungsbetrieb ab und kann Experimentierzyklen beschleunigen. Dadurch dürfte Meta die Ressourcennutzung seiner KI-Forschung optimieren und die Hürde für teure, rechenintensive Versuche senken."
+      "summary": "Meta FAIR stellt AI Research Preference Models (RPMs) vor, mit denen ML-Experimente vor dem Einsatz von GPU-Stunden bewertet und priorisiert werden können. Das Verfahren zielt direkt auf Kosten und Effizienz im KI-Forschungsbetrieb ab und kann Experimentierzyklen beschleunigen. Dadurch dürfte Meta die Ressourcennutzung seiner KI-Forschung optimieren und die Hürde für teure, rechenintensive Versuche senken.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-06T21:13:59Z"
     }
   ],
   "digest_log": [
@@ -7034,6 +7040,14 @@
       "at": "2026-09-06T16:15:35Z",
       "article_ids": [
         "https://decrypt.co/?p=377512"
+      ]
+    },
+    {
+      "at": "2026-09-06T21:13:59Z",
+      "article_ids": [
+        "2bc40aa8-a0ba-5815-9721-738d28490054",
+        "https://www.marktechpost.com/?p=82154",
+        "https://www.marktechpost.com/?p=82150"
       ]
     }
   ],
