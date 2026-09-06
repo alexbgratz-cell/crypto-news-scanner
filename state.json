@@ -2554,7 +2554,8 @@
     "6a9841fc882152f5a8e0044d": "2026-09-06T10:07:44Z",
     "6a97057af5cd56d0322d3a8e": "2026-09-06T10:37:06Z",
     "https://decrypt.co/?p=377494": "2026-09-06T13:08:14Z",
-    "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/": "2026-09-06T13:08:16Z"
+    "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/": "2026-09-06T13:08:16Z",
+    "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves": "2026-09-06T13:23:20Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2607,22 +2608,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3159700",
-      "title": "Adobe acquires Indian market intelligence startup Rilo",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-02T14:03:57Z",
-      "score": 6,
-      "category": "Business & Funding",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Adobe hat das indische Marktanalyse-Startup Rilo übernommen. Die Akquisition stärkt Adobes KI-gestützte Daten- und Analysefähigkeiten im Unternehmensbereich und erhöht den Wettbewerbsdruck auf etablierte Anbieter. Finanzielle Details wurden nicht genannt; die Integration von Rilos Technologie dürfte künftige Adobe-Produkte beschleunigen.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-02T14:15:58Z"
-    },
     {
       "id": "https://decrypt.co/?p=377162",
       "title": "AI Billionaires Fund Ad Blitz as Data Center Opposition Hits 61%",
@@ -5815,6 +5800,22 @@
       "summary": "Ein Krypto-Projekt hat 1.000 Studentendarlehen vollständig on-chain finanziert. Das unterstreicht die wachsende praktische Nutzung von Blockchain-Krediten und stärkt die Wahrnehmung dezentraler Finanzierung als reales Anwendungsfeld. Konkrete Marktbewegungen lassen sich aus der Meldung allein nicht ableiten, doch die Aufmerksamkeit für On-Chain-Kreditprotokolle dürfte zunehmen.",
       "delivered": "digest",
       "delivered_at": "2026-09-06T13:14:05Z"
+    },
+    {
+      "id": "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves",
+      "title": "Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-06T13:01:48Z",
+      "score": 6,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Am 6. September 2026 wurden 600 Bitcoin aus einer seit 16 Jahren inaktiven Satoshi-Ära-Adresse bewegt. Solche Bewegungen alter Bestände werden am Markt oft als möglicher Verkaufsdruck gedeutet und könnten die Stimmung bei Bitcoin belasten. Unmittelbar dürfte dies zu erhöhter Aufmerksamkeit und Volatilität bei BTCUSD führen."
     }
   ],
   "digest_log": [
