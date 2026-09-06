@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans": "2026-08-30T10:04:07Z",
     "6a8dc20a07538691fe0533d6": "2026-08-30T10:34:29Z",
     "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/": "2026-08-30T11:19:28Z",
     "https://decrypt.co/?p=376863": "2026-08-30T13:34:13Z",
@@ -2553,7 +2552,8 @@
     "https://techcrunch.com/?p=3161049": "2026-09-05T23:06:49Z",
     "https://www.marktechpost.com/?p=82124": "2026-09-06T03:38:24Z",
     "https://www.marktechpost.com/?p=82141": "2026-09-06T06:29:12Z",
-    "https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets": "2026-09-06T09:24:15Z"
+    "https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets": "2026-09-06T09:24:15Z",
+    "6a9841fc882152f5a8e0044d": "2026-09-06T10:07:44Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2587,6 +2587,14 @@
       "stream": "ai",
       "source": "Feed: Artificial Intelligence Latest",
       "published": "2026-09-03T16:42:40Z"
+    },
+    "6a9841fc882152f5a8e0044d": {
+      "id": "6a9841fc882152f5a8e0044d",
+      "title": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
+      "url": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
+      "stream": "ai",
+      "source": "Feed: Artificial Intelligence Latest",
+      "published": "2026-09-06T10:00:00Z"
     }
   },
   "articles": [
