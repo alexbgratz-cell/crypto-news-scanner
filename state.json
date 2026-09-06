@@ -5812,7 +5812,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Ein Krypto-Projekt hat 1.000 Studentendarlehen vollständig on-chain finanziert. Das unterstreicht die wachsende praktische Nutzung von Blockchain-Krediten und stärkt die Wahrnehmung dezentraler Finanzierung als reales Anwendungsfeld. Konkrete Marktbewegungen lassen sich aus der Meldung allein nicht ableiten, doch die Aufmerksamkeit für On-Chain-Kreditprotokolle dürfte zunehmen."
+      "summary": "Ein Krypto-Projekt hat 1.000 Studentendarlehen vollständig on-chain finanziert. Das unterstreicht die wachsende praktische Nutzung von Blockchain-Krediten und stärkt die Wahrnehmung dezentraler Finanzierung als reales Anwendungsfeld. Konkrete Marktbewegungen lassen sich aus der Meldung allein nicht ableiten, doch die Aufmerksamkeit für On-Chain-Kreditprotokolle dürfte zunehmen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-06T13:14:05Z"
     }
   ],
   "digest_log": [
@@ -7008,6 +7010,12 @@
       "at": "2026-09-06T07:13:52Z",
       "article_ids": [
         "https://www.marktechpost.com/?p=82141"
+      ]
+    },
+    {
+      "at": "2026-09-06T13:14:05Z",
+      "article_ids": [
+        "https://decrypt.co/?p=377494"
       ]
     }
   ],
