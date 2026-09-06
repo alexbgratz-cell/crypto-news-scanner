@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/": "2026-08-30T11:19:28Z",
     "https://decrypt.co/?p=376863": "2026-08-30T13:34:13Z",
     "https://techcrunch.com/?p=3158173": "2026-08-30T15:04:23Z",
     "https://techcrunch.com/?p=3158648": "2026-08-30T17:04:16Z",
@@ -2553,7 +2552,9 @@
     "https://www.marktechpost.com/?p=82141": "2026-09-06T06:29:12Z",
     "https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets": "2026-09-06T09:24:15Z",
     "6a9841fc882152f5a8e0044d": "2026-09-06T10:07:44Z",
-    "6a97057af5cd56d0322d3a8e": "2026-09-06T10:37:06Z"
+    "6a97057af5cd56d0322d3a8e": "2026-09-06T10:37:06Z",
+    "https://decrypt.co/?p=377494": "2026-09-06T13:08:14Z",
+    "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/": "2026-09-06T13:08:16Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2606,22 +2607,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-      "url": null,
-      "stream": "ai",
-      "source": "Hugging Face - Blog",
-      "published": "2026-09-02T13:49:14Z",
-      "score": 6,
-      "category": "Business & Funding",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "IBM hat seine Zeitreihenmodelle auf Confluent integriert, um Echtzeit-Intelligenz zu ermöglichen. Diese Integration erlaubt es, Vorhersagen direkt auf Streaming-Daten anzuwenden, was die Entscheidungsfindung in Echtzeit verbessert. Die Partnerschaft dürfte die Nachfrage nach KI-gestützter Echtzeit-Analytik erhöhen und weitere Integrationen von KI-Modellen in Datenplattformen fördern.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-02T14:15:58Z"
-    },
     {
       "id": "https://techcrunch.com/?p=3159700",
       "title": "Adobe acquires Indian market intelligence startup Rilo",
@@ -5814,6 +5799,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Die von Tether unterstützte Krypto-Börse Orionx kündigt nach einem Audit die Schließung an; die Prüfung ergab eine Lücke von 7 Millionen US-Dollar bei externen Wallets. Dadurch sind Kundengelder gefährdet und das Vertrauen in kleinere Handelsplattformen sinkt. Die betroffenen Nutzer müssen nun mit Verlusten rechnen, während die Plattform ihre Abwicklung vornimmt."
+    },
+    {
+      "id": "https://decrypt.co/?p=377494",
+      "title": "This Crypto Project Just Funded 1,000 Student Loans Entirely On-Chain",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-06T13:01:04Z",
+      "score": 6,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Ein Krypto-Projekt hat 1.000 Studentendarlehen vollständig on-chain finanziert. Das unterstreicht die wachsende praktische Nutzung von Blockchain-Krediten und stärkt die Wahrnehmung dezentraler Finanzierung als reales Anwendungsfeld. Konkrete Marktbewegungen lassen sich aus der Meldung allein nicht ableiten, doch die Aufmerksamkeit für On-Chain-Kreditprotokolle dürfte zunehmen."
     }
   ],
   "digest_log": [
