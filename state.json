@@ -5815,7 +5815,9 @@
         "BTCUSD"
       ],
       "entities": [],
-      "summary": "Am 6. September 2026 wurden 600 Bitcoin aus einer seit 16 Jahren inaktiven Satoshi-Ära-Adresse bewegt. Solche Bewegungen alter Bestände werden am Markt oft als möglicher Verkaufsdruck gedeutet und könnten die Stimmung bei Bitcoin belasten. Unmittelbar dürfte dies zu erhöhter Aufmerksamkeit und Volatilität bei BTCUSD führen."
+      "summary": "Am 6. September 2026 wurden 600 Bitcoin aus einer seit 16 Jahren inaktiven Satoshi-Ära-Adresse bewegt. Solche Bewegungen alter Bestände werden am Markt oft als möglicher Verkaufsdruck gedeutet und könnten die Stimmung bei Bitcoin belasten. Unmittelbar dürfte dies zu erhöhter Aufmerksamkeit und Volatilität bei BTCUSD führen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-06T14:14:37Z"
     }
   ],
   "digest_log": [
@@ -7017,6 +7019,12 @@
       "at": "2026-09-06T13:14:05Z",
       "article_ids": [
         "https://decrypt.co/?p=377494"
+      ]
+    },
+    {
+      "at": "2026-09-06T14:14:37Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves"
       ]
     }
   ],
