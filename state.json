@@ -5790,7 +5790,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "Ein 3,2-Milliarden-Dollar-KI-Rechenzentrum ist mit einem komplexen Firmengeflecht verbunden, wodurch die Branche zunehmend Verantwortlichkeitsprobleme bekommt. Der Boom der KI-Rechenzentren führt zu unklaren Zuständigkeiten und erschwert Kontrolle und Transparenz. Es ist mit mehr öffentlicher Prüfung und möglichen Regulierungsdebatten zu rechnen."
+      "summary": "Ein 3,2-Milliarden-Dollar-KI-Rechenzentrum ist mit einem komplexen Firmengeflecht verbunden, wodurch die Branche zunehmend Verantwortlichkeitsprobleme bekommt. Der Boom der KI-Rechenzentren führt zu unklaren Zuständigkeiten und erschwert Kontrolle und Transparenz. Es ist mit mehr öffentlicher Prüfung und möglichen Regulierungsdebatten zu rechnen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-07T16:16:00Z"
     },
     {
       "id": "https://decrypt.co/?p=377566",
@@ -7094,6 +7096,12 @@
       "at": "2026-09-07T15:15:25Z",
       "article_ids": [
         "https://decrypt.co/?p=377559"
+      ]
+    },
+    {
+      "at": "2026-09-07T16:16:00Z",
+      "article_ids": [
+        "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/"
       ]
     }
   ],
