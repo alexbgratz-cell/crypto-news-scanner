@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://techcrunch.com/?p=3158701": "2026-08-31T16:19:29Z",
-    "https://www.technologyreview.com/?p=1142630": "2026-08-31T16:19:30Z",
     "https://cointelegraph.com/news/telegram-gram-wallet-launch-wallet-in-telegram-walt-rebrand": "2026-08-31T16:49:14Z",
     "https://cointelegraph.com/markets/bitcoin-begins-volatile-monthly-close-as-us-bond-yields-eye-new-20-year-high": "2026-08-31T17:04:19Z",
     "https://decrypt.co/?p=376960": "2026-08-31T17:04:19Z",
@@ -2551,7 +2549,9 @@
     "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/": "2026-09-07T15:08:12Z",
     "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/": "2026-09-07T15:40:02Z",
     "https://decrypt.co/?p=377566": "2026-09-07T15:52:24Z",
-    "https://cointelegraph.com/markets/bitcoin-chips-away-at-weekend-upside-as-80k-hangs-in-the-balance": "2026-09-07T16:08:02Z"
+    "https://cointelegraph.com/markets/bitcoin-chips-away-at-weekend-upside-as-80k-hangs-in-the-balance": "2026-09-07T16:08:02Z",
+    "https://decrypt.co/?p=377579": "2026-09-07T16:25:45Z",
+    "https://www.technologyreview.com/?p=1142630": "2026-09-07T16:25:47Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2612,25 +2612,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/coinbase-launches-regulated-crypto-derivatives-in-canada",
-      "title": "Coinbase launches regulated crypto derivatives in Canada",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-09-02T20:55:55Z",
-      "score": 6,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [
-        "BTCUSD",
-        "ETHUSD"
-      ],
-      "entities": [],
-      "summary": "Coinbase startet regulierte Krypto-Derivate in Kanada und erweitert so sein Angebot in einem weiteren Rechtsraum. Der Schritt stärkt das institutionelle Vertrauen und die Zugänglichkeit derivativer Handelsprodukte für Krypto-Anleger. Dies dürfte die Nachfrage nach regulierten Krypto-Märkten weiter stützen und das Handelsumfeld nachhaltig verbessern.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-02T21:14:34Z"
-    },
     {
       "id": "https://cointelegraph.com/news/us-officials-crowdstrike-malware-stealing-crypto",
       "title": "US officials work with CrowdStrike to fight malware behind crypto theft",
@@ -5825,6 +5806,20 @@
       ],
       "entities": [],
       "summary": "Bitcoin verliert am Wochenende an Boden, während die 80.000-US-Dollar-Marke als Unterstützung auf dem Spiel steht. Die Unsicherheit unter Händlern wächst, ob diese Marke hält, was die kurzfristige Richtung des Marktes beeinflusst. Fällt die Marke, droht zusätzlicher Verkaufsdruck; ein Halten würde die Stabilisierung bestätigen."
+    },
+    {
+      "id": "https://decrypt.co/?p=377579",
+      "title": "Harmony Cites AI Threats in Proposed Blockchain Shutdown",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-07T16:16:48Z",
+      "score": 5,
+      "category": "Hack & Security",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Harmony schlägt vor, seine Blockchain abzuschalten, und begründet dies mit Bedrohungen durch KI. Ein solcher Schritt würde erhebliche Unsicherheit über die Zukunft des Projekts auslösen und das Vertrauen in die Plattform schwächen. Eine förmliche Entscheidung über den Shutdown würde Nutzer und Investoren unmittelbar betreffen."
     }
   ],
   "digest_log": [
