@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://decrypt.co/?p=376973": "2026-08-31T19:34:09Z",
     "010fda64-ff93-55f3-8161-0fafdedd8731": "2026-08-31T20:19:10Z",
     "https://decrypt.co/?p=376985": "2026-08-31T20:19:10Z",
     "https://techcrunch.com/?p=3158932": "2026-08-31T20:19:11Z",
@@ -2547,7 +2546,9 @@
     "https://www.technologyreview.com/?p=1143180": "2026-09-07T18:45:09Z",
     "https://www.marktechpost.com/?p=82180": "2026-09-07T18:45:10Z",
     "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-reimburse-trump-holders": "2026-09-07T19:06:57Z",
-    "https://decrypt.co/?p=377600": "2026-09-07T19:23:27Z"
+    "https://decrypt.co/?p=377600": "2026-09-07T19:23:27Z",
+    "https://techcrunch.com/?p=2973217": "2026-09-07T19:37:08Z",
+    "https://www.marktechpost.com/?p=82183": "2026-09-07T19:37:09Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2608,36 +2609,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://www.marktechpost.com/?p=82049",
-      "title": "Qwen Developers Open-Sources zg (zvec-grep): A Local-First Search Layer Unifying ripgrep, BM25, and Vector Search",
-      "url": null,
-      "stream": "ai",
-      "source": "MarkTechPost",
-      "published": "2026-09-02T23:48:47Z",
-      "score": 5,
-      "category": "Research & Open Source",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Die Qwen-Entwickler haben zg (zvec-grep) als Open Source veröffentlicht, ein lokales Suchtool, das ripgrep, BM25 und Vektorsuche kombiniert. Das vereinfacht hybride Retrieval-Pipelines für Entwickler und reduziert die Abhängigkeit von Cloud-Vektordatenbanken. Eine breitere Nutzung in lokalen KI-Workflows ist wahrscheinlich."
-    },
-    {
-      "id": "6a98b7478c9d6f1d2a0923d6",
-      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
-      "url": null,
-      "stream": "ai",
-      "source": "Feed: Artificial Intelligence Latest",
-      "published": "2026-09-03T01:32:02Z",
-      "score": 5,
-      "category": "Business & Funding",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [
-        "META"
-      ],
-      "summary": "Meta führt einen neuen KI-Agenten für Mitarbeiter ein, drosselt aber gleichzeitig den Tokenverbrauch. Das zeigt den Fokus auf Effizienz bei internen KI-Tools. Kurzfristig ist keine direkte Marktauswirkung zu erwarten, die Nutzung dürfte sich intern verbreitern."
-    },
     {
       "id": "e0836009-0ec8-5236-8366-16b134725cad",
       "title": "Michigan court orders Kalshi to keep blocking sports prediction markets",
@@ -5815,6 +5786,34 @@
       ],
       "entities": [],
       "summary": "Hacker der Krypto-Börse Liquid haben nach einem Diebstahl von 320 Mio. Dollar in Bitcoin 270 Mio. Dollar zurückgegeben. Die Rückgabe großer Teile der Gelder dämpft die Sorge vor einem Vertrauensverlust in zentrale Handelsplätze und wirkt dem Abwärtsdruck entgegen. Die Anleger müssen jedoch weiterhin mit erhöhter Volatilität rechnen, da ein erheblicher Restbetrag noch nicht zurückgeflossen ist."
+    },
+    {
+      "id": "https://techcrunch.com/?p=2973217",
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "url": null,
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-07T19:24:00Z",
+      "score": 5,
+      "category": "Society & Work",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "TechCrunch erklärt in einem Beitrag allgemeine KI-Begriffe wie „Opaque Recurrence“ für ein breites Publikum. Der Artikel ist rein informativ und enthält keine konkreten Produkt-, Forschungs- oder Unternehmensereignisse. Eine direkte Wirkung auf die KI-Branche oder einzelne Unternehmen ist daher nicht abzuleiten."
+    },
+    {
+      "id": "https://www.marktechpost.com/?p=82183",
+      "title": "OpenBMB Releases MiniCPM5-2B: A 2.52B Dense Model Averaging 53.9 Across 34 Benchmarks and Built to Run On Device",
+      "url": null,
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-09-07T19:18:07Z",
+      "score": 7,
+      "category": "Model Release & Capability",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "OpenBMB hat MiniCPM5-2B vorgestellt, ein dichtes Modell mit 2,52 Milliarden Parametern, das in 34 Benchmarks durchschnittlich 53,9 Punkte erreicht und für den Betrieb direkt auf dem Gerät ausgelegt ist. Die Veröffentlichung stärkt den Trend zu effizienten, lokal lauffähigen KI-Modellen, die weniger teure Recheninfrastruktur benötigen und damit die Einstiegshürden für Nutzer senken. Der Wettbewerb bei On-Device-KI dürfte weiter zunehmen, und die Betriebskosten solcher Modelle sinken."
     }
   ],
   "digest_log": [
