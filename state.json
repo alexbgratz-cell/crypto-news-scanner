@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million": "2026-08-31T03:34:13Z",
     "https://www.marktechpost.com/?p=81971": "2026-08-31T05:19:14Z",
     "9544007b-cb6d-56e5-bdc0-a5cd437c13f9": "2026-08-31T08:19:10Z",
     "https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m": "2026-08-31T09:19:16Z",
@@ -2555,7 +2554,9 @@
     "56e51f0e-ef69-5e12-8782-70a0d154f611": "2026-09-06T21:22:36Z",
     "https://cointelegraph.com/magazine/white-hats-take-4000-btc-from-liquid-btc-etfs-best-week-of-2026-hodlers-digest": "2026-09-07T00:12:59Z",
     "528a75f4-ec10-5759-b7dd-ff5649115278": "2026-09-07T02:25:48Z",
-    "faa1a3f9-b275-5a33-805c-988b205ed914": "2026-09-07T02:40:00Z"
+    "faa1a3f9-b275-5a33-805c-988b205ed914": "2026-09-07T02:40:00Z",
+    "https://cointelegraph.com/news/harmony-proposes-shutting-down-layer-1-migrating-one-to-ethereum": "2026-09-07T05:07:26Z",
+    "https://www.marktechpost.com/?p=82177": "2026-09-07T05:07:29Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2616,36 +2617,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "url": null,
-      "stream": "ai",
-      "source": "Google DeepMind News",
-      "published": "2026-09-02T16:18:31Z",
-      "score": 8,
-      "category": "Model Release & Capability",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "GOOGL"
-      ],
-      "summary": "Google DeepMind kündigt Gemini 3.8 Flash und 3.8 Flash Cyber an, eine neue Modellgeneration für effiziente KI-Aufgaben und Cybersicherheit. Die Veröffentlichung stärkt Googles Position im Wettbewerb mit anderen KI-Anbietern und könnte die Nachfrage nach Gemini-Diensten erhöhen. Die nächste Wegmarke ist die Verfügbarkeit in den Produkten; erste Auswirkungen auf die Alphabet-Aktie und das KI-Segment sind wahrscheinlich."
-    },
-    {
-      "id": "https://cointelegraph.com/news/ondo-urges-sec-cftc-bring-us-stock-perpetuals-onshore",
-      "title": "Ondo urges SEC, CFTC to bring US stock perpetuals onshore",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-09-02T16:39:22Z",
-      "score": 5,
-      "category": "Regulation",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Ondo fordert die SEC und die CFTC auf, Perpetual-Kontrakte auf US-Aktien im Inland zu ermöglichen. Eine solche Zulassung würde den Markt für tokenisierte und krypto-nahe Derivate institutionell stärken und regulierte Handelswege eröffnen. Die Entscheidung über einen Onshore-Handel liegt nun bei den US-Aufsichtsbehörden; bis dahin bleibt der regulatorische Status unverändert."
-    },
     {
       "id": "https://cointelegraph.com/markets/bitcoins-apparent-demand-turns-negative-price-struggles-with-77k",
       "title": "Bitcoin’s apparent demand turns negative as price struggles with $77K",
@@ -5825,6 +5796,34 @@
       "instruments": [],
       "entities": [],
       "summary": "Harmony kündigt an, ihr Layer-1-Netzwerk vollständig einzustellen, und schlägt eine Token-Migration nach Ethereum im Zusammenhang mit einer KI-Video-Initiative vor. Betroffen sind vor allem Harmony-Nutzer und ONE-Token-Inhaber, die künftig auf Ethereum wechseln sollen; eine breite Marktwirkung ist nicht erkennbar. Sollte der Vorschlag umgesetzt werden, folgt die Migration der Token nach Ethereum und der Layer-1-Betrieb endet."
+    },
+    {
+      "id": "https://cointelegraph.com/news/harmony-proposes-shutting-down-layer-1-migrating-one-to-ethereum",
+      "title": "Harmony proposes shutting down layer 1, migrating ONE to Ethereum",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-07T05:00:49Z",
+      "score": 5,
+      "category": "Tech Update",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Harmony schlägt vor, sein Layer-1-Netzwerk abzuschalten und den ONE-Token auf Ethereum zu migrieren. Die Umstellung würde Liquidität und Nutzeraktivität in Richtung Ethereum verlagern und den eigenständigen Wert des ONE-Netzwerks infrage stellen. Wird der Vorschlag umgesetzt, dürfte die Handelsaktivität von ONE auf Ethereum übergehen und die Harmony-Infrastruktur schrittweise stillgelegt werden."
+    },
+    {
+      "id": "https://www.marktechpost.com/?p=82177",
+      "title": "IFM Releases K2 Horizon: Six Apache 2.0 Models From 0.9B to 375B",
+      "url": null,
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-09-07T05:00:37Z",
+      "score": 7,
+      "category": "Model Release & Capability",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "IFM veröffentlicht K2 Horizon, eine Familie von sechs Modellen unter Apache-2.0-Lizenz mit Größen von 0,9B bis 375B Parametern. Die Veröffentlichung offener Gewichte stärkt den Wettbewerb in der KI-Industrie und senkt Hürden für eigene Modellnutzung. Unternehmen und Entwickler erhalten dadurch neue skalierbare Optionen; der 375B-Parameterbereich ist die auffälligste Neuerung."
     }
   ],
   "digest_log": [
