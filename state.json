@@ -1,8 +1,5 @@
 {
   "seen": {
-    "94b789ee-3d71-55f5-bfc2-2e66820e8dfa": "2026-08-31T15:49:21Z",
-    "https://cointelegraph.com/news/bitmine-ether-buying-streak-65-weeks-ethereum": "2026-08-31T15:49:22Z",
-    "https://decrypt.co/?p=376935": "2026-08-31T15:49:22Z",
     "https://techcrunch.com/?p=3158701": "2026-08-31T16:19:29Z",
     "https://www.technologyreview.com/?p=1142630": "2026-08-31T16:19:30Z",
     "https://cointelegraph.com/news/telegram-gram-wallet-launch-wallet-in-telegram-walt-rebrand": "2026-08-31T16:49:14Z",
@@ -2552,7 +2549,8 @@
     "https://openai.com/index/the-defenders-window": "2026-09-07T15:08:11Z",
     "https://openai.com/index/openai-joins-ports-pike-project": "2026-09-07T15:08:11Z",
     "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/": "2026-09-07T15:08:12Z",
-    "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/": "2026-09-07T15:40:02Z"
+    "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/": "2026-09-07T15:40:02Z",
+    "https://decrypt.co/?p=377566": "2026-09-07T15:52:24Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2613,22 +2611,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=377225",
-      "title": "Top Pentagon AI Official Sold Millions in Perplexity Stock, Disclosures Show",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-09-02T20:46:04Z",
-      "score": 5,
-      "category": "Regulation & Policy",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [
-        "Perplexity"
-      ],
-      "summary": "Ein ranghoher KI-Verantwortlicher des Pentagons hat laut Offenlegungen Aktien von Perplexity im Wert von Millionen Dollar verkauft. Der Fall rückt mögliche Interessenkonflikte zwischen staatlicher KI-Politik und privaten Beteiligungen in den Fokus, ohne das operative Geschäft von Perplexity unmittelbar zu betreffen. Eine direkte nennenswerte Marktreaktion ist daraus nicht abzuleiten."
-    },
     {
       "id": "529584fd-bc7b-54ea-81d8-80da55ff6f5f",
       "title": "Anthony Armstrong, former CFO at Elon Musk’s xAI and X, joins Coinbase board",
@@ -5822,6 +5804,22 @@
       "instruments": [],
       "entities": [],
       "summary": "Ein 3,2-Milliarden-Dollar-KI-Rechenzentrum ist mit einem komplexen Firmengeflecht verbunden, wodurch die Branche zunehmend Verantwortlichkeitsprobleme bekommt. Der Boom der KI-Rechenzentren führt zu unklaren Zuständigkeiten und erschwert Kontrolle und Transparenz. Es ist mit mehr öffentlicher Prüfung und möglichen Regulierungsdebatten zu rechnen."
+    },
+    {
+      "id": "https://decrypt.co/?p=377566",
+      "title": "Bitcoin Starts the Week Flat, But Chainlink Is Flying—Here's Why",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-07T15:42:34Z",
+      "score": 4,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Bitcoin startet laut Decrypt flach in die Woche, während Chainlink deutliche Kursgewinne verzeichnet. Die unterschiedliche Entwicklung deutet auf Rotation in alternative Kryptowährungen hin, während die Marktstimmung bei Bitcoin unverändert bleibt. Ohne weitere Details zur Ursache des Chainlink-Anstiegs ist mit erhöhter kurzfristiger Volatilität bei den betroffenen Token zu rechnen."
     }
   ],
   "digest_log": [
