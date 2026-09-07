@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://decrypt.co/?p=376897": "2026-08-30T21:34:11Z",
-    "https://www.marktechpost.com/?p=81967": "2026-08-30T21:34:14Z",
-    "https://decrypt.co/?p=376911": "2026-08-30T22:34:09Z",
-    "https://decrypt.co/?p=376909": "2026-08-30T23:34:17Z",
-    "https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest": "2026-08-30T23:49:15Z",
     "https://techcrunch.com/?p=3157348": "2026-08-31T02:34:39Z",
     "https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million": "2026-08-31T03:34:13Z",
     "https://www.marktechpost.com/?p=81971": "2026-08-31T05:19:14Z",
@@ -2558,7 +2553,8 @@
     "2bc40aa8-a0ba-5815-9721-738d28490054": "2026-09-06T21:07:32Z",
     "https://www.marktechpost.com/?p=82154": "2026-09-06T21:07:35Z",
     "https://www.marktechpost.com/?p=82150": "2026-09-06T21:07:35Z",
-    "56e51f0e-ef69-5e12-8782-70a0d154f611": "2026-09-06T21:22:36Z"
+    "56e51f0e-ef69-5e12-8782-70a0d154f611": "2026-09-06T21:22:36Z",
+    "https://cointelegraph.com/magazine/white-hats-take-4000-btc-from-liquid-btc-etfs-best-week-of-2026-hodlers-digest": "2026-09-07T00:12:59Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2619,20 +2615,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3160089",
-      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-02T16:01:48Z",
-      "score": 5,
-      "category": "Hardware & Infrastructure",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Indiens reichster Mann will offenbar alte Computer zu KI-tauglichen PCs aufrüsten. Dadurch könnte die Nutzung von KI-Hardware kostengünstiger und breiter werden. Eine unmittelbare Auswirkung auf den KI-Markt ist erst mit weiteren Details zu erwarten."
-    },
     {
       "id": "6a7dd5ceadfa954d38d64589",
       "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
@@ -5828,6 +5810,22 @@
       ],
       "entities": [],
       "summary": "Die Liquid Network hat den Betrieb ausgesetzt, nachdem angebliche White-Hat-Hacker 320 Millionen Dollar in Bitcoin abgezogen haben. Der Vorfall belastet das Vertrauen in die Krypto-Infrastruktur und kann kurzfristig Verkaufsdruck auf Bitcoin auslösen. Erhöhte Volatilität an den Bitcoin-Märkten ist wahrscheinlich, bis Details zur Sicherheitslücke geklärt sind."
+    },
+    {
+      "id": "https://cointelegraph.com/magazine/white-hats-take-4000-btc-from-liquid-btc-etfs-best-week-of-2026-hodlers-digest",
+      "title": "‘White hats’ take 4000 BTC from Liquid, ETFs see best week of 2026: Hodler’s Digest",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-07T00:05:02Z",
+      "score": 10,
+      "category": "Hack & Security",
+      "sentiment": "neutral",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Der Hodler's Digest berichtet, dass White Hats 4000 BTC von der Börse Liquid abgezogen haben und Bitcoin-ETFs ihre beste Woche 2026 verzeichneten. Der Sicherheitsvorfall belastet das Vertrauen in Liquid, während die ETF-Zuflüsse institutionelle Nachfrage nach Bitcoin signalisieren. Erhöhte Volatilität bei Bitcoin ist wahrscheinlich; die nächsten ETF-Zuflussdaten dürften die Marktrichtung mitbestimmen."
     }
   ],
   "digest_log": [
