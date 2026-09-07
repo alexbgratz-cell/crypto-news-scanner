@@ -2562,7 +2562,9 @@
     "https://cointelegraph.com/news/philippines-payment-operator-freeze-vasp-checks": "2026-09-07T10:08:15Z",
     "https://decrypt.co/?p=377528": "2026-09-07T10:08:15Z",
     "b5926880-8e60-538e-9f14-264003e8159e": "2026-09-07T10:26:28Z",
-    "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/": "2026-09-07T10:26:29Z"
+    "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/": "2026-09-07T10:26:29Z",
+    "https://cointelegraph.com/news/dbs-citi-first-weekend-tokenized-deposit-swift": "2026-09-07T10:40:13Z",
+    "6a985e26ae63a30d70e113b7": "2026-09-07T10:40:14Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2623,36 +2625,6 @@
     }
   },
   "articles": [
-    {
-      "id": "6c91cdbd-2a6a-58c7-84e2-f2c333014dba",
-      "title": "New Jersey asks Supreme Court to decide who regulates sports betting on prediction markets",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-09-02T18:18:28Z",
-      "score": 7,
-      "category": "Regulation",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "New Jersey hat den Obersten Gerichtshof der USA gebeten zu klären, welche Ebene die Regulierung von Sportwetten auf Vorhersagemärkten übernimmt. Die Unsicherheit über die Zuständigkeit von Bundes- und Landesbehörden belastet Anbieter von Vorhersagemärkten und könnte deren Geschäftsmodell je nach Ausgang einschränken oder ermöglichen. Eine Entscheidung des Supreme Court würde die regulatorische Landschaft grundlegend verändern; bis dahin bleibt die Rechtslage unklar.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-02T19:13:30Z"
-    },
-    {
-      "id": "6a9583dc88d28650c32558cc",
-      "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
-      "url": null,
-      "stream": "ai",
-      "source": "Feed: Artificial Intelligence Latest",
-      "published": "2026-09-02T18:20:00Z",
-      "score": 5,
-      "category": "Research & Open Source",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Der Artikel berichtet über russische Mathematiker, die eine Methode entwickelt haben, mit der KI-Modelle ohne Worte kommunizieren können. Das könnte die Zusammenarbeit zwischen Modellen effizienter machen und Sprachabhängigkeit reduzieren. Konkrete Benchmarks, beteiligte Firmen oder eine Marktwirkung nennt die Meldung nicht; eine unmittelbare Branchenreaktion ist daher nicht zu erwarten."
-    },
     {
       "id": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
       "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
@@ -5836,6 +5808,34 @@
       ],
       "entities": [],
       "summary": "Der Angreifer der Liquid Network hat nach einem Bugfix angekündigt, den Großteil der rund 4.000 gestohlenen BTC zurückzugeben. Der Vorfall betrifft ein Bitcoin-Seitenketten-System und sorgt kurzzeitig für Unsicherheit im Ökosystem. Die angekündigte Rückgabe dürfte die unmittelbare negative Marktreaktion begrenzen und Vertrauen teilweise wiederherstellen."
+    },
+    {
+      "id": "https://cointelegraph.com/news/dbs-citi-first-weekend-tokenized-deposit-swift",
+      "title": "Citi, DBS complete first weekend tokenized cross-border deposit on Swift",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-07T10:34:47Z",
+      "score": 6,
+      "category": "Tech Update",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Citi und DBS haben die erste tokenisierte grenzüberschreitende Wochenendüberweisung über Swift abgeschlossen. Der Test zeigt, dass Banken tokenisierte Einlagen auf bestehenden Swift-Strecken nutzen können und stärkt die institutionelle Blockchain-Adoption. Weitere Pilotprojekte großer Banken sind wahrscheinlich, direkte Auswirkungen auf klassische Krypto-Preise ergeben sich daraus zunächst nicht."
+    },
+    {
+      "id": "6a985e26ae63a30d70e113b7",
+      "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
+      "url": null,
+      "stream": "ai",
+      "source": "Feed: Artificial Intelligence Latest",
+      "published": "2026-09-07T10:30:00Z",
+      "score": 4,
+      "category": "Society & Work",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Ein Bericht thematisiert, dass Kundinnen und Kunden Beschwerden künftig per Flüstern ins Telefon eingeben könnten. Die Idee betrifft den Kundenservice und den Einsatz von KI-Sprachverarbeitung, ohne dass ein konkretes Produkt oder Unternehmen genannt wird. Eine unmittelbare Branchenveränderung ist daraus nicht abzuleiten."
     }
   ],
   "digest_log": [
