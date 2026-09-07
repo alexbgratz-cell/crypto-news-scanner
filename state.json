@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.marktechpost.com/?p=81971": "2026-08-31T05:19:14Z",
     "9544007b-cb6d-56e5-bdc0-a5cd437c13f9": "2026-08-31T08:19:10Z",
     "https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m": "2026-08-31T09:19:16Z",
     "https://decrypt.co/?p=376913": "2026-08-31T09:49:26Z",
@@ -2556,7 +2555,8 @@
     "528a75f4-ec10-5759-b7dd-ff5649115278": "2026-09-07T02:25:48Z",
     "faa1a3f9-b275-5a33-805c-988b205ed914": "2026-09-07T02:40:00Z",
     "https://cointelegraph.com/news/harmony-proposes-shutting-down-layer-1-migrating-one-to-ethereum": "2026-09-07T05:07:26Z",
-    "https://www.marktechpost.com/?p=82177": "2026-09-07T05:07:29Z"
+    "https://www.marktechpost.com/?p=82177": "2026-09-07T05:07:29Z",
+    "https://cointelegraph.com/news/liquid-network-pauses-320m-bitcoin-withdrawal": "2026-09-07T05:52:09Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2617,24 +2617,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/markets/bitcoins-apparent-demand-turns-negative-price-struggles-with-77k",
-      "title": "Bitcoin’s apparent demand turns negative as price struggles with $77K",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-09-02T16:35:56Z",
-      "score": 6,
-      "category": "Other",
-      "sentiment": "bearish",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "Der gemeldete Scheinbedarf für Bitcoin ist negativ geworden, während der Preis um die 77.000-Dollar-Marke kämpft. Das deutet auf schwache Kaufnachfrage hin und belastet die Marktstimmung. Erhöhter Verkaufsdruck und weitere Abwärtsbewegungen am Bitcoin-Markt sind möglich.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-02T17:14:44Z"
-    },
     {
       "id": "https://decrypt.co/?p=377180",
       "title": "OpenAI's Astra Becomes Its First AI Model With 'Critical' Hacking Abilities",
@@ -5826,6 +5808,23 @@
       "summary": "IFM veröffentlicht K2 Horizon, eine Familie von sechs Modellen unter Apache-2.0-Lizenz mit Größen von 0,9B bis 375B Parametern. Die Veröffentlichung offener Gewichte stärkt den Wettbewerb in der KI-Industrie und senkt Hürden für eigene Modellnutzung. Unternehmen und Entwickler erhalten dadurch neue skalierbare Optionen; der 375B-Parameterbereich ist die auffälligste Neuerung.",
       "delivered": "digest",
       "delivered_at": "2026-09-07T05:15:08Z"
+    },
+    {
+      "id": "https://cointelegraph.com/news/liquid-network-pauses-320m-bitcoin-withdrawal",
+      "title": "Bitcoin sidechain Liquid pauses after purported ‘white hats’ withdraw $320M in BTC",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-07T05:40:05Z",
+      "score": 9,
+      "category": "Hack & Security",
+      "sentiment": "bearish",
+      "instruments": [
+        "BTCUSD",
+        "BTC.D"
+      ],
+      "entities": [],
+      "summary": "Die Bitcoin-Sidechain Liquid pausierte den Betrieb, nachdem mutmaßliche White Hats 320 Mio. USD in BTC abgezogen haben. Der Vorfall belastet das Vertrauen in Bitcoin-Sidechains und erhöht den Verkaufsdruck am Markt. Erhöhte Volatilität bei BTC sowie genauere Prüfung der Sidechain-Sicherheit sind wahrscheinlich."
     }
   ],
   "digest_log": [
