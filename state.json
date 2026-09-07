@@ -5798,7 +5798,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "OpenBMB hat MiniCPM5-2B vorgestellt, ein dichtes Modell mit 2,52 Milliarden Parametern, das in 34 Benchmarks durchschnittlich 53,9 Punkte erreicht und für den Betrieb direkt auf dem Gerät ausgelegt ist. Die Veröffentlichung stärkt den Trend zu effizienten, lokal lauffähigen KI-Modellen, die weniger teure Recheninfrastruktur benötigen und damit die Einstiegshürden für Nutzer senken. Der Wettbewerb bei On-Device-KI dürfte weiter zunehmen, und die Betriebskosten solcher Modelle sinken."
+      "summary": "OpenBMB hat MiniCPM5-2B vorgestellt, ein dichtes Modell mit 2,52 Milliarden Parametern, das in 34 Benchmarks durchschnittlich 53,9 Punkte erreicht und für den Betrieb direkt auf dem Gerät ausgelegt ist. Die Veröffentlichung stärkt den Trend zu effizienten, lokal lauffähigen KI-Modellen, die weniger teure Recheninfrastruktur benötigen und damit die Einstiegshürden für Nutzer senken. Der Wettbewerb bei On-Device-KI dürfte weiter zunehmen, und die Betriebskosten solcher Modelle sinken.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-07T20:15:47Z"
     },
     {
       "id": "https://decrypt.co/?p=377613",
@@ -7105,6 +7107,12 @@
       "article_ids": [
         "https://decrypt.co/?p=377597",
         "https://www.marktechpost.com/?p=82180"
+      ]
+    },
+    {
+      "at": "2026-09-07T20:15:47Z",
+      "article_ids": [
+        "https://www.marktechpost.com/?p=82183"
       ]
     }
   ],
