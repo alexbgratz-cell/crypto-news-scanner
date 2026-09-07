@@ -5782,7 +5782,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Einem Bericht zufolge hat sich die Kryptoaktivität im Nahen Osten während des anhaltenden Konflikts auf 350 Milliarden Dollar verdreifacht. Die Entwicklung signalisiert eine wachsende Nutzung digitaler Assets in der Region und stützt die globale Krypto-Nachfrage. Der Nahe Osten dürfte damit als Treiber des Kryptomarkts weiter an Bedeutung gewinnen."
+      "summary": "Einem Bericht zufolge hat sich die Kryptoaktivität im Nahen Osten während des anhaltenden Konflikts auf 350 Milliarden Dollar verdreifacht. Die Entwicklung signalisiert eine wachsende Nutzung digitaler Assets in der Region und stützt die globale Krypto-Nachfrage. Der Nahe Osten dürfte damit als Treiber des Kryptomarkts weiter an Bedeutung gewinnen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-07T19:13:45Z"
     },
     {
       "id": "https://www.marktechpost.com/?p=82180",
@@ -5796,7 +5798,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "Axis Robotics veröffentlicht AXIS, eine browserbasierte Daten-Engine mit 207 Robotermanipulations-Aufgaben und 50.129 Trajektorien. Die Ressource kann das Training von Robotermodellen vereinfachen und dürfte Forschungs- und Industrieanwendungen zugutekommen. In der Folge ist mit einer verstärkten Nutzung der Plattform in der Robotik-Forschung zu rechnen."
+      "summary": "Axis Robotics veröffentlicht AXIS, eine browserbasierte Daten-Engine mit 207 Robotermanipulations-Aufgaben und 50.129 Trajektorien. Die Ressource kann das Training von Robotermodellen vereinfachen und dürfte Forschungs- und Industrieanwendungen zugutekommen. In der Folge ist mit einer verstärkten Nutzung der Plattform in der Robotik-Forschung zu rechnen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-07T19:13:45Z"
     },
     {
       "id": "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-reimburse-trump-holders",
@@ -7096,6 +7100,13 @@
         "https://cointelegraph.com/markets/crypto-fund-flows-show-investors-trading-fed-rate-path-not-exiting-market-coinshares",
         "https://cointelegraph.com/news/polish-prosecutors-charge-man-in-zondacrypto-probe-seek-pretrial-detention",
         "https://decrypt.co/?p=377595"
+      ]
+    },
+    {
+      "at": "2026-09-07T19:13:45Z",
+      "article_ids": [
+        "https://decrypt.co/?p=377597",
+        "https://www.marktechpost.com/?p=82180"
       ]
     }
   ],
