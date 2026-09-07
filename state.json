@@ -2559,7 +2559,8 @@
     "https://cointelegraph.com/news/liquid-network-pauses-320m-bitcoin-withdrawal": "2026-09-07T05:52:09Z",
     "ff3bf8b6-e3c6-566b-96c7-6e8d1666f533": "2026-09-07T06:35:07Z",
     "da6a187e-e741-58b8-9398-1c4c1f5ee024": "2026-09-07T07:45:58Z",
-    "https://openai.com/index/supporting-independent-journalism-in-ukraine": "2026-09-07T07:45:59Z"
+    "https://openai.com/index/supporting-independent-journalism-in-ukraine": "2026-09-07T07:45:59Z",
+    "https://cointelegraph.com/news/fomo-pumpfun-revenue-app-solana": "2026-09-07T08:09:09Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2620,20 +2621,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?post_type=tc_podcast&p=3160051",
-      "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-02T17:09:57Z",
-      "score": 4,
-      "category": "Society & Work",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Der CEO von Pangram warnt, das Internet sei einer „Dead-Internet-Theorie“ gefährlich nahe, wonach ein Großteil der Inhalte und Interaktionen von KI generiert wird. Sollte sich dieser Vertrauensverlust verbreiten, leiden Plattformen und KI-Anbieter, deren Geschäftsmodelle auf authentischen Nutzerdaten und Werbung beruhen. Die Folge dürfte eine verstärkte Debatte über Herkunftskennzeichnung und Regulierung von KI-Inhalten sein."
-    },
     {
       "id": "https://techcrunch.com/?p=3160050",
       "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
@@ -5828,6 +5815,22 @@
         "OpenAI"
       ],
       "summary": "OpenAI hat angekündigt, unabhängigen Journalismus in der Ukraine zu unterstützen. Die Initiative dürfte die Medienresilienz in der Ukraine stärken und das gesellschaftliche Engagement von OpenAI sichtbar machen. Ein direkter Markt- oder Brancheneffekt ist daraus nicht abzuleiten, die Meldung ist vor allem gesellschaftlich relevant."
+    },
+    {
+      "id": "https://cointelegraph.com/news/fomo-pumpfun-revenue-app-solana",
+      "title": "Fomo overtakes Pump.fun in daily revenue on Solana",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-07T07:45:39Z",
+      "score": 6,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [
+        "SOLUSD"
+      ],
+      "entities": [],
+      "summary": "Fomo hat Pump.fun auf Solana bei den täglichen Einnahmen überholt. Das zeigt eine Verschiebung der Meme-Coin-Aktivität hin zu Fomo und stärkt dessen Position im Solana-Ökosystem. Der Wettbewerb um Nutzer und Gebühren auf Solana bleibt damit intensiv."
     }
   ],
   "digest_log": [
