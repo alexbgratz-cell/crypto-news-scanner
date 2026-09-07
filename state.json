@@ -2550,7 +2550,8 @@
     "https://openai.com/index/openai-joins-ports-pike-project": "2026-09-07T15:08:11Z",
     "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/": "2026-09-07T15:08:12Z",
     "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/": "2026-09-07T15:40:02Z",
-    "https://decrypt.co/?p=377566": "2026-09-07T15:52:24Z"
+    "https://decrypt.co/?p=377566": "2026-09-07T15:52:24Z",
+    "https://cointelegraph.com/markets/bitcoin-chips-away-at-weekend-upside-as-80k-hangs-in-the-balance": "2026-09-07T16:08:02Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2611,20 +2612,6 @@
     }
   },
   "articles": [
-    {
-      "id": "529584fd-bc7b-54ea-81d8-80da55ff6f5f",
-      "title": "Anthony Armstrong, former CFO at Elon Musk’s xAI and X, joins Coinbase board",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-09-02T21:03:53Z",
-      "score": 5,
-      "category": "Other",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Der frühere xAI- und X-Finanzvorstand Anthony Armstrong wird Mitglied des Verwaltungsrats von Coinbase. Der Schritt bringt Führungserfahrung aus Musks KI- und Tech-Unternehmen in die Krypto-Börse. Unmittelbare Kursbewegungen bei Bitcoin oder Ethereum sind daraus nicht abzuleiten."
-    },
     {
       "id": "https://cointelegraph.com/news/coinbase-launches-regulated-crypto-derivatives-in-canada",
       "title": "Coinbase launches regulated crypto derivatives in Canada",
@@ -5820,6 +5807,22 @@
       ],
       "entities": [],
       "summary": "Bitcoin startet laut Decrypt flach in die Woche, während Chainlink deutliche Kursgewinne verzeichnet. Die unterschiedliche Entwicklung deutet auf Rotation in alternative Kryptowährungen hin, während die Marktstimmung bei Bitcoin unverändert bleibt. Ohne weitere Details zur Ursache des Chainlink-Anstiegs ist mit erhöhter kurzfristiger Volatilität bei den betroffenen Token zu rechnen."
+    },
+    {
+      "id": "https://cointelegraph.com/markets/bitcoin-chips-away-at-weekend-upside-as-80k-hangs-in-the-balance",
+      "title": "Bitcoin chips away at weekend upside as $80K hangs in the balance",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-07T15:57:47Z",
+      "score": 5,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Bitcoin verliert am Wochenende an Boden, während die 80.000-US-Dollar-Marke als Unterstützung auf dem Spiel steht. Die Unsicherheit unter Händlern wächst, ob diese Marke hält, was die kurzfristige Richtung des Marktes beeinflusst. Fällt die Marke, droht zusätzlicher Verkaufsdruck; ein Halten würde die Stabilisierung bestätigen."
     }
   ],
   "digest_log": [
