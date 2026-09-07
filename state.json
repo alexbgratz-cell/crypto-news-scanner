@@ -2547,7 +2547,8 @@
     "https://www.marktechpost.com/?p=82183": "2026-09-07T19:37:09Z",
     "https://decrypt.co/?p=377613": "2026-09-07T19:50:24Z",
     "https://cointelegraph.com/news/ethereum-foundation-names-2-must-ship-eips-for-hegot-upgrade": "2026-09-07T20:39:38Z",
-    "https://decrypt.co/?p=377621": "2026-09-07T20:39:38Z"
+    "https://decrypt.co/?p=377621": "2026-09-07T20:39:38Z",
+    "https://cointelegraph.com/news/uk-financial-watchdog-prediction-markets-ban": "2026-09-07T20:51:16Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2608,22 +2609,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://www.marktechpost.com/?p=82054",
-      "title": "Perplexity Open Sources Lily: A Rust + Metal Inference Engine for Qwen3.6-35B-A3B on Apple Silicon",
-      "url": null,
-      "stream": "ai",
-      "source": "MarkTechPost",
-      "published": "2026-09-03T06:57:07Z",
-      "score": 6,
-      "category": "Research & Open Source",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Perplexity hat Lily als Open-Source-Inferenz-Engine veröffentlicht, die in Rust und Metal geschrieben ist und für Qwen3.6-35B-A3B auf Apple Silicon optimiert wurde. Die Freigabe senkt die Hürde für lokale KI-Inferenz auf Apple-Hardware und stärkt das Ökosystem offener Modelle. In der Folge dürfte die Nutzung effizienter, lokaler Inferenz zunehmen und Perplexitys Position als Anbieter offener KI-Werkzeuge gestärkt werden.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-03T07:16:07Z"
-    },
     {
       "id": "https://cointelegraph.com/markets/eth-xrp-etf-inflow-streaks-end-bitcoin-funds-rebound",
       "title": "Ether, XRP ETF inflow streaks end as Bitcoin funds rebound",
@@ -5814,6 +5799,20 @@
       ],
       "entities": [],
       "summary": "Brasilianische Banken weiten ihr Krypto-Angebot aus, während die nationale Regulierung greift. Das schafft institutionelle Nachfrage und mehr Rechtssicherheit, was dem Kryptomarkt insgesamt Rückenwind gibt. Es ist mit wachsender institutioneller Beteiligung und stabileren Handelsbedingungen in Brasilien zu rechnen."
+    },
+    {
+      "id": "https://cointelegraph.com/news/uk-financial-watchdog-prediction-markets-ban",
+      "title": "UK financial watchdog weighs lifting prediction markets ban: Report",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-07T20:40:17Z",
+      "score": 7,
+      "category": "Regulation",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Die britische Finanzaufsicht erwägt laut einem Bericht, das Verbot von Vorhersagemärkten aufzuheben. Das wäre ein positives regulatorisches Signal für Prognoseplattformen und könnte ihnen mehr Rechtssicherheit im Vereinigten Königreich geben. Sollte die Aufhebung umgesetzt werden, dürfte sich das Marktumfeld für politische Wettmärkte dort grundlegend öffnen."
     }
   ],
   "digest_log": [
