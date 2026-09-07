@@ -5782,7 +5782,9 @@
         "ETHBTC"
       ],
       "entities": [],
-      "summary": "Die Ethereum Foundation hat zwei EIPs als zwingend für das kommende Hegotá-Upgrade benannt. Das Upgrade betrifft die Infrastruktur des Ethereum-Netzwerks und damit direkt die Marktlage von ETH. Die nächste Wegmarke ist die finale technische Umsetzung und Aktivierung der EIPs im Netzwerk."
+      "summary": "Die Ethereum Foundation hat zwei EIPs als zwingend für das kommende Hegotá-Upgrade benannt. Das Upgrade betrifft die Infrastruktur des Ethereum-Netzwerks und damit direkt die Marktlage von ETH. Die nächste Wegmarke ist die finale technische Umsetzung und Aktivierung der EIPs im Netzwerk.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-07T21:15:11Z"
     },
     {
       "id": "https://decrypt.co/?p=377621",
@@ -5798,7 +5800,9 @@
         "BTCUSD"
       ],
       "entities": [],
-      "summary": "Brasilianische Banken weiten ihr Krypto-Angebot aus, während die nationale Regulierung greift. Das schafft institutionelle Nachfrage und mehr Rechtssicherheit, was dem Kryptomarkt insgesamt Rückenwind gibt. Es ist mit wachsender institutioneller Beteiligung und stabileren Handelsbedingungen in Brasilien zu rechnen."
+      "summary": "Brasilianische Banken weiten ihr Krypto-Angebot aus, während die nationale Regulierung greift. Das schafft institutionelle Nachfrage und mehr Rechtssicherheit, was dem Kryptomarkt insgesamt Rückenwind gibt. Es ist mit wachsender institutioneller Beteiligung und stabileren Handelsbedingungen in Brasilien zu rechnen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-07T21:15:11Z"
     },
     {
       "id": "https://cointelegraph.com/news/uk-financial-watchdog-prediction-markets-ban",
@@ -5812,7 +5816,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Die britische Finanzaufsicht erwägt laut einem Bericht, das Verbot von Vorhersagemärkten aufzuheben. Das wäre ein positives regulatorisches Signal für Prognoseplattformen und könnte ihnen mehr Rechtssicherheit im Vereinigten Königreich geben. Sollte die Aufhebung umgesetzt werden, dürfte sich das Marktumfeld für politische Wettmärkte dort grundlegend öffnen."
+      "summary": "Die britische Finanzaufsicht erwägt laut einem Bericht, das Verbot von Vorhersagemärkten aufzuheben. Das wäre ein positives regulatorisches Signal für Prognoseplattformen und könnte ihnen mehr Rechtssicherheit im Vereinigten Königreich geben. Sollte die Aufhebung umgesetzt werden, dürfte sich das Marktumfeld für politische Wettmärkte dort grundlegend öffnen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-07T21:15:11Z"
     }
   ],
   "digest_log": [
@@ -7111,6 +7117,14 @@
       "at": "2026-09-07T20:15:47Z",
       "article_ids": [
         "https://www.marktechpost.com/?p=82183"
+      ]
+    },
+    {
+      "at": "2026-09-07T21:15:11Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/ethereum-foundation-names-2-must-ship-eips-for-hegot-upgrade",
+        "https://decrypt.co/?p=377621",
+        "https://cointelegraph.com/news/uk-financial-watchdog-prediction-markets-ban"
       ]
     }
   ],
