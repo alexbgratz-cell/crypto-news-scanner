@@ -5803,7 +5803,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Citi und DBS haben die erste tokenisierte grenzüberschreitende Wochenendüberweisung über Swift abgeschlossen. Der Test zeigt, dass Banken tokenisierte Einlagen auf bestehenden Swift-Strecken nutzen können und stärkt die institutionelle Blockchain-Adoption. Weitere Pilotprojekte großer Banken sind wahrscheinlich, direkte Auswirkungen auf klassische Krypto-Preise ergeben sich daraus zunächst nicht."
+      "summary": "Citi und DBS haben die erste tokenisierte grenzüberschreitende Wochenendüberweisung über Swift abgeschlossen. Der Test zeigt, dass Banken tokenisierte Einlagen auf bestehenden Swift-Strecken nutzen können und stärkt die institutionelle Blockchain-Adoption. Weitere Pilotprojekte großer Banken sind wahrscheinlich, direkte Auswirkungen auf klassische Krypto-Preise ergeben sich daraus zunächst nicht.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-07T11:15:51Z"
     },
     {
       "id": "6a985e26ae63a30d70e113b7",
@@ -7078,6 +7080,12 @@
       "at": "2026-09-07T10:15:44Z",
       "article_ids": [
         "https://cointelegraph.com/news/philippines-payment-operator-freeze-vasp-checks"
+      ]
+    },
+    {
+      "at": "2026-09-07T11:15:51Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/dbs-citi-first-weekend-tokenized-deposit-swift"
       ]
     }
   ],
