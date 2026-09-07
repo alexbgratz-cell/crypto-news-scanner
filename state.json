@@ -2554,7 +2554,8 @@
     "https://www.marktechpost.com/?p=82154": "2026-09-06T21:07:35Z",
     "https://www.marktechpost.com/?p=82150": "2026-09-06T21:07:35Z",
     "56e51f0e-ef69-5e12-8782-70a0d154f611": "2026-09-06T21:22:36Z",
-    "https://cointelegraph.com/magazine/white-hats-take-4000-btc-from-liquid-btc-etfs-best-week-of-2026-hodlers-digest": "2026-09-07T00:12:59Z"
+    "https://cointelegraph.com/magazine/white-hats-take-4000-btc-from-liquid-btc-etfs-best-week-of-2026-hodlers-digest": "2026-09-07T00:12:59Z",
+    "528a75f4-ec10-5759-b7dd-ff5649115278": "2026-09-07T02:25:48Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2615,20 +2616,6 @@
     }
   },
   "articles": [
-    {
-      "id": "6a7dd5ceadfa954d38d64589",
-      "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
-      "url": null,
-      "stream": "ai",
-      "source": "Feed: Artificial Intelligence Latest",
-      "published": "2026-09-02T15:51:46Z",
-      "score": 4,
-      "category": "Society & Work",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Der Artikel erörtert die These, dass KI-gestützte Vorstellungsgespräche künftig in einem Dialog zweier Bots enden könnten. Damit rückt er die Automatisierung von Bewerbungsprozessen und deren Folgen für die Arbeitswelt in den Fokus. Konkrete Ereignisse, Zahlen oder direkte Auswirkungen auf die KI-Industrie nennt er nicht."
-    },
     {
       "id": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
       "title": "Proactive cyber defense for governments and enterprises",
@@ -5826,6 +5813,22 @@
       ],
       "entities": [],
       "summary": "Der Hodler's Digest berichtet, dass White Hats 4000 BTC von der Börse Liquid abgezogen haben und Bitcoin-ETFs ihre beste Woche 2026 verzeichneten. Der Sicherheitsvorfall belastet das Vertrauen in Liquid, während die ETF-Zuflüsse institutionelle Nachfrage nach Bitcoin signalisieren. Erhöhte Volatilität bei Bitcoin ist wahrscheinlich; die nächsten ETF-Zuflussdaten dürften die Marktrichtung mitbestimmen."
+    },
+    {
+      "id": "528a75f4-ec10-5759-b7dd-ff5649115278",
+      "title": "Spot bitcoin ETFs pull in $987 million last week as institutional demand recovers",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-09-07T02:15:55Z",
+      "score": 8,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Spot-Bitcoin-ETFs verzeichneten in der vergangenen Woche Nettozuflüsse von 987 Millionen US-Dollar, was auf eine Erholung der institutionellen Nachfrage hindeutet. Die verstärkten Mittelzuflüsse in regulierte Bitcoin-Produkte stützen direkt den Bitcoin-Kurs und signalisieren wieder risikobereitere Großanleger. Kurzfristig ist daher mit anhaltendem Kaufdruck auf BTCUSD und geringerer Abwärtsvolatilität zu rechnen."
     }
   ],
   "digest_log": [
