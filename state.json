@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m": "2026-08-31T09:19:16Z",
-    "https://decrypt.co/?p=376913": "2026-08-31T09:49:26Z",
     "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/": "2026-08-31T10:19:16Z",
     "https://www.technologyreview.com/?p=1141740": "2026-08-31T10:49:12Z",
     "6a832bd4364359700ebc52b3": "2026-08-31T10:49:12Z",
@@ -2560,7 +2558,8 @@
     "da6a187e-e741-58b8-9398-1c4c1f5ee024": "2026-09-07T07:45:58Z",
     "https://openai.com/index/supporting-independent-journalism-in-ukraine": "2026-09-07T07:45:59Z",
     "https://cointelegraph.com/news/fomo-pumpfun-revenue-app-solana": "2026-09-07T08:09:09Z",
-    "cb4d3b3f-1bd5-50a3-b5e7-00c12993dbe9": "2026-09-07T08:44:56Z"
+    "cb4d3b3f-1bd5-50a3-b5e7-00c12993dbe9": "2026-09-07T08:44:56Z",
+    "https://cointelegraph.com/news/coldcard-third-wave-attacker-moves-bitcoin-stolen": "2026-09-07T09:53:43Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2621,22 +2620,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://www.marktechpost.com/?p=82040",
-      "title": "Google DeepMind Releases Gemini 3.8 Flash and Gemini 3.8 Flash Cyber: One Core Model, Two Access Envelopes",
-      "url": null,
-      "stream": "ai",
-      "source": "MarkTechPost",
-      "published": "2026-09-02T17:20:24Z",
-      "score": 8,
-      "category": "Model Release & Capability",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "GOOGL"
-      ],
-      "summary": "Google DeepMind hat Gemini 3.8 Flash und Gemini 3.8 Flash Cyber veröffentlicht – ein Kernmodell mit zwei Zugriffsvarianten. Die Veröffentlichung stärkt Googles KI-Produktlinie und erhöht den Wettbewerbsdruck auf andere KI-Anbieter. Die Marktreaktion auf die neuen Modellzugänge ist die nächste Wegmarke; Alphabet dürfte davon direkt profitieren."
-    },
     {
       "id": "0f9ce58a-7f30-5b1c-990c-88f176a373fc",
       "title": "Memecoin shenanigans spill into Nasdaq as microcap mushroom seller Farmmi surges 350%",
@@ -5833,6 +5816,22 @@
       ],
       "entities": [],
       "summary": "Capital B hat nach Kapitalerhöhungen 29 Millionen Dollar in Bitcoin gekauft, der größte BTC-Kauf des Unternehmens seit einem Jahr. Die institutionelle Kaufentscheidung signalisiert anhaltende Nachfrage und stärkt das Vertrauen in Bitcoin als Anlage. Kurzfristig dürfte dieser Kauf den Bitcoin-Kurs stützen."
+    },
+    {
+      "id": "https://cointelegraph.com/news/coldcard-third-wave-attacker-moves-bitcoin-stolen",
+      "title": "Coldcard third-wave attacker moves 45% of stolen Bitcoin",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-07T09:36:19Z",
+      "score": 9,
+      "category": "Hack & Security",
+      "sentiment": "bearish",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Beim Coldcard-Vorfall hat der Angreifer der dritten Welle 45 % der gestohlenen Bitcoin bewegt. Der Transfer erhöht den möglichen Verkaufsdruck und schürt Sicherheitsbedenken bei Hardware-Wallets, was die Marktstimmung belastet. Weitere Bewegungen der Gelder und erhöhte Bitcoin-Volatilität sind wahrscheinlich."
     }
   ],
   "digest_log": [
