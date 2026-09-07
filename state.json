@@ -5823,7 +5823,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "IFM veröffentlicht K2 Horizon, eine Familie von sechs Modellen unter Apache-2.0-Lizenz mit Größen von 0,9B bis 375B Parametern. Die Veröffentlichung offener Gewichte stärkt den Wettbewerb in der KI-Industrie und senkt Hürden für eigene Modellnutzung. Unternehmen und Entwickler erhalten dadurch neue skalierbare Optionen; der 375B-Parameterbereich ist die auffälligste Neuerung."
+      "summary": "IFM veröffentlicht K2 Horizon, eine Familie von sechs Modellen unter Apache-2.0-Lizenz mit Größen von 0,9B bis 375B Parametern. Die Veröffentlichung offener Gewichte stärkt den Wettbewerb in der KI-Industrie und senkt Hürden für eigene Modellnutzung. Unternehmen und Entwickler erhalten dadurch neue skalierbare Optionen; der 375B-Parameterbereich ist die auffälligste Neuerung.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-07T05:15:08Z"
     }
   ],
   "digest_log": [
@@ -7045,6 +7047,12 @@
         "2bc40aa8-a0ba-5815-9721-738d28490054",
         "https://www.marktechpost.com/?p=82154",
         "https://www.marktechpost.com/?p=82150"
+      ]
+    },
+    {
+      "at": "2026-09-07T05:15:08Z",
+      "article_ids": [
+        "https://www.marktechpost.com/?p=82177"
       ]
     }
   ],
