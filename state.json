@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://cointelegraph.com/news/strive-buys-1800-bitcoin-143m-btc-purchase": "2026-08-31T15:19:13Z",
-    "https://techcrunch.com/?p=3158734": "2026-08-31T15:19:14Z",
-    "fbfda97b-b2fa-5809-ab6e-da1f752a6ede": "2026-08-31T15:34:21Z",
     "94b789ee-3d71-55f5-bfc2-2e66820e8dfa": "2026-08-31T15:49:21Z",
     "https://cointelegraph.com/news/bitmine-ether-buying-streak-65-weeks-ethereum": "2026-08-31T15:49:22Z",
     "https://decrypt.co/?p=376935": "2026-08-31T15:49:22Z",
@@ -2554,7 +2551,8 @@
     "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads": "2026-09-07T15:08:11Z",
     "https://openai.com/index/the-defenders-window": "2026-09-07T15:08:11Z",
     "https://openai.com/index/openai-joins-ports-pike-project": "2026-09-07T15:08:11Z",
-    "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/": "2026-09-07T15:08:12Z"
+    "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/": "2026-09-07T15:08:12Z",
+    "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/": "2026-09-07T15:40:02Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2615,20 +2613,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3160225",
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-02T20:19:14Z",
-      "score": 5,
-      "category": "Safety & Risk",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Eine neue Reasoning-Technik von OpenAI alarmiert KI-Sicherheitsexperten. Der Fall verdeutlicht Risiken moderner KI-Modelle und erhöht den Druck auf Anbieter und Regulierer. Strengere Sicherheitsauflagen und ein wachsender Fokus auf Modelltransparenz sind die wahrscheinliche Folge."
-    },
     {
       "id": "https://decrypt.co/?p=377225",
       "title": "Top Pentagon AI Official Sold Millions in Perplexity Stock, Disclosures Show",
@@ -5824,6 +5808,20 @@
       "summary": "Ein Ethereum-Vorschlag würde es Nutzern ermöglichen, Gasgebühren zu zahlen, ohne ETH zu besitzen. Das könnte die Nutzung des Netzwerks erleichtern und die Rolle von ETH als einziges Gas-Zahlungsmittel verändern. Es bleibt vorerst ein Vorschlag; eine finale Entscheidung oder Umsetzung steht noch aus.",
       "delivered": "digest",
       "delivered_at": "2026-09-07T15:15:25Z"
+    },
+    {
+      "id": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+      "title": "The complex corporate web behind a $3.2 billion AI data center",
+      "url": null,
+      "stream": "ai",
+      "source": "AI - Ars Technica",
+      "published": "2026-09-07T11:00:03Z",
+      "score": 6,
+      "category": "Hardware & Infrastructure",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Ein 3,2-Milliarden-Dollar-KI-Rechenzentrum ist mit einem komplexen Firmengeflecht verbunden, wodurch die Branche zunehmend Verantwortlichkeitsprobleme bekommt. Der Boom der KI-Rechenzentren führt zu unklaren Zuständigkeiten und erschwert Kontrolle und Transparenz. Es ist mit mehr öffentlicher Prüfung und möglichen Regulierungsdebatten zu rechnen."
     }
   ],
   "digest_log": [
