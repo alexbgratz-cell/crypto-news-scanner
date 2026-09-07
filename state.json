@@ -5826,7 +5826,9 @@
         "DXY"
       ],
       "entities": [],
-      "summary": "Bitcoin notiert weiter nahe 80.000 USD, während erneute Sorgen vor Zinserhöhungen der US-Notenbank aufkommen und der anstehende CPI-Report im Fokus steht. Die Inflationsdaten können die Geldpolitik direkt beeinflussen und damit die Risikostimmung für Kryptowährungen prägen, wobei ein heißer CPI den Dollar stärken und Bitcoin belasten könnte. Kurzfristig dürfte der CPI-Bericht die Richtung von Bitcoin bestimmen; erhöhte Volatilität ist wahrscheinlich."
+      "summary": "Bitcoin notiert weiter nahe 80.000 USD, während erneute Sorgen vor Zinserhöhungen der US-Notenbank aufkommen und der anstehende CPI-Report im Fokus steht. Die Inflationsdaten können die Geldpolitik direkt beeinflussen und damit die Risikostimmung für Kryptowährungen prägen, wobei ein heißer CPI den Dollar stärken und Bitcoin belasten könnte. Kurzfristig dürfte der CPI-Bericht die Richtung von Bitcoin bestimmen; erhöhte Volatilität ist wahrscheinlich.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-07T14:16:34Z"
     }
   ],
   "digest_log": [
@@ -7086,6 +7088,12 @@
       "article_ids": [
         "https://cointelegraph.com/markets/markets-tilt-toward-september-rate-hikes-five-things-to-know-in-bitcoin-this-week",
         "56e90f4b-39df-5237-9455-a841791f1a4e"
+      ]
+    },
+    {
+      "at": "2026-09-07T14:16:34Z",
+      "article_ids": [
+        "c1104aa2-8a0a-5f2d-83b1-742917a15b18"
       ]
     }
   ],
