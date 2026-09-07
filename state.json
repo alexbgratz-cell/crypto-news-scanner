@@ -1,8 +1,5 @@
 {
   "seen": {
-    "b81e1240-e532-5174-8b5c-418c24dfc253": "2026-08-31T18:19:29Z",
-    "a14f84ab-0e75-5ccf-b85e-49598f2975ad": "2026-08-31T18:19:29Z",
-    "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/": "2026-08-31T18:19:31Z",
     "https://www.technologyreview.com/?p=1143180": "2026-08-31T18:34:20Z",
     "https://decrypt.co/?p=376971": "2026-08-31T18:49:11Z",
     "https://techcrunch.com/?p=3158889": "2026-08-31T18:49:12Z",
@@ -2548,7 +2545,9 @@
     "https://cointelegraph.com/news/capital-b-adds-376-bitcoin-in-29m-purchase-holdings-reach-3521-btc": "2026-09-07T17:07:13Z",
     "https://cointelegraph.com/markets/crypto-fund-flows-show-investors-trading-fed-rate-path-not-exiting-market-coinshares": "2026-09-07T17:51:14Z",
     "https://decrypt.co/?p=377595": "2026-09-07T17:51:14Z",
-    "https://cointelegraph.com/news/polish-prosecutors-charge-man-in-zondacrypto-probe-seek-pretrial-detention": "2026-09-07T18:09:22Z"
+    "https://cointelegraph.com/news/polish-prosecutors-charge-man-in-zondacrypto-probe-seek-pretrial-detention": "2026-09-07T18:09:22Z",
+    "https://decrypt.co/?p=377597": "2026-09-07T18:28:19Z",
+    "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/": "2026-09-07T18:28:22Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2609,20 +2608,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3137969",
-      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-02T23:01:00Z",
-      "score": 4,
-      "category": "Business & Funding",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "TechCrunch kündigt für den Disrupt 2026 eine Builders Stage an, die praktische Strategien zur Skalierung von Startups bieten soll. Die Ankündigung richtet sich vor allem an Gründer und Wachstumsteams und hat keine direkte Auswirkung auf die KI-Branche insgesamt. Zu erwarten ist lediglich Konferenz-Aufmerksamkeit für Scale-up-Themen, aber keine konkrete Marktreaktion."
-    },
     {
       "id": "https://decrypt.co/?p=377231",
       "title": "An AI Training Data Startup Just Became Y Combinator's Fastest-Ever Unicorn",
@@ -5814,6 +5799,20 @@
       "summary": "Polnische Staatsanwälte haben im Rahmen der Ermittlungen rund um die Krypto-Börse Zondacrypto einen Verdächtigen angeklagt und beantragen dessen Untersuchungshaft. Die rechtlichen Schritte erhöhen die regulatorische Unsicherheit und belasten das Vertrauen in den Kryptomarkt. Die nächste Wegmarke ist die Entscheidung über die Untersuchungshaft; negative Marktstimmung ist wahrscheinlich.",
       "delivered": "digest",
       "delivered_at": "2026-09-07T18:18:12Z"
+    },
+    {
+      "id": "https://decrypt.co/?p=377597",
+      "title": "Middle East Crypto Activity Triples to $350 Billion Amid Ongoing Conflict, Report Finds",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-07T18:16:04Z",
+      "score": 6,
+      "category": "Macro",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Einem Bericht zufolge hat sich die Kryptoaktivität im Nahen Osten während des anhaltenden Konflikts auf 350 Milliarden Dollar verdreifacht. Die Entwicklung signalisiert eine wachsende Nutzung digitaler Assets in der Region und stützt die globale Krypto-Nachfrage. Der Nahe Osten dürfte damit als Treiber des Kryptomarkts weiter an Bedeutung gewinnen."
     }
   ],
   "digest_log": [
