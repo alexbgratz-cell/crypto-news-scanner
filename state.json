@@ -2559,7 +2559,9 @@
     "https://openai.com/index/supporting-independent-journalism-in-ukraine": "2026-09-07T07:45:59Z",
     "https://cointelegraph.com/news/fomo-pumpfun-revenue-app-solana": "2026-09-07T08:09:09Z",
     "cb4d3b3f-1bd5-50a3-b5e7-00c12993dbe9": "2026-09-07T08:44:56Z",
-    "https://cointelegraph.com/news/coldcard-third-wave-attacker-moves-bitcoin-stolen": "2026-09-07T09:53:43Z"
+    "https://cointelegraph.com/news/coldcard-third-wave-attacker-moves-bitcoin-stolen": "2026-09-07T09:53:43Z",
+    "https://cointelegraph.com/news/philippines-payment-operator-freeze-vasp-checks": "2026-09-07T10:08:15Z",
+    "https://decrypt.co/?p=377528": "2026-09-07T10:08:15Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2620,39 +2622,6 @@
     }
   },
   "articles": [
-    {
-      "id": "0f9ce58a-7f30-5b1c-990c-88f176a373fc",
-      "title": "Memecoin shenanigans spill into Nasdaq as microcap mushroom seller Farmmi surges 350%",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-09-02T17:40:13Z",
-      "score": 5,
-      "category": "Other",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Die Aktie des Microcap-Pilzverkäufers Farmmi steigt an der Nasdaq um 350 Prozent, ausgelöst durch memecoin-ähnliche Spekulationswellen. Das zeigt, wie sich Memecoin-Dynamik auf traditionelle Börsen ausweitet, hat aber keine direkte Wirkung auf klassische Krypto-Märkte. Für Krypto-Anleger steht keine unmittelbare Marktreaktion an; vielmehr ist erhöhte Aufmerksamkeit für Meme-Aktien wahrscheinlich."
-    },
-    {
-      "id": "https://decrypt.co/?p=377184",
-      "title": "Crypto Groups Push SEC for Tailored Rules on Novel ETFs",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-09-02T17:41:04Z",
-      "score": 6,
-      "category": "Regulation",
-      "sentiment": "neutral",
-      "instruments": [
-        "BTCUSD",
-        "ETHUSD"
-      ],
-      "entities": [],
-      "summary": "Krypto-Verbände drängen die US-Börsenaufsicht SEC, für neuartige ETF-Produkte maßgeschneiderte Regeln zu schaffen. Ein klarer Rahmen würde Emittenten mehr Sicherheit geben und könnte die institutionelle Nachfrage nach Krypto-ETFs stützen. Da noch keine Entscheidung der SEC vorliegt, bleibt die regulatorische Unsicherheit bestehen.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-02T18:19:18Z"
-    },
     {
       "id": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
       "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
@@ -5832,6 +5801,36 @@
       ],
       "entities": [],
       "summary": "Beim Coldcard-Vorfall hat der Angreifer der dritten Welle 45 % der gestohlenen Bitcoin bewegt. Der Transfer erhöht den möglichen Verkaufsdruck und schürt Sicherheitsbedenken bei Hardware-Wallets, was die Marktstimmung belastet. Weitere Bewegungen der Gelder und erhöhte Bitcoin-Volatilität sind wahrscheinlich."
+    },
+    {
+      "id": "https://cointelegraph.com/news/philippines-payment-operator-freeze-vasp-checks",
+      "title": "Philippines eyes payment operator registration freeze, tighter VASP checks",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-07T09:51:00Z",
+      "score": 7,
+      "category": "Regulation",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Die Philippinen erwägen ein Einfrieren der Registrierung von Zahlungsdienstleistern und strengere Prüfungen für VASP-Anbieter. Das erhöht die regulatorische Hürden und Unsicherheit für Krypto-Dienstleister im Land. Strengere Auflagen dürften den Markteintritt und das Geschäft lokaler Anbieter spürbar erschweren."
+    },
+    {
+      "id": "https://decrypt.co/?p=377528",
+      "title": "'Purported White-Hat Hackers' Withdraw $320M in Bitcoin From Liquid",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-07T09:55:42Z",
+      "score": 9,
+      "category": "Hack & Security",
+      "sentiment": "bearish",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Mutmaßliche White-Hat-Hacker haben laut Bericht 320 Mio. USD in Bitcoin von der Börse Liquid abgezogen. Ein Sicherheitsvorfall an einer Handelsplattform belastet das Vertrauen in Börsenreserven und kann Verkaufsdruck auf Bitcoin auslösen. Erhöhte Volatilität und mögliche Abflüsse sind wahrscheinlich, betroffen ist vor allem BTCUSD."
     }
   ],
   "digest_log": [
