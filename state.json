@@ -2557,7 +2557,9 @@
     "https://cointelegraph.com/news/harmony-proposes-shutting-down-layer-1-migrating-one-to-ethereum": "2026-09-07T05:07:26Z",
     "https://www.marktechpost.com/?p=82177": "2026-09-07T05:07:29Z",
     "https://cointelegraph.com/news/liquid-network-pauses-320m-bitcoin-withdrawal": "2026-09-07T05:52:09Z",
-    "ff3bf8b6-e3c6-566b-96c7-6e8d1666f533": "2026-09-07T06:35:07Z"
+    "ff3bf8b6-e3c6-566b-96c7-6e8d1666f533": "2026-09-07T06:35:07Z",
+    "da6a187e-e741-58b8-9398-1c4c1f5ee024": "2026-09-07T07:45:58Z",
+    "https://openai.com/index/supporting-independent-journalism-in-ukraine": "2026-09-07T07:45:59Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2618,36 +2620,6 @@
     }
   },
   "articles": [
-    {
-      "id": "ad038f9d-a0ba-58bf-9588-5d15c25b562f",
-      "title": "Securitize and Socios team up to tokenize equity in pro sports teams",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-09-02T17:17:59Z",
-      "score": 6,
-      "category": "Tech Update",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Securitize und Socios kündigen eine Partnerschaft zur Tokenisierung von Eigenkapital in Profisportvereinen an. Die Kooperation fördert die Nutzung von Blockchain-Technologie für reale Vermögenswerte im Sportsektor. Eine steigende Nachfrage nach Security-Token-Plattformen wird erwartet.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-02T18:19:18Z"
-    },
-    {
-      "id": "https://techcrunch.com/?post_type=tc_video&p=3160054",
-      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-02T17:18:13Z",
-      "score": 5,
-      "category": "Safety & Risk",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "In einem Interview erklärt Pangram-Mitgründer Max Spero, warum die Erkennung von KI-generierten Inhalten deutlich komplexer ist als ein simples Urteil zwischen „echt“ und „fake“. Das betrifft Plattformen und die Öffentlichkeit, die zunehmend KI-Inhalten begegnen und auf verlässliche Kennzeichnung angewiesen sind. Die Diskussion über wirksame Detektionsmethoden dürfte sich fortsetzen und künftige Produktentscheidungen sowie Regulierungsansätze beeinflussen."
-    },
     {
       "id": "https://techcrunch.com/?post_type=tc_podcast&p=3160051",
       "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
@@ -5824,6 +5796,38 @@
       "summary": "Der südkoreanische Konzern Hanwha entwickelt einem Bericht zufolge eine Plattform für tokenisierte Wertpapiere auf Avalanche, während die lokale Krypto-Regulierung konkretere Formen annimmt. Die Initiative fördert institutionelle Blockchain-Nutzung in einem regulierten Markt und stärkt das Segment tokenisierter Assets. Die nächste Wegmarke ist die Ausgestaltung der südkoreanischen Wertpapier-Regulierung; direkte Auswirkungen auf die etablierten Kryptowährungen bleiben zunächst begrenzt.",
       "delivered": "digest",
       "delivered_at": "2026-09-07T07:18:05Z"
+    },
+    {
+      "id": "da6a187e-e741-58b8-9398-1c4c1f5ee024",
+      "title": "Coldcard exploiter moves 45% of funds stolen from ‘Wave 3’ attacks, Galaxy says",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-09-07T07:30:32Z",
+      "score": 9,
+      "category": "Hack & Security",
+      "sentiment": "bearish",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Galaxy berichtet, dass der Coldcard-Exploiter 45 % der bei den „Wave 3“-Attacken gestohlenen Gelder verschoben hat. Der Vorfall trifft Bitcoin-Nutzer und erschüttert das Vertrauen in die Sicherheit von Hardware-Wallets. Erhöhte Volatilität und ein möglicher Verkaufsdruck bei BTC sind die Folge."
+    },
+    {
+      "id": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "title": "Supporting independent journalism in Ukraine",
+      "url": null,
+      "stream": "ai",
+      "source": "OpenAI News",
+      "published": "2026-09-07T00:00:00Z",
+      "score": 6,
+      "category": "Society & Work",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [
+        "OpenAI"
+      ],
+      "summary": "OpenAI hat angekündigt, unabhängigen Journalismus in der Ukraine zu unterstützen. Die Initiative dürfte die Medienresilienz in der Ukraine stärken und das gesellschaftliche Engagement von OpenAI sichtbar machen. Ein direkter Markt- oder Brancheneffekt ist daraus nicht abzuleiten, die Meldung ist vor allem gesellschaftlich relevant."
     }
   ],
   "digest_log": [
