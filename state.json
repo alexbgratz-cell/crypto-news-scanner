@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://cointelegraph.com/news/mutiny-metaplanet-moves-4800-btc-worth-377m-to-coinbase": "2026-08-31T13:49:30Z",
-    "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/": "2026-08-31T13:49:32Z",
-    "https://decrypt.co/?p=376929": "2026-08-31T14:04:34Z",
-    "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads": "2026-08-31T14:04:34Z",
-    "60b8b1ac-e5f2-5cbb-a83f-d78495d069a5": "2026-08-31T14:19:33Z",
-    "6677574c-0e7e-5d24-90e6-f311ae3a5dea": "2026-08-31T15:04:25Z",
-    "https://cointelegraph.com/news/russian-crypto-trading-bring-46b-regulated-exchanges-legalization": "2026-08-31T15:04:25Z",
-    "https://decrypt.co/?p=376932": "2026-08-31T15:04:25Z",
-    "https://openai.com/index/the-defenders-window": "2026-08-31T15:04:25Z",
-    "https://openai.com/index/openai-joins-ports-pike-project": "2026-08-31T15:04:25Z",
     "https://cointelegraph.com/news/strive-buys-1800-bitcoin-143m-btc-purchase": "2026-08-31T15:19:13Z",
     "https://techcrunch.com/?p=3158734": "2026-08-31T15:19:14Z",
     "fbfda97b-b2fa-5809-ab6e-da1f752a6ede": "2026-08-31T15:34:21Z",
@@ -2559,7 +2549,12 @@
     "https://huggingface.co/blog/icml-2026-open-reproductions": "2026-09-07T12:55:32Z",
     "https://huggingface.co/blog/allenai/olmoearth-embeddings": "2026-09-07T12:55:32Z",
     "56e90f4b-39df-5237-9455-a841791f1a4e": "2026-09-07T13:10:47Z",
-    "c1104aa2-8a0a-5f2d-83b1-742917a15b18": "2026-09-07T13:44:04Z"
+    "c1104aa2-8a0a-5f2d-83b1-742917a15b18": "2026-09-07T13:44:04Z",
+    "https://decrypt.co/?p=377559": "2026-09-07T15:08:10Z",
+    "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads": "2026-09-07T15:08:11Z",
+    "https://openai.com/index/the-defenders-window": "2026-09-07T15:08:11Z",
+    "https://openai.com/index/openai-joins-ports-pike-project": "2026-09-07T15:08:11Z",
+    "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/": "2026-09-07T15:08:12Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2620,24 +2615,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=377216",
-      "title": "Goldman Sachs, BofA Among 21 Banks Planning Joint Dollar Stablecoin Launch",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-09-02T20:01:04Z",
-      "score": 7,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [
-        "USDT.D"
-      ],
-      "entities": [],
-      "summary": "Laut Decrypt planen 21 Banken, darunter Goldman Sachs und Bank of America, einen gemeinsamen Dollar-Stablecoin. Ein solcher Schritt würde die bestehende Stablecoin-Landschaft herausfordern und die institutionelle Akzeptanz von Krypto-Infrastruktur stärken. Die Marktanteile etablierter Stablecoins könnten dadurch unter Druck geraten.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-02T20:15:49Z"
-    },
     {
       "id": "https://techcrunch.com/?p=3160225",
       "title": "OpenAI’s new reasoning technique alarms AI safety experts",
@@ -5829,6 +5806,22 @@
       "summary": "Bitcoin notiert weiter nahe 80.000 USD, während erneute Sorgen vor Zinserhöhungen der US-Notenbank aufkommen und der anstehende CPI-Report im Fokus steht. Die Inflationsdaten können die Geldpolitik direkt beeinflussen und damit die Risikostimmung für Kryptowährungen prägen, wobei ein heißer CPI den Dollar stärken und Bitcoin belasten könnte. Kurzfristig dürfte der CPI-Bericht die Richtung von Bitcoin bestimmen; erhöhte Volatilität ist wahrscheinlich.",
       "delivered": "digest",
       "delivered_at": "2026-09-07T14:16:34Z"
+    },
+    {
+      "id": "https://decrypt.co/?p=377559",
+      "title": "Ethereum Proposal Would Let Users Pay Gas Without Holding ETH",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-07T15:03:44Z",
+      "score": 6,
+      "category": "Tech Update",
+      "sentiment": "neutral",
+      "instruments": [
+        "ETHUSD"
+      ],
+      "entities": [],
+      "summary": "Ein Ethereum-Vorschlag würde es Nutzern ermöglichen, Gasgebühren zu zahlen, ohne ETH zu besitzen. Das könnte die Nutzung des Netzwerks erleichtern und die Rolle von ETH als einziges Gas-Zahlungsmittel verändern. Es bleibt vorerst ein Vorschlag; eine finale Entscheidung oder Umsetzung steht noch aus."
     }
   ],
   "digest_log": [
