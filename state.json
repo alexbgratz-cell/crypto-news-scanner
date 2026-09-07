@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://techcrunch.com/?p=3157348": "2026-08-31T02:34:39Z",
     "https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million": "2026-08-31T03:34:13Z",
     "https://www.marktechpost.com/?p=81971": "2026-08-31T05:19:14Z",
     "9544007b-cb6d-56e5-bdc0-a5cd437c13f9": "2026-08-31T08:19:10Z",
@@ -2555,7 +2554,8 @@
     "https://www.marktechpost.com/?p=82150": "2026-09-06T21:07:35Z",
     "56e51f0e-ef69-5e12-8782-70a0d154f611": "2026-09-06T21:22:36Z",
     "https://cointelegraph.com/magazine/white-hats-take-4000-btc-from-liquid-btc-etfs-best-week-of-2026-hodlers-digest": "2026-09-07T00:12:59Z",
-    "528a75f4-ec10-5759-b7dd-ff5649115278": "2026-09-07T02:25:48Z"
+    "528a75f4-ec10-5759-b7dd-ff5649115278": "2026-09-07T02:25:48Z",
+    "faa1a3f9-b275-5a33-805c-988b205ed914": "2026-09-07T02:40:00Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2616,24 +2616,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-      "title": "Proactive cyber defense for governments and enterprises",
-      "url": null,
-      "stream": "ai",
-      "source": "Google DeepMind News",
-      "published": "2026-09-02T16:24:24Z",
-      "score": 7,
-      "category": "Business & Funding",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "GOOGL"
-      ],
-      "summary": "Google DeepMind kündigt proaktive Cyberabwehr für Regierungen und Unternehmen an. Der Vorstoß stärkt Googles Position im Markt für KI-gestützte Sicherheitslösungen und zielt auf wachsende Cyberbedrohungen. Das neue Angebot erweitert das Sicherheitsportfolio des Konzerns und verschärft den Wettbewerb in diesem Segment.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-02T17:14:44Z"
-    },
     {
       "id": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
       "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
@@ -5829,6 +5811,20 @@
       ],
       "entities": [],
       "summary": "Spot-Bitcoin-ETFs verzeichneten in der vergangenen Woche Nettozuflüsse von 987 Millionen US-Dollar, was auf eine Erholung der institutionellen Nachfrage hindeutet. Die verstärkten Mittelzuflüsse in regulierte Bitcoin-Produkte stützen direkt den Bitcoin-Kurs und signalisieren wieder risikobereitere Großanleger. Kurzfristig ist daher mit anhaltendem Kaufdruck auf BTCUSD und geringerer Abwärtsvolatilität zu rechnen."
+    },
+    {
+      "id": "faa1a3f9-b275-5a33-805c-988b205ed914",
+      "title": "Harmony to fully sunset Layer 1, proposes token migration to Ethereum for AI video initiative",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-09-07T02:28:47Z",
+      "score": 5,
+      "category": "Tech Update",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Harmony kündigt an, ihr Layer-1-Netzwerk vollständig einzustellen, und schlägt eine Token-Migration nach Ethereum im Zusammenhang mit einer KI-Video-Initiative vor. Betroffen sind vor allem Harmony-Nutzer und ONE-Token-Inhaber, die künftig auf Ethereum wechseln sollen; eine breite Marktwirkung ist nicht erkennbar. Sollte der Vorschlag umgesetzt werden, folgt die Migration der Token nach Ethereum und der Layer-1-Betrieb endet."
     }
   ],
   "digest_log": [
