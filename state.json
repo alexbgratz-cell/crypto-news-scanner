@@ -5781,7 +5781,9 @@
         "BTCUSD"
       ],
       "entities": [],
-      "summary": "Die Märkte neigen laut Wochenausblick zunehmend zu Zinserhöhungen im September, was die Stimmung für Bitcoin belastet. Höhere Zinsen machen Liquidität teurer und setzen risikoreiche Anlagen wie Kryptowährungen unter Druck. Bis zur Entscheidung der Notenbank dürfte der Bitcoin-Kurs daher schwankend und eher defensiv bleiben."
+      "summary": "Die Märkte neigen laut Wochenausblick zunehmend zu Zinserhöhungen im September, was die Stimmung für Bitcoin belastet. Höhere Zinsen machen Liquidität teurer und setzen risikoreiche Anlagen wie Kryptowährungen unter Druck. Bis zur Entscheidung der Notenbank dürfte der Bitcoin-Kurs daher schwankend und eher defensiv bleiben.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-07T13:17:20Z"
     },
     {
       "id": "https://cointelegraph.com/markets/zcash-highest-price-market-cap-20-billion",
@@ -5823,7 +5825,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "DBS und Citi haben die erste Wochenend-USD-Zahlung zwischen Singapur und den USA über tokenisierte Einlagen abgeschlossen. Der Schritt zeigt die wachsende Nutzung von Blockchain-basierter Zahlungsinfrastruktur durch etablierte Banken und stärkt das Vertrauen in Tokenisierungslösungen, hat aber keinen direkten Einfluss auf klassische Krypto-Instrumente. Erwartbar sind weitere Pilotprojekte und Kooperationen im Interbankenzahlungsverkehr, die das Tokenisierungs-Ökosystem schrittweise ausbauen."
+      "summary": "DBS und Citi haben die erste Wochenend-USD-Zahlung zwischen Singapur und den USA über tokenisierte Einlagen abgeschlossen. Der Schritt zeigt die wachsende Nutzung von Blockchain-basierter Zahlungsinfrastruktur durch etablierte Banken und stärkt das Vertrauen in Tokenisierungslösungen, hat aber keinen direkten Einfluss auf klassische Krypto-Instrumente. Erwartbar sind weitere Pilotprojekte und Kooperationen im Interbankenzahlungsverkehr, die das Tokenisierungs-Ökosystem schrittweise ausbauen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-07T13:17:20Z"
     }
   ],
   "digest_log": [
@@ -7076,6 +7080,13 @@
       "at": "2026-09-07T11:15:51Z",
       "article_ids": [
         "https://cointelegraph.com/news/dbs-citi-first-weekend-tokenized-deposit-swift"
+      ]
+    },
+    {
+      "at": "2026-09-07T13:17:20Z",
+      "article_ids": [
+        "https://cointelegraph.com/markets/markets-tilt-toward-september-rate-hikes-five-things-to-know-in-bitcoin-this-week",
+        "56e90f4b-39df-5237-9455-a841791f1a4e"
       ]
     }
   ],
