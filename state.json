@@ -5821,7 +5821,9 @@
         "ETHUSD"
       ],
       "entities": [],
-      "summary": "Ein Ethereum-Vorschlag würde es Nutzern ermöglichen, Gasgebühren zu zahlen, ohne ETH zu besitzen. Das könnte die Nutzung des Netzwerks erleichtern und die Rolle von ETH als einziges Gas-Zahlungsmittel verändern. Es bleibt vorerst ein Vorschlag; eine finale Entscheidung oder Umsetzung steht noch aus."
+      "summary": "Ein Ethereum-Vorschlag würde es Nutzern ermöglichen, Gasgebühren zu zahlen, ohne ETH zu besitzen. Das könnte die Nutzung des Netzwerks erleichtern und die Rolle von ETH als einziges Gas-Zahlungsmittel verändern. Es bleibt vorerst ein Vorschlag; eine finale Entscheidung oder Umsetzung steht noch aus.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-07T15:15:25Z"
     }
   ],
   "digest_log": [
@@ -7087,6 +7089,12 @@
       "at": "2026-09-07T14:16:34Z",
       "article_ids": [
         "c1104aa2-8a0a-5f2d-83b1-742917a15b18"
+      ]
+    },
+    {
+      "at": "2026-09-07T15:15:25Z",
+      "article_ids": [
+        "https://decrypt.co/?p=377559"
       ]
     }
   ],
