@@ -5821,7 +5821,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Der südkoreanische Konzern Hanwha entwickelt einem Bericht zufolge eine Plattform für tokenisierte Wertpapiere auf Avalanche, während die lokale Krypto-Regulierung konkretere Formen annimmt. Die Initiative fördert institutionelle Blockchain-Nutzung in einem regulierten Markt und stärkt das Segment tokenisierter Assets. Die nächste Wegmarke ist die Ausgestaltung der südkoreanischen Wertpapier-Regulierung; direkte Auswirkungen auf die etablierten Kryptowährungen bleiben zunächst begrenzt."
+      "summary": "Der südkoreanische Konzern Hanwha entwickelt einem Bericht zufolge eine Plattform für tokenisierte Wertpapiere auf Avalanche, während die lokale Krypto-Regulierung konkretere Formen annimmt. Die Initiative fördert institutionelle Blockchain-Nutzung in einem regulierten Markt und stärkt das Segment tokenisierter Assets. Die nächste Wegmarke ist die Ausgestaltung der südkoreanischen Wertpapier-Regulierung; direkte Auswirkungen auf die etablierten Kryptowährungen bleiben zunächst begrenzt.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-07T07:18:05Z"
     }
   ],
   "digest_log": [
@@ -7049,6 +7051,12 @@
       "at": "2026-09-07T05:15:08Z",
       "article_ids": [
         "https://www.marktechpost.com/?p=82177"
+      ]
+    },
+    {
+      "at": "2026-09-07T07:18:05Z",
+      "article_ids": [
+        "ff3bf8b6-e3c6-566b-96c7-6e8d1666f533"
       ]
     }
   ],
