@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.marktechpost.com/?p=81981": "2026-08-31T21:34:35Z",
-    "https://decrypt.co/?p=376999": "2026-08-31T21:49:26Z",
     "e2743cd4-5315-5138-acbf-a2439dc2cd16": "2026-08-31T22:34:16Z",
     "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/": "2026-08-31T22:34:17Z",
     "https://openai.com/index/polimill": "2026-08-31T23:34:09Z",
@@ -2548,7 +2546,8 @@
     "https://decrypt.co/?p=377621": "2026-09-07T20:39:38Z",
     "https://cointelegraph.com/news/uk-financial-watchdog-prediction-markets-ban": "2026-09-07T20:51:16Z",
     "https://decrypt.co/?p=377635": "2026-09-07T21:24:51Z",
-    "https://openai.com/index/gpt-5-6-in-kiro": "2026-09-07T21:24:51Z"
+    "https://openai.com/index/gpt-5-6-in-kiro": "2026-09-07T21:24:51Z",
+    "https://decrypt.co/?p=377637": "2026-09-07T21:51:22Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2609,22 +2608,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/australia-warns-unlicensed-crypto-firms-of-fines-up-to-10-of-annual-turnover",
-      "title": "Australia warns unlicensed crypto firms of fines up to 10% of annual turnover",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-09-03T07:47:54Z",
-      "score": 7,
-      "category": "Regulation",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Die australische Finanzaufsicht ASIC warnt nicht lizenzierte Krypto-Firmen vor Geldstrafen von bis zu 10% des Jahresumsatzes. Dies erhöht den regulatorischen Druck auf die Branche und könnte Anbieter zur Rückkehr in die Legalität zwingen. Eine Abschwächung des Krypto-Angebots in Australien ist wahrscheinlich.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-03T08:17:36Z"
-    },
     {
       "id": "https://huggingface.co/blog/train-to-paint-with-code",
       "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
@@ -5816,6 +5799,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Der Chefwissenschaftler von OpenAI warnt, dass KI-Labore ihr Tempo möglicherweise verlangsamen sollten. Die Aussage könnte die Branche unter Druck setzen, Sicherheitsrisiken ernster zu nehmen und Release-Zyklen zu überdenken. Vorsichtigere Modellveröffentlichungen und intensivere Sicherheitsdebatten sind die wahrscheinliche Folge."
+    },
+    {
+      "id": "https://decrypt.co/?p=377637",
+      "title": "Your LG TV Might Still Be Listening to You—Even When It Looks Like It’s Off",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-07T21:46:04Z",
+      "score": 3,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Decrypt berichtet, dass LG-Fernseher möglicherweise weiterhin über ihre Mikrofone zuhören, obwohl sie ausgeschaltet wirken. Die Meldung betrifft den Schutz der Verbraucherdaten, hat aber keine direkte Verbindung zu Kryptomärkten oder Blockchain-Infrastruktur. Für Kryptoanlagen ist daher keine Marktreaktion abzuleiten; das Thema bleibt für den Sektor ohne Belang."
     }
   ],
   "digest_log": [
