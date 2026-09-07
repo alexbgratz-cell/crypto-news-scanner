@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.technologyreview.com/?p=1141740": "2026-08-31T10:49:12Z",
-    "6a832bd4364359700ebc52b3": "2026-08-31T10:49:12Z",
-    "https://cointelegraph.com/markets/markets-pivot-to-september-fed-rate-hike-five-things-to-know-in-bitcoin-this-week": "2026-08-31T11:04:22Z",
     "https://decrypt.co/?p=376916": "2026-08-31T11:19:46Z",
     "https://cointelegraph.com/news/hyperliquid-pumpfun-90-record-638m-crypto-buybacks": "2026-08-31T11:34:10Z",
     "https://decrypt.co/?p=376924": "2026-08-31T12:34:37Z",
@@ -2564,7 +2561,8 @@
     "b5926880-8e60-538e-9f14-264003e8159e": "2026-09-07T10:26:28Z",
     "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/": "2026-09-07T10:26:29Z",
     "https://cointelegraph.com/news/dbs-citi-first-weekend-tokenized-deposit-swift": "2026-09-07T10:40:13Z",
-    "6a985e26ae63a30d70e113b7": "2026-09-07T10:40:14Z"
+    "6a985e26ae63a30d70e113b7": "2026-09-07T10:40:14Z",
+    "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/": "2026-09-07T11:08:15Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2625,22 +2623,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
-      "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
-      "url": null,
-      "stream": "ai",
-      "source": "AI - Ars Technica",
-      "published": "2026-09-02T18:13:54Z",
-      "score": 8,
-      "category": "Model Release & Capability",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "GOOGL"
-      ],
-      "summary": "Google hat Gemini 3.8 Flash veröffentlicht, das dritte Flash-Modell innerhalb von sechs Wochen. Damit erweitert Google sein KI-Angebot in sehr schneller Taktung und erhöht den Wettbewerbsdruck auf konkurrierende Modellanbieter. Die Folge dürften kürzere Release-Zyklen und ein härterer Preiskampf bei KI-Modellen sein."
-    },
     {
       "id": "https://www.marktechpost.com/?p=82046",
       "title": "Meet Switchyard: A Rust Proxy and Library That Routes and Translates LLM Traffic Across OpenAI and Anthropic APIs",
@@ -5836,6 +5818,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Ein Bericht thematisiert, dass Kundinnen und Kunden Beschwerden künftig per Flüstern ins Telefon eingeben könnten. Die Idee betrifft den Kundenservice und den Einsatz von KI-Sprachverarbeitung, ohne dass ein konkretes Produkt oder Unternehmen genannt wird. Eine unmittelbare Branchenveränderung ist daraus nicht abzuleiten."
+    },
+    {
+      "id": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+      "title": "The AI data center boom is causing new accountability problems",
+      "url": null,
+      "stream": "ai",
+      "source": "AI - Ars Technica",
+      "published": "2026-09-07T11:00:03Z",
+      "score": 5,
+      "category": "Society & Work",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Ein Artikel von Ars Technica berichtet, dass der KI-Rechenzentrums-Boom neue Fragen der Rechenschaftspflicht aufwirft. Betroffen sind Betreiber sowie Kommunen und Anwohner, die mehr Transparenz bei Umweltfolgen und Verantwortung fordern. In der Branche ist mit zunehmenden Debatten über Regulierung und Auflagen zu rechnen."
     }
   ],
   "digest_log": [
