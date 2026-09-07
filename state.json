@@ -5814,7 +5814,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Die Philippinen erwägen ein Einfrieren der Registrierung von Zahlungsdienstleistern und strengere Prüfungen für VASP-Anbieter. Das erhöht die regulatorische Hürden und Unsicherheit für Krypto-Dienstleister im Land. Strengere Auflagen dürften den Markteintritt und das Geschäft lokaler Anbieter spürbar erschweren."
+      "summary": "Die Philippinen erwägen ein Einfrieren der Registrierung von Zahlungsdienstleistern und strengere Prüfungen für VASP-Anbieter. Das erhöht die regulatorische Hürden und Unsicherheit für Krypto-Dienstleister im Land. Strengere Auflagen dürften den Markteintritt und das Geschäft lokaler Anbieter spürbar erschweren.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-07T10:15:44Z"
     },
     {
       "id": "https://decrypt.co/?p=377528",
@@ -7071,6 +7073,12 @@
       "article_ids": [
         "https://openai.com/index/supporting-independent-journalism-in-ukraine",
         "https://cointelegraph.com/news/fomo-pumpfun-revenue-app-solana"
+      ]
+    },
+    {
+      "at": "2026-09-07T10:15:44Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/philippines-payment-operator-freeze-vasp-checks"
       ]
     }
   ],
