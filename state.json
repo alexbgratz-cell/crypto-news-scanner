@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://decrypt.co/?p=376971": "2026-08-31T18:49:11Z",
-    "https://techcrunch.com/?p=3158889": "2026-08-31T18:49:12Z",
     "https://techcrunch.com/?p=3158959": "2026-08-31T19:19:22Z",
     "https://decrypt.co/?p=376973": "2026-08-31T19:34:09Z",
     "010fda64-ff93-55f3-8161-0fafdedd8731": "2026-08-31T20:19:10Z",
@@ -2548,7 +2546,8 @@
     "https://decrypt.co/?p=377597": "2026-09-07T18:28:19Z",
     "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/": "2026-09-07T18:28:22Z",
     "https://www.technologyreview.com/?p=1143180": "2026-09-07T18:45:09Z",
-    "https://www.marktechpost.com/?p=82180": "2026-09-07T18:45:10Z"
+    "https://www.marktechpost.com/?p=82180": "2026-09-07T18:45:10Z",
+    "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-reimburse-trump-holders": "2026-09-07T19:06:57Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2609,20 +2608,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://openai.com/index/atv-big-air-tour",
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "url": null,
-      "stream": "ai",
-      "source": "OpenAI News",
-      "published": "2026-09-02T12:00:00Z",
-      "score": 5,
-      "category": "Business & Funding",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Die ATV Big Air Tour nutzt ChatGPT und reduziert damit einen dreitägigen Arbeitsaufwand auf drei Stunden. Das zeigt einen praktischen Nutzen von KI-Assistenten in der Eventbranche. Für die Branche bedeutet das eine mögliche Effizienzsteigerung, konkrete Marktfolgen sind jedoch nicht absehbar."
-    },
     {
       "id": "https://decrypt.co/?p=377232",
       "title": "Anthropic Admits Security Failures Behind Claude Hacking Incidents",
@@ -5812,6 +5797,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Axis Robotics veröffentlicht AXIS, eine browserbasierte Daten-Engine mit 207 Robotermanipulations-Aufgaben und 50.129 Trajektorien. Die Ressource kann das Training von Robotermodellen vereinfachen und dürfte Forschungs- und Industrieanwendungen zugutekommen. In der Folge ist mit einer verstärkten Nutzung der Plattform in der Robotik-Forschung zu rechnen."
+    },
+    {
+      "id": "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-reimburse-trump-holders",
+      "title": "Joe Biden’s son to launch memecoin, will send to TRUMP holders: WSJ",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-07T18:53:47Z",
+      "score": 5,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Laut WSJ plant Hunter Biden, Sohn des ehemaligen US-Präsidenten Joe Biden, einen eigenen Memecoin und will Token an bestehende TRUMP-Halter verteilen. Die Ankündigung dürfte vor allem spekulative Aufmerksamkeit auf politische Memecoins lenken, ohne fundamentale Auswirkungen auf die großen Kryptowährungen. Der Markt dürfte die Nachricht als Nischen-Event einpreisen; eine breite Kursbewegung bei BTC, ETH oder SOL ist nicht zu erwarten."
     }
   ],
   "digest_log": [
