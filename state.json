@@ -5814,7 +5814,9 @@
       "entities": [
         "OpenAI"
       ],
-      "summary": "OpenAI hat angekündigt, unabhängigen Journalismus in der Ukraine zu unterstützen. Die Initiative dürfte die Medienresilienz in der Ukraine stärken und das gesellschaftliche Engagement von OpenAI sichtbar machen. Ein direkter Markt- oder Brancheneffekt ist daraus nicht abzuleiten, die Meldung ist vor allem gesellschaftlich relevant."
+      "summary": "OpenAI hat angekündigt, unabhängigen Journalismus in der Ukraine zu unterstützen. Die Initiative dürfte die Medienresilienz in der Ukraine stärken und das gesellschaftliche Engagement von OpenAI sichtbar machen. Ein direkter Markt- oder Brancheneffekt ist daraus nicht abzuleiten, die Meldung ist vor allem gesellschaftlich relevant.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-07T08:17:31Z"
     },
     {
       "id": "https://cointelegraph.com/news/fomo-pumpfun-revenue-app-solana",
@@ -5830,7 +5832,9 @@
         "SOLUSD"
       ],
       "entities": [],
-      "summary": "Fomo hat Pump.fun auf Solana bei den täglichen Einnahmen überholt. Das zeigt eine Verschiebung der Meme-Coin-Aktivität hin zu Fomo und stärkt dessen Position im Solana-Ökosystem. Der Wettbewerb um Nutzer und Gebühren auf Solana bleibt damit intensiv."
+      "summary": "Fomo hat Pump.fun auf Solana bei den täglichen Einnahmen überholt. Das zeigt eine Verschiebung der Meme-Coin-Aktivität hin zu Fomo und stärkt dessen Position im Solana-Ökosystem. Der Wettbewerb um Nutzer und Gebühren auf Solana bleibt damit intensiv.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-07T08:17:31Z"
     }
   ],
   "digest_log": [
@@ -7064,6 +7068,13 @@
       "at": "2026-09-07T07:18:05Z",
       "article_ids": [
         "ff3bf8b6-e3c6-566b-96c7-6e8d1666f533"
+      ]
+    },
+    {
+      "at": "2026-09-07T08:17:31Z",
+      "article_ids": [
+        "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+        "https://cointelegraph.com/news/fomo-pumpfun-revenue-app-solana"
       ]
     }
   ],
