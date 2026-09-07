@@ -5777,7 +5777,9 @@
         "BTCUSD"
       ],
       "entities": [],
-      "summary": "Laut CoinShares orientieren sich Bitcoin-Fondsströme stark am erwarteten Zinspfad der US-Notenbank, signalisieren aber keinen Ausstieg der Anleger aus dem Markt. Die Bewegungen zeigen, dass Anleger ihre Positionen an der Fed-Politik ausrichten, ohne das Engagement grundsätzlich aufzugeben. BTCUSD bleibt damit von den nächsten Zinsentscheidungen und Konjunkturdaten abhängig und dürfte makrogetrieben schwanken."
+      "summary": "Laut CoinShares orientieren sich Bitcoin-Fondsströme stark am erwarteten Zinspfad der US-Notenbank, signalisieren aber keinen Ausstieg der Anleger aus dem Markt. Die Bewegungen zeigen, dass Anleger ihre Positionen an der Fed-Politik ausrichten, ohne das Engagement grundsätzlich aufzugeben. BTCUSD bleibt damit von den nächsten Zinsentscheidungen und Konjunkturdaten abhängig und dürfte makrogetrieben schwanken.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-07T18:18:12Z"
     },
     {
       "id": "https://decrypt.co/?p=377595",
@@ -5793,7 +5795,9 @@
         "BTCUSD"
       ],
       "entities": [],
-      "summary": "Malone Lam muss sich vor Gericht zu einem Plädoyer im Zusammenhang mit dem Diebstahl von Bitcoin im Wert von 245 Millionen Dollar äußern. Der Fall verdeutlicht die strafrechtlichen Konsequenzen großer Kryptodiebstähle und rückt Sicherheits- und Regulierungsfragen in den Fokus. Eine unmittelbare Marktbewegung ist nicht zu erwarten; entscheidend wird der weitere Verfahrensausgang."
+      "summary": "Malone Lam muss sich vor Gericht zu einem Plädoyer im Zusammenhang mit dem Diebstahl von Bitcoin im Wert von 245 Millionen Dollar äußern. Der Fall verdeutlicht die strafrechtlichen Konsequenzen großer Kryptodiebstähle und rückt Sicherheits- und Regulierungsfragen in den Fokus. Eine unmittelbare Marktbewegung ist nicht zu erwarten; entscheidend wird der weitere Verfahrensausgang.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-07T18:18:12Z"
     },
     {
       "id": "https://cointelegraph.com/news/polish-prosecutors-charge-man-in-zondacrypto-probe-seek-pretrial-detention",
@@ -5807,7 +5811,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Polnische Staatsanwälte haben im Rahmen der Ermittlungen rund um die Krypto-Börse Zondacrypto einen Verdächtigen angeklagt und beantragen dessen Untersuchungshaft. Die rechtlichen Schritte erhöhen die regulatorische Unsicherheit und belasten das Vertrauen in den Kryptomarkt. Die nächste Wegmarke ist die Entscheidung über die Untersuchungshaft; negative Marktstimmung ist wahrscheinlich."
+      "summary": "Polnische Staatsanwälte haben im Rahmen der Ermittlungen rund um die Krypto-Börse Zondacrypto einen Verdächtigen angeklagt und beantragen dessen Untersuchungshaft. Die rechtlichen Schritte erhöhen die regulatorische Unsicherheit und belasten das Vertrauen in den Kryptomarkt. Die nächste Wegmarke ist die Entscheidung über die Untersuchungshaft; negative Marktstimmung ist wahrscheinlich.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-07T18:18:12Z"
     }
   ],
   "digest_log": [
@@ -7085,6 +7091,14 @@
       "at": "2026-09-07T16:16:00Z",
       "article_ids": [
         "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/"
+      ]
+    },
+    {
+      "at": "2026-09-07T18:18:12Z",
+      "article_ids": [
+        "https://cointelegraph.com/markets/crypto-fund-flows-show-investors-trading-fed-rate-path-not-exiting-market-coinshares",
+        "https://cointelegraph.com/news/polish-prosecutors-charge-man-in-zondacrypto-probe-seek-pretrial-detention",
+        "https://decrypt.co/?p=377595"
       ]
     }
   ],
