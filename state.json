@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://cointelegraph.com/news/hyperliquid-pumpfun-90-record-638m-crypto-buybacks": "2026-08-31T11:34:10Z",
     "https://decrypt.co/?p=376924": "2026-08-31T12:34:37Z",
     "https://openai.com/index/new-policy-ideas-for-the-intelligence-age": "2026-08-31T12:34:37Z",
     "https://openai.com/index/builders-guide-to-gpt-5-6": "2026-08-31T12:34:37Z",
@@ -2562,7 +2561,8 @@
     "https://cointelegraph.com/news/dbs-citi-first-weekend-tokenized-deposit-swift": "2026-09-07T10:40:13Z",
     "6a985e26ae63a30d70e113b7": "2026-09-07T10:40:14Z",
     "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/": "2026-09-07T11:08:15Z",
-    "https://decrypt.co/?p=377537": "2026-09-07T11:26:26Z"
+    "https://decrypt.co/?p=377537": "2026-09-07T11:26:26Z",
+    "https://cointelegraph.com/markets/markets-tilt-toward-september-rate-hikes-five-things-to-know-in-bitcoin-this-week": "2026-09-07T12:32:36Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2623,22 +2623,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/wyoming-chainlink-onchain-reserves-of-state-issued-stable-token",
-      "title": "Wyoming adds Chainlink reserve verification to state-issued stable token",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-09-02T18:38:18Z",
-      "score": 7,
-      "category": "Regulation",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Wyoming setzt Chainlink zur On-Chain-Reserve-Verifizierung ihres staatlich ausgegebenen Stablecoins ein. Das stärkt das Vertrauen in staatlich unterstützte Stablecoins und positioniert Chainlink als zentrale Infrastruktur für Transparenz. Die Einführung könnte die Akzeptanz solcher Stablecoin-Projekte und die Nachfrage nach Reserveprüfungen erhöhen.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-02T19:13:30Z"
-    },
     {
       "id": "https://decrypt.co/?p=377185",
       "title": "Is Bitcoin About to Flash Crash? What a 'Bart Simpson' Pattern Would Actually Take",
@@ -5831,6 +5815,22 @@
       ],
       "entities": [],
       "summary": "Ein Hacker hat Bitcoin im Wert von 7,7 Mio. US-Dollar bewegt, fast die Hälfte der gesamten Beute der dritten Angriffswelle im Zusammenhang mit Coldcard-Wallets. Die Transaktion verdeutlicht anhaltende Sicherheitsrisiken bei der Lagerung von Krypto-Vermögen und kann das Vertrauen in Hardware-Wallets belasten. Ein unmittelbarer Kurseinbruch bei Bitcoin ist aus der Meldung allein nicht abzuleiten; die Marktaufmerksamkeit dürfte auf weitere Transferbewegungen gerichtet bleiben."
+    },
+    {
+      "id": "https://cointelegraph.com/markets/markets-tilt-toward-september-rate-hikes-five-things-to-know-in-bitcoin-this-week",
+      "title": "Markets tilt toward September rate hikes: Five things to know in Bitcoin this week",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-07T12:10:22Z",
+      "score": 6,
+      "category": "Macro",
+      "sentiment": "bearish",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Die Märkte neigen laut Wochenausblick zunehmend zu Zinserhöhungen im September, was die Stimmung für Bitcoin belastet. Höhere Zinsen machen Liquidität teurer und setzen risikoreiche Anlagen wie Kryptowährungen unter Druck. Bis zur Entscheidung der Notenbank dürfte der Bitcoin-Kurs daher schwankend und eher defensiv bleiben."
     }
   ],
   "digest_log": [
