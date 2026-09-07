@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://decrypt.co/?p=376963": "2026-08-31T18:04:28Z",
-    "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/": "2026-08-31T18:04:36Z",
     "b81e1240-e532-5174-8b5c-418c24dfc253": "2026-08-31T18:19:29Z",
     "a14f84ab-0e75-5ccf-b85e-49598f2975ad": "2026-08-31T18:19:29Z",
     "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/": "2026-08-31T18:19:31Z",
@@ -2549,7 +2547,8 @@
     "https://decrypt.co/?p=377581": "2026-09-07T16:40:01Z",
     "https://cointelegraph.com/news/capital-b-adds-376-bitcoin-in-29m-purchase-holdings-reach-3521-btc": "2026-09-07T17:07:13Z",
     "https://cointelegraph.com/markets/crypto-fund-flows-show-investors-trading-fed-rate-path-not-exiting-market-coinshares": "2026-09-07T17:51:14Z",
-    "https://decrypt.co/?p=377595": "2026-09-07T17:51:14Z"
+    "https://decrypt.co/?p=377595": "2026-09-07T17:51:14Z",
+    "https://cointelegraph.com/news/polish-prosecutors-charge-man-in-zondacrypto-probe-seek-pretrial-detention": "2026-09-07T18:09:22Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2610,25 +2609,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3160290",
-      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-02T22:44:56Z",
-      "score": 6,
-      "category": "Business & Funding",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "Palo Alto Networks",
-        "Console"
-      ],
-      "summary": "Palo Alto Networks hat laut Quellen 500 Millionen Dollar für das von Thrive unterstützte Startup Console gezahlt. Die Akquisition stärkt die Sicherheits- und KI-Plattform des Unternehmens und verschärft den Wettbewerb im Cybersicherheitsmarkt. Die Integration von Console dürfte das Portfolio erweitern und die Marktposition von Palo Alto Networks festigen.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-02T23:13:38Z"
-    },
     {
       "id": "https://techcrunch.com/?p=3137969",
       "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
@@ -5814,6 +5794,20 @@
       ],
       "entities": [],
       "summary": "Malone Lam muss sich vor Gericht zu einem Plädoyer im Zusammenhang mit dem Diebstahl von Bitcoin im Wert von 245 Millionen Dollar äußern. Der Fall verdeutlicht die strafrechtlichen Konsequenzen großer Kryptodiebstähle und rückt Sicherheits- und Regulierungsfragen in den Fokus. Eine unmittelbare Marktbewegung ist nicht zu erwarten; entscheidend wird der weitere Verfahrensausgang."
+    },
+    {
+      "id": "https://cointelegraph.com/news/polish-prosecutors-charge-man-in-zondacrypto-probe-seek-pretrial-detention",
+      "title": "Polish prosecutors charge suspect in Zondacrypto probe, seek pretrial detention",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-07T17:58:00Z",
+      "score": 7,
+      "category": "Regulation",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Polnische Staatsanwälte haben im Rahmen der Ermittlungen rund um die Krypto-Börse Zondacrypto einen Verdächtigen angeklagt und beantragen dessen Untersuchungshaft. Die rechtlichen Schritte erhöhen die regulatorische Unsicherheit und belasten das Vertrauen in den Kryptomarkt. Die nächste Wegmarke ist die Entscheidung über die Untersuchungshaft; negative Marktstimmung ist wahrscheinlich."
     }
   ],
   "digest_log": [
