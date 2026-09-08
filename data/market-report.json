@@ -1,46 +1,46 @@
 {
-  "ts": "2026-09-08T07:06:09.381863Z",
+  "ts": "2026-09-08T13:38:52.474079Z",
   "instrument": "ALL",
-  "text": "**Kernaussage:** Der Gesamtmarkt konsolidiert leicht: BTC fällt auf 78.288 USD, ETH auf 2.464 USD, SOL verliert mit -2,34 % am stärksten; der Angst-und-Gier-Index sinkt von 71 auf 69, bleibt aber in der Gier-Zone.\n\n**Was es bedeutet:** Kein Paniksignal. Der VIX fällt deutlich (-5,79 %), das makroökonomische Umfeld ist moderat, der Dollar steigt leicht. ETH gewinnt gegenüber BTC minimal, während die BTC-Dominanz nachgibt – die Bewegung ist selektiv, kein breiter Risk-off. Sicherheitsmeldungen wie der Liquid-Hack belasten kurzfristig, die Rückgabe von 270 Mio. USD von 320 Mio. USD gestohlener Gelder entschärft den Schock jedoch.\n\n**Zu beachten:** Ob sich die negativen 12h-Trends stabilisieren; der nicht zurückgezahlte Restbetrag aus dem Liquid-Hack bleibt ein latenter Unsicherheitsfaktor.",
+  "text": "Kernaussage: Der Markt konsolidiert mit leicht negativer Tendenz: BTC fällt auf 78.362 USD, ETH auf 2.469,92 USD und SOL auf 102,80 USD; der Angst-Gier-Index bleibt bei 69 (Greed).\n\nWas es bedeutet: Die Stimmung ist weiter risikofreudig, aber gedämpft. BTC.D fällt leicht auf 58,91 %, ETH/BTC bleibt stabil – keine klare Altcoin-Rotation. Makro zeigt ein gemischtes Bild: DXY bleibt hoch bei 118,75, SPX leicht im Minus, VIX deutlich gesunken. Sicherheits- und Regulierungsmeldungen wie der Cronos-Exploit oder die Zondacrypto-Ermittlungen erhöhen die Vorsicht, ohne den Gesamtmarkt zu dominieren.\n\nZu beachten: Ob BTC nach dem 12h-Rückgang von 79.316 auf 78.362 USD die 78.000er-Schwelle verteidigt. Analysten verweisen auf den Angebots-Schwellenwert „Supply in Profit“ nahe einem historischen Übergang; ein Ausbruch könnte die zuletzt geringe Volatilität beenden.",
   "numbers": [
     {
       "sym": "BTCUSD",
-      "value": 78288,
-      "change": -1.72,
+      "value": 78362,
+      "change": -1.57,
       "label": "",
       "group": "Direkte Korrelation"
     },
     {
       "sym": "ETHUSD",
-      "value": 2464.49,
-      "change": -1.39,
+      "value": 2469.92,
+      "change": -1.5,
       "label": "",
       "group": "Direkte Korrelation"
     },
     {
       "sym": "SOLUSD",
-      "value": 102.61,
-      "change": -2.34,
+      "value": 102.8,
+      "change": -2.7,
       "label": "",
       "group": "Direkte Korrelation"
     },
     {
       "sym": "ETHBTC",
-      "value": 0.03148,
-      "change": 0.34,
+      "value": 0.031519,
+      "change": 0.07,
       "label": "",
       "group": "Kapitalrotation"
     },
     {
       "sym": "BTC.D",
-      "value": 59.01,
+      "value": 58.91,
       "change": null,
       "label": "",
       "group": "Liquidität & Sentiment"
     },
     {
       "sym": "USDT.D",
-      "value": 6.87,
+      "value": 6.86,
       "change": null,
       "label": "",
       "group": "Liquidität & Sentiment"
@@ -54,14 +54,14 @@
     },
     {
       "sym": "MEMPOOL",
-      "value": 77615.0,
+      "value": 75682.0,
       "change": null,
       "label": "",
       "group": "On-Chain"
     },
     {
       "sym": "MO30",
-      "value": 22.25,
+      "value": 22.29,
       "change": null,
       "label": "",
       "group": "On-Chain"
