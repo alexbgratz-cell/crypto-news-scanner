@@ -2553,7 +2553,8 @@
     "https://decrypt.co/?p=377675": "2026-09-08T15:40:57Z",
     "https://decrypt.co/?p=377676": "2026-09-08T15:40:57Z",
     "bdb9ae8c-bbca-5e01-95fe-15a1008f2b09": "2026-09-08T15:54:41Z",
-    "https://cointelegraph.com/markets/bitcoin-faces-key-support-test-at-783k-as-us-crude-oil-hits-three-month-high": "2026-09-08T15:54:42Z"
+    "https://cointelegraph.com/markets/bitcoin-faces-key-support-test-at-783k-as-us-crude-oil-hits-three-month-high": "2026-09-08T15:54:42Z",
+    "https://openai.com/index/teen-development-research-grants": "2026-09-08T16:08:50Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2667,6 +2668,14 @@
       "stream": "crypto",
       "source": "Cointelegraph.com News",
       "published": "2026-09-08T15:41:11Z"
+    },
+    "https://openai.com/index/teen-development-research-grants": {
+      "id": "https://openai.com/index/teen-development-research-grants",
+      "title": "Funding grants for new research into AI and teen development",
+      "url": "https://openai.com/index/teen-development-research-grants",
+      "stream": "ai",
+      "source": "OpenAI News",
+      "published": "2026-09-08T09:00:00Z"
     }
   },
   "articles": [
