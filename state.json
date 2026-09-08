@@ -2554,7 +2554,9 @@
     "https://decrypt.co/?p=377676": "2026-09-08T15:40:57Z",
     "bdb9ae8c-bbca-5e01-95fe-15a1008f2b09": "2026-09-08T15:54:41Z",
     "https://cointelegraph.com/markets/bitcoin-faces-key-support-test-at-783k-as-us-crude-oil-hits-three-month-high": "2026-09-08T15:54:42Z",
-    "https://openai.com/index/teen-development-research-grants": "2026-09-08T16:08:50Z"
+    "https://openai.com/index/teen-development-research-grants": "2026-09-08T16:08:50Z",
+    "https://cointelegraph.com/news/visa-stablecoin-blockchain-lending-payment-settlement": "2026-09-08T16:29:01Z",
+    "https://techcrunch.com/?p=3161424": "2026-09-08T16:29:02Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2676,6 +2678,22 @@
       "stream": "ai",
       "source": "OpenAI News",
       "published": "2026-09-08T09:00:00Z"
+    },
+    "https://cointelegraph.com/news/visa-stablecoin-blockchain-lending-payment-settlement": {
+      "id": "https://cointelegraph.com/news/visa-stablecoin-blockchain-lending-payment-settlement",
+      "title": "Visa brings onchain credit to its growing stablecoin card business",
+      "url": "https://cointelegraph.com/news/visa-stablecoin-blockchain-lending-payment-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-08T16:11:53Z"
+    },
+    "https://techcrunch.com/?p=3161424": {
+      "id": "https://techcrunch.com/?p=3161424",
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-08T16:20:31Z"
     }
   },
   "articles": [
