@@ -2548,7 +2548,8 @@
     "https://deepmind.google/blog/introducing-agentic-video-in-gemini/": "2026-09-08T17:25:39Z",
     "https://openai.com/index/ai-native-company-workflows": "2026-09-08T17:38:17Z",
     "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources": "2026-09-08T17:38:17Z",
-    "https://techcrunch.com/?p=3161522": "2026-09-08T17:38:18Z"
+    "https://techcrunch.com/?p=3161522": "2026-09-08T17:38:18Z",
+    "https://decrypt.co/?p=377689": "2026-09-08T17:50:25Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2726,6 +2727,14 @@
       "stream": "ai",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-08T17:32:15Z"
+    },
+    "https://decrypt.co/?p=377689": {
+      "id": "https://decrypt.co/?p=377689",
+      "title": "Strive Buys $109 Million in Bitcoin, Pushes Preferred Stock Toward $1 Billion",
+      "url": "https://decrypt.co/377689/strive-buys-109-million-bitcoin-preferred-stock-1-billion",
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-08T17:46:05Z"
     }
   },
   "articles": [
