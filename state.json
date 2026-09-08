@@ -5840,7 +5840,9 @@
       "entities": [
         "Mistral AI"
       ],
-      "summary": "Mistral hat eine Finanzierung über 3 Mrd. Euro abgeschlossen; souveräne KI wird damit als großes Geschäftsfeld eingeordnet. Die Kapitalspritze stärkt das europäische KI-Unternehmen im Wettbewerb mit großen US-Anbietern und unterstreicht den Trend zu staatlich gestützter KI. Weitere Großinvestitionen in souveräne KI-Initiativen in Europa sind die Folge."
+      "summary": "Mistral hat eine Finanzierung über 3 Mrd. Euro abgeschlossen; souveräne KI wird damit als großes Geschäftsfeld eingeordnet. Die Kapitalspritze stärkt das europäische KI-Unternehmen im Wettbewerb mit großen US-Anbietern und unterstreicht den Trend zu staatlich gestützter KI. Weitere Großinvestitionen in souveräne KI-Initiativen in Europa sind die Folge.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-08T15:17:40Z"
     }
   ],
   "digest_log": [
@@ -7212,6 +7214,12 @@
       "at": "2026-09-08T14:18:00Z",
       "article_ids": [
         "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
+      ]
+    },
+    {
+      "at": "2026-09-08T15:17:40Z",
+      "article_ids": [
+        "https://techcrunch.com/?p=3161251"
       ]
     }
   ],
