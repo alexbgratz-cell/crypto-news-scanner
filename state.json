@@ -2542,7 +2542,8 @@
     "https://openai.com/index/polimill": "2026-09-08T03:08:15Z",
     "https://www.marktechpost.com/?p=82186": "2026-09-08T03:08:17Z",
     "https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart": "2026-09-08T04:08:15Z",
-    "https://huggingface.co/blog/gradio-workflow-guide": "2026-09-08T04:08:17Z"
+    "https://huggingface.co/blog/gradio-workflow-guide": "2026-09-08T04:08:17Z",
+    "ffa3ccc1-4299-50cd-984d-2521d84e0026": "2026-09-08T04:26:25Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2603,23 +2604,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/coldcard-hacker-swaps-stolen-bitcoin-eth-thorchain",
-      "title": "Coldcard hacker swaps stolen Bitcoin for ETH via THORChain",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-09-03T09:31:07Z",
-      "score": 9,
-      "category": "Hack & Security",
-      "sentiment": "bearish",
-      "instruments": [
-        "BTCUSD",
-        "ETHUSD"
-      ],
-      "entities": [],
-      "summary": "Ein Hacker hat gestohlene Bitcoins über THORChain in Ethereum getauscht. Der Vorfall zeigt, wie Kriminelle dezentrale Tauschprotokolle nutzen, um gestohlene Krypto-Gelder zu verschieben, was Sicherheitsbedenken verstärkt. Die Bewegung gestohlener Gelder könnte kurzfristig Verkaufsdruck auf BTC und ETH ausüben und die Wahrnehmung der Krypto-Sicherheit belasten."
-    },
     {
       "id": "https://cointelegraph.com/news/kalshi-cftc-greenlight-regulated-wti-oil-perpetuals",
       "title": "Kalshi seeks CFTC approval for WTI crude perpetual futures: Report",
@@ -5810,6 +5794,22 @@
       ],
       "entities": [],
       "summary": "Weiße Hüte haben 270 Millionen Dollar in Bitcoin zurückgegeben, während das betroffene Netzwerk einen Neustart vorbereitet. Der Sicherheitsvorfall betrifft das Bitcoin-Ökosystem und kann das Vertrauen in die Netzwerksicherheit kurzfristig belasten. Infolgedessen ist mit erhöhter Volatilität beim Bitcoin-Kurs zu rechnen."
+    },
+    {
+      "id": "ffa3ccc1-4299-50cd-984d-2521d84e0026",
+      "title": "Ethereum aims for quantum-safe L1 by 2029 as Hegotá upgrade takes form",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-09-08T04:17:21Z",
+      "score": 6,
+      "category": "Tech Update",
+      "sentiment": "neutral",
+      "instruments": [
+        "ETHUSD"
+      ],
+      "entities": [],
+      "summary": "Ethereum kündigt an, sein Layer-1-Netzwerk bis 2029 quantensicher zu machen; das Upgrade Hegotá nimmt konkrete Form an. Die Ankündigung betrifft die langfristige Sicherheit von ETH und kann das Vertrauen in das Netzwerk stärken. Bis zur Umsetzung 2029 sind weitere Spezifikationen und technische Meilensteine zu erwarten, die den Verlauf des Upgrades prägen."
     }
   ],
   "digest_log": [
