@@ -5809,7 +5809,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Reducto hat r-1 veröffentlicht, ein Dokument-Parsing-Modell in einem einzigen Durchgang, das Fehler um 20 Prozent reduziert und einen Cent pro Seite kostet. Das Modell macht Dokumenten-Workflows günstiger und effizienter, was Anbieter und Nutzer im KI-Dokumentenbereich betrifft. Spezialisierte, kostengünstige Parsing-Modelle dürften dadurch im Markt weiter an Bedeutung gewinnen."
+      "summary": "Reducto hat r-1 veröffentlicht, ein Dokument-Parsing-Modell in einem einzigen Durchgang, das Fehler um 20 Prozent reduziert und einen Cent pro Seite kostet. Das Modell macht Dokumenten-Workflows günstiger und effizienter, was Anbieter und Nutzer im KI-Dokumentenbereich betrifft. Spezialisierte, kostengünstige Parsing-Modelle dürften dadurch im Markt weiter an Bedeutung gewinnen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-08T03:16:20Z"
     }
   ],
   "digest_log": [
@@ -7116,6 +7118,12 @@
         "https://cointelegraph.com/news/ethereum-foundation-names-2-must-ship-eips-for-hegot-upgrade",
         "https://decrypt.co/?p=377621",
         "https://cointelegraph.com/news/uk-financial-watchdog-prediction-markets-ban"
+      ]
+    },
+    {
+      "at": "2026-09-08T03:16:20Z",
+      "article_ids": [
+        "https://www.marktechpost.com/?p=82186"
       ]
     }
   ],
