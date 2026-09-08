@@ -5781,7 +5781,9 @@
         "BTCUSD"
       ],
       "entities": [],
-      "summary": "On-Chain-Daten zeigen, dass neue Bitcoin-Wale unrealisierte Gewinne von rund 9 Milliarden US-Dollar halten, was ein erhöhtes Verkaufsrisiko bedeutet. Sollten diese Wale Gewinne realisieren, könnte das zusätzlichen Verkaufsdruck auf den Bitcoin-Kurs ausüben. Eine erhöhte Abwärtsvolatilität ist daher wahrscheinlich."
+      "summary": "On-Chain-Daten zeigen, dass neue Bitcoin-Wale unrealisierte Gewinne von rund 9 Milliarden US-Dollar halten, was ein erhöhtes Verkaufsrisiko bedeutet. Sollten diese Wale Gewinne realisieren, könnte das zusätzlichen Verkaufsdruck auf den Bitcoin-Kurs ausüben. Eine erhöhte Abwärtsvolatilität ist daher wahrscheinlich.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-08T10:17:01Z"
     },
     {
       "id": "https://decrypt.co/?p=377650",
@@ -5795,7 +5797,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Ein polnisches Gericht hat einen fünften Verdächtigen im Rahmen der Ermittlungen rund um die Krypto-Börse Zondacrypto in Untersuchungshaft genommen. Die Festnahme verstärkt Unsicherheit über Compliance und Sicherheit der Plattform und könnte das Vertrauen von Nutzern und Marktteilnehmern belasten. Weitere rechtliche Schritte und mögliche Auflagen für Zondacrypto sind wahrscheinlich."
+      "summary": "Ein polnisches Gericht hat einen fünften Verdächtigen im Rahmen der Ermittlungen rund um die Krypto-Börse Zondacrypto in Untersuchungshaft genommen. Die Festnahme verstärkt Unsicherheit über Compliance und Sicherheit der Plattform und könnte das Vertrauen von Nutzern und Marktteilnehmern belasten. Weitere rechtliche Schritte und mögliche Auflagen für Zondacrypto sind wahrscheinlich.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-08T10:17:01Z"
     },
     {
       "id": "https://cointelegraph.com/news/robinhood-chain-160m-annual-fees-2028-bernstein",
@@ -5809,7 +5813,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Laut Bernstein soll die Robinhood-Chain bis 2028 jährliche Gebühren von 160 Millionen US-Dollar generieren. Der Analystenbericht unterstreicht das Potenzial broker-eigener Blockchain-Infrastruktur und könnte das Interesse an vergleichbaren Krypto-Projekten erhöhen. Für Robinhood entstünde damit ein neuer Einnahmekanal, dessen Realisierung von der weiteren Nutzer- und Transaktionsentwicklung abhängt."
+      "summary": "Laut Bernstein soll die Robinhood-Chain bis 2028 jährliche Gebühren von 160 Millionen US-Dollar generieren. Der Analystenbericht unterstreicht das Potenzial broker-eigener Blockchain-Infrastruktur und könnte das Interesse an vergleichbaren Krypto-Projekten erhöhen. Für Robinhood entstünde damit ein neuer Einnahmekanal, dessen Realisierung von der weiteren Nutzer- und Transaktionsentwicklung abhängt.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-08T10:17:01Z"
     }
   ],
   "digest_log": [
@@ -7146,6 +7152,14 @@
       "at": "2026-09-08T09:16:46Z",
       "article_ids": [
         "a0a175ba-b343-58a0-a100-d893a2ec2a58"
+      ]
+    },
+    {
+      "at": "2026-09-08T10:17:01Z",
+      "article_ids": [
+        "https://decrypt.co/?p=377650",
+        "https://cointelegraph.com/markets/new-bitcoin-whales-spark-sell-side-risk-as-unrealized-gains-hit-9b",
+        "https://cointelegraph.com/news/robinhood-chain-160m-annual-fees-2028-bernstein"
       ]
     }
   ],
