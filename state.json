@@ -1,6 +1,5 @@
 {
   "seen": {
-    "76a74f4f-91d5-504f-9a94-e0942e5bde38": "2026-09-01T10:43:35Z",
     "https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks": "2026-09-01T11:07:39Z",
     "258218ee-d36f-5488-86ba-4eefafdb8d64": "2026-09-01T11:38:10Z",
     "https://decrypt.co/?p=377010": "2026-09-01T11:38:10Z",
@@ -2547,7 +2546,8 @@
     "https://www.technologyreview.com/?p=1141907": "2026-09-08T10:10:19Z",
     "https://cointelegraph.com/news/uzbekistan-humo-stablecoin-payment-pilot": "2026-09-08T10:27:04Z",
     "https://cointelegraph.com/news/ledger-trezor-warn-ai-bug-hunters-attention-farming": "2026-09-08T10:27:04Z",
-    "20ba2fbe-5412-5374-bc67-ed2290da4609": "2026-09-08T10:42:09Z"
+    "20ba2fbe-5412-5374-bc67-ed2290da4609": "2026-09-08T10:42:09Z",
+    "https://www.technologyreview.com/?p=1142088": "2026-09-08T10:53:19Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2608,22 +2608,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://techcrunch.com/?p=3160347",
-      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-03T12:42:45Z",
-      "score": 8,
-      "category": "Business & Funding",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "NVDA"
-      ],
-      "summary": "Nvidia bestätigt die Übernahme von Hugging Face für 12,9 Milliarden US-Dollar. Der Deal bringt Nvidia eine führende Plattform für Open-Source-Modelle und stärkt seine Position im KI-Ökosystem. Als direkte Folge dürfte Nvidia seinen Einfluss auf KI-Infrastruktur und Modellverteilung weiter ausbauen."
-    },
     {
       "id": "6a906b97096f095c67a177d0",
       "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
@@ -5812,6 +5796,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Die polnische Staatsanwaltschaft hat einen fünften Verdächtigen im Zondacrypto-Verfahren angeklagt; die geschätzten Verluste liegen bei rund 100 Millionen Dollar. Der Fall erhöht den rechtlichen Druck auf den betroffenen Handelsplatz und kann das Vertrauen in Kryptobörsen schwächen. Weitere Ermittlungen und Anklagen sind wahrscheinlich, unmittelbare Marktbewegungen bei den großen Kryptowährungen sind aber nicht erkennbar."
+    },
+    {
+      "id": "https://www.technologyreview.com/?p=1142088",
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "url": null,
+      "stream": "ai",
+      "source": "Artificial intelligence – MIT Technology Review",
+      "published": "2026-09-08T10:34:00Z",
+      "score": 5,
+      "category": "Model Release & Capability",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Der Artikel porträtiert einen KI-Unternehmer, der Agenten entwickelt, die unerwartete Ereignisse vorausplanen können. Das zeigt einen wachsenden Fokus auf robuste Planungsfähigkeit von KI-Agenten, was die Wettbewerbsdynamik in diesem Bereich beeinflussen könnte. Eine konkrete Marktbewegung ist aus den vorliegenden Informationen noch nicht abzuleiten."
     }
   ],
   "digest_log": [
