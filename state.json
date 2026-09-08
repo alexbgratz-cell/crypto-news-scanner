@@ -1,8 +1,5 @@
 {
   "seen": {
-    "36862779-86a7-5574-8c4a-cbec4f309a34": "2026-09-01T17:24:20Z",
-    "https://deepmind.google/blog/introducing-agentic-video-in-gemini/": "2026-09-01T17:24:21Z",
-    "https://techcrunch.com/?p=3159529": "2026-09-01T17:24:21Z",
     "https://openai.com/index/ai-native-company-workflows": "2026-09-01T17:36:20Z",
     "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources": "2026-09-01T17:36:20Z",
     "https://techcrunch.com/?p=3159727": "2026-09-01T17:36:21Z",
@@ -2548,7 +2545,10 @@
     "https://blog.google/products-and-platforms/products/search/home-decor-tips/": "2026-09-08T16:55:27Z",
     "https://huggingface.co/blog/ibm-granite/granite-4-2": "2026-09-08T16:55:27Z",
     "https://techcrunch.com/?p=3161321": "2026-09-08T16:55:27Z",
-    "6aa019df196e8ca64468263f": "2026-09-08T16:55:28Z"
+    "6aa019df196e8ca64468263f": "2026-09-08T16:55:28Z",
+    "https://cointelegraph.com/news/robinhood-takes-stakes-in-cryptocom-ogcom-in-prediction-markets-deal": "2026-09-08T17:25:38Z",
+    "https://decrypt.co/?p=377686": "2026-09-08T17:25:38Z",
+    "https://deepmind.google/blog/introducing-agentic-video-in-gemini/": "2026-09-08T17:25:39Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2702,6 +2702,22 @@
       "stream": "ai",
       "source": "Feed: Artificial Intelligence Latest",
       "published": "2026-09-08T16:42:05Z"
+    },
+    "https://cointelegraph.com/news/robinhood-takes-stakes-in-cryptocom-ogcom-in-prediction-markets-deal": {
+      "id": "https://cointelegraph.com/news/robinhood-takes-stakes-in-cryptocom-ogcom-in-prediction-markets-deal",
+      "title": "Robinhood takes stakes in Crypto.com, OG.com in prediction markets deal",
+      "url": "https://cointelegraph.com/news/robinhood-takes-stakes-in-cryptocom-ogcom-in-prediction-markets-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-08T17:03:47Z"
+    },
+    "https://decrypt.co/?p=377686": {
+      "id": "https://decrypt.co/?p=377686",
+      "title": "Cronos Erased Two Hours of Transactions to Reverse $111 Million DeFi Exploit",
+      "url": "https://decrypt.co/377686/cronos-erased-two-hours-transactions-defi-exploit",
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-08T17:10:51Z"
     }
   },
   "articles": [
