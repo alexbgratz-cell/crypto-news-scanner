@@ -1,20 +1,5 @@
 {
   "seen": {
-    "137b296f-8a4f-52d8-9392-9bc8b511a928": "2026-09-01T16:29:38Z",
-    "https://cointelegraph.com/news/ethena-launches-usde-powered-money-app-across-48-countries": "2026-09-01T16:29:38Z",
-    "https://decrypt.co/?p=377048": "2026-09-01T16:29:38Z",
-    "https://decrypt.co/?p=377046": "2026-09-01T16:29:38Z",
-    "https://openai.com/index/the-full-stack-behind-abundant-intelligence": "2026-09-01T16:29:39Z",
-    "https://openai.com/index/jalapeno-first-results": "2026-09-01T16:29:39Z",
-    "https://blog.google/products-and-platforms/products/workspace/google-pics/": "2026-09-01T16:29:39Z",
-    "https://blog.google/products-and-platforms/products/search/home-decor-tips/": "2026-09-01T16:29:39Z",
-    "https://huggingface.co/blog/ibm-granite/granite-4-2": "2026-09-01T16:29:39Z",
-    "https://techcrunch.com/?p=3159627": "2026-09-01T16:29:39Z",
-    "https://techcrunch.com/?p=3159543": "2026-09-01T16:29:39Z",
-    "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/": "2026-09-01T16:29:40Z",
-    "https://cointelegraph.com/news/21-financial-institutions-g7-stablecoin-venture": "2026-09-01T16:51:20Z",
-    "https://techcrunch.com/?p=3159706": "2026-09-01T16:51:35Z",
-    "https://www.marktechpost.com/?p=82009": "2026-09-01T16:51:37Z",
     "36862779-86a7-5574-8c4a-cbec4f309a34": "2026-09-01T17:24:20Z",
     "https://deepmind.google/blog/introducing-agentic-video-in-gemini/": "2026-09-01T17:24:21Z",
     "https://techcrunch.com/?p=3159529": "2026-09-01T17:24:21Z",
@@ -2556,7 +2541,14 @@
     "https://cointelegraph.com/markets/bitcoin-faces-key-support-test-at-783k-as-us-crude-oil-hits-three-month-high": "2026-09-08T15:54:42Z",
     "https://openai.com/index/teen-development-research-grants": "2026-09-08T16:08:50Z",
     "https://cointelegraph.com/news/visa-stablecoin-blockchain-lending-payment-settlement": "2026-09-08T16:29:01Z",
-    "https://techcrunch.com/?p=3161424": "2026-09-08T16:29:02Z"
+    "https://techcrunch.com/?p=3161424": "2026-09-08T16:29:02Z",
+    "https://openai.com/index/the-full-stack-behind-abundant-intelligence": "2026-09-08T16:55:23Z",
+    "https://openai.com/index/jalapeno-first-results": "2026-09-08T16:55:23Z",
+    "https://blog.google/products-and-platforms/products/workspace/google-pics/": "2026-09-08T16:55:27Z",
+    "https://blog.google/products-and-platforms/products/search/home-decor-tips/": "2026-09-08T16:55:27Z",
+    "https://huggingface.co/blog/ibm-granite/granite-4-2": "2026-09-08T16:55:27Z",
+    "https://techcrunch.com/?p=3161321": "2026-09-08T16:55:27Z",
+    "6aa019df196e8ca64468263f": "2026-09-08T16:55:28Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2694,6 +2686,22 @@
       "stream": "ai",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-08T16:20:31Z"
+    },
+    "https://techcrunch.com/?p=3161321": {
+      "id": "https://techcrunch.com/?p=3161321",
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-08T15:04:09Z"
+    },
+    "6aa019df196e8ca64468263f": {
+      "id": "6aa019df196e8ca64468263f",
+      "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
+      "url": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
+      "stream": "ai",
+      "source": "Feed: Artificial Intelligence Latest",
+      "published": "2026-09-08T16:42:05Z"
     }
   },
   "articles": [
