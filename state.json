@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://cointelegraph.com/news/binance-adds-options-on-1000-us-stocks-and-etfs-in-tradfi-expansion": "2026-09-01T21:07:34Z",
-    "https://decrypt.co/?p=377126": "2026-09-01T21:07:34Z",
-    "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/": "2026-09-01T21:07:35Z",
-    "https://techcrunch.com/?p=3159895": "2026-09-01T21:07:36Z",
-    "https://techcrunch.com/?p=3159905": "2026-09-01T21:07:36Z",
     "https://cointelegraph.com/news/crypto-pac-protect-progress-spending-massachusetts-primary": "2026-09-01T21:37:13Z",
     "https://decrypt.co/?p=377128": "2026-09-01T21:37:13Z",
     "https://huggingface.co/blog/allenai/benchmirt": "2026-09-01T21:49:35Z",
@@ -2555,7 +2550,10 @@
     "https://www.marktechpost.com/?p=82194": "2026-09-08T20:25:27Z",
     "https://decrypt.co/?p=377723": "2026-09-08T20:51:50Z",
     "https://cointelegraph.com/news/stablecoinx-franklin-templeton-veteran-to-oversee-roughly-480m-ena-treasury": "2026-09-08T21:07:14Z",
-    "https://techcrunch.com/?p=3161658": "2026-09-08T21:07:15Z"
+    "https://techcrunch.com/?p=3161658": "2026-09-08T21:07:15Z",
+    "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/": "2026-09-08T21:23:25Z",
+    "https://techcrunch.com/?p=3161463": "2026-09-08T21:23:26Z",
+    "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/": "2026-09-08T21:23:27Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2893,6 +2891,22 @@
       "stream": "ai",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-08T21:04:06Z"
+    },
+    "https://techcrunch.com/?p=3161463": {
+      "id": "https://techcrunch.com/?p=3161463",
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-08T21:10:27Z"
+    },
+    "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/": {
+      "id": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+      "title": "Microsoft patches a record 972 vulnerabilities, 112 of them critical",
+      "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+      "stream": "ai",
+      "source": "AI - Ars Technica",
+      "published": "2026-09-08T21:11:46Z"
     }
   },
   "articles": [
