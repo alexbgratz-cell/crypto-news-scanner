@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://cointelegraph.com/news/sec-proposes-transfer-agent-overhaul-as-securities-move-onchain": "2026-09-01T18:09:27Z",
-    "https://cointelegraph.com/news/kalshi-bans-politicians-insider-trading-bets-manipulation": "2026-09-01T18:09:27Z",
-    "https://decrypt.co/?p=377068": "2026-09-01T18:09:27Z",
-    "https://openai.com/index/introducing-admin-plugin": "2026-09-01T18:09:27Z",
     "1a69070a-065f-51a5-a5e9-b0af49fde78a": "2026-09-01T18:28:45Z",
     "https://decrypt.co/?p=377052": "2026-09-01T18:28:45Z",
     "501ce343-2138-52e9-bf27-057b87c519a2": "2026-09-01T19:34:59Z",
@@ -2549,7 +2545,10 @@
     "https://openai.com/index/ai-native-company-workflows": "2026-09-08T17:38:17Z",
     "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources": "2026-09-08T17:38:17Z",
     "https://techcrunch.com/?p=3161522": "2026-09-08T17:38:18Z",
-    "https://decrypt.co/?p=377689": "2026-09-08T17:50:25Z"
+    "https://decrypt.co/?p=377689": "2026-09-08T17:50:25Z",
+    "https://openai.com/index/navier-stokes-solution": "2026-09-08T18:09:56Z",
+    "https://openai.com/index/introducing-admin-plugin": "2026-09-08T18:09:56Z",
+    "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/": "2026-09-08T18:09:57Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2735,6 +2734,22 @@
       "stream": "crypto",
       "source": "Decrypt",
       "published": "2026-09-08T17:46:05Z"
+    },
+    "https://openai.com/index/navier-stokes-solution": {
+      "id": "https://openai.com/index/navier-stokes-solution",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution",
+      "stream": "ai",
+      "source": "OpenAI News",
+      "published": "2026-09-08T10:00:00Z"
+    },
+    "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/": {
+      "id": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
+      "title": "Google’s AI weather model now uses more raw satellite data",
+      "url": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
+      "stream": "ai",
+      "source": "AI - Ars Technica",
+      "published": "2026-09-08T18:00:56Z"
     }
   },
   "articles": [
