@@ -1,10 +1,5 @@
 {
   "seen": {
-    "e2743cd4-5315-5138-acbf-a2439dc2cd16": "2026-08-31T22:34:16Z",
-    "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/": "2026-08-31T22:34:17Z",
-    "https://openai.com/index/polimill": "2026-08-31T23:34:09Z",
-    "https://www.marktechpost.com/?p=81987": "2026-08-31T23:49:19Z",
-    "https://techcrunch.com/?p=3159449": "2026-09-01T00:37:29Z",
     "https://huggingface.co/blog/gradio-workflow-guide": "2026-09-01T03:40:25Z",
     "https://www.marktechpost.com/?p=81990": "2026-09-01T03:40:27Z",
     "c3ffc3bf-c2e4-5b73-8c77-f6068567df4f": "2026-09-01T03:51:38Z",
@@ -2547,7 +2542,9 @@
     "https://cointelegraph.com/news/uk-financial-watchdog-prediction-markets-ban": "2026-09-07T20:51:16Z",
     "https://decrypt.co/?p=377635": "2026-09-07T21:24:51Z",
     "https://openai.com/index/gpt-5-6-in-kiro": "2026-09-07T21:24:51Z",
-    "https://decrypt.co/?p=377637": "2026-09-07T21:51:22Z"
+    "https://decrypt.co/?p=377637": "2026-09-07T21:51:22Z",
+    "https://openai.com/index/polimill": "2026-09-08T03:08:15Z",
+    "https://www.marktechpost.com/?p=82186": "2026-09-08T03:08:17Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2608,20 +2605,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://huggingface.co/blog/train-to-paint-with-code",
-      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "url": null,
-      "stream": "ai",
-      "source": "Hugging Face - Blog",
-      "published": "2026-09-03T00:00:00Z",
-      "score": 5,
-      "category": "Research & Open Source",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Der Hugging-Face-Blog beschreibt, wie ein Coding-Modell mit TRL und OpenEnv trainiert wird, um Wasserfarben-Bilder zu erzeugen. Es handelt sich um ein technisches Tutorial, das Open-Source-Tools demonstriert, ohne unmittelbare kommerzielle oder industrielle Bedeutung. Für den KI-Markt sind daraus keine direkten Konsequenzen abzuleiten."
-    },
     {
       "id": "https://decrypt.co/?p=377238",
       "title": "Michigan Judge Bars Kalshi Sports Bets, Threatens $500K Daily Fine",
@@ -5813,6 +5796,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Decrypt berichtet, dass LG-Fernseher möglicherweise weiterhin über ihre Mikrofone zuhören, obwohl sie ausgeschaltet wirken. Die Meldung betrifft den Schutz der Verbraucherdaten, hat aber keine direkte Verbindung zu Kryptomärkten oder Blockchain-Infrastruktur. Für Kryptoanlagen ist daher keine Marktreaktion abzuleiten; das Thema bleibt für den Sektor ohne Belang."
+    },
+    {
+      "id": "https://www.marktechpost.com/?p=82186",
+      "title": "Reducto Releases r-1: A Single Pass Document Parsing Model That Cuts Errors 20% at 1 Cent Per Page",
+      "url": null,
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-09-08T03:07:15Z",
+      "score": 6,
+      "category": "Model Release & Capability",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Reducto hat r-1 veröffentlicht, ein Dokument-Parsing-Modell in einem einzigen Durchgang, das Fehler um 20 Prozent reduziert und einen Cent pro Seite kostet. Das Modell macht Dokumenten-Workflows günstiger und effizienter, was Anbieter und Nutzer im KI-Dokumentenbereich betrifft. Spezialisierte, kostengünstige Parsing-Modelle dürften dadurch im Markt weiter an Bedeutung gewinnen."
     }
   ],
   "digest_log": [
