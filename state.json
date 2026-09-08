@@ -5809,7 +5809,9 @@
         "ETHUSD"
       ],
       "entities": [],
-      "summary": "Ethereum kündigt an, sein Layer-1-Netzwerk bis 2029 quantensicher zu machen; das Upgrade Hegotá nimmt konkrete Form an. Die Ankündigung betrifft die langfristige Sicherheit von ETH und kann das Vertrauen in das Netzwerk stärken. Bis zur Umsetzung 2029 sind weitere Spezifikationen und technische Meilensteine zu erwarten, die den Verlauf des Upgrades prägen."
+      "summary": "Ethereum kündigt an, sein Layer-1-Netzwerk bis 2029 quantensicher zu machen; das Upgrade Hegotá nimmt konkrete Form an. Die Ankündigung betrifft die langfristige Sicherheit von ETH und kann das Vertrauen in das Netzwerk stärken. Bis zur Umsetzung 2029 sind weitere Spezifikationen und technische Meilensteine zu erwarten, die den Verlauf des Upgrades prägen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-08T05:15:12Z"
     }
   ],
   "digest_log": [
@@ -7122,6 +7124,12 @@
       "at": "2026-09-08T03:16:20Z",
       "article_ids": [
         "https://www.marktechpost.com/?p=82186"
+      ]
+    },
+    {
+      "at": "2026-09-08T05:15:12Z",
+      "article_ids": [
+        "ffa3ccc1-4299-50cd-984d-2521d84e0026"
       ]
     }
   ],
