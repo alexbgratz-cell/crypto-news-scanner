@@ -1,7 +1,5 @@
 {
   "seen": {
-    "b329dd21-9688-55fd-a4ab-04bbf715842e": "2026-09-01T09:40:36Z",
-    "https://decrypt.co/?p=377006": "2026-09-01T09:53:25Z",
     "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes": "2026-09-01T10:08:05Z",
     "https://cointelegraph.com/news/singapore-weighs-foreign-regulated-stablecoins-mas-framework": "2026-09-01T10:08:05Z",
     "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia": "2026-09-01T10:08:05Z",
@@ -2545,7 +2543,9 @@
     "https://cointelegraph.com/news/swiss-stablecoin-sandbox-testing-phase-two-new-partners": "2026-09-08T07:27:25Z",
     "https://cointelegraph.com/news/cronos-tectonic-rollback-111m-9m-escaped": "2026-09-08T08:28:19Z",
     "a0a175ba-b343-58a0-a100-d893a2ec2a58": "2026-09-08T08:56:42Z",
-    "66676387-0b9d-5aae-9885-b4d23ea87693": "2026-09-08T09:28:43Z"
+    "66676387-0b9d-5aae-9885-b4d23ea87693": "2026-09-08T09:28:43Z",
+    "https://cointelegraph.com/markets/new-bitcoin-whales-spark-sell-side-risk-as-unrealized-gains-hit-9b": "2026-09-08T09:56:04Z",
+    "https://decrypt.co/?p=377650": "2026-09-08T09:56:04Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2606,36 +2606,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://huggingface.co/blog/funes",
-      "title": "Give Your Coding Agents a Memory You Own",
-      "url": null,
-      "stream": "ai",
-      "source": "Hugging Face - Blog",
-      "published": "2026-09-03T00:00:00Z",
-      "score": 5,
-      "category": "Research & Open Source",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Der Hugging-Face-Blog kündigt eine Funktion an, mit der Coding-Agenten ein individuelles, nutzereigenes Gedächtnis erhalten. Dadurch wird die Kontrolle über Kontext und Daten bei KI-Agenten gestärkt, was offene und selbst gehostete Workflows begünstigt. Eine unmittelbare Branchenverschiebung ist mit dieser Ankündigung allein nicht verbunden; weitere Details zur Funktionsweise sind abzuwarten."
-    },
-    {
-      "id": "https://decrypt.co/?p=377253",
-      "title": "Mamdani Imposes One-Year Moratorium on Generative AI in NYC Schools",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-09-03T11:36:41Z",
-      "score": 6,
-      "category": "Regulation & Policy",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Die New Yorker Schulbehörde unter Führung von Mamdani verhängt ein einjähriges Moratorium für generative KI an öffentlichen Schulen. Das bremst die Nutzung von KI-Tools im Unterricht und trifft Anbieter von Bildungs-KI. In den nächsten zwölf Monaten wird die Behörde über eine dauerhafte Regelung entscheiden.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-03T12:21:26Z"
-    },
     {
       "id": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
       "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
@@ -5813,6 +5783,36 @@
       "instruments": [],
       "entities": [],
       "summary": "Die japanische Bitcoin-Treasury-Gesellschaft Metaplanet verliert in dieser Woche rund 17 % an Börsenwert, nachdem ein öffentlicher Brief des CEO die Sorgen der Anleger nicht zerstreuen konnte. Der Abverkauf signalisiert verunsichertes Vertrauen in die Strategie des Unternehmens und belastet die Wahrnehmung von Bitcoin-orientierten Aktienwerten. Die nächste Kursbewegung von Metaplanet dürfte kurzfristig als Stimmungsindikator für Bitcoin-Treasuries dienen."
+    },
+    {
+      "id": "https://cointelegraph.com/markets/new-bitcoin-whales-spark-sell-side-risk-as-unrealized-gains-hit-9b",
+      "title": "New Bitcoin whales spark sell-side risk as unrealized gains hit $9B",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-08T09:40:26Z",
+      "score": 6,
+      "category": "Other",
+      "sentiment": "bearish",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "On-Chain-Daten zeigen, dass neue Bitcoin-Wale unrealisierte Gewinne von rund 9 Milliarden US-Dollar halten, was ein erhöhtes Verkaufsrisiko bedeutet. Sollten diese Wale Gewinne realisieren, könnte das zusätzlichen Verkaufsdruck auf den Bitcoin-Kurs ausüben. Eine erhöhte Abwärtsvolatilität ist daher wahrscheinlich."
+    },
+    {
+      "id": "https://decrypt.co/?p=377650",
+      "title": "Polish Court Detains Fifth Suspect in Zondacrypto Exchange Probe",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-08T09:54:59Z",
+      "score": 7,
+      "category": "Regulation",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Ein polnisches Gericht hat einen fünften Verdächtigen im Rahmen der Ermittlungen rund um die Krypto-Börse Zondacrypto in Untersuchungshaft genommen. Die Festnahme verstärkt Unsicherheit über Compliance und Sicherheit der Plattform und könnte das Vertrauen von Nutzern und Marktteilnehmern belasten. Weitere rechtliche Schritte und mögliche Auflagen für Zondacrypto sind wahrscheinlich."
     }
   ],
   "digest_log": [
