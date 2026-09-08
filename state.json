@@ -5797,7 +5797,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Australien hat im vergangenen Jahr 45 Registrierungen von Krypto- und Remittanzanbietern entfernt. Das ist ein regulatorischer Rückschlag für den lokalen Kryptomarkt und erhöht die Hürden für Anbieter. Es drohen weitere Durchsetzungsmaßnahmen und ein gedämpftes Wachstum im australischen Kryptosektor."
+      "summary": "Australien hat im vergangenen Jahr 45 Registrierungen von Krypto- und Remittanzanbietern entfernt. Das ist ein regulatorischer Rückschlag für den lokalen Kryptomarkt und erhöht die Hürden für Anbieter. Es drohen weitere Durchsetzungsmaßnahmen und ein gedämpftes Wachstum im australischen Kryptosektor.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-08T06:20:27Z"
     },
     {
       "id": "cbe74d01-b391-54a2-9468-c1ec3d06bee8",
@@ -7130,6 +7132,12 @@
       "at": "2026-09-08T05:15:12Z",
       "article_ids": [
         "ffa3ccc1-4299-50cd-984d-2521d84e0026"
+      ]
+    },
+    {
+      "at": "2026-09-08T06:20:27Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/australia-removes-45-crypto-remittance-registrations"
       ]
     }
   ],
