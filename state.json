@@ -2546,7 +2546,8 @@
     "20ba2fbe-5412-5374-bc67-ed2290da4609": "2026-09-08T10:42:09Z",
     "https://www.technologyreview.com/?p=1142088": "2026-09-08T10:53:19Z",
     "325d59d5-5631-55c0-884c-52fa7704fec7": "2026-09-08T11:25:18Z",
-    "https://decrypt.co/?p=377653": "2026-09-08T11:39:30Z"
+    "https://decrypt.co/?p=377653": "2026-09-08T11:39:30Z",
+    "https://cointelegraph.com/news/circle-tazapay-usdc-cross-border-payments": "2026-09-08T11:52:07Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2607,22 +2608,6 @@
     }
   },
   "articles": [
-    {
-      "id": "6a91b5991f4267c18de22d44",
-      "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
-      "url": null,
-      "stream": "ai",
-      "source": "Feed: Artificial Intelligence Latest",
-      "published": "2026-09-03T13:00:00Z",
-      "score": 8,
-      "category": "Hardware & Infrastructure",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "NVDA"
-      ],
-      "summary": "Der \"RTX Spark\"-Superchip von Nvidia bringt laut Artikel die ersten KI-PCs auf den Markt. Lokale KI-Beschleunigung direkt im PC wertet die Plattform auf und stärkt Nvidias Stellung im Hardware-Geschäft. Die Einführung der Superchips dürfte eine neue Welle KI-fähiger PCs auslösen."
-    },
     {
       "id": "https://huggingface.co/blog/Hcompany/neomme",
       "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
@@ -5809,6 +5794,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Der Artikel erklärt die Meme Coin LAPTOP, die mit Hunter Biden in Verbindung gebracht wird und gezielt Inhaber des TRUMP-Tokens anspricht. Solche politischen Meme-Coins erzeugen Aufmerksamkeit, haben aber keinen fundamentalen Einfluss auf die großen Kryptomärkte. Es ist keine nachhaltige Marktbewegung zu erwarten."
+    },
+    {
+      "id": "https://cointelegraph.com/news/circle-tazapay-usdc-cross-border-payments",
+      "title": "Circle to acquire Tazapay to expand USDC cross-border payments",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-08T11:33:14Z",
+      "score": 6,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Circle übernimmt den Zahlungsdienstleister Tazapay, um die Nutzung von USDC für grenzüberschreitende Zahlungen auszubauen. Die Akquisition stärkt die Integration von Stablecoins in den traditionellen Zahlungsverkehr und erhöht den Wettbewerbsdruck auf bestehende Anbieter. Eine zunehmende USDC-Nutzung im Cross-Border-Handel ist die erwartete Folge."
     }
   ],
   "digest_log": [
