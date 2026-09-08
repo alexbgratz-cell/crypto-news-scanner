@@ -5798,7 +5798,9 @@
       "entities": [
         "OpenAI"
       ],
-      "summary": "OpenAI hat neue Initiativen angekündigt, um Journalismus von Klassenzimmern bis Nachrichtenredaktionen zu unterstützen. Die Programme stärken die Zusammenarbeit zwischen KI-Unternehmen und Medien und können redaktionelle Arbeitsabläufe sowie KI-Kompetenz im Journalismus beeinflussen. Dies dürfte die Nutzung von OpenAI-Tools in Redaktionen weiter verbreiten."
+      "summary": "OpenAI hat neue Initiativen angekündigt, um Journalismus von Klassenzimmern bis Nachrichtenredaktionen zu unterstützen. Die Programme stärken die Zusammenarbeit zwischen KI-Unternehmen und Medien und können redaktionelle Arbeitsabläufe sowie KI-Kompetenz im Journalismus beeinflussen. Dies dürfte die Nutzung von OpenAI-Tools in Redaktionen weiter verbreiten.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-08T14:18:00Z"
     },
     {
       "id": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
@@ -7180,6 +7182,12 @@
       "at": "2026-09-08T13:17:58Z",
       "article_ids": [
         "https://cointelegraph.com/news/strategy-skips-bitcoin-buy-repurchase-176m-strc"
+      ]
+    },
+    {
+      "at": "2026-09-08T14:18:00Z",
+      "article_ids": [
+        "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
       ]
     }
   ],
