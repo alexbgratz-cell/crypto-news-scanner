@@ -1,7 +1,5 @@
 {
   "seen": {
-    "1a69070a-065f-51a5-a5e9-b0af49fde78a": "2026-09-01T18:28:45Z",
-    "https://decrypt.co/?p=377052": "2026-09-01T18:28:45Z",
     "501ce343-2138-52e9-bf27-057b87c519a2": "2026-09-01T19:34:59Z",
     "https://decrypt.co/?p=377078": "2026-09-01T19:34:59Z",
     "https://techcrunch.com/?p=3159842": "2026-09-01T19:49:48Z",
@@ -2548,7 +2546,8 @@
     "https://decrypt.co/?p=377689": "2026-09-08T17:50:25Z",
     "https://openai.com/index/navier-stokes-solution": "2026-09-08T18:09:56Z",
     "https://openai.com/index/introducing-admin-plugin": "2026-09-08T18:09:56Z",
-    "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/": "2026-09-08T18:09:57Z"
+    "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/": "2026-09-08T18:09:57Z",
+    "https://decrypt.co/?p=377696": "2026-09-08T18:29:38Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2750,6 +2749,14 @@
       "stream": "ai",
       "source": "AI - Ars Technica",
       "published": "2026-09-08T18:00:56Z"
+    },
+    "https://decrypt.co/?p=377696": {
+      "id": "https://decrypt.co/?p=377696",
+      "title": "Visa Taps Onchain Lending to Finance Stablecoin Card Programs",
+      "url": "https://decrypt.co/377696/visa-onchain-lending-finance-stablecoin-card",
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-08T18:16:04Z"
     }
   },
   "articles": [
