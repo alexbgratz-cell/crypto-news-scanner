@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://huggingface.co/blog/gradio-workflow-guide": "2026-09-01T03:40:25Z",
-    "https://www.marktechpost.com/?p=81990": "2026-09-01T03:40:27Z",
-    "c3ffc3bf-c2e4-5b73-8c77-f6068567df4f": "2026-09-01T03:51:38Z",
-    "https://cointelegraph.com/news/thailand-sec-retail-overseas-crypto-derivatives": "2026-09-01T04:07:39Z",
     "0d03f024-a1b7-57d6-a290-fda139686772": "2026-09-01T05:07:21Z",
     "https://cointelegraph.com/markets/blackrock-bitcoin-etf-inflow-rebound": "2026-09-01T05:07:21Z",
     "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety": "2026-09-01T05:24:27Z",
@@ -2544,7 +2540,9 @@
     "https://openai.com/index/gpt-5-6-in-kiro": "2026-09-07T21:24:51Z",
     "https://decrypt.co/?p=377637": "2026-09-07T21:51:22Z",
     "https://openai.com/index/polimill": "2026-09-08T03:08:15Z",
-    "https://www.marktechpost.com/?p=82186": "2026-09-08T03:08:17Z"
+    "https://www.marktechpost.com/?p=82186": "2026-09-08T03:08:17Z",
+    "https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart": "2026-09-08T04:08:15Z",
+    "https://huggingface.co/blog/gradio-workflow-guide": "2026-09-08T04:08:17Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2605,22 +2603,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://decrypt.co/?p=377238",
-      "title": "Michigan Judge Bars Kalshi Sports Bets, Threatens $500K Daily Fine",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-09-03T08:47:34Z",
-      "score": 7,
-      "category": "Regulation",
-      "sentiment": "bearish",
-      "instruments": [],
-      "entities": [],
-      "summary": "Ein Richter in Michigan untersagt Kalshi Sportwetten und droht mit einer täglichen Strafe von 500.000 Dollar. Der Schritt ist ein regulatorischer Schlag gegen Vorhersagemärkte, die auch für Krypto-Nutzer relevant sind. Kalshi muss die Wetten unverzüglich einstellen oder mit erheblichen Geldstrafen rechnen; der Fall könnte Signalwirkung für andere Bundesstaaten haben.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-03T09:16:33Z"
-    },
     {
       "id": "https://cointelegraph.com/news/coldcard-hacker-swaps-stolen-bitcoin-eth-thorchain",
       "title": "Coldcard hacker swaps stolen Bitcoin for ETH via THORChain",
@@ -5812,6 +5794,22 @@
       "summary": "Reducto hat r-1 veröffentlicht, ein Dokument-Parsing-Modell in einem einzigen Durchgang, das Fehler um 20 Prozent reduziert und einen Cent pro Seite kostet. Das Modell macht Dokumenten-Workflows günstiger und effizienter, was Anbieter und Nutzer im KI-Dokumentenbereich betrifft. Spezialisierte, kostengünstige Parsing-Modelle dürften dadurch im Markt weiter an Bedeutung gewinnen.",
       "delivered": "digest",
       "delivered_at": "2026-09-08T03:16:20Z"
+    },
+    {
+      "id": "https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart",
+      "title": "Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-08T03:46:17Z",
+      "score": 8,
+      "category": "Hack & Security",
+      "sentiment": "bearish",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Weiße Hüte haben 270 Millionen Dollar in Bitcoin zurückgegeben, während das betroffene Netzwerk einen Neustart vorbereitet. Der Sicherheitsvorfall betrifft das Bitcoin-Ökosystem und kann das Vertrauen in die Netzwerksicherheit kurzfristig belasten. Infolgedessen ist mit erhöhter Volatilität beim Bitcoin-Kurs zu rechnen."
     }
   ],
   "digest_log": [
