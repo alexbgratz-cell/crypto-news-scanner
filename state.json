@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise": "2026-09-01T13:08:05Z",
     "https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck": "2026-09-01T13:25:51Z",
     "2016443c-1bf1-5a19-9786-378f62634a99": "2026-09-01T13:39:41Z",
     "https://cointelegraph.com/magazine/does-bitcoins-rally-mean-we-havent-wasted-our-lives-in-crypto": "2026-09-01T13:39:42Z",
@@ -2546,7 +2545,10 @@
     "https://cointelegraph.com/news/circle-tazapay-usdc-cross-border-payments": "2026-09-08T11:52:07Z",
     "57942536-fc3f-5b12-868a-f9310e052269": "2026-09-08T12:11:14Z",
     "341c486e-962a-5774-b4b8-757ca441cdbb": "2026-09-08T12:33:26Z",
-    "https://cointelegraph.com/news/mexico-quadruple-homicide-alleged-bitcoin-robbery": "2026-09-08T12:56:16Z"
+    "https://cointelegraph.com/news/mexico-quadruple-homicide-alleged-bitcoin-robbery": "2026-09-08T12:56:16Z",
+    "https://cointelegraph.com/news/strategy-skips-bitcoin-buy-repurchase-176m-strc": "2026-09-08T13:12:13Z",
+    "https://decrypt.co/?p=377661": "2026-09-08T13:12:13Z",
+    "https://openai.com/index/the-work-now-within-reach": "2026-09-08T13:12:13Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2607,54 +2609,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "url": null,
-      "stream": "ai",
-      "source": "Google DeepMind News",
-      "published": "2026-09-03T15:02:08Z",
-      "score": 8,
-      "category": "Model Release & Capability",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [
-        "GOOGL"
-      ],
-      "summary": "Google DeepMind hat WeatherNext 3 vorgestellt, das laut Unternehmen fortschrittlichste und genaueste KI-Modell für globale Wettervorhersagen. Die Veröffentlichung stärkt die Wettbewerbsposition des Konzerns im KI-Wetterbereich und setzt neue Maßstäbe für bestehende Vorhersagemodelle. Unabhängige Benchmark-Vergleiche und die Übernahme des Modells in operative Wetterdienste sind die nächste Bewährungsprobe."
-    },
-    {
-      "id": "https://techcrunch.com/?p=3160336",
-      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-      "url": null,
-      "stream": "ai",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "published": "2026-09-03T15:00:00Z",
-      "score": 8,
-      "category": "Model Release & Capability",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "GOOGL"
-      ],
-      "summary": "Google hat ein neues KI-Wettermodell vorgestellt, das präzisere Vorhersagen liefert. Das Modell unterstreicht die wachsende Fähigkeit von KI, komplexe physikalische Systeme zu simulieren, und stärkt die Position von Alphabet (GOOGL) im KI-Wettbewerb. Erwarten lässt sich, dass solche Modelle künftig direkt in Wetter-Apps und Alltagsdienste integriert werden."
-    },
-    {
-      "id": "https://decrypt.co/?p=377283",
-      "title": "SoFi Links Banking Network and Stablecoin to Kraken in New Deal",
-      "url": null,
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-09-03T15:40:08Z",
-      "score": 6,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [],
-      "summary": "SoFi hat eine neue Vereinbarung mit der Krypto-Börse Kraken geschlossen, um sein Bankennetzwerk und eine Stablecoin anzubinden. Die Partnerschaft bringt Stablecoin-Infrastruktur näher an regulierte Bankdienstleistungen und stärkt die Integration von Krypto in das traditionelle Finanzsystem. Die nächste Wegmarke ist die operative Umsetzung der Anbindung bei Kraken.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-03T16:16:41Z"
-    },
     {
       "id": "b7fc8a4f-0267-526f-95b6-7d8eaad5fdea",
       "title": "Stablecoin payments infrastructure startup Diameter Pay raises $10 million",
@@ -5812,6 +5766,52 @@
       "instruments": [],
       "entities": [],
       "summary": "In Mexiko wurden vier Menschen im Zusammenhang mit einem mutmaßlichen Bitcoin-Raubversuch getötet. Der Vorfall verdeutlicht Sicherheitsrisiken im Kryptobereich, hat aber keine direkten Auswirkungen auf Handelskurse. Für den Markt ergibt sich daraus keine unmittelbare Konsequenz; der Fall wird zunächst vor allem strafrechtlich verfolgt."
+    },
+    {
+      "id": "https://cointelegraph.com/news/strategy-skips-bitcoin-buy-repurchase-176m-strc",
+      "title": "Strategy skips Bitcoin buy to repurchase $176M of STRC preferred shares",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-08T12:49:00Z",
+      "score": 6,
+      "category": "Other",
+      "sentiment": "bearish",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Strategy kauft statt Bitcoin eigene STRC-Vorzugsaktien im Wert von 176 Mio. USD zurück. Der ausbleibende Bitcoin-Kauf reduziert die erwartete Nachfrage und belastet die Marktstimmung. Kurzfristig könnte BTCUSD unter Druck bleiben; die nächste Treasury-Entscheidung des Unternehmens wird zur Wegmarke."
+    },
+    {
+      "id": "https://decrypt.co/?p=377661",
+      "title": "Morning Minute: The Trenches Just Had Their Biggest Week Since TRUMP",
+      "url": null,
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-08T13:06:33Z",
+      "score": 4,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Decrypts Morning Minute meldet, dass die sogenannten Trenches – der Handel mit Memecoins und Kleinstwerten – ihre größte Woche seit dem TRUMP-Token-Hype verzeichnet haben. Dies deutet auf erneute Risikobereitschaft von Retail-Anlegern und gesteigerte Handelsaktivität im Kryptomarkt hin. Eine klarere Marktrichtung ist daraus jedoch nicht abzuleiten; erhöhte kurzfristige Volatilität ist wahrscheinlich."
+    },
+    {
+      "id": "https://openai.com/index/the-work-now-within-reach",
+      "title": "The Work Now Within Reach",
+      "url": null,
+      "stream": "ai",
+      "source": "OpenAI News",
+      "published": "2026-09-08T13:00:00Z",
+      "score": 5,
+      "category": "Society & Work",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [
+        "OpenAI"
+      ],
+      "summary": "OpenAI veröffentlicht einen Beitrag mit dem Titel „The Work Now Within Reach“. Der Text deutet an, dass KI-gestützte Arbeitsabläufe zunehmend praktikabel werden und damit den Zugang zu vielen Arbeitsaufgaben verändern könnte. Konkrete Produktankündigungen, Kennzahlen oder eine unmittelbare Marktbewegung sind daraus nicht ableitbar."
     }
   ],
   "digest_log": [
