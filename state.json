@@ -5813,7 +5813,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Die Schweizer Stablecoin-Sandbox wechselt in die Testphase und nimmt zwei neue Partner auf. Damit erhalten regulierte Stablecoin-Projekte eine konkrete Erprobungsumgebung, was die regulatorische Akzeptanz im Schweizer Finanzmarkt stärken dürfte. Die Testphase dürfte zeigen, ob sich der Schweizer Ansatz für regulierte Stablecoins etabliert."
+      "summary": "Die Schweizer Stablecoin-Sandbox wechselt in die Testphase und nimmt zwei neue Partner auf. Damit erhalten regulierte Stablecoin-Projekte eine konkrete Erprobungsumgebung, was die regulatorische Akzeptanz im Schweizer Finanzmarkt stärken dürfte. Die Testphase dürfte zeigen, ob sich der Schweizer Ansatz für regulierte Stablecoins etabliert.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-08T08:17:51Z"
     }
   ],
   "digest_log": [
@@ -7138,6 +7140,12 @@
       "at": "2026-09-08T06:20:27Z",
       "article_ids": [
         "https://cointelegraph.com/news/australia-removes-45-crypto-remittance-registrations"
+      ]
+    },
+    {
+      "at": "2026-09-08T08:17:51Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/swiss-stablecoin-sandbox-testing-phase-two-new-partners"
       ]
     }
   ],
