@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks": "2026-09-01T11:07:39Z",
     "258218ee-d36f-5488-86ba-4eefafdb8d64": "2026-09-01T11:38:10Z",
     "https://decrypt.co/?p=377010": "2026-09-01T11:38:10Z",
     "3188a1ce-663c-5579-a553-8d0cbd773a6c": "2026-09-01T12:10:39Z",
@@ -2547,7 +2546,8 @@
     "https://cointelegraph.com/news/uzbekistan-humo-stablecoin-payment-pilot": "2026-09-08T10:27:04Z",
     "https://cointelegraph.com/news/ledger-trezor-warn-ai-bug-hunters-attention-farming": "2026-09-08T10:27:04Z",
     "20ba2fbe-5412-5374-bc67-ed2290da4609": "2026-09-08T10:42:09Z",
-    "https://www.technologyreview.com/?p=1142088": "2026-09-08T10:53:19Z"
+    "https://www.technologyreview.com/?p=1142088": "2026-09-08T10:53:19Z",
+    "325d59d5-5631-55c0-884c-52fa7704fec7": "2026-09-08T11:25:18Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2608,22 +2608,6 @@
     }
   },
   "articles": [
-    {
-      "id": "6a906b97096f095c67a177d0",
-      "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
-      "url": null,
-      "stream": "ai",
-      "source": "Feed: Artificial Intelligence Latest",
-      "published": "2026-09-03T12:43:09Z",
-      "score": 8,
-      "category": "Business & Funding",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "NVDA"
-      ],
-      "summary": "Nvidia übernimmt Hugging Face für 12,9 Milliarden US-Dollar und setzt damit auf Open-Source-KI. Der Deal stärkt Nvidias KI-Ökosystem, da Hugging Face eine zentrale Plattform für offene Modelle und Entwickler ist. Nvidia erweitert dadurch seinen Einfluss entlang der gesamten KI-Wertschöpfungskette und festigt seine Marktposition."
-    },
     {
       "id": "https://cointelegraph.com/news/vara-securitize-mou-tokenization-dubai",
       "title": "VARA, Securitize sign MoU for tokenization innovation in Dubai",
@@ -5814,6 +5798,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Der Artikel porträtiert einen KI-Unternehmer, der Agenten entwickelt, die unerwartete Ereignisse vorausplanen können. Das zeigt einen wachsenden Fokus auf robuste Planungsfähigkeit von KI-Agenten, was die Wettbewerbsdynamik in diesem Bereich beeinflussen könnte. Eine konkrete Marktbewegung ist aus den vorliegenden Informationen noch nicht abzuleiten."
+    },
+    {
+      "id": "325d59d5-5631-55c0-884c-52fa7704fec7",
+      "title": "Visa stablecoin settlement tops $20 billion annualized run rate, up more than 15x year over year",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-09-08T11:09:21Z",
+      "score": 6,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Visa meldet eine annualisierte Run Rate von über 20 Milliarden US-Dollar bei Stablecoin-Settlement-Zahlungen, was einem Anstieg von mehr als 15-fach gegenüber dem Vorjahr entspricht. Der Zuwachs zeigt die wachsende institutionelle Nutzung von Stablecoins im Zahlungsverkehr und stärkt das Vertrauen in die Krypto-Infrastruktur. Die Folge ist eine zunehmende Integration von Stablecoin-Zahlungslösungen durch Unternehmen und Banken, was die Nachfrage nach Stablecoins weiter erhöhen dürfte."
     }
   ],
   "digest_log": [
