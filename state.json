@@ -1,8 +1,5 @@
 {
   "seen": {
-    "0d03f024-a1b7-57d6-a290-fda139686772": "2026-09-01T05:07:21Z",
-    "https://cointelegraph.com/markets/blackrock-bitcoin-etf-inflow-rebound": "2026-09-01T05:07:21Z",
-    "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety": "2026-09-01T05:24:27Z",
     "cd091845-bf29-589d-89b5-33d38fac3c81": "2026-09-01T07:08:03Z",
     "https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round": "2026-09-01T08:08:53Z",
     "b329dd21-9688-55fd-a4ab-04bbf715842e": "2026-09-01T09:40:36Z",
@@ -2543,7 +2540,9 @@
     "https://www.marktechpost.com/?p=82186": "2026-09-08T03:08:17Z",
     "https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart": "2026-09-08T04:08:15Z",
     "https://huggingface.co/blog/gradio-workflow-guide": "2026-09-08T04:08:17Z",
-    "ffa3ccc1-4299-50cd-984d-2521d84e0026": "2026-09-08T04:26:25Z"
+    "ffa3ccc1-4299-50cd-984d-2521d84e0026": "2026-09-08T04:26:25Z",
+    "https://cointelegraph.com/news/australia-removes-45-crypto-remittance-registrations": "2026-09-08T05:25:17Z",
+    "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety": "2026-09-08T05:25:17Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2604,20 +2603,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/kalshi-cftc-greenlight-regulated-wti-oil-perpetuals",
-      "title": "Kalshi seeks CFTC approval for WTI crude perpetual futures: Report",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-09-03T09:28:34Z",
-      "score": 5,
-      "category": "Regulation",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Kalshi will von der US-Aufsicht CFTC die Genehmigung für perpetual Futures auf WTI-Rohöl erhalten. Das wäre eine Ausweitung des von Kryptomärkten bekannten Perpetual-Modells auf regulierte Rohstoffderivate. Eine Entscheidung der CFTC steht noch aus; direkte Auswirkungen auf Kryptopreise sind vorerst nicht absehbar."
-    },
     {
       "id": "https://decrypt.co/?p=377245",
       "title": "Ukraine Busts Kyiv Crypto Drainer Ring Moving Up to $1M Monthly",
@@ -5812,6 +5797,20 @@
       "summary": "Ethereum kündigt an, sein Layer-1-Netzwerk bis 2029 quantensicher zu machen; das Upgrade Hegotá nimmt konkrete Form an. Die Ankündigung betrifft die langfristige Sicherheit von ETH und kann das Vertrauen in das Netzwerk stärken. Bis zur Umsetzung 2029 sind weitere Spezifikationen und technische Meilensteine zu erwarten, die den Verlauf des Upgrades prägen.",
       "delivered": "digest",
       "delivered_at": "2026-09-08T05:15:12Z"
+    },
+    {
+      "id": "https://cointelegraph.com/news/australia-removes-45-crypto-remittance-registrations",
+      "title": "Australia says it removed 45 crypto, remittance registrations over the past year",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-08T05:10:33Z",
+      "score": 7,
+      "category": "Regulation",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Australien hat im vergangenen Jahr 45 Registrierungen von Krypto- und Remittanzanbietern entfernt. Das ist ein regulatorischer Rückschlag für den lokalen Kryptomarkt und erhöht die Hürden für Anbieter. Es drohen weitere Durchsetzungsmaßnahmen und ein gedämpftes Wachstum im australischen Kryptosektor."
     }
   ],
   "digest_log": [
