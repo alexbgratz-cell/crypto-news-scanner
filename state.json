@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round": "2026-09-01T08:08:53Z",
     "b329dd21-9688-55fd-a4ab-04bbf715842e": "2026-09-01T09:40:36Z",
     "https://decrypt.co/?p=377006": "2026-09-01T09:53:25Z",
     "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes": "2026-09-01T10:08:05Z",
@@ -2543,7 +2542,8 @@
     "https://cointelegraph.com/news/australia-removes-45-crypto-remittance-registrations": "2026-09-08T05:25:17Z",
     "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety": "2026-09-08T05:25:17Z",
     "cbe74d01-b391-54a2-9468-c1ec3d06bee8": "2026-09-08T05:52:32Z",
-    "https://cointelegraph.com/news/swiss-stablecoin-sandbox-testing-phase-two-new-partners": "2026-09-08T07:27:25Z"
+    "https://cointelegraph.com/news/swiss-stablecoin-sandbox-testing-phase-two-new-partners": "2026-09-08T07:27:25Z",
+    "https://cointelegraph.com/news/cronos-tectonic-rollback-111m-9m-escaped": "2026-09-08T08:28:19Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2604,23 +2604,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-uae",
-      "title": "Standard Chartered launches spot Bitcoin and Ether trading in UAE",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-09-03T10:15:34Z",
-      "score": 8,
-      "category": "Other",
-      "sentiment": "bullish",
-      "instruments": [
-        "BTCUSD",
-        "ETHUSD"
-      ],
-      "entities": [],
-      "summary": "Standard Chartered startet den Spot-Handel mit Bitcoin und Ether in den Vereinigten Arabischen Emiraten für seine Kunden. Eine etablierte Großbank bietet damit institutionellen Anlegern direkten Zugang zu den beiden größten Kryptowährungen und stärkt die Marktakzeptanz. Die institutionelle Nachfrage dürfte steigen, was sich positiv auf BTC und ETH auswirken kann."
-    },
     {
       "id": "2d7deb34-2547-5da2-a5e5-1a650f4640bd",
       "title": "Bitcoin-gold correlation hits six-year high, but analysts question whether equity decoupling will last",
@@ -5816,6 +5799,20 @@
       "summary": "Die Schweizer Stablecoin-Sandbox wechselt in die Testphase und nimmt zwei neue Partner auf. Damit erhalten regulierte Stablecoin-Projekte eine konkrete Erprobungsumgebung, was die regulatorische Akzeptanz im Schweizer Finanzmarkt stärken dürfte. Die Testphase dürfte zeigen, ob sich der Schweizer Ansatz für regulierte Stablecoins etabliert.",
       "delivered": "digest",
       "delivered_at": "2026-09-08T08:17:51Z"
+    },
+    {
+      "id": "https://cointelegraph.com/news/cronos-tectonic-rollback-111m-9m-escaped",
+      "title": "Cronos confirms $9.2M slipped away before Tectonic exploit rollback",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-08T08:10:44Z",
+      "score": 8,
+      "category": "Hack & Security",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Cronos bestätigt, dass vor dem Rollback nach dem Tectonic-Exploit 9,2 Mio. Dollar bereits abgeflossen sind. Der Sicherheitsvorfall belastet das Vertrauen in DeFi-Anwendungen auf Cronos und zeigt erhebliche finanzielle Risiken für betroffene Nutzer. Eine negative Kursreaktion für Token rund um den Vorfall ist wahrscheinlich."
     }
   ],
   "digest_log": [
