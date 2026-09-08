@@ -5762,7 +5762,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Visa meldet eine annualisierte Run Rate von über 20 Milliarden US-Dollar bei Stablecoin-Settlement-Zahlungen, was einem Anstieg von mehr als 15-fach gegenüber dem Vorjahr entspricht. Der Zuwachs zeigt die wachsende institutionelle Nutzung von Stablecoins im Zahlungsverkehr und stärkt das Vertrauen in die Krypto-Infrastruktur. Die Folge ist eine zunehmende Integration von Stablecoin-Zahlungslösungen durch Unternehmen und Banken, was die Nachfrage nach Stablecoins weiter erhöhen dürfte."
+      "summary": "Visa meldet eine annualisierte Run Rate von über 20 Milliarden US-Dollar bei Stablecoin-Settlement-Zahlungen, was einem Anstieg von mehr als 15-fach gegenüber dem Vorjahr entspricht. Der Zuwachs zeigt die wachsende institutionelle Nutzung von Stablecoins im Zahlungsverkehr und stärkt das Vertrauen in die Krypto-Infrastruktur. Die Folge ist eine zunehmende Integration von Stablecoin-Zahlungslösungen durch Unternehmen und Banken, was die Nachfrage nach Stablecoins weiter erhöhen dürfte.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-08T12:21:25Z"
     },
     {
       "id": "https://decrypt.co/?p=377653",
@@ -5790,7 +5792,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Circle übernimmt den Zahlungsdienstleister Tazapay, um die Nutzung von USDC für grenzüberschreitende Zahlungen auszubauen. Die Akquisition stärkt die Integration von Stablecoins in den traditionellen Zahlungsverkehr und erhöht den Wettbewerbsdruck auf bestehende Anbieter. Eine zunehmende USDC-Nutzung im Cross-Border-Handel ist die erwartete Folge."
+      "summary": "Circle übernimmt den Zahlungsdienstleister Tazapay, um die Nutzung von USDC für grenzüberschreitende Zahlungen auszubauen. Die Akquisition stärkt die Integration von Stablecoins in den traditionellen Zahlungsverkehr und erhöht den Wettbewerbsdruck auf bestehende Anbieter. Eine zunehmende USDC-Nutzung im Cross-Border-Handel ist die erwartete Folge.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-08T12:21:25Z"
     },
     {
       "id": "57942536-fc3f-5b12-868a-f9310e052269",
@@ -5806,7 +5810,9 @@
         "BTCUSD"
       ],
       "entities": [],
-      "summary": "Analysten berichten, dass die Bitcoin-Volatilität gedämpft bleibt, während sich der Anteil des Angebots in Gewinn einem historischen Übergangsniveau vom Bären- zum Bullenmarkt nähert. Dieses Niveau hat in der Vergangenheit häufig Phasen größerer Kursbewegungen eingeleitet, wobei Bitcoin selbst am stärksten betroffen ist. Bei einem Überschreiten der Schwelle ist mit steigender Volatilität und einer möglichen bullischen Neubewertung zu rechnen."
+      "summary": "Analysten berichten, dass die Bitcoin-Volatilität gedämpft bleibt, während sich der Anteil des Angebots in Gewinn einem historischen Übergangsniveau vom Bären- zum Bullenmarkt nähert. Dieses Niveau hat in der Vergangenheit häufig Phasen größerer Kursbewegungen eingeleitet, wobei Bitcoin selbst am stärksten betroffen ist. Bei einem Überschreiten der Schwelle ist mit steigender Volatilität und einer möglichen bullischen Neubewertung zu rechnen.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-08T12:21:25Z"
     }
   ],
   "digest_log": [
@@ -7158,6 +7164,14 @@
       "article_ids": [
         "20ba2fbe-5412-5374-bc67-ed2290da4609",
         "https://cointelegraph.com/news/uzbekistan-humo-stablecoin-payment-pilot"
+      ]
+    },
+    {
+      "at": "2026-09-08T12:21:25Z",
+      "article_ids": [
+        "57942536-fc3f-5b12-868a-f9310e052269",
+        "325d59d5-5631-55c0-884c-52fa7704fec7",
+        "https://cointelegraph.com/news/circle-tazapay-usdc-cross-border-payments"
       ]
     }
   ],
