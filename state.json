@@ -2550,7 +2550,9 @@
     "https://decrypt.co/?p=377696": "2026-09-08T18:29:38Z",
     "532d3507-46bc-5f12-af4f-f334ce04776a": "2026-09-08T18:48:01Z",
     "https://openai.com/index/introducing-chatgpt-images-2-5": "2026-09-08T18:48:01Z",
-    "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/": "2026-09-08T18:48:03Z"
+    "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/": "2026-09-08T18:48:03Z",
+    "https://cointelegraph.com/news/bybit-expands-tradfi-push-with-100x-fx-perpetuals": "2026-09-08T19:07:10Z",
+    "https://decrypt.co/?p=377705": "2026-09-08T19:07:10Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2784,6 +2786,22 @@
       "stream": "ai",
       "source": "AI - Ars Technica",
       "published": "2026-09-08T18:43:09Z"
+    },
+    "https://cointelegraph.com/news/bybit-expands-tradfi-push-with-100x-fx-perpetuals": {
+      "id": "https://cointelegraph.com/news/bybit-expands-tradfi-push-with-100x-fx-perpetuals",
+      "title": "Bybit launches 24/7 perpetuals for major currency pairs",
+      "url": "https://cointelegraph.com/news/bybit-expands-tradfi-push-with-100x-fx-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-08T18:51:08Z"
+    },
+    "https://decrypt.co/?p=377705": {
+      "id": "https://decrypt.co/?p=377705",
+      "title": "Bitcoin Holds, Wall Street Stalls as Oil Shock Revives Fed Hike Bets",
+      "url": "https://decrypt.co/377705/bitcoin-holds-wall-street-stalls-oil-shock-fed-hike",
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-08T18:59:35Z"
     }
   },
   "articles": [
