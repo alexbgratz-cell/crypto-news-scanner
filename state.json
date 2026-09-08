@@ -2551,7 +2551,9 @@
     "cd1683c5-8b0d-58d3-b5e8-365f273c1476": "2026-09-08T15:15:18Z",
     "851eed88-b7bc-5bc0-8c65-7ffc675c21f0": "2026-09-08T15:15:18Z",
     "https://decrypt.co/?p=377672": "2026-09-08T15:15:18Z",
-    "https://huggingface.co/blog/webgpu-kernels": "2026-09-08T15:15:19Z"
+    "https://huggingface.co/blog/webgpu-kernels": "2026-09-08T15:15:19Z",
+    "https://decrypt.co/?p=377675": "2026-09-08T15:40:57Z",
+    "https://decrypt.co/?p=377676": "2026-09-08T15:40:57Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2633,6 +2635,22 @@
       "stream": "crypto",
       "source": "Decrypt",
       "published": "2026-09-08T15:04:44Z"
+    },
+    "https://decrypt.co/?p=377675": {
+      "id": "https://decrypt.co/?p=377675",
+      "title": "US Police Fear Meta Glasses Are Watching Them Back: Report",
+      "url": "https://decrypt.co/377675/us-police-fear-meta-glasses-are-watching-them-back-report",
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-08T15:28:43Z"
+    },
+    "https://decrypt.co/?p=377676": {
+      "id": "https://decrypt.co/?p=377676",
+      "title": "Robinhood Takes Equity Stake in Crypto.com, Taps Exchange to Power Prediction Markets",
+      "url": "https://decrypt.co/377676/robinhood-equity-crypto-com-prediction-markets",
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-08T15:25:16Z"
     }
   },
   "articles": [
