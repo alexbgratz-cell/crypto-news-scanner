@@ -1,67 +1,67 @@
 {
-  "ts": "2026-09-07T20:04:21.112785Z",
+  "ts": "2026-09-08T07:06:09.381863Z",
   "instrument": "ALL",
-  "text": "1. **Kernaussage** — Der Gesamtmarkt handelt seitwärts mit leichten Verlusten bei BTC und SOL, während ETH leicht zulegt; die Dominanz von BTC bleibt hoch und der Fear-&-Greed-Index steht mit 71 weiter im Greed-Bereich.\n\n2. **Was es bedeutet** — Die Daten zeigen kein klares Risk-off: Der VIX fällt deutlich, die Renditen sinken, Aktien geben uneinheitlich nach. Krypto bleibt makrogetrieben, Fondsströme folgen dem erwarteten Fed-Zinspfad. Sicherheitsmeldungen rund um Liquid belasten das Sentiment, die angekündigte Rückgabe großer Teile der Gelder begrenzt aber den Abwärtsdruck.\n\n3. **Zu beachten** — Entscheidend bleiben die nächsten Signale der Fed zum Zinspfad. Zudem ist zu beobachten, ob weitere gestohlene Bitcoin-Bestände bewegt werden und damit erneut Volatilität auslösen.",
+  "text": "**Kernaussage:** Der Gesamtmarkt konsolidiert leicht: BTC fällt auf 78.288 USD, ETH auf 2.464 USD, SOL verliert mit -2,34 % am stärksten; der Angst-und-Gier-Index sinkt von 71 auf 69, bleibt aber in der Gier-Zone.\n\n**Was es bedeutet:** Kein Paniksignal. Der VIX fällt deutlich (-5,79 %), das makroökonomische Umfeld ist moderat, der Dollar steigt leicht. ETH gewinnt gegenüber BTC minimal, während die BTC-Dominanz nachgibt – die Bewegung ist selektiv, kein breiter Risk-off. Sicherheitsmeldungen wie der Liquid-Hack belasten kurzfristig, die Rückgabe von 270 Mio. USD von 320 Mio. USD gestohlener Gelder entschärft den Schock jedoch.\n\n**Zu beachten:** Ob sich die negativen 12h-Trends stabilisieren; der nicht zurückgezahlte Restbetrag aus dem Liquid-Hack bleibt ein latenter Unsicherheitsfaktor.",
   "numbers": [
     {
       "sym": "BTCUSD",
-      "value": 79333,
-      "change": -0.59,
+      "value": 78288,
+      "change": -1.72,
       "label": "",
       "group": "Direkte Korrelation"
     },
     {
       "sym": "ETHUSD",
-      "value": 2495.71,
-      "change": 0.23,
+      "value": 2464.49,
+      "change": -1.39,
       "label": "",
       "group": "Direkte Korrelation"
     },
     {
       "sym": "SOLUSD",
-      "value": 104.36,
-      "change": -1.08,
+      "value": 102.61,
+      "change": -2.34,
       "label": "",
       "group": "Direkte Korrelation"
     },
     {
       "sym": "ETHBTC",
-      "value": 0.031459,
-      "change": 0.82,
+      "value": 0.03148,
+      "change": 0.34,
       "label": "",
       "group": "Kapitalrotation"
     },
     {
       "sym": "BTC.D",
-      "value": 59.12,
+      "value": 59.01,
       "change": null,
       "label": "",
       "group": "Liquidität & Sentiment"
     },
     {
       "sym": "USDT.D",
-      "value": 6.8,
+      "value": 6.87,
       "change": null,
       "label": "",
       "group": "Liquidität & Sentiment"
     },
     {
       "sym": "F&G",
-      "value": 71.0,
+      "value": 69.0,
       "change": -2.0,
       "label": "Greed",
       "group": "Liquidität & Sentiment"
     },
     {
       "sym": "MEMPOOL",
-      "value": 82285.0,
+      "value": 77615.0,
       "change": null,
       "label": "",
       "group": "On-Chain"
     },
     {
       "sym": "MO30",
-      "value": 25.0,
+      "value": 22.25,
       "change": null,
       "label": "",
       "group": "On-Chain"
