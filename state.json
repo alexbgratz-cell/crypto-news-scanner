@@ -2543,7 +2543,8 @@
     "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety": "2026-09-08T05:25:17Z",
     "cbe74d01-b391-54a2-9468-c1ec3d06bee8": "2026-09-08T05:52:32Z",
     "https://cointelegraph.com/news/swiss-stablecoin-sandbox-testing-phase-two-new-partners": "2026-09-08T07:27:25Z",
-    "https://cointelegraph.com/news/cronos-tectonic-rollback-111m-9m-escaped": "2026-09-08T08:28:19Z"
+    "https://cointelegraph.com/news/cronos-tectonic-rollback-111m-9m-escaped": "2026-09-08T08:28:19Z",
+    "a0a175ba-b343-58a0-a100-d893a2ec2a58": "2026-09-08T08:56:42Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2604,24 +2605,6 @@
     }
   },
   "articles": [
-    {
-      "id": "2d7deb34-2547-5da2-a5e5-1a650f4640bd",
-      "title": "Bitcoin-gold correlation hits six-year high, but analysts question whether equity decoupling will last",
-      "url": null,
-      "stream": "crypto",
-      "source": "The Block",
-      "published": "2026-09-03T11:01:46Z",
-      "score": 6,
-      "category": "Macro",
-      "sentiment": "neutral",
-      "instruments": [
-        "BTCUSD"
-      ],
-      "entities": [],
-      "summary": "Ein Bericht von The Block besagt, dass die Korrelation zwischen Bitcoin und Gold ein Sechsjahreshoch erreicht hat, Analysten jedoch bezweifeln, dass die Abkopplung von Aktien anhält. Die hohe Korrelation deutet darauf hin, dass Bitcoin zunehmend als sicherer Hafen wahrgenommen wird, was die Markteinschätzung von Risikoanlagen beeinflusst. Kurzfristig dürfte sich dies in erhöhter Volatilität bei Bitcoin niederschlagen, da eine anhaltende Abkopplung von Aktien ungewiss bleibt.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-03T11:14:43Z"
-    },
     {
       "id": "https://cointelegraph.com/news/pencil-finance-1m-onchain-lending-cycle-students",
       "title": "Pencil Finance completes $1M onchain lending cycle for 6.6K students in Southeast Asia",
@@ -5813,6 +5796,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Cronos bestätigt, dass vor dem Rollback nach dem Tectonic-Exploit 9,2 Mio. Dollar bereits abgeflossen sind. Der Sicherheitsvorfall belastet das Vertrauen in DeFi-Anwendungen auf Cronos und zeigt erhebliche finanzielle Risiken für betroffene Nutzer. Eine negative Kursreaktion für Token rund um den Vorfall ist wahrscheinlich."
+    },
+    {
+      "id": "a0a175ba-b343-58a0-a100-d893a2ec2a58",
+      "title": "‘The chain is now earnings’: Bernstein sees 31% upside for Robinhood as fees top Solana, BNB Chain",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-09-08T08:50:14Z",
+      "score": 6,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "Bernstein sieht für Robinhood ein Kurspotenzial von 31 %, da die Gebühreneinnahmen der Plattform laut Bericht höher liegen als die von Solana und BNB Chain. Der Analystenbericht unterstreicht die Ertragskraft von Handelsplattformen im Krypto-Umfeld, ohne eine direkte Marktbewegung zu benennen. Die Wirkung dürfte sich vor allem auf die Robinhood-Aktie beziehen; für klassische Krypto-Instrumente sind keine unmittelbaren Kursfolgen abzuleiten."
     }
   ],
   "digest_log": [
