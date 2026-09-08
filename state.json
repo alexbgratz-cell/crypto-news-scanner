@@ -2545,7 +2545,8 @@
     "https://decrypt.co/?p=377653": "2026-09-08T11:39:30Z",
     "https://cointelegraph.com/news/circle-tazapay-usdc-cross-border-payments": "2026-09-08T11:52:07Z",
     "57942536-fc3f-5b12-868a-f9310e052269": "2026-09-08T12:11:14Z",
-    "341c486e-962a-5774-b4b8-757ca441cdbb": "2026-09-08T12:33:26Z"
+    "341c486e-962a-5774-b4b8-757ca441cdbb": "2026-09-08T12:33:26Z",
+    "https://cointelegraph.com/news/mexico-quadruple-homicide-alleged-bitcoin-robbery": "2026-09-08T12:56:16Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2606,23 +2607,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
-      "title": "Nvidia buys Hugging Face, the Github of AI, for $13 billion",
-      "url": null,
-      "stream": "ai",
-      "source": "AI - Ars Technica",
-      "published": "2026-09-03T13:34:13Z",
-      "score": 8,
-      "category": "Business & Funding",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "NVDA",
-        "Hugging Face"
-      ],
-      "summary": "Nvidia übernimmt das KI-Modell-Repository Hugging Face, das als „GitHub der KI“ gilt, für 13 Milliarden US-Dollar. Der Deal stärkt Nvidias Kontrolle über die zentrale Plattform für Open-Source-Modelle und vertieft seine Rolle im gesamten KI-Ökosystem. Der Wettbewerb um KI-Infrastruktur und Modellvertrieb dürfte sich dadurch weiter verschärfen."
-    },
     {
       "id": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
       "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
@@ -5814,6 +5798,20 @@
       ],
       "entities": [],
       "summary": "Strategy kauft eigene Aktien im Wert von 176 Mio. USD zurück und tätigt dabei keine Bitcoin-Käufe oder -Verkäufe. Die Nachricht signalisiert, dass das Unternehmen seine Krypto-Allokation vorerst nicht weiter ausbaut, was für den Markt als ausbleibende institutionelle Nachfrage neutral wirkt. Eine unmittelbare Marktbewegung ist unwahrscheinlich; entscheidend bleibt, ob Strategy künftig wieder Bitcoin erwirbt."
+    },
+    {
+      "id": "https://cointelegraph.com/news/mexico-quadruple-homicide-alleged-bitcoin-robbery",
+      "title": "Mexico quadruple homicide tied to alleged Bitcoin robbery attempt",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-08T12:41:14Z",
+      "score": 5,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [],
+      "entities": [],
+      "summary": "In Mexiko wurden vier Menschen im Zusammenhang mit einem mutmaßlichen Bitcoin-Raubversuch getötet. Der Vorfall verdeutlicht Sicherheitsrisiken im Kryptobereich, hat aber keine direkten Auswirkungen auf Handelskurse. Für den Markt ergibt sich daraus keine unmittelbare Konsequenz; der Fall wird zunächst vor allem strafrechtlich verfolgt."
     }
   ],
   "digest_log": [
