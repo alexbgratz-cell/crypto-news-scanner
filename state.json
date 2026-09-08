@@ -5767,7 +5767,9 @@
       "sentiment": "bullish",
       "instruments": [],
       "entities": [],
-      "summary": "Usbekistan beginnt einen Pilotversuch für ein Zahlungssystem mit einem Stablecoin, der durch Staatsanleihen gedeckt ist. Der Schritt zeigt eine zunehmende staatliche Nutzung von Stablecoins und könnte regulierten Krypto-Zahlungen mehr Glaubwürdigkeit verleihen. Die Ergebnisse des Pilotprojekts dürften mitentscheiden, ob der Stablecoin breiter eingeführt wird."
+      "summary": "Usbekistan beginnt einen Pilotversuch für ein Zahlungssystem mit einem Stablecoin, der durch Staatsanleihen gedeckt ist. Der Schritt zeigt eine zunehmende staatliche Nutzung von Stablecoins und könnte regulierten Krypto-Zahlungen mehr Glaubwürdigkeit verleihen. Die Ergebnisse des Pilotprojekts dürften mitentscheiden, ob der Stablecoin breiter eingeführt wird.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-08T11:15:36Z"
     },
     {
       "id": "https://cointelegraph.com/news/ledger-trezor-warn-ai-bug-hunters-attention-farming",
@@ -5795,7 +5797,9 @@
       "sentiment": "bearish",
       "instruments": [],
       "entities": [],
-      "summary": "Die polnische Staatsanwaltschaft hat einen fünften Verdächtigen im Zondacrypto-Verfahren angeklagt; die geschätzten Verluste liegen bei rund 100 Millionen Dollar. Der Fall erhöht den rechtlichen Druck auf den betroffenen Handelsplatz und kann das Vertrauen in Kryptobörsen schwächen. Weitere Ermittlungen und Anklagen sind wahrscheinlich, unmittelbare Marktbewegungen bei den großen Kryptowährungen sind aber nicht erkennbar."
+      "summary": "Die polnische Staatsanwaltschaft hat einen fünften Verdächtigen im Zondacrypto-Verfahren angeklagt; die geschätzten Verluste liegen bei rund 100 Millionen Dollar. Der Fall erhöht den rechtlichen Druck auf den betroffenen Handelsplatz und kann das Vertrauen in Kryptobörsen schwächen. Weitere Ermittlungen und Anklagen sind wahrscheinlich, unmittelbare Marktbewegungen bei den großen Kryptowährungen sind aber nicht erkennbar.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-08T11:15:36Z"
     },
     {
       "id": "https://www.technologyreview.com/?p=1142088",
@@ -7154,6 +7158,13 @@
         "https://decrypt.co/?p=377650",
         "https://cointelegraph.com/markets/new-bitcoin-whales-spark-sell-side-risk-as-unrealized-gains-hit-9b",
         "https://cointelegraph.com/news/robinhood-chain-160m-annual-fees-2028-bernstein"
+      ]
+    },
+    {
+      "at": "2026-09-08T11:15:36Z",
+      "article_ids": [
+        "20ba2fbe-5412-5374-bc67-ed2290da4609",
+        "https://cointelegraph.com/news/uzbekistan-humo-stablecoin-payment-pilot"
       ]
     }
   ],
