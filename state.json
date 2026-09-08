@@ -5781,7 +5781,9 @@
         "BTCUSD"
       ],
       "entities": [],
-      "summary": "Strategy kauft statt Bitcoin eigene STRC-Vorzugsaktien im Wert von 176 Mio. USD zurück. Der ausbleibende Bitcoin-Kauf reduziert die erwartete Nachfrage und belastet die Marktstimmung. Kurzfristig könnte BTCUSD unter Druck bleiben; die nächste Treasury-Entscheidung des Unternehmens wird zur Wegmarke."
+      "summary": "Strategy kauft statt Bitcoin eigene STRC-Vorzugsaktien im Wert von 176 Mio. USD zurück. Der ausbleibende Bitcoin-Kauf reduziert die erwartete Nachfrage und belastet die Marktstimmung. Kurzfristig könnte BTCUSD unter Druck bleiben; die nächste Treasury-Entscheidung des Unternehmens wird zur Wegmarke.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-08T13:17:58Z"
     },
     {
       "id": "https://decrypt.co/?p=377661",
@@ -7171,6 +7173,12 @@
         "57942536-fc3f-5b12-868a-f9310e052269",
         "325d59d5-5631-55c0-884c-52fa7704fec7",
         "https://cointelegraph.com/news/circle-tazapay-usdc-cross-border-payments"
+      ]
+    },
+    {
+      "at": "2026-09-08T13:17:58Z",
+      "article_ids": [
+        "https://cointelegraph.com/news/strategy-skips-bitcoin-buy-repurchase-176m-strc"
       ]
     }
   ],
