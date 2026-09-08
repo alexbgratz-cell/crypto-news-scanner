@@ -1,6 +1,5 @@
 {
   "seen": {
-    "cd091845-bf29-589d-89b5-33d38fac3c81": "2026-09-01T07:08:03Z",
     "https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round": "2026-09-01T08:08:53Z",
     "b329dd21-9688-55fd-a4ab-04bbf715842e": "2026-09-01T09:40:36Z",
     "https://decrypt.co/?p=377006": "2026-09-01T09:53:25Z",
@@ -2543,7 +2542,8 @@
     "ffa3ccc1-4299-50cd-984d-2521d84e0026": "2026-09-08T04:26:25Z",
     "https://cointelegraph.com/news/australia-removes-45-crypto-remittance-registrations": "2026-09-08T05:25:17Z",
     "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety": "2026-09-08T05:25:17Z",
-    "cbe74d01-b391-54a2-9468-c1ec3d06bee8": "2026-09-08T05:52:32Z"
+    "cbe74d01-b391-54a2-9468-c1ec3d06bee8": "2026-09-08T05:52:32Z",
+    "https://cointelegraph.com/news/swiss-stablecoin-sandbox-testing-phase-two-new-partners": "2026-09-08T07:27:25Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2604,20 +2604,6 @@
     }
   },
   "articles": [
-    {
-      "id": "6a8726cd18568cdcce1a1065",
-      "title": "This Is Flock’s AI Search Tool for Cops",
-      "url": null,
-      "stream": "ai",
-      "source": "Feed: Artificial Intelligence Latest",
-      "published": "2026-09-03T10:00:00Z",
-      "score": 5,
-      "category": "Safety & Risk",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Flock stellt ein KI-gestütztes Suchtool für Polizeibeamte vor, das Ermittlungen unterstützen soll. Das Werkzeug dürfte die Debatte über KI-Überwachung, Privatsphäre und polizeiliche Datennutzung verstärken. Die öffentliche Diskussion um den Einsatz solcher Tools wird dadurch weiter an Fahrt aufnehmen."
-    },
     {
       "id": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-uae",
       "title": "Standard Chartered launches spot Bitcoin and Ether trading in UAE",
@@ -5814,6 +5800,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Nach dem Exploit des Tectonic-Protokolls auf Cronos bleiben laut Cronos 9,2 Millionen Dollar unwiederbringlich verloren; die Kette führte einen Rollback durch. Der Sicherheitsvorfall erschüttert das Vertrauen in das Cronos-DeFi-Ökosystem und betrifft Nutzer sowie das Protokoll direkt. In der Folge sind erhöhte Sicherheitsbedenken und eine negative Marktstimmung für Cronos-nahe Anwendungen wahrscheinlich."
+    },
+    {
+      "id": "https://cointelegraph.com/news/swiss-stablecoin-sandbox-testing-phase-two-new-partners",
+      "title": "Swiss stablecoin sandbox enters testing phase, adds two new partners",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-08T07:18:32Z",
+      "score": 6,
+      "category": "Regulation",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Die Schweizer Stablecoin-Sandbox wechselt in die Testphase und nimmt zwei neue Partner auf. Damit erhalten regulierte Stablecoin-Projekte eine konkrete Erprobungsumgebung, was die regulatorische Akzeptanz im Schweizer Finanzmarkt stärken dürfte. Die Testphase dürfte zeigen, ob sich der Schweizer Ansatz für regulierte Stablecoins etabliert."
     }
   ],
   "digest_log": [
