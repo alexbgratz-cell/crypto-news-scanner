@@ -2546,7 +2546,8 @@
     "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia": "2026-09-08T10:10:18Z",
     "https://www.technologyreview.com/?p=1141907": "2026-09-08T10:10:19Z",
     "https://cointelegraph.com/news/uzbekistan-humo-stablecoin-payment-pilot": "2026-09-08T10:27:04Z",
-    "https://cointelegraph.com/news/ledger-trezor-warn-ai-bug-hunters-attention-farming": "2026-09-08T10:27:04Z"
+    "https://cointelegraph.com/news/ledger-trezor-warn-ai-bug-hunters-attention-farming": "2026-09-08T10:27:04Z",
+    "20ba2fbe-5412-5374-bc67-ed2290da4609": "2026-09-08T10:42:09Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2607,23 +2608,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://cointelegraph.com/news/nvidia-buys-hugging-face-12-9-billion-ai-software",
-      "title": "Nvidia buys Hugging Face for $12.9B in push into AI software",
-      "url": null,
-      "stream": "crypto",
-      "source": "Cointelegraph.com News",
-      "published": "2026-09-03T12:41:11Z",
-      "score": 8,
-      "category": "Business & Funding",
-      "sentiment": "bullish",
-      "instruments": [],
-      "entities": [
-        "NVIDIA",
-        "Hugging Face"
-      ],
-      "summary": "NVIDIA übernimmt laut Cointelegraph das KI-Unternehmen Hugging Face für 12,9 Milliarden US-Dollar und baut damit sein Software-Geschäft aus. Die Akquisition stärkt NVIDIAs Rolle im gesamten KI-Ökosystem und erhöht den Wettbewerbsdruck auf andere Plattform- und Modellanbieter. Der Deal dürfte die Konsolidierung im KI-Sektor weiter anheizen und positive Impulse für KI-Infrastruktur-Aktien geben."
-    },
     {
       "id": "https://techcrunch.com/?p=3160347",
       "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
@@ -5814,6 +5798,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Der Ledger-CTO ruft KI-gestützte Bug-Hunter zu mehr Verantwortung auf und warnt vor „Attention Farming“; auch Trezor äußert sich kritisch. Die Warnung betrifft die Sicherheitsprozesse von Krypto-Wallet-Anbietern, die durch massenhafte oder irreführende KI-Meldungen belastet werden können. Eine strengere Prüfung von Bug-Reports und weniger Aufmerksamkeitssuche sind wahrscheinlich."
+    },
+    {
+      "id": "20ba2fbe-5412-5374-bc67-ed2290da4609",
+      "title": "Polish prosecutors charge fifth suspect in Zondacrypto probe involving around $100 million in estimated losses",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-09-08T10:38:15Z",
+      "score": 7,
+      "category": "Regulation",
+      "sentiment": "bearish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Die polnische Staatsanwaltschaft hat einen fünften Verdächtigen im Zondacrypto-Verfahren angeklagt; die geschätzten Verluste liegen bei rund 100 Millionen Dollar. Der Fall erhöht den rechtlichen Druck auf den betroffenen Handelsplatz und kann das Vertrauen in Kryptobörsen schwächen. Weitere Ermittlungen und Anklagen sind wahrscheinlich, unmittelbare Marktbewegungen bei den großen Kryptowährungen sind aber nicht erkennbar."
     }
   ],
   "digest_log": [
