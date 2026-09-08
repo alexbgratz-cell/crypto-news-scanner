@@ -5809,7 +5809,9 @@
       "sentiment": "neutral",
       "instruments": [],
       "entities": [],
-      "summary": "Bernstein sieht für Robinhood ein Kurspotenzial von 31 %, da die Gebühreneinnahmen der Plattform laut Bericht höher liegen als die von Solana und BNB Chain. Der Analystenbericht unterstreicht die Ertragskraft von Handelsplattformen im Krypto-Umfeld, ohne eine direkte Marktbewegung zu benennen. Die Wirkung dürfte sich vor allem auf die Robinhood-Aktie beziehen; für klassische Krypto-Instrumente sind keine unmittelbaren Kursfolgen abzuleiten."
+      "summary": "Bernstein sieht für Robinhood ein Kurspotenzial von 31 %, da die Gebühreneinnahmen der Plattform laut Bericht höher liegen als die von Solana und BNB Chain. Der Analystenbericht unterstreicht die Ertragskraft von Handelsplattformen im Krypto-Umfeld, ohne eine direkte Marktbewegung zu benennen. Die Wirkung dürfte sich vor allem auf die Robinhood-Aktie beziehen; für klassische Krypto-Instrumente sind keine unmittelbaren Kursfolgen abzuleiten.",
+      "delivered": "digest",
+      "delivered_at": "2026-09-08T09:16:46Z"
     }
   ],
   "digest_log": [
@@ -7140,6 +7142,12 @@
       "at": "2026-09-08T08:17:51Z",
       "article_ids": [
         "https://cointelegraph.com/news/swiss-stablecoin-sandbox-testing-phase-two-new-partners"
+      ]
+    },
+    {
+      "at": "2026-09-08T09:16:46Z",
+      "article_ids": [
+        "a0a175ba-b343-58a0-a100-d893a2ec2a58"
       ]
     }
   ],
