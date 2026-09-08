@@ -1,7 +1,5 @@
 {
   "seen": {
-    "3188a1ce-663c-5579-a553-8d0cbd773a6c": "2026-09-01T12:10:39Z",
-    "https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid": "2026-09-01T12:10:39Z",
     "https://decrypt.co/?p=377014": "2026-09-01T12:31:23Z",
     "https://decrypt.co/?p=377015": "2026-09-01T12:31:23Z",
     "https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise": "2026-09-01T13:08:05Z",
@@ -2547,7 +2545,8 @@
     "https://www.technologyreview.com/?p=1142088": "2026-09-08T10:53:19Z",
     "325d59d5-5631-55c0-884c-52fa7704fec7": "2026-09-08T11:25:18Z",
     "https://decrypt.co/?p=377653": "2026-09-08T11:39:30Z",
-    "https://cointelegraph.com/news/circle-tazapay-usdc-cross-border-payments": "2026-09-08T11:52:07Z"
+    "https://cointelegraph.com/news/circle-tazapay-usdc-cross-border-payments": "2026-09-08T11:52:07Z",
+    "57942536-fc3f-5b12-868a-f9310e052269": "2026-09-08T12:11:14Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2608,22 +2607,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://huggingface.co/blog/Hcompany/neomme",
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "url": null,
-      "stream": "ai",
-      "source": "Hugging Face - Blog",
-      "published": "2026-09-03T13:13:48Z",
-      "score": 6,
-      "category": "Model Release & Capability",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Der Hugging-Face-Blog stellt NeoMME vor, einen als effizient bezeichneten Encoder für multimodale und mehrsprachige Anwendungen. Die Veröffentlichung könnte für Entwickler und Unternehmen interessant sein, die Einbettungs- und Suchsysteme über Sprach- und Formatgrenzen hinweg betreiben. Konkrete Auswirkungen auf die KI-Industrie sind damit noch nicht belegt; entscheidend sind künftige Benchmarks und praktische Einsätze.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-03T14:16:46Z"
-    },
     {
       "id": "https://cointelegraph.com/magazine/recovery-specialists-crack-1b-crypto-wallet-but-find-just-10",
       "title": "Recovery specialists crack $1B crypto wallet... but find just $10",
@@ -5808,6 +5791,22 @@
       "instruments": [],
       "entities": [],
       "summary": "Circle übernimmt den Zahlungsdienstleister Tazapay, um die Nutzung von USDC für grenzüberschreitende Zahlungen auszubauen. Die Akquisition stärkt die Integration von Stablecoins in den traditionellen Zahlungsverkehr und erhöht den Wettbewerbsdruck auf bestehende Anbieter. Eine zunehmende USDC-Nutzung im Cross-Border-Handel ist die erwartete Folge."
+    },
+    {
+      "id": "57942536-fc3f-5b12-868a-f9310e052269",
+      "title": "Bitcoin volatility remains subdued as supply in profit nears historical bear-to-bull transition level: analysts",
+      "url": null,
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-09-08T12:08:55Z",
+      "score": 7,
+      "category": "Other",
+      "sentiment": "neutral",
+      "instruments": [
+        "BTCUSD"
+      ],
+      "entities": [],
+      "summary": "Analysten berichten, dass die Bitcoin-Volatilität gedämpft bleibt, während sich der Anteil des Angebots in Gewinn einem historischen Übergangsniveau vom Bären- zum Bullenmarkt nähert. Dieses Niveau hat in der Vergangenheit häufig Phasen größerer Kursbewegungen eingeleitet, wobei Bitcoin selbst am stärksten betroffen ist. Bei einem Überschreiten der Schwelle ist mit steigender Volatilität und einer möglichen bullischen Neubewertung zu rechnen."
     }
   ],
   "digest_log": [
