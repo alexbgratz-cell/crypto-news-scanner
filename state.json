@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://decrypt.co/?p=377135": "2026-09-01T22:23:04Z",
-    "https://techcrunch.com/?p=3159934": "2026-09-01T22:23:06Z",
-    "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/": "2026-09-01T22:23:07Z",
     "b010167b-7510-5358-8846-90c8e36d745d": "2026-09-02T03:38:00Z",
     "https://openai.com/index/gilbert-tobin": "2026-09-02T03:38:00Z",
     "https://cointelegraph.com/news/core-dao-emergency-hard-fork-excess-validator-rewards": "2026-09-02T04:26:42Z",
@@ -2554,7 +2551,8 @@
     "https://cointelegraph.com/news/new-york-plattsburgh-crypto-mining-ai-ban": "2026-09-08T21:50:12Z",
     "https://decrypt.co/?p=377725": "2026-09-08T21:50:12Z",
     "https://huggingface.co/blog/allenai/benchmirt": "2026-09-08T21:50:13Z",
-    "032a6069-f23d-58c3-ac1c-3c4f30d5221d": "2026-09-08T22:08:27Z"
+    "032a6069-f23d-58c3-ac1c-3c4f30d5221d": "2026-09-08T22:08:27Z",
+    "6522e1f2-4adb-5563-86dc-9ce6f6ec4b8c": "2026-09-08T22:37:46Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2932,6 +2930,14 @@
       "stream": "crypto",
       "source": "The Block",
       "published": "2026-09-08T21:58:33Z"
+    },
+    "6522e1f2-4adb-5563-86dc-9ce6f6ec4b8c": {
+      "id": "6522e1f2-4adb-5563-86dc-9ce6f6ec4b8c",
+      "title": "Pons propels Robinhood Chain fees to record $6 million in daily fees as DEX volume doubles",
+      "url": "https://www.theblock.co/news/ecosystems/2026-09-08-pons-propels-robinhood-chain-fees-record-6-million-daily-fees-dex-volume-doubles-413852",
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-09-08T22:26:02Z"
     }
   },
   "articles": [
