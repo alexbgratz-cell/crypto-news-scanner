@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes": "2026-09-01T10:08:05Z",
-    "https://cointelegraph.com/news/singapore-weighs-foreign-regulated-stablecoins-mas-framework": "2026-09-01T10:08:05Z",
-    "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia": "2026-09-01T10:08:05Z",
-    "https://www.technologyreview.com/?p=1141907": "2026-09-01T10:08:06Z",
     "76a74f4f-91d5-504f-9a94-e0942e5bde38": "2026-09-01T10:43:35Z",
     "https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks": "2026-09-01T11:07:39Z",
     "258218ee-d36f-5488-86ba-4eefafdb8d64": "2026-09-01T11:38:10Z",
@@ -2545,7 +2541,10 @@
     "a0a175ba-b343-58a0-a100-d893a2ec2a58": "2026-09-08T08:56:42Z",
     "66676387-0b9d-5aae-9885-b4d23ea87693": "2026-09-08T09:28:43Z",
     "https://cointelegraph.com/markets/new-bitcoin-whales-spark-sell-side-risk-as-unrealized-gains-hit-9b": "2026-09-08T09:56:04Z",
-    "https://decrypt.co/?p=377650": "2026-09-08T09:56:04Z"
+    "https://decrypt.co/?p=377650": "2026-09-08T09:56:04Z",
+    "https://cointelegraph.com/news/robinhood-chain-160m-annual-fees-2028-bernstein": "2026-09-08T10:10:18Z",
+    "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia": "2026-09-08T10:10:18Z",
+    "https://www.technologyreview.com/?p=1141907": "2026-09-08T10:10:19Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2606,22 +2605,6 @@
     }
   },
   "articles": [
-    {
-      "id": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "url": null,
-      "stream": "ai",
-      "source": "Hugging Face - Blog",
-      "published": "2026-09-03T00:00:00Z",
-      "score": 6,
-      "category": "Research & Open Source",
-      "sentiment": "neutral",
-      "instruments": [],
-      "entities": [],
-      "summary": "Hugging Face zeigt in einem Blogbeitrag, wie ein 350-Millionen-Parameter-Modell mit GRPO in 100 Schritten feingetunt wird, um strukturierte Ausgaben zuverlässiger zu erzeugen. Der Ansatz verringert die Anfälligkeit für Formatfehler und schlägt eine effiziente, rechenarme Alternative zu großen Modellen für solche Aufgaben vor. Solche Anleitungen als Open Source erleichtern das Nachziehen ähnlich optimierter kleiner Modelle in eigenen Anwendungen.",
-      "delivered": "digest",
-      "delivered_at": "2026-09-03T12:21:26Z"
-    },
     {
       "id": "https://decrypt.co/?p=377264",
       "title": "Morning Minute: Strategy CEO Says Selling The Bottom Was Correct Move",
@@ -5813,6 +5796,20 @@
       "instruments": [],
       "entities": [],
       "summary": "Ein polnisches Gericht hat einen fünften Verdächtigen im Rahmen der Ermittlungen rund um die Krypto-Börse Zondacrypto in Untersuchungshaft genommen. Die Festnahme verstärkt Unsicherheit über Compliance und Sicherheit der Plattform und könnte das Vertrauen von Nutzern und Marktteilnehmern belasten. Weitere rechtliche Schritte und mögliche Auflagen für Zondacrypto sind wahrscheinlich."
+    },
+    {
+      "id": "https://cointelegraph.com/news/robinhood-chain-160m-annual-fees-2028-bernstein",
+      "title": "Robinhood chain to generate $160M in annual fees by 2028: Bernstein",
+      "url": null,
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-08T09:54:40Z",
+      "score": 6,
+      "category": "Other",
+      "sentiment": "bullish",
+      "instruments": [],
+      "entities": [],
+      "summary": "Laut Bernstein soll die Robinhood-Chain bis 2028 jährliche Gebühren von 160 Millionen US-Dollar generieren. Der Analystenbericht unterstreicht das Potenzial broker-eigener Blockchain-Infrastruktur und könnte das Interesse an vergleichbaren Krypto-Projekten erhöhen. Für Robinhood entstünde damit ein neuer Einnahmekanal, dessen Realisierung von der weiteren Nutzer- und Transaktionsentwicklung abhängt."
     }
   ],
   "digest_log": [
