@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://decrypt.co/?p=377162": "2026-09-02T14:26:00Z",
-    "https://www.technologyreview.com/?p=1142879": "2026-09-02T14:26:02Z",
     "https://openai.com/index/how-enterprises-put-ai-to-work": "2026-09-02T15:13:09Z",
     "https://huggingface.co/blog/train-multi-vector-encoder": "2026-09-02T15:13:10Z",
     "https://techcrunch.com/?p=3160035": "2026-09-02T15:13:10Z",
@@ -2547,7 +2545,9 @@
     "https://decrypt.co/?p=377761": "2026-09-09T13:44:40Z",
     "240fd908-69dd-58df-b6cd-a126c80b0894": "2026-09-09T13:55:59Z",
     "https://huggingface.co/blog/ibm-research/real-time-intelligence": "2026-09-09T13:56:00Z",
-    "https://cointelegraph.com/news/german-finance-ministry-25-crypto-tax-2028": "2026-09-09T14:10:03Z"
+    "https://cointelegraph.com/news/german-finance-ministry-25-crypto-tax-2028": "2026-09-09T14:10:03Z",
+    "https://techcrunch.com/?p=3161886": "2026-09-09T14:26:56Z",
+    "https://www.technologyreview.com/?p=1142879": "2026-09-09T14:26:56Z"
   },
   "pending": {
     "https://techcrunch.com/?p=3160035": {
@@ -3189,6 +3189,14 @@
       "stream": "crypto",
       "source": "Cointelegraph.com News",
       "published": "2026-09-09T13:49:55Z"
+    },
+    "https://techcrunch.com/?p=3161886": {
+      "id": "https://techcrunch.com/?p=3161886",
+      "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+      "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-09T14:18:34Z"
     }
   },
   "articles": [
