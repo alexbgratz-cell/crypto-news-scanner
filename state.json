@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.marktechpost.com/?p=82026": "2026-09-02T05:27:56Z",
     "https://www.marktechpost.com/?p=82029": "2026-09-02T05:42:12Z",
     "https://cointelegraph.com/news/hyperliquid-strategies-equity-facility-2-5-billion": "2026-09-02T05:52:03Z",
     "https://www.marktechpost.com/?p=82033": "2026-09-02T07:51:15Z",
@@ -2554,7 +2553,8 @@
     "d4f5246c-dffa-5872-be1d-5ae1e0d7d0f1": "2026-09-09T04:08:01Z",
     "https://openai.com/index/gilbert-tobin": "2026-09-09T04:08:01Z",
     "https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy": "2026-09-09T04:26:57Z",
-    "https://www.marktechpost.com/?p=82197": "2026-09-09T04:53:23Z"
+    "https://www.marktechpost.com/?p=82197": "2026-09-09T04:53:23Z",
+    "https://cointelegraph.com/news/gemini-singapore-mpi-license-crypto-services": "2026-09-09T05:38:59Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2988,6 +2988,14 @@
       "stream": "ai",
       "source": "MarkTechPost",
       "published": "2026-09-09T04:38:13Z"
+    },
+    "https://cointelegraph.com/news/gemini-singapore-mpi-license-crypto-services": {
+      "id": "https://cointelegraph.com/news/gemini-singapore-mpi-license-crypto-services",
+      "title": "Gemini receives Singapore payment license for crypto services",
+      "url": "https://cointelegraph.com/news/gemini-singapore-mpi-license-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-09T05:27:12Z"
     }
   },
   "articles": [
