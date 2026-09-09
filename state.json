@@ -2553,7 +2553,8 @@
     "https://huggingface.co/blog/allenai/benchmirt": "2026-09-08T21:50:13Z",
     "032a6069-f23d-58c3-ac1c-3c4f30d5221d": "2026-09-08T22:08:27Z",
     "6522e1f2-4adb-5563-86dc-9ce6f6ec4b8c": "2026-09-08T22:37:46Z",
-    "d3a265bc-1cd2-5f85-88bc-d583f69c8ef0": "2026-09-09T02:26:17Z"
+    "d3a265bc-1cd2-5f85-88bc-d583f69c8ef0": "2026-09-09T02:26:17Z",
+    "a52eeeda-1ebc-5b06-95a8-d1742ce5c061": "2026-09-09T02:40:35Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2947,6 +2948,14 @@
       "stream": "crypto",
       "source": "The Block",
       "published": "2026-09-09T02:18:25Z"
+    },
+    "a52eeeda-1ebc-5b06-95a8-d1742ce5c061": {
+      "id": "a52eeeda-1ebc-5b06-95a8-d1742ce5c061",
+      "title": "Hunter Biden details LAPTOP memecoin’s airdrop and burn-or-charity rules ahead of launch",
+      "url": "https://www.theblock.co/news/defi/2026-09-08-hunter-biden-details-laptop-airdrop-413952",
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-09-09T02:34:58Z"
     }
   },
   "articles": [
