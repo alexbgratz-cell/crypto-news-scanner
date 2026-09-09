@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://decrypt.co/?p=377142": "2026-09-02T09:07:53Z",
     "https://cointelegraph.com/news/crypto-industry-sec-novel-etf-restrictions": "2026-09-02T10:08:45Z",
     "https://openai.com/index/loveholidays": "2026-09-02T10:08:45Z",
     "https://openai.com/index/chatgpt-ads-expands-across-europe": "2026-09-02T10:08:45Z",
@@ -2554,17 +2553,10 @@
     "https://www.marktechpost.com/?p=82201": "2026-09-09T07:42:28Z",
     "https://cointelegraph.com/news/iran-central-bank-encourages-crypto-evade-sanctions": "2026-09-09T08:08:49Z",
     "https://decrypt.co/?p=377746": "2026-09-09T08:27:19Z",
-    "https://www.technologyreview.com/?p=1142946": "2026-09-09T08:27:20Z"
+    "https://www.technologyreview.com/?p=1142946": "2026-09-09T08:27:20Z",
+    "https://decrypt.co/?p=377748": "2026-09-09T09:42:31Z"
   },
   "pending": {
-    "https://decrypt.co/?p=377142": {
-      "id": "https://decrypt.co/?p=377142",
-      "title": "Kalshi Suspends House Candidate Laurie Buckhout for Betting on Herself",
-      "url": "https://decrypt.co/377142/kalshi-suspends-house-candidate-laurie-buckhout-for-betting-on-herself",
-      "stream": "crypto",
-      "source": "Decrypt",
-      "published": "2026-09-02T09:06:22Z"
-    },
     "https://techcrunch.com/?p=3160035": {
       "id": "https://techcrunch.com/?p=3160035",
       "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
@@ -3028,6 +3020,14 @@
       "stream": "crypto",
       "source": "Decrypt",
       "published": "2026-09-09T08:26:08Z"
+    },
+    "https://decrypt.co/?p=377748": {
+      "id": "https://decrypt.co/?p=377748",
+      "title": "Mexico Seizes 300 Crypto Mining Rigs Wired Into a Hydroelectric Dam",
+      "url": "https://decrypt.co/377748/mexico-seizes-300-crypto-mining-rigs-wired-into-a-hydroelectric-dam",
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-09T09:28:29Z"
     }
   },
   "articles": [
