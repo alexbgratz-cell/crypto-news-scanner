@@ -1,7 +1,5 @@
 {
   "seen": {
-    "d161bd8e-763f-51ed-a64f-e2f8e411766b": "2026-09-02T04:40:39Z",
-    "4368414f-8ea1-5f59-8d31-03401dee29f9": "2026-09-02T04:52:02Z",
     "https://www.marktechpost.com/?p=82026": "2026-09-02T05:27:56Z",
     "https://www.marktechpost.com/?p=82029": "2026-09-02T05:42:12Z",
     "https://cointelegraph.com/news/hyperliquid-strategies-equity-facility-2-5-billion": "2026-09-02T05:52:03Z",
@@ -2555,7 +2553,8 @@
     "https://www.technologyreview.com/?p=1143747": "2026-09-09T03:26:09Z",
     "d4f5246c-dffa-5872-be1d-5ae1e0d7d0f1": "2026-09-09T04:08:01Z",
     "https://openai.com/index/gilbert-tobin": "2026-09-09T04:08:01Z",
-    "https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy": "2026-09-09T04:26:57Z"
+    "https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy": "2026-09-09T04:26:57Z",
+    "https://www.marktechpost.com/?p=82197": "2026-09-09T04:53:23Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2981,6 +2980,14 @@
       "stream": "crypto",
       "source": "Cointelegraph.com News",
       "published": "2026-09-09T04:09:51Z"
+    },
+    "https://www.marktechpost.com/?p=82197": {
+      "id": "https://www.marktechpost.com/?p=82197",
+      "title": "Meta Introduces Muse, a Personal AI Agent That Runs on Its Own Dedicated Secure Cloud Computer",
+      "url": "https://www.marktechpost.com/2026/09/08/meta-introduces-muse-a-personal-ai-agent-that-runs-on-its-own-dedicated-secure-cloud-computer/",
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-09-09T04:38:13Z"
     }
   },
   "articles": [
