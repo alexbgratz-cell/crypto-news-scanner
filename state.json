@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://techcrunch.com/?p=3159700": "2026-09-02T14:08:40Z",
     "https://decrypt.co/?p=377162": "2026-09-02T14:26:00Z",
     "https://www.technologyreview.com/?p=1142879": "2026-09-02T14:26:02Z",
     "https://openai.com/index/how-enterprises-put-ai-to-work": "2026-09-02T15:13:09Z",
@@ -2547,7 +2546,8 @@
     "https://cointelegraph.com/magazine/10-of-the-greatest-unsolved-crypto-mysteries": "2026-09-09T13:44:40Z",
     "https://decrypt.co/?p=377761": "2026-09-09T13:44:40Z",
     "240fd908-69dd-58df-b6cd-a126c80b0894": "2026-09-09T13:55:59Z",
-    "https://huggingface.co/blog/ibm-research/real-time-intelligence": "2026-09-09T13:56:00Z"
+    "https://huggingface.co/blog/ibm-research/real-time-intelligence": "2026-09-09T13:56:00Z",
+    "https://cointelegraph.com/news/german-finance-ministry-25-crypto-tax-2028": "2026-09-09T14:10:03Z"
   },
   "pending": {
     "https://techcrunch.com/?p=3160035": {
@@ -3181,6 +3181,14 @@
       "stream": "crypto",
       "source": "The Block",
       "published": "2026-09-09T13:53:28Z"
+    },
+    "https://cointelegraph.com/news/german-finance-ministry-25-crypto-tax-2028": {
+      "id": "https://cointelegraph.com/news/german-finance-ministry-25-crypto-tax-2028",
+      "title": "German finance ministry proposes 25% crypto tax starting 2028: report",
+      "url": "https://cointelegraph.com/news/german-finance-ministry-25-crypto-tax-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-09T13:49:55Z"
     }
   },
   "articles": [
