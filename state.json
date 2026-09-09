@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.marktechpost.com/?p=82029": "2026-09-02T05:42:12Z",
-    "https://cointelegraph.com/news/hyperliquid-strategies-equity-facility-2-5-billion": "2026-09-02T05:52:03Z",
     "https://www.marktechpost.com/?p=82033": "2026-09-02T07:51:15Z",
     "https://cointelegraph.com/markets/bitcoin-etf-best-month-2026-btc-up-25-august": "2026-09-02T08:27:03Z",
     "https://www.technologyreview.com/?p=1142946": "2026-09-02T08:27:04Z",
@@ -2554,7 +2552,9 @@
     "https://openai.com/index/gilbert-tobin": "2026-09-09T04:08:01Z",
     "https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy": "2026-09-09T04:26:57Z",
     "https://www.marktechpost.com/?p=82197": "2026-09-09T04:53:23Z",
-    "https://cointelegraph.com/news/gemini-singapore-mpi-license-crypto-services": "2026-09-09T05:38:59Z"
+    "https://cointelegraph.com/news/gemini-singapore-mpi-license-crypto-services": "2026-09-09T05:38:59Z",
+    "https://cointelegraph.com/news/block-us-trust-bank-charter-bitcoin-stablecoin-custody": "2026-09-09T07:42:26Z",
+    "https://www.marktechpost.com/?p=82201": "2026-09-09T07:42:28Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2996,6 +2996,22 @@
       "stream": "crypto",
       "source": "Cointelegraph.com News",
       "published": "2026-09-09T05:27:12Z"
+    },
+    "https://cointelegraph.com/news/block-us-trust-bank-charter-bitcoin-stablecoin-custody": {
+      "id": "https://cointelegraph.com/news/block-us-trust-bank-charter-bitcoin-stablecoin-custody",
+      "title": "Jack Dorsey’s Block seeks US trust bank charter for Bitcoin, stablecoin",
+      "url": "https://cointelegraph.com/news/block-us-trust-bank-charter-bitcoin-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-09T07:36:21Z"
+    },
+    "https://www.marktechpost.com/?p=82201": {
+      "id": "https://www.marktechpost.com/?p=82201",
+      "title": "Gradium Launches Voice Design: Write a Prompt, Get a Brand New Synthetic Voice in Seconds",
+      "url": "https://www.marktechpost.com/2026/09/09/gradium-launches-voice-design-write-a-prompt-get-a-brand-new-synthetic-voice-in-seconds/",
+      "stream": "ai",
+      "source": "MarkTechPost",
+      "published": "2026-09-09T07:29:13Z"
     }
   },
   "articles": [
