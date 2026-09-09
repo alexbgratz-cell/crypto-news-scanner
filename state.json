@@ -1,6 +1,5 @@
 {
   "seen": {
-    "a3e34082-08e6-57c2-99f1-5b8475a14604": "2026-09-02T13:08:09Z",
     "https://cointelegraph.com/news/hashkey-dtcc-first-asian-crypto-service-provider": "2026-09-02T13:26:48Z",
     "https://cointelegraph.com/magazine/btc-will-hit-1m-by-2030-but-arthur-hayes-is-buying-eth-instead": "2026-09-02T13:41:14Z",
     "https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident": "2026-09-02T13:52:37Z",
@@ -2543,7 +2542,10 @@
     "https://huggingface.co/blog/how-to-train": "2026-09-09T12:10:38Z",
     "https://techcrunch.com/?p=3161803": "2026-09-09T12:10:38Z",
     "https://cointelegraph.com/news/italys-central-bank-orders-sanctions-screening-for-crypto-transfers": "2026-09-09T12:32:57Z",
-    "https://cointelegraph.com/news/hunter-bidens-laptop-memecoin-afterlife": "2026-09-09T12:55:10Z"
+    "https://cointelegraph.com/news/hunter-bidens-laptop-memecoin-afterlife": "2026-09-09T12:55:10Z",
+    "https://techcrunch.com/?p=3161376": "2026-09-09T13:09:29Z",
+    "https://techcrunch.com/?p=3161663": "2026-09-09T13:09:29Z",
+    "6a986e558a0ee29aae9e184f": "2026-09-09T13:09:30Z"
   },
   "pending": {
     "https://techcrunch.com/?p=3160035": {
@@ -3113,6 +3115,30 @@
       "stream": "crypto",
       "source": "Cointelegraph.com News",
       "published": "2026-09-09T12:35:00Z"
+    },
+    "https://techcrunch.com/?p=3161376": {
+      "id": "https://techcrunch.com/?p=3161376",
+      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+      "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-09T13:00:00Z"
+    },
+    "https://techcrunch.com/?p=3161663": {
+      "id": "https://techcrunch.com/?p=3161663",
+      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+      "url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "published": "2026-09-09T12:30:00Z"
+    },
+    "6a986e558a0ee29aae9e184f": {
+      "id": "6a986e558a0ee29aae9e184f",
+      "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
+      "url": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
+      "stream": "ai",
+      "source": "Feed: Artificial Intelligence Latest",
+      "published": "2026-09-09T13:00:00Z"
     }
   },
   "articles": [
