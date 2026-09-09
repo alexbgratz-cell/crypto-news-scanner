@@ -2550,7 +2550,8 @@
     "https://huggingface.co/blog/multi-vector-encoder": "2026-09-09T10:27:09Z",
     "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2": "2026-09-09T10:27:09Z",
     "https://www.technologyreview.com/?p=1141949": "2026-09-09T10:27:10Z",
-    "https://www.technologyreview.com/?p=1141952": "2026-09-09T10:27:10Z"
+    "https://www.technologyreview.com/?p=1141952": "2026-09-09T10:27:10Z",
+    "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/": "2026-09-09T11:08:21Z"
   },
   "pending": {
     "https://techcrunch.com/?p=3160035": {
@@ -3040,6 +3041,14 @@
       "stream": "crypto",
       "source": "Cointelegraph.com News",
       "published": "2026-09-09T10:05:00Z"
+    },
+    "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/": {
+      "id": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+      "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+      "stream": "ai",
+      "source": "AI - Ars Technica",
+      "published": "2026-09-09T11:00:10Z"
     }
   },
   "articles": [
