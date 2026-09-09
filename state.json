@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://cointelegraph.com/markets/bitcoin-etf-best-month-2026-btc-up-25-august": "2026-09-02T08:27:03Z",
-    "https://www.technologyreview.com/?p=1142946": "2026-09-02T08:27:04Z",
     "https://decrypt.co/?p=377142": "2026-09-02T09:07:53Z",
     "https://cointelegraph.com/news/crypto-industry-sec-novel-etf-restrictions": "2026-09-02T10:08:45Z",
     "https://openai.com/index/loveholidays": "2026-09-02T10:08:45Z",
@@ -2554,7 +2552,9 @@
     "https://cointelegraph.com/news/gemini-singapore-mpi-license-crypto-services": "2026-09-09T05:38:59Z",
     "https://cointelegraph.com/news/block-us-trust-bank-charter-bitcoin-stablecoin-custody": "2026-09-09T07:42:26Z",
     "https://www.marktechpost.com/?p=82201": "2026-09-09T07:42:28Z",
-    "https://cointelegraph.com/news/iran-central-bank-encourages-crypto-evade-sanctions": "2026-09-09T08:08:49Z"
+    "https://cointelegraph.com/news/iran-central-bank-encourages-crypto-evade-sanctions": "2026-09-09T08:08:49Z",
+    "https://decrypt.co/?p=377746": "2026-09-09T08:27:19Z",
+    "https://www.technologyreview.com/?p=1142946": "2026-09-09T08:27:20Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -3020,6 +3020,14 @@
       "stream": "crypto",
       "source": "Cointelegraph.com News",
       "published": "2026-09-09T07:36:39Z"
+    },
+    "https://decrypt.co/?p=377746": {
+      "id": "https://decrypt.co/?p=377746",
+      "title": "Jack Dorsey's Block Applies for Bank Charter to Custody Bitcoin",
+      "url": "https://decrypt.co/377746/jack-dorseys-block-applies-for-bank-charter-to-custody-bitcoin",
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-09T08:26:08Z"
     }
   },
   "articles": [
