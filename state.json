@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://cointelegraph.com/magazine/btc-will-hit-1m-by-2030-but-arthur-hayes-is-buying-eth-instead": "2026-09-02T13:41:14Z",
     "https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident": "2026-09-02T13:52:37Z",
     "https://huggingface.co/blog/ibm-research/real-time-intelligence": "2026-09-02T13:52:38Z",
     "https://techcrunch.com/?p=3159700": "2026-09-02T14:08:40Z",
@@ -2546,7 +2545,9 @@
     "https://techcrunch.com/?p=3161663": "2026-09-09T13:09:29Z",
     "6a986e558a0ee29aae9e184f": "2026-09-09T13:09:30Z",
     "https://cointelegraph.com/news/bitmart-misses-roadmap-deadline-appoints-financial-adviser": "2026-09-09T13:28:20Z",
-    "https://techcrunch.com/?p=3161574": "2026-09-09T13:28:21Z"
+    "https://techcrunch.com/?p=3161574": "2026-09-09T13:28:21Z",
+    "https://cointelegraph.com/magazine/10-of-the-greatest-unsolved-crypto-mysteries": "2026-09-09T13:44:40Z",
+    "https://decrypt.co/?p=377761": "2026-09-09T13:44:40Z"
   },
   "pending": {
     "https://techcrunch.com/?p=3160035": {
@@ -3156,6 +3157,22 @@
       "stream": "ai",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-09T13:00:00Z"
+    },
+    "https://cointelegraph.com/magazine/10-of-the-greatest-unsolved-crypto-mysteries": {
+      "id": "https://cointelegraph.com/magazine/10-of-the-greatest-unsolved-crypto-mysteries",
+      "title": "10 of the greatest unsolved crypto mysteries",
+      "url": "https://cointelegraph.com/magazine/10-of-the-greatest-unsolved-crypto-mysteries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-09T13:30:00Z"
+    },
+    "https://decrypt.co/?p=377761": {
+      "id": "https://decrypt.co/?p=377761",
+      "title": "Morning Minute: Venice’s VVV Token Soars After OpenAI Dispute",
+      "url": "https://decrypt.co/377761/morning-minute-venices-vvv-token-soars-after-openai-dispute",
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-09T13:28:52Z"
     }
   },
   "articles": [
