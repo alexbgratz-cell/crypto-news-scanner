@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.marktechpost.com/?p=82033": "2026-09-02T07:51:15Z",
     "https://cointelegraph.com/markets/bitcoin-etf-best-month-2026-btc-up-25-august": "2026-09-02T08:27:03Z",
     "https://www.technologyreview.com/?p=1142946": "2026-09-02T08:27:04Z",
     "https://decrypt.co/?p=377142": "2026-09-02T09:07:53Z",
@@ -2554,7 +2553,8 @@
     "https://www.marktechpost.com/?p=82197": "2026-09-09T04:53:23Z",
     "https://cointelegraph.com/news/gemini-singapore-mpi-license-crypto-services": "2026-09-09T05:38:59Z",
     "https://cointelegraph.com/news/block-us-trust-bank-charter-bitcoin-stablecoin-custody": "2026-09-09T07:42:26Z",
-    "https://www.marktechpost.com/?p=82201": "2026-09-09T07:42:28Z"
+    "https://www.marktechpost.com/?p=82201": "2026-09-09T07:42:28Z",
+    "https://cointelegraph.com/news/iran-central-bank-encourages-crypto-evade-sanctions": "2026-09-09T08:08:49Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -3012,6 +3012,14 @@
       "stream": "ai",
       "source": "MarkTechPost",
       "published": "2026-09-09T07:29:13Z"
+    },
+    "https://cointelegraph.com/news/iran-central-bank-encourages-crypto-evade-sanctions": {
+      "id": "https://cointelegraph.com/news/iran-central-bank-encourages-crypto-evade-sanctions",
+      "title": "Iran eases currency rules to bypass US sanctions with crypto: Report",
+      "url": "https://cointelegraph.com/news/iran-central-bank-encourages-crypto-evade-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-09T07:36:39Z"
     }
   },
   "articles": [
