@@ -1,7 +1,5 @@
 {
   "seen": {
-    "1b1ea4a9-4939-59f8-a026-7b516815f882": "2026-09-02T12:31:58Z",
-    "https://cointelegraph.com/news/thai-sue-tether-freezing-61m-pig-butchering-case": "2026-09-02T12:31:58Z",
     "a3e34082-08e6-57c2-99f1-5b8475a14604": "2026-09-02T13:08:09Z",
     "https://cointelegraph.com/news/hashkey-dtcc-first-asian-crypto-service-provider": "2026-09-02T13:26:48Z",
     "https://cointelegraph.com/magazine/btc-will-hit-1m-by-2030-but-arthur-hayes-is-buying-eth-instead": "2026-09-02T13:41:14Z",
@@ -2543,7 +2541,8 @@
     "https://huggingface.co/blog/reformer": "2026-09-09T12:10:38Z",
     "https://huggingface.co/blog/how-to-generate": "2026-09-09T12:10:38Z",
     "https://huggingface.co/blog/how-to-train": "2026-09-09T12:10:38Z",
-    "https://techcrunch.com/?p=3161803": "2026-09-09T12:10:38Z"
+    "https://techcrunch.com/?p=3161803": "2026-09-09T12:10:38Z",
+    "https://cointelegraph.com/news/italys-central-bank-orders-sanctions-screening-for-crypto-transfers": "2026-09-09T12:32:57Z"
   },
   "pending": {
     "https://techcrunch.com/?p=3160035": {
@@ -3097,6 +3096,14 @@
       "stream": "ai",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-09T12:05:34Z"
+    },
+    "https://cointelegraph.com/news/italys-central-bank-orders-sanctions-screening-for-crypto-transfers": {
+      "id": "https://cointelegraph.com/news/italys-central-bank-orders-sanctions-screening-for-crypto-transfers",
+      "title": "Italy’s central bank orders sanctions screening for crypto transfers",
+      "url": "https://cointelegraph.com/news/italys-central-bank-orders-sanctions-screening-for-crypto-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-09T12:20:33Z"
     }
   },
   "articles": [
