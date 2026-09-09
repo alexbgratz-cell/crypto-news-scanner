@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://cointelegraph.com/news/hashkey-dtcc-first-asian-crypto-service-provider": "2026-09-02T13:26:48Z",
     "https://cointelegraph.com/magazine/btc-will-hit-1m-by-2030-but-arthur-hayes-is-buying-eth-instead": "2026-09-02T13:41:14Z",
     "https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident": "2026-09-02T13:52:37Z",
     "https://huggingface.co/blog/ibm-research/real-time-intelligence": "2026-09-02T13:52:38Z",
@@ -2545,7 +2544,9 @@
     "https://cointelegraph.com/news/hunter-bidens-laptop-memecoin-afterlife": "2026-09-09T12:55:10Z",
     "https://techcrunch.com/?p=3161376": "2026-09-09T13:09:29Z",
     "https://techcrunch.com/?p=3161663": "2026-09-09T13:09:29Z",
-    "6a986e558a0ee29aae9e184f": "2026-09-09T13:09:30Z"
+    "6a986e558a0ee29aae9e184f": "2026-09-09T13:09:30Z",
+    "https://cointelegraph.com/news/bitmart-misses-roadmap-deadline-appoints-financial-adviser": "2026-09-09T13:28:20Z",
+    "https://techcrunch.com/?p=3161574": "2026-09-09T13:28:21Z"
   },
   "pending": {
     "https://techcrunch.com/?p=3160035": {
@@ -3138,6 +3139,22 @@
       "url": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
       "stream": "ai",
       "source": "Feed: Artificial Intelligence Latest",
+      "published": "2026-09-09T13:00:00Z"
+    },
+    "https://cointelegraph.com/news/bitmart-misses-roadmap-deadline-appoints-financial-adviser": {
+      "id": "https://cointelegraph.com/news/bitmart-misses-roadmap-deadline-appoints-financial-adviser",
+      "title": "BitMart misses roadmap deadline, appoints financial adviser",
+      "url": "https://cointelegraph.com/news/bitmart-misses-roadmap-deadline-appoints-financial-adviser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-09T13:04:28Z"
+    },
+    "https://techcrunch.com/?p=3161574": {
+      "id": "https://techcrunch.com/?p=3161574",
+      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+      "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+      "stream": "ai",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
       "published": "2026-09-09T13:00:00Z"
     }
   },
