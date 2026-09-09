@@ -2542,7 +2542,8 @@
     "https://huggingface.co/blog/how-to-generate": "2026-09-09T12:10:38Z",
     "https://huggingface.co/blog/how-to-train": "2026-09-09T12:10:38Z",
     "https://techcrunch.com/?p=3161803": "2026-09-09T12:10:38Z",
-    "https://cointelegraph.com/news/italys-central-bank-orders-sanctions-screening-for-crypto-transfers": "2026-09-09T12:32:57Z"
+    "https://cointelegraph.com/news/italys-central-bank-orders-sanctions-screening-for-crypto-transfers": "2026-09-09T12:32:57Z",
+    "https://cointelegraph.com/news/hunter-bidens-laptop-memecoin-afterlife": "2026-09-09T12:55:10Z"
   },
   "pending": {
     "https://techcrunch.com/?p=3160035": {
@@ -3104,6 +3105,14 @@
       "stream": "crypto",
       "source": "Cointelegraph.com News",
       "published": "2026-09-09T12:20:33Z"
+    },
+    "https://cointelegraph.com/news/hunter-bidens-laptop-memecoin-afterlife": {
+      "id": "https://cointelegraph.com/news/hunter-bidens-laptop-memecoin-afterlife",
+      "title": "Hunter Biden’s laptop controversy gets a memecoin afterlife",
+      "url": "https://cointelegraph.com/news/hunter-bidens-laptop-memecoin-afterlife?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-09T12:35:00Z"
     }
   },
   "articles": [
