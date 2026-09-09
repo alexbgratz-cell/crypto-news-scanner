@@ -2551,7 +2551,9 @@
     "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2": "2026-09-09T10:27:09Z",
     "https://www.technologyreview.com/?p=1141949": "2026-09-09T10:27:10Z",
     "https://www.technologyreview.com/?p=1141952": "2026-09-09T10:27:10Z",
-    "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/": "2026-09-09T11:08:21Z"
+    "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/": "2026-09-09T11:08:21Z",
+    "a803debe-7000-5ff8-9d57-066aa9aefa21": "2026-09-09T11:25:57Z",
+    "https://cointelegraph.com/news/metaplanets-executive-stock-pool-backlash-ceo-mmxx-ties": "2026-09-09T11:25:57Z"
   },
   "pending": {
     "https://techcrunch.com/?p=3160035": {
@@ -3049,6 +3051,22 @@
       "stream": "ai",
       "source": "AI - Ars Technica",
       "published": "2026-09-09T11:00:10Z"
+    },
+    "a803debe-7000-5ff8-9d57-066aa9aefa21": {
+      "id": "a803debe-7000-5ff8-9d57-066aa9aefa21",
+      "title": "India seeks takedowns of 15 crypto platforms over AML compliance",
+      "url": "https://www.theblock.co/news/regulation/2026-09-09-india-seeks-takedowns-of-15-crypto-platforms-over-aml-compliance-413975",
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-09-09T11:12:43Z"
+    },
+    "https://cointelegraph.com/news/metaplanets-executive-stock-pool-backlash-ceo-mmxx-ties": {
+      "id": "https://cointelegraph.com/news/metaplanets-executive-stock-pool-backlash-ceo-mmxx-ties",
+      "title": "Metaplanet’s executive stock pool sparks shareholder backlash as CEO addresses MMXX ties",
+      "url": "https://cointelegraph.com/news/metaplanets-executive-stock-pool-backlash-ceo-mmxx-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-09T11:15:23Z"
     }
   },
   "articles": [
