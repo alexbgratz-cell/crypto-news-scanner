@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://cointelegraph.com/news/core-dao-emergency-hard-fork-excess-validator-rewards": "2026-09-02T04:26:42Z",
     "d161bd8e-763f-51ed-a64f-e2f8e411766b": "2026-09-02T04:40:39Z",
     "4368414f-8ea1-5f59-8d31-03401dee29f9": "2026-09-02T04:52:02Z",
     "https://www.marktechpost.com/?p=82026": "2026-09-02T05:27:56Z",
@@ -2555,7 +2554,8 @@
     "a52eeeda-1ebc-5b06-95a8-d1742ce5c061": "2026-09-09T02:40:35Z",
     "https://www.technologyreview.com/?p=1143747": "2026-09-09T03:26:09Z",
     "d4f5246c-dffa-5872-be1d-5ae1e0d7d0f1": "2026-09-09T04:08:01Z",
-    "https://openai.com/index/gilbert-tobin": "2026-09-09T04:08:01Z"
+    "https://openai.com/index/gilbert-tobin": "2026-09-09T04:08:01Z",
+    "https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy": "2026-09-09T04:26:57Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2973,6 +2973,14 @@
       "stream": "crypto",
       "source": "The Block",
       "published": "2026-09-09T04:01:03Z"
+    },
+    "https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy": {
+      "id": "https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy",
+      "title": "Malone Lam pleads guilty in $245M crypto theft conspiracy",
+      "url": "https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "stream": "crypto",
+      "source": "Cointelegraph.com News",
+      "published": "2026-09-09T04:09:51Z"
     }
   },
   "articles": [
