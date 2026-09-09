@@ -2552,7 +2552,8 @@
     "https://decrypt.co/?p=377725": "2026-09-08T21:50:12Z",
     "https://huggingface.co/blog/allenai/benchmirt": "2026-09-08T21:50:13Z",
     "032a6069-f23d-58c3-ac1c-3c4f30d5221d": "2026-09-08T22:08:27Z",
-    "6522e1f2-4adb-5563-86dc-9ce6f6ec4b8c": "2026-09-08T22:37:46Z"
+    "6522e1f2-4adb-5563-86dc-9ce6f6ec4b8c": "2026-09-08T22:37:46Z",
+    "d3a265bc-1cd2-5f85-88bc-d583f69c8ef0": "2026-09-09T02:26:17Z"
   },
   "pending": {
     "https://decrypt.co/?p=377142": {
@@ -2938,6 +2939,14 @@
       "stream": "crypto",
       "source": "The Block",
       "published": "2026-09-08T22:26:02Z"
+    },
+    "d3a265bc-1cd2-5f85-88bc-d583f69c8ef0": {
+      "id": "d3a265bc-1cd2-5f85-88bc-d583f69c8ef0",
+      "title": "StoneX sees 45% upside for Robinhood, points to accelerating Layer 2 chain and prediction markets",
+      "url": "https://www.theblock.co/news/business/2026-09-08-stonex-sees-upside-robinhood-413955",
+      "stream": "crypto",
+      "source": "The Block",
+      "published": "2026-09-09T02:18:25Z"
     }
   },
   "articles": [
