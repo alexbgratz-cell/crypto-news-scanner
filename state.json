@@ -1,7 +1,5 @@
 {
   "seen": {
-    "37bbf18c-af4f-528b-8733-cbfdf2b58b61": "2026-09-02T11:38:12Z",
-    "https://decrypt.co/?p=377156": "2026-09-02T11:38:12Z",
     "https://cointelegraph.com/news/remixpoint-dumps-altcoins-1506-btc-sole-crypto-bet": "2026-09-02T12:10:26Z",
     "https://cointelegraph.com/news/what-happened-in-crypto-today": "2026-09-02T12:10:26Z",
     "https://decrypt.co/?p=377159": "2026-09-02T12:10:26Z",
@@ -2553,7 +2551,8 @@
     "https://www.technologyreview.com/?p=1141952": "2026-09-09T10:27:10Z",
     "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/": "2026-09-09T11:08:21Z",
     "a803debe-7000-5ff8-9d57-066aa9aefa21": "2026-09-09T11:25:57Z",
-    "https://cointelegraph.com/news/metaplanets-executive-stock-pool-backlash-ceo-mmxx-ties": "2026-09-09T11:25:57Z"
+    "https://cointelegraph.com/news/metaplanets-executive-stock-pool-backlash-ceo-mmxx-ties": "2026-09-09T11:25:57Z",
+    "https://decrypt.co/?p=377757": "2026-09-09T11:52:06Z"
   },
   "pending": {
     "https://techcrunch.com/?p=3160035": {
@@ -3067,6 +3066,14 @@
       "stream": "crypto",
       "source": "Cointelegraph.com News",
       "published": "2026-09-09T11:15:23Z"
+    },
+    "https://decrypt.co/?p=377757": {
+      "id": "https://decrypt.co/?p=377757",
+      "title": "UK Crime Agency Warns of 'Innovative Use' of Crypto by Launderers",
+      "url": "https://decrypt.co/377757/uk-crime-agency-warns-of-innovative-use-of-crypto-by-launderers",
+      "stream": "crypto",
+      "source": "Decrypt",
+      "published": "2026-09-09T11:43:53Z"
     }
   },
   "articles": [
